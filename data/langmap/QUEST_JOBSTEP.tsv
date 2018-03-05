@@ -1,0 +1,1166 @@
+輕裝步兵大師	Peltasta Master	펠타스타 마스터
+這點程度都做不到，怎麼肩負輕裝步兵之名呢？	How can you bear the title of Peltasta if you can't even handle that much? 	그 정도도 해내지 못하고서야 어찌 펠타스타의 이름을 짊어진단 말입니까?
+高地戰士大師	Highlander Master	하이랜더 마스터
+烈焰法師大師	Pyromancer Master	파이로맨서 마스터
+寒冰法師大師	Cryomancer Master	크리오맨서 마스터
+獵人大師	Hunter Master	헌터 마스터
+野蠻人大師	Barbarian Master	바바리안 마스터
+念力法師大師	Psychokino Master	사이코키노 마스터
+鎖鏈法師大師	Linker Master	링커 마스터
+牧師大師	Cleric Master	클레릭 마스터
+還沒從獵人大師那裡取得梅羅葛的皮革？	Do you have the Merog leather yet from the Hunter Master?	헌터 마스터에게서 메로그 가죽은 아직인가?
+還沒從弓箭手大師那裡取得梅羅葛的皮革嗎？	Did the Merog leather come from the Archer Master?	아처 마스터에게서 메로그 가죽은 아직인가?
+雕刻家泰斯拉	Sculptor Tesla	조각가 테슬라
+聖火祭司大師	Krivis Master	크리비 마스터
+劍士大師	Swordsman Master	소드맨 마스터
+巫師大師	Sorcerer Master	소서러 마스터
+死靈法師大師	Necromancer Master	네크로맨서 마스터
+德魯伊大師	Druid Master	드루이드 마스터
+百夫長大師	Centurion Master	센츄리온 마스터
+刀騎兵大師	Hackapell Master	하카펠 마스터
+巫蠱師大師	Wugushi Master	무고사 마스터
+奇術師大師	Thaumaturge Master	쏘마터지 마스터
+斥候大師	Scout Master	스카우트 마스터
+聖殿十字軍大師	Paladin Master	팔라딘 마스터
+造箭者大師	Fletcher Master	플레쳐 마스터
+盡全力都來不及了，還東張西望？	Do you think otherwise even when your best is not enough?	최선을 다해 덤벼도 모자를 판에 한눈을 팔 셈인가?
+流氓大師	Rogue Master	로그 마스터
+當同伴面臨危機，你有勇氣讓敵人的刀口轉向自己嗎？	Are you brave enough to turn the enemy's blade to you when your allies are in danger?	동료가 위험에 처했을 때, 적의 칼날을 내게 돌리게 할 수 있는 용기가 있나?
+巫蠱師中毒病怏怏的，像話嗎？	Would it make sense if Wugushi is poisoned and weak?	무고사가 독에 당해 시름시름 앓는다면 그게 말이 되겠어?
+黑暗騎兵大師	Schwarzer Reiter Master	슈바르츠라이터 마스터
+武僧大師	Monk Master	몽크 마스터
+寬恕者大師	Pardoner Master	파드너 마스터
+時空法師大師	Chronomancer Master	크로노맨서 마스터
+聖火祭司兄弟	Krivis Brother	크리비 형제
+神諭師大師	Oracle Master	오라클 마스터
+米爾堤斯	Mirtis	미르티스
+物件文本	Object Text	사물 텍스트
+七彩谷日誌	Seven Valley Diary	칠채곡 일기
+加橋森林	Woods of Attached Bridge	덧댄다리숲
+石化城	Petrified City	석화된 도시
+聖殿十字軍追隨者	Paladin Follower	팔라딘 추종자
+礦山監督官	The Mine Supervisor	광산 감독관
+委託所	Request Center	의뢰소
+區域區域情報	The regional information	지역 지역 정보
+蘊藏啟示的石版	The stone plate with the revelation	계시가 담긴 석판
+藏書	Books	장서
+家	Family	가
+利迪亞夏班的轉折點	Lydia Schaffen Crossroads	리디아 샤펜의 교차선
+利迪亞夏班的箭尾槽	Lydia Schaffen's Notch	리디아 샤펜의 오늬
+利迪亞夏班和侏儒怪	Lydia Schaffen and Rumpelstiltskin 	리디아 샤펜과 럼펠스틸스킨
+擴充自我	The Expansion of Atman	아트만의 확장
+擴充自我{/} 	The Expansion of Atman	아트만의 확장{/} 
+卡杜梅爾時代的盔甲	Armor from the Kadumel Era	카듀멜 시대의 갑주
+因此本筆者暫時 	So I shall call this Mana Metal 	하여 본 필자는 이 마나 메탈을 잠정적으로 
+將此魔法合金命名為	Cold Iron	한철
+基本型	Basic Type	기본형
+猛烈升級[野蠻人轉職]	Rough Advancement [Barbarian Advancement]	거친 승급[바바리안 전직]
+答應與大師戰鬥。	Accept the battle with the Master	마스터와 전투를 받아들인다
+逃避戰鬥。	Avoid the battle	전투를 피한다
+光明的未來[重裝步兵轉職]	Bright Future [Hoplite Advancement]	창창한 미래[하플라이트 전직]
+我要執行任務。	I'll take on the assignment	과제를 수행하겠다고 한다
+麻煩的任務[念力法師轉職](1)	Bothersome Mission [Psychokino Advancement] (1)	신경 쓰이는 임무[사이코키노 전직](1)
+我要當助手。	I'll be the assistant	조수가 되겠다고 한다
+我不需要。	I don't need it	필요 없다고 한다
+麻煩的任務[念力法師轉職](2)	Bothering Mission [Psychokino Advancement] (2)	신경 쓰이는 임무[사이코키노 전직](2)
+要確認研究結果。	I will check out the results of the research	연구 결과를 확인해 보겠다고 한다
+覺得看起來很危險。	Tell him that it looks somewhat dangerous	왠지 위험해 보인다고 한다
+世界上不存在的書[鎖鏈法師轉職](1)	Non-existent Book [Linker Advancement] (1)	세상에 없던 책[링커 전직](1)
+準備考驗所需的材料。	Prepare the materials for the test	시험에 필요한 재료를 준비해 준다
+我要再考慮一下。	I need more time to think	좀 더 생각해본다
+世界上不存在的書[鎖鏈法師轉職](2)	Non-existent Book [Linker Advancement] (2)	세상에 없던 책[링커 전직](2)
+我接受考驗	I'll take the test	시험을 치르겠다고 한다
+我沒把握	I'm not so sure about it	자신 없다고 한다
+作賊心虛[工兵轉職](1)	Guilty Conscience [Sapper Advancement] (1)	도둑이 제 발 저린다[새퍼 전직](1)
+歸還其他物品。	I will hand over the object on behalf of him	대신 물건을 돌려 주겠다고 한다
+作賊心虛[工兵轉職](2)	Guilty Conscience [Sapper Advancement] (2)	도둑이 제 발 저린다[새퍼 전직](2)
+作賊心虛[工兵轉職](3)	Guilty Conscience [Sapper Advancement] (3)	도둑이 제 발 저린다[새퍼 전직](3)
+作賊心虛[工兵轉職](4)	Guilty Conscience [Sapper Advancement] (4)	도둑이 제 발 저린다[새퍼 전직](4)
+夢幻弓之書1[獵人轉職](1)	A Bower's Dream Book [Hunter Advancement] (1)	활이 꿈꾸는 책1[헌터 전직](1)
+我會找到書	I'll go find the book	책을 찾아 오겠다고 한다
+我沒時間找	I don't have time for that	그럴 시간은 없다고 한다
+夢幻弓之書1[獵人轉職](2)	Dream Book of the Bow [Hunter Advancement] (2)	활이 꿈꾸는 책1[헌터 전직](2)
+我會找到皮革並把書帶來	I will get the leather and bring the book	가죽을 구해 책을 받아오겠다고 한다
+夢幻弓之書1[獵人轉職](3)	Dream Book of the Bow [Hunter Advancement] (3)	활이 꿈꾸는 책1[헌터 전직](3)
+我要去找弓箭手大師	I'll go to the Archer Master	아처 마스터에게 가 보겠다고 한다
+夢幻弓之書1[獵人轉職](4)	Dream Book of the Bow [Hunter Advancement] (4)	활이 꿈꾸는 책1[헌터 전직](4)
+我會轉交袋子	I'll deliver the pouch	주머니를 전하겠다고 한다
+夢幻弓之書2[弩箭手轉職](1)	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (1)	활이 꿈꾸는 책2[쿼렐슈터 전직](1)
+夢幻弓之書2[弩箭手轉職](2)	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (2)	활이 꿈꾸는 책2[쿼렐슈터 전직](2)
+我會代付書錢	I'll pay for the book	책 값을 대신 치르겠다고 한다
+我也沒錢	I don't have money either	나도 돈이 없다고 한다
+夢幻弓之書2[弩箭手轉職](3)	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (3)	활이 꿈꾸는 책2[쿼렐슈터 전직](3)
+我去找弓箭手大師	I'll go to the Archer Master	아처 마스터에게 다녀 오겠다고 한다
+我不去	I'll quit here	그만두겠다고 한다
+夢幻弓之書2[弩箭手轉職](4)	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (4)	활이 꿈꾸는 책2[쿼렐슈터 전직](4)
+夢幻弓之書3[弓箭手轉職](1)	Dream Book of the Bow 3 [Archer Advancement] (1)	활이 꿈꾸는 책3[아처 전직](1)
+我以後再來	I will get it again later	나중에 다시 오겠다고 한다
+夢幻弓之書3[弓箭手轉職](2)	Dream Book of the Bow 3 [Archer Advancement] (2)	활이 꿈꾸는 책3[아처 전직](2)
+給我準備書錢的時間	I need time to prepare money for the book	책 값을 준비해 올 시간을 달라고 한다
+夢幻弓之書3[弓箭手轉職](3)	Dream Book of the Bow 3 [Archer Advancement] (3)	활이 꿈꾸는 책3[아처 전직](3)
+給我一點時間準備	I need some time to prepare	잠시 준비할 시간을 달라고 한다
+夢幻弓之書3[弓箭手轉職](4)	Dream Book of the Bow 3 [Archer Advancement] (4)	활이 꿈꾸는 책3[아처 전직](4)
+夢幻弓之書4[遊俠轉職](1)	Dream Book of the Bow 4 [Ranger Advancement] (1)	활이 꿈꾸는 책4[레인저 전직](1)
+夢幻弓之書4[遊俠轉職](2)	Dream Book of the Bow 4 [Ranger Advancement] (2)	활이 꿈꾸는 책4[레인저 전직](2)
+夢幻弓之書4[遊俠轉職](3)	Dream Book of the Bow 4 [Ranger Advancement] (3)	활이 꿈꾸는 책4[레인저 전직](3)
+夢幻弓之書4[遊俠轉職](4)	Dream Book of the Bow 4 [Ranger Advancement] (4)	활이 꿈꾸는 책4[레인저 전직](4)
+詢問要如何使用。	How is it used?	어떻게 이용할 지 묻는다
+夢幻弓之書4[遊俠轉職](5)	Dream Book of the Bow 4 [Ranger Advancement] (5)	활이 꿈꾸는 책4[레인저 전직](5)
+最棒的材料[雕刻師轉職]	The Best Material [Dievdirbys Advancement]	최고의 소재[딥디르비 전직]
+哪裡可以找到水晶？	Where are the crystals found?	수정을 어디서 찾을 수 있는지 물어본다
+花漾盾牌[高地戰士轉職](1)	Shield over Flowers [Highlander Advancement] (1)	꽃보다 방패[하이랜더 전직](1)
+詢問任務為何。	What is the mission?	임무가 무엇인지 묻는다
+花漾盾牌[高地戰士轉職](2)	Shield over Flowers [Highlander Advancement] (2)	꽃보다 방패[하이랜더 전직](2)
+盟約的義務[輕裝步兵轉職](1)	Duty of the Pledge [Peltasta Advancement](1)	맹약에 대한 도리[펠타스타 전직](1)
+要去騎士團長烏斯卡那裏	I will go meet the Knights' leader Uska	기사단장 우스카에게 가보겠다고 한다
+盟約的義務[輕裝步兵轉職](2)	Duty of the Pledge [Peltasta Advancement] (2)	맹약에 대한 도리[펠타스타 전직](2)
+要尋找偵察部隊。	I will search for the Reconnaissance Squad	정찰부대를 찾아보겠다 한다
+有關誓約的道理[輕裝步兵轉職](3)	Duty of the Pledge [Peltasta Advancement] (3)	맹약에 대한 도리[펠타스타 전직](3)
+有關誓約的道理[輕裝步兵轉職](4)	Duty of the Pledge [Peltasta Advancement] (4)	맹약에 대한 도리[펠타스타 전직](4)
+火的精髓[烈焰法師轉職]	Essence of Fire [Pyromancer Advancement]	불의 정수[파이로맨서 전직]
+我會收集火之氣息	I will collect the energies of fire for you	불의 기운을 모아 오겠다고 한다
+寒鐵的傳說[寒冰法師轉職](1)	Legend of the Cold Iron [Cryomancer Advancement] (1)	한철의 전설[크리오맨서 전직](1)
+寒鐵的傳說[寒冰法師轉職](2)	Legend of the Cold Iron [Cryomancer Advancement] (2)	한철의 전설[크리오맨서 전직](2)
+我找看看	I'll try to find them	찾아보겠다고 한다
+以後再說	I'll wish for it next time	나중을 기약한다
+宗教任務[聖火祭司轉職]	Religious Mission [Krivis Advancement]	종단임무[크리비 전직]
+我會奉獻祈禱	I'll offer prayers	봉헌 기도를 올리겠다고 한다
+現場過濾[劍士轉職]	The Origin of Physique [Swordsman Advancement]	현장 체질[소드맨 전직]
+詢問可以獲得覺醒的方法。	How do you receive enlightenment?	깨달음을 얻을 수 있는 방법에 대해 묻는다
+以後再來找你	I will come back later	나중에 다시 찾아 오겠다고 한다
+驅魔錄[聖水祭司轉職]	Exorcism [Priest Advancement]	퇴마록[프리스트 전직]
+我要驅魔	I will perform the exorcism	퇴마를 행하겠다 한다
+努力不會背叛[法師轉職](1)	Hard Work does not Betray [Wizard Advancement] (1)	노력은 배신하지 않는다[위저드 전직](1)
+我要幫助研究	I'll help with the research	연구를 돕겠다고 한다
+努力不會背叛[法師轉職](2)	Hard Work does not Betray [Wizard Advancement] (2)	노력은 배신하지 않는다[위저드 전직](2)
+我去使用資料累積用卷軸後再回來	I will go and use the scroll to collect data	자료 축적용 스크롤을 사용하고 오겠다고 한다
+完美的聖水[牧師轉職](1)	Perfect Holy water [Cleric Advancement] (1)	완벽한 성수[클레릭 전직](1)
+我要治療病患	I'll treat the patients	환자를 치료하겠다고 한다
+完美的聖水[牧師轉職](2)	Perfect Holy water [Cleric Advancement] (2)	완벽한 성수[클레릭 전직](2)
+矛刃上的幸運[重裝步兵轉職]	Luck of the Spear Blades [Hoplite Advancement]	창날 위에 선 행운[하플라이트 전직]
+我同意	I agree	동의한다고 한다
+我不同意	I disagree	동의하지 않는다고 한다
+倒楣的魔族[念力法師轉職]	Unfortunate Demon [Psychokino Advancement]	불운한 마족[사이코키노 전직]
+造箭者的秘訣[弩箭手轉職](1)	Secret of the Fletchers [Quarrel Shooter Advancement] (1)	플레쳐의 비법[쿼렐슈터 전직](1)
+造箭者的秘訣[弩箭手轉職](2)	Secret of the Fletchers [Quarrel Shooter Advancement] (2)	플레쳐의 비법[쿼렐슈터 전직](2)
+告訴我你看見地圖的地方	Tell me where you saw the map	지도를 본 곳을 알려달라고 한다
+佩迪米安的互補者[弓箭手轉職](1)	Fedimian Completionist [Archer Advancement] (1)	페디미안의 보완자[아처 전직](1)
+我去找圓盾劍士大師	I'll go and find the Rodelero Master	로델레로 마스터를 찾아 가겠다고 한다
+佩迪米安的互補者[弓箭手轉職](2)	Fedimian Completionist [Archer Advancement] (2)	페디미안의 보완자[아처 전직](2)
+我會消滅他	I will defeat it	처치하겠다고 한다
+好像太危險了	It sounds too dangerous	너무 위험한 것 같다고 한다
+佩迪米安的互補者[弓箭手轉職](3)	Fedimian Completionist [Archer Advancement] (3)	페디미안의 보완자[아처 전직](3)
+佩迪米安探訪者[遊俠轉職](1)	Investigator of Fedimian [Ranger Advancement] (1)	페디미안의 탐문자[레인저 전직](1)
+會去見佩迪米安的侍從大師	I'll go to the Squire Master in Fedimian	페디미안의 스콰이어 마스터를 찾아 가겠다고 한다
+佩迪米安探訪者[遊俠轉職](2)	Investigator of Fedimian [Ranger Advancement] (2)	페디미안의 탐문자[레인저 전직](2)
+詢問告知的位置。	Where?	알려준 위치를 묻는다
+謹慎行動[工兵轉職](1)	Careful Move [Sapper Advancement](1)	조심스런 행보[새퍼 전직](1)
+我幫你取得需要的材料	Get the materials needed	필요한 재료를 구해다 준다
+謹慎行動[工兵轉職](2)	Careful Move [Sapper Advancement](2)	조심스런 행보[새퍼 전직](2)
+我去進行測試再回來	I will go and do the test	테스트를 해 보고 오겠다고 한다
+隱藏的卡片[邪靈祭司轉職]	Hidden Card [Bokor Advancement]	숨은 카드[보코르 전직]
+我要去收集卡片	I'll collect the cards	카드를 모아 오겠다고 한다
+尋找模特兒[雕刻師轉職](1)	Finding the Model [Dievdirbys Advancement] (1)	모델 찾기[딥디르비 전직](1)
+我去把貓咪帶來	I'll bring you a cat	고양이를 데려 오겠다고 한다
+尋找模特兒[雕刻師轉職](2)	Finding the Model [Dievdirbys Advancement] (2)	모델 찾기[딥디르비 전직](2)
+我會幫你尋找父親的蹤跡	I'll check for traces of your father	아버지의 행적을 알아봐주겠다고 한다
+尋找模特兒[雕刻師轉職](3)	Finding the Model [Dievdirbys Advancement] (3)	모델 찾기[딥디르비 전직](3)
+去捉貓咪吧	Let's go catch a cat	고양이를 잡으러 가자
+引誘中/#SITGROPESET2/2/TRACK_BEFORE/None	Luring/#SITGROPESET2/2/TRACK_BEFORE/None	유인 중/#SITGROPESET2/2/TRACK_BEFORE/None
+太陽照射之處[烈焰法師轉職](1)	Where the Sun Shines [Pyromancer Advancement] (1)	태양이 비출 자리[파이로맨서 전직](1)
+我要進行	I'll do it	하겠다고 한다
+太陽照射之處[烈焰法師轉職](2)	Where the Sun Shines [Pyromancer Advancement] (2)	태양이 비출 자리[파이로맨서 전직](2)
+寒鐵的奧秘[寒冰法師轉職]	Mystery of Cold Iron [Cryomancer Advancement]	한철의 신비[크리오맨서 전직]
+我接受條件	I accept the conditions	조건을 수락한다
+佩迪米安的守護者[法師轉職](1)	Guardian of Fedimian [Wizard Advancement] (1)	페디미안의 수호자[위저드 전직](1)
+為了魔法我什麼都做	I'll do anything for magic	마법을 위해서라면 뭐든 하겠다고 한다
+我以後再來	I'll come back later	나중에 다시 찾아 온다
+佩迪米安的守護者[法師轉職](2)	Guardian of Fedimian [Wizard Advancement] (2)	페디미안의 수호자[위저드 전직](2)
+治療的使命[牧師轉職]	Vocation of Treatment [Cleric Advancement]	치유의 사명[클레릭 전직]
+我會治療人們	I will treat the people	사람들을 치료해주겠다고 한다
+魔法的任務[巫師轉職]	Assignment of Magic [Sorcerer Advancement]	마법의 과제[소서러 전직]
+答應和大師對決	Accept the duel with the Master	마스터와 대련을 받아들인다
+逃避對決	Avoid the duel	대련을 피한다
+實戰證明[死靈法師轉職]	Prove You Can Actually Fight [Necromancer Advancement]	실전 증명[네크로맨서 전직]
+大自然的鍛鍊[德魯伊轉職]	Training of Great Nature [Druid Advancement]	대자연의 단련[드루이드 전직]
+我會進行對決	I will take on the duel	대련하겠다고 한다
+生存的教誨[野蠻人轉職]	Lessons of Survival [Barbarian Advancement]	생존의 가르침[바바리안 전직]
+連結[鎖鏈法師轉職]	Connection [Linker Advancement]	연결[링커 전직]
+只談弓[獵人轉職]	Talk with the Bow [Hunter Advancement]	활로만 말한다[헌터 전직]
+和大師對決	Duel with the Master	마스터와 대련하도록 한다
+自由與勇氣[高地戰士轉職]	Freedom and Courage [Highlander Advancement]	자유와 용기[하이랜더 전직]
+我要證明我的能力	I will prove my abilities	실력을 증명하겠다고 한다
+好像很危險	That sounds dangerous	위험할 것 같다고 한다
+證明你是盾牌的主人[輕裝步兵轉職]	Prove You are the Owner of the Shield [Peltasta Advancement]	방패의 주인 증명[펠타스타 전직]
+我會證明	I will prove it	증명하겠다고 한다
+堅定的信仰[聖火祭司轉職]	Unshakable Faith [Krivis Advancement]	부동의 신앙심[크리비 전직]
+我要透過對決得到肯定	I'll prove myself through a duel	대련으로 인정 받겠다고 한다
+培養信仰[聖水祭司轉職]	Training for Holiness [Priest Advancement]	신성을 향한 단련[프리스트 전직]
+刀刃上的考驗[劍士轉職]	Test of the Blades [Swordsman Advancement]	칼날 위의 시험[소드맨 전직]
+我會消滅米諾牛頭怪	I will defeat the Minotaur	미노타우로스를 처치하겠다고 한다
+阿爾科的考驗[百夫長轉職]	Alcor's Trial [Centurion Advancement]	알코어의 시련[센츄리온 전직]
+靈魂的對決[聖者轉職]	Duel of the Soul [Sadhu Advancement]	영혼의 대련[사두 전직]
+你是裝蹄師還是禮儀師[刀騎兵轉職]	Farrier and Funeral [Hackapell Advancement]	장제사냐 장례사냐[하카펠 전직]
+我接受對決	I'll accept the duel	대련을 받아들이겠다고 한다
+風的通行儀式[巫蠱師轉職]	Passage Ritual of the Wind [Wugushi Advancement]	바람의 통과의례[무고사 전직]
+最強的攻擊是最強的防禦[圓盾劍士轉職]	The Best Offense is a Good Defense [Rodelero Advancement]	최선의 공격은 최고의 방어[로델레로 전직]
+對劍的覺悟[侍從轉職]	Determination of the Sword [Squire Advancement]	검을 대하는 각오[스콰이어 전직]
+接受對決申請	I'll accept the duel	대련 신청을 받아들인다
+魔法師留下的知識[奇術師轉職]	Knowledge of the Wizard [Thaumaturge Advancement]	마법사의 남겨진 지식[쏘마터지 전직]
+請問是什麼委託？	What is the favor?	부탁이 무엇인지 물어보자
+成為魔法師的方法[元素使轉職]	The way to become a Magician [Elementalist Advancement]	마법사가 되는 방법[엘레멘탈리스트 전직]
+林卡伊雷的認可[斥候轉職]	Recognition of Rimgaile [Scout Advancement] 	림가일레의 인정[스카우트 전직]
+接受大師的對決申請	Accept the duel with the Master	마스터의 대련 신청을 받아들인다
+為女神敞開的路[聖殿十字軍轉職]	Road of the Goddess [Paladin Advancement]	여신을 위하는 길[팔라딘 전직]
+洞察者[鐵甲騎兵轉職]	Looking Through [Cataphract Advancement]	꿰뚫는 자[캐터프랙트 전직]
+我會展現我的能力	I will show you my skills	실력을 보여주겠다고 한다
+成為矚目的焦點[劍士轉職]	The Spotlight [Swordsman Advancement]	관심을 한 몸에[소드맨 전직]
+為了百姓與盾牌之劍[高地戰士轉職](1)	Sword for the People and Shield [Highlander Advancement](1)	국민과 방패를 위한 검[하이랜더 전직](1)
+我要幫助輕裝步兵大師	I'll help the Peltasta Master	펠타스타 마스터를 돕겠다고 한다
+為了百姓與盾牌之劍[高地戰士轉職](2)	Sword for the People and Shield [Highlander Advancement](2)	국민과 방패를 위한 검[하이랜더 전직](2)
+我要幫助騎士團長烏斯卡	I'll help Knight Commander Uska	기사단장 우스카를 돕겠다고 한다
+為了百姓與盾牌之劍[高地戰士轉職](3)	Sword for the People and Shield [Highlander Advancement](3)	국민과 방패를 위한 검[하이랜더 전직](3)
+我要前往水晶礦山2層	I'll go to Crystal Mine 2F	수정광산 2층으로 가 보겠다고 한다
+為了百姓與盾牌之劍[高地戰士轉職](4)	Sword for the People and Shield [Highlander Advancement](4)	국민과 방패를 위한 검[하이랜더 전직](4)
+我要去找高地戰士大師	I'll return to the Highlander Master	하이랜더 마스터에게 돌아가 보겠다고 한다
+我待會再來	I'll be back after a while	잠시 후에 다시 오겠다고 한다
+飛禽的干擾[輕裝步兵轉職](1)	Disturbance of the Winged Beast [Peltasta Advancement] (1)	날짐승의 방해[펠타스타 전직](1)
+我接受委託	I accept the request	의뢰를 받아들인다고 한다
+飛禽的干擾[輕裝步兵轉職](2)	Disturbance of the Winged Beast [Peltasta Advancement] (2)	날짐승의 방해[펠타스타 전직](2)
+我去找造箭者大師	I'll go find the Fletcher Master	플레쳐 마스터를 찾아가겠다고 한다
+飛禽的干擾[輕裝步兵轉職](3)	Disturbance of the Winged Beast [Peltasta Advancement] (3)	날짐승의 방해[펠타스타 전직](3)
+沒有其他方法嗎？	Is there any other way?	그래도 어떻게 안되겠냐고 하소연해본다
+放棄	Give up	포기한다
+飛禽的干擾[輕裝步兵轉職](4)	Disturbance of the Winged Beast [Peltasta Advancement] (4)	날짐승의 방해[펠타스타 전직](4)
+我回去找輕裝步兵大師	I'll go back to the Peltasta Master	펠타스타 마스터에게 돌아가 보겠다고 한다
+登陸的海賊[海賊轉職]	Pirate on Land [Corsair Advancement]	육지로 나온 해적[커세어 전직]
+我會把物品找回來	I'll get everything back	물건을 되찾아 오겠다고 한다
+劍與盾之牆[圓盾劍士轉職]	Wall of Sword and Shield [Rodelero Advancement]	검과 방패의 벽[로델레로 전직]
+答應和大師對決	Accept the duel with the Master	마스터와의 대련을 받아들인다
+第一支箭[弓箭手轉職](1)	The First Arrow [Archer Advancement] (1)	첫 번째 화살[아처 전직](1)
+我要去找造箭者大師	I'll go to the Fletcher Master	플레쳐 마스터에게 가보겠다고 한다
+第一支箭[弓箭手轉職](2)	The First Arrow [Archer Advancement] (2)	첫 번째 화살[아처 전직](2)
+第一支箭[弓箭手轉職](3)	The First Arrow [Archer Advancement] (3)	첫 번째 화살[아처 전직](3)
+我回去找弓箭手大師	I'll return to the Archer Master	아처 마스터에게 돌아가 보겠다고 한다
+我待會再去	I'll go in a while	조금만 더 있다 간다고 한다
+影子的蹤跡[遊俠轉職]	Traces of the Shadow [Ranger Advancement]	그림자의 발자취[레인저 전직]
+我接受委託	Accept the request	의뢰를 받아 들이겠다고 한다
+預防危機[工兵轉職]	Preparations for the Crisis [Sapper Advancement]	위기예습[새퍼 전직]
+發出聲音的樹木[造箭者轉職]	Sound of the Wood [Fletcher Advancement]	소리나는 나무[플레쳐 전직]
+怎樣才能取得？	How can I get that?	어떻게 하면 구할 수 있을지 물어본다
+狩獵的法則[獵人轉職]	Hunting Standards [Hunter Advancement]	사냥의 정석[헌터 전직]
+日用猛毒[巫蠱師轉職]	Poisons to Use [Wugushi Advancement]	일용할 맹독[무고사 전직]
+我去收集毒	I will collect the poison	독을 모아 오겠다고 한다
+在掌心之中[斥候轉職]	In the Palm of the Hand [Scout Advancement]	손바닥 안[스카우트 전직]
+尋找傳說[弩箭手轉職]	In Search of the Legend [Quarrel Shooter Advancement]	전설을 찾아서[쿼렐슈터 전직]
+我去把拓印帶回來	I'll rub a copy	탁본을 떠 오겠다고 한다
+陣風[流氓轉職]	A Gust [Rogue Advancement]	한바탕[로그 전직]
+接受考驗	I'll accept the test	시험을 받아들인다
+能力證明[重裝步兵轉職]	Proving Skills [Hoplite Advancement]	능력증명[하플라이트 전직]
+資格證明[野蠻人轉職]	Proving Qualification [Barbarian Advancement]	자격증명[바바리안 전직]
+我先消滅耶庫再回來	I will defeat Yekub first	예쿱을 먼저 처치하고 오겠다고 한다
+大收穫[侍從轉職]	Big Catch [Squire Advancement]	월척[스콰이어 전직]
+我練習後再來	I'll be back after practice	연습해 오겠다고 한다
+隊形的中心[百夫長轉職]	Center of the Formation [Centurion Advancement]	대형의 중심[센츄리온 전직]
+瞄準[弓箭手轉職]	Aim [Archer Advancement]	겨냥[아처 전직]
+我接受考驗	I'll accept the test	시험을 받아들이겠다고 한다
+百發百中[遊俠轉職]	100 Shots 100 Hits [Ranger Advancement]	백발백중[레인저 전직]
+我去獵捕地心蟲王	I'll catch the Reaverpede	리버피드를 잡겠다고 한다
+顏面掃地[弩箭手轉職]	Lost Dignity [Quarrel Shooter Advancement]	구겨진 체면[쿼렐슈터 전직]
+我去消滅牠	I'll go and defeat them	해치우고 오겠다고 한다
+供應陷阱零件[工兵轉職]	Supply the Trap Parts [Sapper Advancement]	함정부품 조달[새퍼 전직]
+懶惰的對手[獵人轉職]	State of Laziness [Hunter Advancement]	게으른 상대[헌터 전직]
+我願意獵捕米諾牛頭怪	I'll hunt the Minotaur	미노타우로스를 사냥하겠다고 한다
+敏捷的身手[巫蠱師轉職]	Swiftness [Wugushi Advancement]	날렵한 솜씨[무고사 전직]
+要消滅拉查托特	I will defeat Rajatoad	라자토드를 처치하겠다고 한다
+尾巴長就會被捉住[斥候轉職]	One Will Get Caught If One's Tail Is Too Long [Scout Advancement]	꼬리가 길면 잡힌다[스카우트 전직]
+給我能夠證明實力的任務	Give me a mission to prove my abilities	실력을 증명할 수 있는 과제를 달라고 한다
+我下次再來	I'll come back later	다음에 다시 찾아 오겠다고 한다
+踩尾巴[流氓轉職]	Step on Tail [Rogue Advancement]	꼬리밟기[로그 전직]
+接受對決	I'll accept the duel	대련을 받아 들인다
+拒絕對決	I decline your duel request	대련을 거절한다
+易燃石[造箭者轉職]	Flammable Stone [Fletcher Advancement]	잘 타는 돌맹이[플레쳐 전직]
+會帶來易燃石	I will bring well burnable stones	잘 타는 돌멩이를 구해 오겠다고 한다
+徵集挑戰者[黑暗騎兵轉職]	Recruiting Challenger [Schwartzer Reiter Advancement]	도전자 모집[슈바르츠라이터 전직]
+接受決鬥邀請	Accept the duel	결투를 받아 들인다
+治療藥材[牧師轉職]	Materials for Medicine [Cleric Advancement]	치유약 재료[클레릭 전직]
+詢問該怎麼做。	What should I do?	어떻게 하면 되는지 묻는다
+我再考慮一下	I need more time to think	좀 더 생각해 보겠다고 한다
+採集野花花蕊中/#SITGROPESET/3/TRACK_BEFORE/None	Collecting Wild Flower Stamen/#SITGROPESET/3/TRACK_BEFORE/None	야생화 꽃술 채집 중/#SITGROPESET/3/TRACK_BEFORE/None
+回收聖物[聖火祭司轉職]	Retrieve Holy Offer [Krivis Advancement]	성물 회수[크리비 전직]
+我願意到市中心街道找回聖物	I'll get back the Holy offering from the town center	중심시가에서 성물을 되찾아 오겠다고 한다
+淨化邪惡氣息[聖水祭司轉職]	Purify Evil Aura [Priest Advancement]	사악한 기운 정화[프리스트 전직]
+我願意驅魔	I will defeat them	퇴마하겠다고 한다
+咒術人偶[邪靈祭司轉職]	Shaman Doll [Bokor Advancement]	주술 인형[보코르 전직]
+我願意取回精髓	I will get the essence	정수를 구해 오겠다고 한다
+尋找材料[雕刻師轉職]	Material Search [Dievdirbys Advancement]	재료 찾기[딥디르비 전직]
+我願意幫忙取回材料	I'll get the materials for you	재료를 구해다 주겠다고 한다
+睡眠障礙的原因[聖者 轉職]	The cause of Insomnia [Sadhu Advancement]	수면 장애의 원인[사두 전직]
+我願意幫忙	I'll help you	돕겠다고 한다
+信仰證明[聖殿十字軍轉職]	Proving Faith [Paladin Advancement]	신앙 증명[팔라딘 전직]
+我什麼都能做	I can do anything	뭐든 할 수 있다고 한다
+速戰速決[武僧轉職]	Blitz [Monk Advancement]	속전속결[몽크 전직]
+我會把證據帶回來	I'll bring the evidence	증거를 가져 오겠다고 한다
+遺失免死牌的代價[寬恕者轉職]	Price for the Lost Indulgence [Pardoner Advancement]	잃어버린 면죄부의 대가[파드너 전직]
+我願意幫忙找回款項	I'll get you the payment	대금을 찾아 주겠다고 한다
+確認車輪中/MAKING/3/TRACK_BEFORE/None	Checking the wagon/MAKING/3/TRACK_BEFORE/None	수레 확인 중/MAKING/3/TRACK_BEFORE/None
+指導者的選擇[神諭師轉職]	Advisor's Choice [Oracle Advancement]	조언자의 선택[오라클 전직]
+淨化魔氣[聖水祭司轉職]	Evil Energy Purification [Priest Advancement]	마기 정화[프리스트 전직]
+我願意完成考驗	I will go through the trial	시련을 수행하겠다고 한다
+挽救聖物[聖火祭司轉職]	Save the Holy Offering [Krivis Advancement]	성물 구출[크리비 전직]
+我願意尋找聖火祭司兄弟	I will find the Krivis brother	크리비 형제를 찾겠다고 한다
+敲門中/KNOCK/1/TRACK_BEFORE/None	KnickingKNOCK/1/TRACK_BEFORE/None	노크 중/KNOCK/1/TRACK_BEFORE/None
+劍士之路[劍士轉職]	Swordsman's Path [Swordsman Advancement]	소드맨의 길[소드맨 전직]
+我願意收集石頭歐魯卡的心臟	I'll gather the heart of Stone Orca	스톤오르카의 심장을 모아오겠다고 한다
+法師的正道[法師轉職]	Degree of Wizard [Wizard Advancement]	위저드의 정도[위저드 전직]
+能力證明[弓箭手轉職]	Proving Abilities [Archer Advancement]	실력 증명[아처 전직]
+我願意挑戰	I will take the challenge	도전해 보겠다고 한다
+救贖的項鍊[牧師轉職]	Necklace of Salvation [Cleric Advancement]	구원의 목걸이[클레릭 전직]
+我願意收集綠色膏藥	I will gather the green salve	녹색 고약을 모아 오겠다고 한다
+運送聖物[聖火祭司轉職]	Holy Offering's Delivery [Krivis Advancement]	성물 배달[크리비 전직]
+靈魂入門[邪靈祭司轉職]	Introduction of the Soul [Bokor Advancement]	영혼에의 입문 [보코르 전직]
+我願意製作人偶	I'll make the doll	인형을 만들어 오겠다고 한다
+初入正道[輕裝步兵轉職]	Going Down the Right Path [Peltasta Advancement]	정도 입문 [펠타스타 전직]
+我願意執行入門任務	I will carry out the assignment	입문 과제를 수행하겠다고 한다
+解決煩惱[高地戰士轉職]	Solve the Problem [Highlander Advancement]	근심해결 [하이랜더 전직]
+我以後再來	I will come back later	나중에 다시 찾아오겠다고 한다
+學術上的問題[烈焰法師轉職]	Academic Question [Pyromancer Advancement]	학구적 질문 [파이로맨서 전직]
+我下次再來	I'll come back next time	다음에 다시 찾아오겠다고 한다
+竊取歷史[寒冰法師轉職]	Historical Theft [Cryomancer Advancement]	사적 절취 [크리오맨서 전직]
+Notice/空箱子	Notice/Empty Box	Notice/빈 상자
+治療師之路[牧師轉職](1)	Path of the Healer [Cleric Advancement](1)	치유사의 길[클레릭 전직](1)
+我願意去找百夫長大師	I'll go to the Centurion Master	센츄리온 마스터에게 가 보겠다고 한다
+太遠了	It's too far away	너무 멀다고 한다
+治療師之路[牧師轉職](2)	Path of the Healer [Cleric Advancement](2)	치유사의 길[클레릭 전직](2)
+我願意採集尼扣堤亞	I'll collect Nocotias	니코티아를 채집하겠다고 한다
+我要直接回去	I'll just go back	그냥 돌아가겠다고 한다
+治療師之路[牧師轉職](3)	Path of the Healer [Cleric Advancement](3)	치유사의 길[클레릭 전직](3)
+永恆的膜拜[聖火祭司轉職](1)	Eternal Worship [Krivis Advancement] (1)	영원한 경배[크리비 전직](1)
+我願意前往參拜聖地	I'll go on a pilgrimage	성지순례를 떠나겠다고 한다
+永恆的膜拜[聖火祭司轉職](2)	Eternal Worship [Krivis Advancement] (2)	영원한 경배[크리비 전직](2)
+我願意消滅怪物	I will defeat the monsters	몬스터를 처치해 주겠다고 한다
+永恆的膜拜[聖火祭司轉職](3)	Eternal Worship [Krivis Advancement] (3)	영원한 경배[크리비 전직](3)
+我願意馬上前往佩迪米安	I'll leave for Fedimian	이제 페디미안으로 떠나겠다고 한다
+我想再待一下	I will just stay a while	잠시만 머무르겠다고 한다
+無盡的淨化[聖水祭司轉職]	Endless Purification [Priest Advancement]	끊임없는 정화[프리스트 전직]
+我願意去淨化邪惡氣息	I will go and purify the evil energy	사악한 기운을 정화하러 가겠다고 한다
+遺留下來的記憶[邪靈祭司轉職](1)	Still Needs Memory [Bokor Advancement] (1)	남겨진 기억[보코르 전직](1)
+我願意取回寶石	I will get the gem	보석을 받아 오겠다고 한다
+遺留下來的記憶[邪靈祭司轉職](2)	Still Needs Memory [Bokor Advancement] (2)	남겨진 기억[보코르 전직](2)
+我要回去找邪靈祭司大師	I will go back to the Bokor Master	보코르 마스터에게 돌아가 보겠다고 한다
+遺留下來的記憶[邪靈祭司轉職](3)	Still Needs Memory [Bokor Advancement] (3)	남겨진 기억[보코르 전직](3)
+我去告訴聖火祭司大師	I will deliver it to the Krivis Master	크리비 마스터에게 전하겠다고 한다
+遺留下來的記憶[邪靈祭司轉職](4)	Still Needs Memory [Bokor Advancement] (4)	남겨진 기억[보코르 전직](4)
+我願意消滅毒魔蛙圖圖	I will defeat Tutu	투투를 처치하겠다고 한다
+女神像保養[雕刻師轉職](1)	Statue Maintenance [Dievdirbys Advancement] (1)	여신상 관리[딥디르비 전직](1)
+女神像保養[雕刻師轉職](2)	Statue Maintenance [Dievdirbys Advancement] (2)	여신상 관리[딥디르비 전직](2)
+我會去找聖火祭司大師	I'll go to the Krivis Master	크리비 마스터에게 가 보겠다고 한다
+女神像保養[雕刻師轉職](3)	Statue Maintenance [Dievdirbys Advancement] (3)	여신상 관리[딥디르비 전직](3)
+我會去找聖水祭司大師	I'll go to the Priest Master	프리스트 마스터에게 가 보겠다고 한다
+女神像保養[雕刻師轉職](4)	Statue Maintenance [Dievdirbys Advancement] (4)	여신상 관리[딥디르비 전직](4)
+我會去找邪靈祭司大師	I'll go to the Bokor Master	보코르 마스터에게 가 보겠다고 한다
+女神像保養[雕刻師轉職](5)	Statue Maintenance [Dievdirbys Advancement] (5)	여신상 관리[딥디르비 전직](5)
+我願意去保養女神像	I will go and take care of the Goddess Statue	여신상을 관리하러 가겠다고 한다
+請給我時間準備	Give me some time to prepare	준비 할 시간을 달라고 한다
+被選擇的人[聖者轉職]	The Chosen One [Sadhu Advancement]	선택 받은 자[사두 전직]
+為了教堂[聖殿十字軍轉職]	For the Church [Paladin Advancement]	성전을 위해[팔라딘 전직]
+答應和大師對決	Accept the duel with the Master	마스터와의 대련에 응한다
+鍛鍊身心[武僧轉職]	Training Body and Mind [Monk Advancement]	심신 단련[몽크 전직]
+愛惜財物[寬恕者轉職](1)	Grace of Wealth [Pardoner Advancement] (1)	재물에도 은혜를[파드너 전직](1)
+愛惜財物[寬恕者轉職](3)	Grace of Wealth [Pardoner Advancement] (2)	재물에도 은혜를[파드너 전직](3)
+我願意去消滅魔斯怪	I will defeat Mothstem	모스템을 처치하러 가겠다고 한다
+我放棄	I give up	포기하겠다고 한다
+愛惜財物[寬恕者轉職](2)	Grace of Wealth [Pardoner Advancement] (3)	재물에도 은혜를[파드너 전직](2)
+法師們的活動[法師轉職]	Activities of a Wizard [Wizard Advancement]	위저드들의 활동[위저드 전직]
+我接受考驗	I will take the test	시험에 응하겠다고 한다
+貫穿往前邁進的[鐵甲騎兵轉職]	Piercing Through [Cataphract Advancement]	꿰뚫고 나아가는[캐터프랙트 전직]
+烈焰法師們的活動[烈焰法師轉職]	Activities of a Pyromancer [Pyromancer Advancement]	파이로맨서들의 활동[파이로맨서 전직]
+我願意消滅波亞塔	I will defeat Poata	포아타를 처치하고 오겠다고 한다
+寒冰法師們的活動[寒冰法師轉職]	Activities of a Cryomancer [Cryomancer Advancement]	크리오맨서들의 활동[크리오맨서 전직]
+我願意消滅蘑菇卡利亞	I will get rid of the Mushcaria	머슈카리아를 처치하고 오겠다고 한다
+念力法師們的活動[念力法師轉職]	Activities of a Psychokino [Psychokino Advancement]	사이코키노들의 활동[사이코키노 전직]
+我接受考驗	I will take the test	시험을 받겠다고 한다
+鎖鏈法師們的活動[鎖鏈法師轉職]	Activities of a Linker [Linker Advancement]	링커들의 활동[링커 전직]
+我會消滅布貝鬥士	I will get rid of the Vubbe Fighter	부베 투사를 처치하고 오겠다고 한다
+奇術師們的活動[奇術師轉職]	Activities of a Thaurmaturge [Thaumaturge Advancement]	쏘마터지들의 활동[쏘마터지 전직]
+我會消滅火焰蜥蜴王	I will get rid of Salamander	샐러맨더를 처치하겠다고 한다
+試驗很重要[元素使轉職]	An Important Test [Elementalist Advancement]	시험은 중요해[엘레멘탈리스트 전직]
+我會消滅地心蟲王	I will defeat the Reaverpede	리버피드를 처치하겠다고 한다
+收集惡靈[巫師轉職]	Collecting Evil Spirits [Sorcerer Advancement]	악령 수집[소서러 전직]
+我會消滅惡魔葛洛夫	I will defeat the Devilglove	데블글로브를 처치하러 가겠다고 한다
+召喚儀式[死靈法師轉職]	Summoning Ritual [Necromancer Advancement]	소환 의식[네크로맨서 전직]
+實戰般的訓練[劍士轉職]	Practice with an Actual Fight [Swordsman Advancement]	훈련은 실전처럼[소드맨 전직]
+我會消滅鬼眼蜘蛛	I will defeat the Honeypin	허니핀을 처치하러 가겠다고 한다
+合理的代價[輕裝步兵轉職]	Proper Price [Peltasta Advancement]	합당한 대가[펠타스타 전직]
+經驗就是資產[高地戰士轉職]	Experience is an Asset [Highlander Advancement]	경험이 곧 자산[하이랜더 전직]
+詢問累積好經驗的方法。	How do you gain good experiences?	좋은 경험을 쌓는 방법에 대해 묻는다
+不同意	I disagree	동의하지 않는다
+可靠的[重裝步兵轉職]	The Reliable [Hoplite Advancement]	의지할 수 있는[하플라이트 전직]
+解決問題[野蠻人轉職]	Problem Solving [Barbarian Advancement]	문제를 해결[바바리안 전직]
+詢問我要付出什麼代價。	What do I pay it with?	어떤 것으로 대가를 치뤄야 하는 지 묻는다
+指揮官的資格[圓盾劍士轉職]	Qualifications of a Commander [Rodelero Advancement]	지휘관의 자격[로델레로 전직]
+構成威脅的存在[鐵甲騎兵轉職]	A Threat [Cataphract Advancement]	위협이 되는 존재[캐터프랙트 전직]
+我會消滅魔龍凱拉斯	I will defeat the Gaigalas	가이갈라스를 처치한다고 한다
+我好像辦不到	I don't think I can do such things	그런 건 못할 것 같다고 한다
+勒肯家門的榮譽[侍從轉職]	Honor of the Legwyn Family [Squire Advancement]	르귄가문의 명예[스콰이어 전직]
+我會幫忙尋找裝飾	I'll help you find the decorations	장식을 찾는 것을 돕겠다고 한다
+陸地作戰訓練[海賊轉職]	Ground Combat Training [Corsair Advancement]	육지전투 훈련[커세어 전직]
+風險帶來的代價[雙酬傭兵轉職]	Price of Danger [Doppelsoeldner Advancement]	위험에 따르는 대가[도펠죌트너 전직]
+時空法師的行動[時空法師轉職]	Activities of a Chronomancer [Chronomancer Advancement]	크로노맨서의 활동[크로노맨서 전직]
+完成法師的任務[法師轉職]	Complete the Mission of a Wizard [Wizard Advancement]	위저드의 임무 완수[위저드 전직]
+我會消滅鋼鐵巴溫	I'll defeat Ironbaum	아이언바움을 해치우고 오겠다고 한다
+我以後再來	I'll come back later	나중에 다시 찾아온다고 한다
+完成烈焰法師的任務[烈焰法師轉職]	Complete the Pyromancer's Mission [Pyromancer Advancement]	파이로맨서의 임무 완수[파이로맨서 전직]
+完成寒冰法師的任務[寒冰法師轉職]	Complete the Cryomancer's Mission [Cryomancer Advancement]	크리오맨서의 임무 완수[크리오맨서 전직]
+完成念力法師的任務[念力法師轉職]	Complete the Psychokino 's Mission [Psychokino Advancement]	사이코키노의 임무 완수[사이코키노 전직]
+我會替你進行委託	I'll complete the mission for you	의뢰를 대신 해주겠다고 한다
+完成鎖鏈法師的任務[鎖鏈法師轉職]	Complete the Mission of a Linker [Linker Advancement]	링커의 임무 완수[링커 전직]
+我會消滅狼人	I will defeat the Werewolf	웨어울프를 해치우고 오겠다고 한다
+完成奇術師的任務[奇術師轉職]	Complete the Mission of a Thaumaturge [Thaumaturge Advancement]	쏘마터지의 임무 완수[쏘마터지 전직]
+元素使的任務完成[元素使轉職]	Complete the mission of an Elementalist [Elementalist Advancement]	엘레멘탈리스트의 임무 완수[엘레멘탈리스트 전직]
+我當然願意出面	Of course I'll do it	당연히 나서겠다고 한다
+完成巫師的任務[巫師轉職]	Complete the Mission of a Sorcerer [Sorcerer Advancement]	소서러의 임무 완수[소서러 전직]
+我會消滅地獄亡靈	I will defeat the Necroventor	네크로벤터를 처치하겠다고 한다
+完成時空法師的任務[時空法師轉職]	Complete the Mission of a Chronomancer [Chronomancer Advancement]	크로노맨서의 임무 완수[크로노맨서 전직]
+我會透過考驗證明	I'll prove myself through a test	시험으로서 증명하겠다고 한다
+完成鍊金術士的任務[鍊金術士轉職]	Complete the Mission of an Alchemist [Alchemist Advancement]	알케미스트의 임무 완수[알케미스트 전직]
+星星的鏡片[弩箭手轉職]	Lens of the Stars [Quarrel Shooter Advancement]	별의 렌즈 [쿼렐슈터 전직]
+我接受委託	I'll do you this favor	부탁을 들어주겠다고 한다
+背叛者的毒[遊俠轉職]	Poison Betrayal [Ranger Advancement]	배신자의 독 [레인저 전직]
+我接受委託	I will accept the commission	의뢰를 받아들이겠다고 한다
+與野蠻人大師對話	Talk to the Barbarian Master	바바리안 마스터와 대화
+野蠻人的肯定	Recognition of the Barbarian Master	바바리안의 인정
+與重裝步兵大師對話	Talk to the Hoplite Master	하플라이트 마스터와 대화
+與念力法師大師對話	Talk to the Psychokino Master	사이코키노 마스터와 대화
+轉交給念力法師大師	Give it to the Psychokino Master	사이코키노 마스터에게 전달
+與鎖鏈法師大師對話	Talk to the Linker Master	링커 마스터와 대화
+把材料交給鎖鏈法師大師	Give the materials to the Linker Master	링커 마스터에게 재료 전달
+刺球怪之核	Nucleuses of Dunball	던볼의 핵
+貝里克洛的碎片	Fragments of Belligler	벨리글러의 조각
+把書交給鎖鏈法師大師	Give the book to the Linker Master	링커 마스터에게 책 전달
+與工兵大師對話	Talk to the Sapper Master	새퍼 마스터와 대화
+尋找工兵大師藏起來的物品	Find the Sapper Master's Hidden Goods	새퍼 마스터가 숨겨둔 물품 찾기
+尋找遭竊的物品	Find the Stolen Goods	훔친 물건 찾기
+籌備要交給牧師大師的捐款	Gather donations to give to the Cleric Master	클레릭 마스터에게 전달할 성금 마련
+把捐款交給柯拉佩達的牧師大師	Give donations to the Cleric Master in Klaipeda	클라페다의 클레릭 마스터에게 성금 전달
+與獵人大師對話	Talk to the Hunter Master	헌터 마스터와 대화
+請去找夏奧雷伊東邊森林的獵人大師。	Find the Hunter Master in East Siauliai Woods	샤울레이 동쪽 숲에 있는 헌터 마스터를 찾아가세요.
+將梅羅葛的皮革交給弩箭手大師	Hand over the Merrogg Leather to the Quarrel Shooter Master	쿼렐슈터 마스터에게 메로그 가죽 전달
+在礦山村莊的水晶礦山入口收集岩石	Collect rocks from the Crystal Mine entrance in Miners' Village	광산 마을의 수정광산 입구에서 바위 수집
+把岩石交給柯拉佩達的弓箭手大師	Give the rocks to the Archer Master in Klaipeda	클라페다의 아처 마스터에게 바위 전달
+把袋子交給遊俠大師	Give the pouch to the Ranger Master	레인저 마스터에게 주머니 전달
+與弩箭手大師對話	Talk to the Quarrel Shooter Master	쿼렐슈터 마스터와 대화
+請去找柯拉佩達的弩箭手大師。	Find the Quarrel Shooter Master in Klaipeda	클라페다에 있는 쿼렐슈터 마스터를 찾아가세요.
+勘查弩箭手大師所說的區域	Search the area the Quarrel Shooter Master mentioned	쿼렐슈터 마스터가 알려준 지역 탐색
+把書交給弩箭手大師	Give book to the Quarrel Shooter Master	쿼렐슈터 마스터에게 책 전달
+籌備獵人大師要求的銀幣	Prepare the silver the Hunter Master asked for	헌터 마스터가 요구한 실버 마련
+把銀幣交給獵人大師	Give silver to the Hunter Master	헌터 마스터에게 실버 전달
+在礦山村莊收集岩石	Collect rocks at Miners' Village	광산 마을에서 바위 수집
+把岩石交給弓箭手大師	Give the rock to the Alchemist Master	아처 마스터에게 바위 전달
+與弓箭手大師對話	Talk to the Archer Master	아처 마스터와 대화
+請去找柯拉佩達的弓箭手大師。	Go to the Archer Master in Klaipeda	클라페다에 있는 아처 마스터를 찾아가세요.
+勘查弓箭手大師所說的區域	Explore the area the Archer Master mentioned	아처 마스터가 알려준 지역 탐색
+把書交給弓箭手大師	Deliver book to Master Archer	아처 마스터에게 책 전달
+收集梅羅葛的皮革	Collect the Merrogg Leather	메로그의 가죽 수집
+與遊俠大師對話	Talk to the Ranger Master	레인저 마스터와 대화
+請去找柯拉佩達的遊俠大師。	Go to the Ranger Master in Klaipeda	클라페다에 있는 레인저 마스터를 찾아가세요.
+消滅布貝鬥士並獲得書籍	Defeat Vubbe Fighter and get the book	부베 투사를 처치하여 책 획득
+把書交給遊俠大師	Give book to the Ranger Master	레인저 마스터에게 책 전달
+向布貝鬥士取得利迪亞夏班的書	Get Lydia Schaffen's book from Vubbe Fighter	부베 투사에게서 리디야 샤펜의 책 획득
+在遊俠大師所說的區域中收集岩石	Collect rocks from the area the Ranger Master mentioned	레인저 마스터가 알려주는 지역에서 바위 수집
+與雕刻家泰斯拉對話	Talk to Sculptor Tesla	조각가 테슬라와 대화
+消滅耶庫並獲得藍色水晶	Defeat Yekub and get the Blue Crystal	예쿱을 처치하고 푸른 수정 획득
+把藍色水晶交給雕刻家泰斯拉	Give Blue Crystal to Sculptor Tesla	조각가 테슬라에게 푸른 수정 전달
+耶庫的藍水晶	Blue Crystal of Yekub	예쿱의 파란수정
+與高地戰士大師對話	Talk to the Highlander Master	하이랜더 마스터와 대화
+請去找柯拉佩達的高地戰士大師。	Find the Highlander Master in Klaipeda	클라페다에 있는 하이랜더 마스터를 찾아가세요.
+將木頭圓盾用板子交給輕裝步兵大師	Hand over the Wooden Buckler's board to the Peltasta Master	펠타스타 마스터에게 우든 버클러용 판자 전달
+將5個木頭圓盾用板子交給位在柯拉佩達的輕裝步兵大師並要求輕裝步兵大師的協助。	Get help from the Peltasta Master by handing him over Wooden Buckler's 5 boards	클라페다에 있는 펠타스타 마스터에게 우든 버클러용 판자 5개를 전달하여 펠타스타 마스터의 협조를 구해 오세요.
+藍樹高原	Indigo Trees Plateau	쪽빛나무 고원
+向高地戰士大師報告	Report to the Highlander Master	하이랜더 마스터에게 보고
+與輕裝步兵大師對話	Talk to the Peltasta Master	펠타스타 마스터와 대화
+請去找柯拉佩達的輕裝步兵大師。	Go to the Peltasta Master in Klaipeda	클라페다의 펠타스타 마스터를 찾아 가 보세요.
+搜索消失在荊棘林的偵察部隊	Search for the Reconnaisance Squad that disappeared into the Thorny Forest	가시숲에서 사라진 정찰부대 탐색
+收拾遺物	Collect the keepsakes	유품 수습
+到荊棘心山溝其他地區探索	Search for the other regions in Spineheart Dale	가시마음골의 다른 지역 탐색
+將遺物交給騎士團長烏斯卡	Hand over the keepsakes to Uska	기사단장 우스카에게 유품 전달
+死去偵察兵的復仇	The revenge of the dead scout	죽은 정찰병의 복수
+與烈焰法師大師對話	Talk to the Pyromancer Master	파이로맨서 마스터와 대화
+把火之精髓收集在甕中	Gather the Essence of Fire in the pot	불의 정수를 항아리에 모으기
+向烈焰法師大師報告	Report to the Pyromancer Master	파이로맨서 마스터에게 보고
+與寒冰法師大師對話	Talk to the Cryomancer Master	크리오맨서 마스터와 대화
+向礦山村莊村長詢問書的下落	Ask the Miners' Village Mayor about the whereabouts of the book	광산 마을 촌장에게 책의 행방 묻기
+在布貝前哨基地中找書	Search for the book at the Vubbe Outpost	부베 전초기지에서 책 탐색
+把書交給寒冰法師大師	Give the book to the Cryomancer Master	크리오맨서 마스터에게 책 전달
+與聖火祭司大師對話	Talk to the Krivis Master	크리비 마스터와 대화
+請尋找柯拉佩達的聖火祭司大師。	Go to the Krivis Master in Klaipeda	클라페다에 있는 크리비 마스터를 찾아가세요.
+向女神像奉獻祈禱	Offer prayers to Goddess Statue	여신상에 봉헌기도를 올리기
+與劍士大師對話	Talk to the Swordsman Master	소드맨 마스터와 대화
+消滅七彩高原坪的曼陀羅之樹	Defeat Mentiwood at Seventune Mesa	칠채고원평의 멘티우드 처치
+向劍士大師報告	Report to the Swordsman Master	소드맨 마스터에게 보고
+消滅曼陀羅之樹	Defeat Mentiwood	멘티우드 처지
+與聖水祭司大師對話	Talk to the Priest Master	프리스트 마스터와 대화
+請去找柯拉佩達的聖水祭司大師。	Find the Priest Master in Klaipeda	클라페다에 있는 프리스트 마스터를 찾아가세요.
+消滅附在士兵身上的惡靈	Exorcise the evil spirit from the soldier and defeat it	병사에게 빙의한 악령 처치
+向聖水祭司大師報告	Report to the Priest Master	프리스트 마스터에게 보고
+消滅惡靈本體	Defeat the embodiment of the evil spirit	악령의 본체 처치
+與法師大師對話	Talk to the Wizard Master	위저드 마스터와 대화
+請去找柯拉佩達的法師大師。	Go to the Wizard Master in Klaipeda	클라페다에 있는 위저드 마스터에게 찾아가 보세요.
+收集法師大師所需的材料	Collect the materials for the Wizard Master	위저드 마스터가 필요로하는 재료 수집
+把材料交給法師大師	Give the materials to the Wizard Master	위저드 마스터에게 재료 전달
+在都市各地使用法師大師的資料累積用卷軸	Use the Scroll for data around town	위저드 마스터의 자료 축적용 스크롤을 도시 곳곳에 사용
+向法師大師報告	Report to the Wizard Master	위저드 마스터에게 보고
+與牧師大師對話	Talk to the Cleric Master	클레릭 마스터와 대화
+向聖水祭司大師取得聖水	Receive Holy Water from the Priest Master	프리스트 마스터에게 성수 받기
+向聖火祭司大師取得聖水	Get Holy Water from the Krivis Master	크리비 마스터에게 성수 받기
+治療夏奧雷伊礦山村莊的患者	Treat the patients at the Miners' Village	샤울레이 광산 마을의 환자 치료
+向牧師大師報告	Report to the Cleric Master	클레릭 마스터에게 보고
+請去找柯拉佩達的重裝步兵大師。	Go to the Hoplite Master in Klaipeda	클라페다에 있는 하플라이트 마스터를 찾아 가세요.
+把長槍系列裝備強化至6等級	Upgrade Spear type weapon to level 6	창 계열 장비를 6단계로 강화하기
+向重裝步兵大師報告結果	Report to the Hoplite Master	하플라이트 마스터에게 결과 보고
+收集女神的古院的精髓	Collect Demons' Essences in Goddess' Ancient Garden	여신의 옛뜰에서 마족의 정수 수집
+轉交精髓給念力法師大師	Give the Demons' Essences to Psychokino Master	사이코키노 마스터에게 정수 전달
+請去找柯拉佩達的弩箭手。	Go to the Quarrel Shooter Master in Klaipeda	클라페다에 있는 쿼렐슈터를 찾아가 보세요.
+於魔法師之塔 3層中尋找地圖	Look for the map in Mage Tower 3F	마법사의 탑 3층에서 지도 찾기
+把地圖交給弩箭手大師	Give map to the Quarrel Shooter Master	쿼렐슈터 마스터에게 지도 전달
+請去找柯拉佩達的弓箭手大師對話。	Go to the Archer Master in Klaipeda	클라페다에 있는 아처 마스터를 찾아 대화해 보세요.
+與圓盾劍士大師對話	Talk to the Rodelero Master	로델레로 마스터와 대화
+消滅魔法師之塔3層的巨大怪物	Defeat the giant monster in Mage Tower 3F	마법사의 탑 3층의 거대한 몬스터 처치
+向圓盾劍士大師報告	Report to the Rodelero Master	로델레로 마스터에게 보고
+向弓箭手大師報告	Report to the Archer Master	아처 마스터에게 보고
+請去找柯拉佩達的遊俠大師。	Go to the Ranger Master in Klaipeda	클라페다에 있는 레인저 마스터를 찾아가 보세요.
+去見侍從大師	Meet the Squire Master	스콰이어 마스터를 찾아가기
+與元素使大師對話	Talk to the Elementalist Master	엘레멘탈리스트 마스터와 대화
+於魔法師之塔3層尋找艾保尼風的痕跡	Look for Evoniphon in Mage Tower 3F	마법사의 탑 3층 에보니폰 흔적 찾기
+向遊俠大師報告	Report to the Ranger Master	레인저 마스터에게 보고
+消滅米諾牛頭怪並尋找艾保尼風的殘跡	Defeat Minotaur and find traces of Evoniphon	미노타우로스를 처치하고 에보니폰의 흔적 찾기
+收集德雷克的火焰觸媒	Collect Drakes' flame catalysts	드레이크의 화염 촉매 수집
+將火焰觸媒轉交給工兵 大師	Hand over the flame catalysts to the Sapper Master	새퍼 마스터에게 화염 촉매 전달
+消滅德雷克	Defeat Drakes	드레이크 처치
+測試試驗用炸彈	Test the bomb	시험용 폭탄 테스트
+向工兵大師報告	Report to the Sapper Master	새퍼 마스터에게 보고
+與邪靈祭司大師對話	Talk to the Bokor Master	보코르 마스터와 대화
+請去找柯拉佩達的邪靈祭司大師。	Go to the Bokor Master in Klaipeda	클라페다에 있는 보코르 마스터를 찾아가세요.
+收集任務或是野外BOSS怪物卡片	Collect Mission or Field Boss Monster Card	미션이나 필드 보스 몬스터 카드 수집
+任務地區/水晶礦山野外NOSS/泰內聖堂野外BOSS/王陵野外BOSS(任務BOSS怪物除外)	Mission Zone/Crystal Mine Field Boss/Tenet Church Field Boss/Royal Mausoleum Field Boss (Except quest boss monsters)	미션 존/수정광산 필드 보스/테넷 성당 필드 보스/왕릉 필드 보스(퀘스트 보스 몬스터 제외)
+把卡片交給邪靈祭司大師	Give a card to the Bokor Master	보코르 마스터에게 카드 전달
+與柯拉佩達道具商人對話	Talk to the Item Merchant in Klaipeda	클라페다 도구상인과 대화
+到魔法師之塔 3層尋找道具商人的父親	Look for the father of the Equipment Merchant in Mage Tower 3F	마법사의 탑 3층에서 도구상인의 아버지 찾기
+將父親的衣服碎片轉交給道具商人	Give the piece of father's clothing to the Item Merchant	도구상인에게 아버지의 옷 조각 전달
+消滅米諾牛頭怪	Defeat Minotaur	미노타우로스 처치
+用柯拉佩達廣場的貓飼料引誘	Lure the Klaipeda Plaza cat with food	클라페다 광장의 고양이 먹이로 유인하기
+把貓交給雕刻家泰斯拉	Give the cat to Sculptor Tesla	조각가 테슬라에게 고양이 전달
+請去拜訪位於柯拉佩達的烈焰法師。	Meet the Pyromancer Master in Klaipeda	클라페다에 있는 파이로맨서를 찾아 가세요.
+消滅干擾的死靈查普利	Defeat Chapparition	방해하는 채퍼리션 처치
+將太陽之甕放置在魔法師之塔1層的閱覽室裡	Put the Pot of the Sun in the Reading Room in Mage Tower 1F	마법사의 탑 1층 열람실에 태양의 항아리 놓기
+收集寒冰法師大師所需的材料	Collect materials requested by the Cryomancer Master	크리오맨서 마스터가 필요로 하는 재료 수집
+把材料交給寒冰法師大師	Deliver the materials to the Cryomancer Master	크리오맨서 마스터에게 재료 전달
+在佩迪米安各處使用法師大師的資料累積用卷軸	Use Wizard's Data Measurement Scroll around Fedimian	위저드 마스터의 자료 축적용 스크롤을 페디미안 곳곳에 사용
+使用回復為人們治療	Use Heal to treat people	힐을 사용해 사람들을 치료
+全區域	All area	전 지역
+與巫師大師對話	Talk to the Sorcerer Master	소서러 마스터와 대화
+請去找佩迪米安的巫師大師。	Go to the Sorcerer Master in Fedimian	페디미안의 소서러 마스터에게 찾아가세요.
+在魔法對決中戰勝巫師大師	Win a magic duel against the Sorcerer Master	소서러 마스터와 마법 대련에서 승리
+巫師的認同	Acknowledgment of the Sorcerer	소서러의 인정
+與死靈法師大師對話	Talk to the Necromancer Master	네크로맨서 마스터와 대화
+到佩迪米安和死靈法師大師對話。	Talk to the Necromancer Master in Fedimian	페디미안에 있는 네크로맨서 마스터와 대화하세요.
+與死靈法師大師戰鬥	Battle against the Necromancer Master	네크로맨서 마스터와 전투
+死靈法師的認同	Acknowledgment of Necromancer	네크로맨서의 인정
+與德魯伊大師對話	Talk to the Druid Master	드루이드 마스터와 대화
+請去找佩迪米安的德魯伊大師。	Find the Druid Master in Fedimian	페디미안에 있는 드루이드 마스터를 찾아가세요.
+和德魯伊大師對決	Duel against the Druid Master	드루이드 마스터와 대련
+德魯伊的認同	Acknowledgment of Druid	드루이드의 인정
+請和夏奧雷伊礦山村莊的鎖鏈法師大師對話。	Talk to the Linker Master in Crystal Mine of Siauliai	샤울레이 광산 마을에 있는 링커 마스터와 대화해 보세요.
+和鎖鏈法師大師對決	Duel with the Linker Master	링커 마스터와 대련
+鎖鏈法師的認同	Acknowledgment of Linker	링커의 인정
+藉由和獵人大師對決評估能力	Evaluate the competence of yourself by dueling with the Hunter Master	헌터 마스터와 대련을 통해 실력 평가
+獵人的認同	Acknowledgment of Hunter	헌터의 인정
+請與柯拉佩達的高地戰士大師對話。	Talk to the Highlander Master in Klaipeda	클라페다에 있는 하이랜더 마스터와 대화해 보세요.
+消滅瑪凌波石窟的史潘飛行獸人	Defeat Sparnas Men in Rhombuspaving Dale	마름포석골의 스파나스맨 처치
+消滅死靈查普利	Defeat Chapparition	채퍼리션 처치
+請與柯拉佩達的聖火祭司大師對話。	Talk to the Krivis Master in Klaipeda	클라페다에 있는 크리비 마스터와 대화해 보세요.
+和聖火祭司大師對決	Duel with the Krivis Master	크리비 마스터와 대련
+聖火祭司的認同	Acknowledgment of Krivis	크리비의 인정
+和聖水祭司大師對決	Duel with the Priest Master	프리스트 마스터와 대련
+聖水祭司的認同	Acknowledgment of Priest	프리스트의 인정
+請去找柯拉佩達的劍士大師。	Find the Swordsman Master in Klaipeda	클라페다에 있는 소드맨 마스터를 찾아가세요.
+消滅魔法師之塔3層的米諾牛頭怪	Defeat Minotaur in Mage Tower 3F	마법사의 탑 3층의 미노타우로스 처치
+和佩迪米安的百夫長大師對話	Talk to the Centurion Master in Fedimian	페디미안의 센츄리온 마스터와 대화
+請去找佩迪米安的百夫長大師。	Find the Centurion Master in Fedimian	페디미안에 있는 센츄리온 마스터를 찾아가세요.
+和百夫長大師對決	Duel against the Centurion Master	센츄리온 마스터와 대련
+與百夫長大師對話	Talk to the Centurion Master	센츄리온 마스터와 대화
+百夫長的認同	Acknowledgment of Centurion	센츄리온의 인정
+與聖者大師對話	Talk to the Sadhu Master	사두 마스터와 대화
+與佩迪米安的聖者大師對話	Talk to the Sadhu Master in Fedimian	페디미안에서 사두 마스터와 대화해 보세요.
+和聖者大師對決	Duel with the Sadhu Master	사두 마스터와 대련
+聖者的認同	Acknowledgment of Sadhu	사두의 인정
+刀騎兵大師的呼喚	Call of the Hackapell Master	하카펠 마스터의 부름
+到佩迪米安，刀騎兵大師正在找你。	The Hackapell Master is looking for you at Fedimian	페디미안에서 하카펠 마스터가 당신을 찾고 있습니다
+和刀騎兵大師對決	Duel against the Hackapell Master	하카펠 마스터와의 대련
+與刀騎兵大師對話	Talk to the Hackapell Master	하카펠 마스터와 대화
+刀騎兵的認同	Acknowledgment of Hackapell	하카펠의 인정
+與巫蠱師大師對話	Talk to the Wugushi Master	무고사 마스터와 대화
+請到佩迪米安與巫蠱師大師對話	Talk to the Wugushi Master in Fedimian	페디미안에 있는 무고사 마스터와 대화해 보세요.
+和巫蠱師大師對決	Duel with the Wugushi Master	무고사 마스터와 대련
+巫蠱師的認同	Acknowledgment of Wugushi	무고사의 인정
+到佩迪米安和圓盾劍士大師對話。	Talk with the Rodelero Master in Fedimian	페디미안에 있는 로렐레로 마스터와 대화하세요.
+將盾牌系列裝備強化制6階段	Upgrade Shield to level 6	방패 계열 장비를 6단계로 강화
+與侍從大師對話	Talk to the Squire Master	스콰이어 마스터와 대화
+請去找佩迪米安的侍從大師。	Meet the Squire Master in Fedimian	페디미안에 있는 스콰이어 마스터를 찾아 가세요.
+和侍從大師對決證明自己的能力	Prove your skills by dueling against the Squire Master	스콰이어 마스터와 대련해서 실력을 증명
+請藉由和侍從大師對決證明自己的能力。	Prove your skills by dueling against the Squire Master	스콰이어 마스터와의 대련을 통해 실력을 증명하세요.
+和侍從大師對決	Duel against the Squire Master	스콰이어 마스터와 대련
+與奇術師大師對話	Talk with the Thaumaturge Master	쏘마터지 마스터와 대화
+到佩迪米安和奇術師大師對話。	Talk with the Thaumaturge Master in Fedimian	페디미안에 있는 쏘마터지 마스터와 대화하세요.
+到魔法師之塔 3層收集魔法研究資料	Collect the magic research documents in Mage Tower 3F	마법사의 탑 3층에서 마법 연구 자료 모으기
+交給奇術師大師	Give it to the Thaumaturge Master	쏘마터지 마스터에게 전달
+到佩迪米安和元素使大師對話。	Talk with the Elementalist Master in Fedimian	페디미안에 있는 엘레멘탈리스트 마스터와 대화하세요.
+執行元素使大師的課題	Complete the assignment from the Elementalist Master	엘레멘탈리스트 마스터의 과제 수행
+轉交課題給元素使大師	Hand over the assignment to the Elementalist Master	엘레멘탈리스트 마스터에게 과제 전달
+史萊姆	Slime	슬라임
+碑石青苔泥人	Tombstone Golems	비석 골렘
+與斥候大師對話	Talk to the Scout Master	스카우트 마스터와 대화
+請與佩迪米安的斥候大師對話。	Talk to the Scout Master in Fedimian	페디미안에 있는 스카우트 마스터와 대화해 보세요.
+和斥候大師對決	Duel against the Scout Master	스카우트 마스터와 대련
+與聖殿十字軍大師對話	Talk to the Paladin Master	팔라딘 마스터와 대화
+向聖殿十字軍大師報告	Report to the Paladin Master	팔라딘 마스터에게 보고
+與鐵甲騎兵大師對話	Talk to the Cataphract Master	캐터프랙트 마스터와 대화
+向鐵甲騎兵大師報告	Report to the Cataphract Master	캐터프랙트 마스터에게 보고
+向水晶礦山1層的布貝取得蘊含魔力的袋子	Get the pouch with evil aura from the Vubbes in Crystal Mine 1F	수정광산 1층 부베들에게 마기가 깃든 주머니 획득
+聖水祭司大師要你消滅佔領水晶礦山1層的布貝已證明你是可靠的。	The Priest Master ask you to defeat the Vubbes occupying Crystal Mine 1F as a proof of your faith	프리스트 마스터는 신실함의 증명으로 수정광산 1층을 점령한 부베들을 처치하고 
+要你幫忙取得	Imbued Evil Energy Pouch	마기가 깃든 주머니
+交給聖水祭司大師	Give the pouches to the Priest Master	프리스트 마스터에게 전달
+搜尋聖火祭司兄弟	Krivis Brother Investigation	크리비 형제 수색
+與聖火祭司兄弟對話	Talk to Krivis Brother	크리비 형제와 대화
+請消滅覬覦聖物的布貝	Defeat the Vubbes who are after the sacred relic	성물을 노리는 부베들을 처치하세요
+到柯拉佩達和劍士大師對話。	Talk to the Swordsman Master	클라페다에 있는 소드맨 마스터와 대화하세요
+收集水晶礦山1層石頭歐魯卡的心臟	Collect the hearts of Stone Orcas in Crystal Mine 1F	수정광산1층에서 스톤오르카의 심장 수집
+交給劍士大師	Hand it over to the Swordsman Master	소드맨 마스터에게 전달
+獲得石頭歐魯卡的心臟	Obtained the hearts of Stone Orca	스톤오르카의 심장 획득
+消滅撕裂者	Defeat Shredded	쉬레디드를 처치
+抹殺撕裂者	Annhilate Shreddeds	쉬레디드 말살
+消滅蝙蝠並獲得蝙蝠翅膀	Obtain bats wings by defeating bats	박쥐를 처치해 박쥐의 날개 획득
+交給弓箭手大師	Hand them over to the Archer Master	아처 마스터에게 전달
+獲得蝙蝠翅膀	Obtain bat wings	박쥐 날개 획득
+去水晶礦山1層收集布貝身上的綠色膏藥	Get green ointments from the Vubbes in Crystal Mine 1F	수정광산 1층의 부베에게서 녹색 고약 수집
+交給牧師大師	Give them to the Cleric Master	클레릭 마스터에게 전달
+獲得綠色膏藥	Obtained green ointment	녹색 고약 획득
+把聖物交給聖火祭司大師	Hand over the sacred relic to the Krivis Master	크리비 마스터에게 성물 전달
+尋訪劍士大師	Meet the Swordsman Master	소드맨 마스터 찾아가기
+請去找柯拉佩達的劍士大師。	Meet the Swordsman Master in Klaipeda	클라페다에 있는 소드맨 마스터를 찾아 가세요.
+在大教堂的懺悔路使用挑釁用寶珠	Use the provoking orb at Penitence Route of Great Cathedral	대성당의 참회로에서 도발용 보주 사용
+尋訪高地戰士大師	Find the Highlander Master	하이렌더 마스터 찾아가기
+尋訪輕裝步兵大師	Find the Peltasta Master	펠타스타 마스타 찾아가기
+尋訪騎士團長烏斯卡	Meet Uska	기사단장 우스카 찾아가기
+消滅水晶礦山2層的傳聞的元凶	Defeat the source of the rumor in Crystal Mine 2F	수정광산 2층의 소문의 원흉 처치
+向騎士團長烏斯卡報告	Report to Knight Commander Uska	기사단장 우스카에게 보고
+回去找高地戰士大師	Return to the Highlander Master	하이랜더 마스터에게 돌아가기
+尋訪輕裝步兵大師	Find the Peltasta Master	펠타스타 마스터 찾아가기
+請去找柯拉佩達的輕裝步兵大師。	Meet the Peltasta Master in Klaipeda	클라페다에 있는 펠타스타 마스터를 찾아가 보세요.
+尋訪高地戰士大師	Find the Highlander Master	하이랜더 마스터 찾아가기
+與高地戰士大師對話	Talk to the Highlander Master	하이랜더 마스터 대화
+尋訪造箭者大師	Meet the Fletcher Master	플레쳐 마스터 찾아가기
+與造箭者大師對話	Talk to the Fletcher Master	플레쳐 마스터와 대화
+到水晶小溪收集	Defeat Moas in Crystal Brook	수정개울에서 모아 처치
+向造箭者大師報告	Report to the Fletcher Master	플레쳐 마스터에게 보고
+向輕裝步兵大師報告	Report to the Peltasta Master	펠타스타 마스터에게 보고
+尋訪海賊大師	Meet the Corsair Master	커세어 마스터 찾아가기
+請去拜訪大餓鬼路的海賊大師	Meet the Corsair Master in Starving Demon's Way	큰아귀 길에 있는 커세어 마스터를 찾아가세요.
+找回海賊大師的物品	Retrieve the objects from the Corsair Master	커세어 마스터의 물건 되찾기
+交給海賊大師	Hand them over to the Corsair Master	커세어 마스터에게 전달
+尋找入港許可書	Find the permission to the Port entry	입항허가서 찾기
+尋找航海圖	Find the Sailing Map	항해도 찾기
+尋找契約書	Find the Contract	계약서 찾기
+圓盾劍士大師	Find the Rodelero Master	로델레로 마스터 찾기
+去拜訪佩迪米安的圓盾劍士大師。	Meet the Rodelero Master in Fedimian	페디미안에 있는 로델레로 마스터를 찾아 가세요.
+和圓盾劍士大師對決	Duel against the Rodelero Master	로델레로 마스터와 대련
+戰勝圓盾劍士大師	Defeat the Rodelero Master	로델레로 마스터 제압
+尋訪弓箭手大師	Find the Archer Master	아처 마스터 찾아가기
+到棲身的樹木山溝找造箭者大師	Meet the Fletcher Master in Remaining Tree Dale	머무르는 나뭇골의 플레쳐 마스터 찾아가기
+在大教堂的懺悔路收集優質磨刀石	Gather Charcoal Stones from Penitence Route	대성당의 참회로에서 질 좋은 숫돌 모아오기
+交給造箭者大師	Give them to the Fletcher Master	플레쳐 마스터에게 전달
+尋訪遊俠大師	Go to the Ranger Master	레인저 마스터 찾아가기
+請去找柯拉佩達的遊俠大師。	Meet the Ranger Master in Klaipeda	클라페다에 있는 레인저 마스터에게 찾아 가세요.
+在大教堂收集莫亞體液樣本	Extract the fluids from Moyas at the Great Cathedral	대성당 모야 체액 샘플 수집
+交給遊俠大師	Deliver it to the Ranger Master	레인저 마스터에게 전달
+怪物的液體	Monster Fluid	몬스터의 체액
+尋訪工兵大師	Find the Sapper Master	새퍼 마스터 찾아가기
+請去找夏奧雷伊東邊森林的工兵大師。	Find the Sapper Master in East Siauliai Woods	샤울레이 동쪽 숲에 있는 새퍼 마스터를 찾아 가세요.
+消滅破旗森林的比特雷巨蜂	Defeat Biteregina in Sunset Flag Forest	해진깃발숲의 비테레지나 처치
+請到棲身的樹木山溝找造箭者大師。	Meet the Fletcher Master in Remaining Tree Dale	머무르는 나뭇골에 있는 플레쳐 마스터를 찾아 가세요.
+收集發出聲音的樹木	Collected Whistling Wood	소리나는 나무 수집
+尋訪獵人大師	Go to the Hunter Master	헌터 마스터 찾아가기
+請去找夏奧雷伊東邊森林的獵人大師。	Go to the Hunter Master in East Siauliai Woods	샤울레이 동쪽 숲에 있는 헌터 마스터를 찾아가 보세요.
+狩獵3種怪物	Hunt for 3 kinds of monsters	몬스터 3종 사냥
+向獵人大師報告	Report to the Hunter Master	헌터 마스터에게 보고
+大餓鬼路的凱帕里	Keparis in Starving Demon's Way	큰아귀 길의 케파리
+散佈的階梯的克多摩爾	Kodomors in Scattered Stairways	흩어진 계단의 코도모르
+赤褐木斷層森林的柯瓦	Kowaks in Purple Tree Fault Forest	적갈나무 단층숲의 코왁
+尋訪巫蠱師大師	Go to the Wugushi Master	무고사 마스터를 찾아가기
+請去見佩迪米安的巫蠱師大師。	Meet the Wugushi Master in Fedimian	페디미안에 있는 무고사 마스터를 찾아 가세요.
+收集合成毒	Collect the composite poison	합성독 수집
+交給巫蠱師大師。	Deliver it to the Wugushi Master	무고사 마스터에게 전달
+獲得合成毒	Get Combined Poison	합성독 습득
+尋訪斥候大師	Go to the Scout Master	스카우트 마스터 찾아가기
+請去拜訪佩迪米安的斥候大師。	Meet the Scout Master in Fedimian	페디미안에 있는 스카우트 마스터를 찾아 가 보세요.
+利用閃光彈去偵測怪物並消滅	Use Flares to detect monsters and defeat them	섬광탄으로 몬스터를 탐지하여 처치
+向斥候大師報告	Report to the Scout Master	스카우터 마스터에게 보고
+消滅被偵測到的怪物	Defeat the monsters	탐지당한 몬스터 처치
+尋訪弩箭手大師	Go to the Quarrel Shooter Master	쿼렐슈터 마스터 찾아가기
+取得利迪亞夏班的祕石拓本	Get the rubbings from Lydia Schaffen's Gravestone	리디아 샤펜의 비석 탁본 구해오기
+交給弩箭手大師	Deliver to the Quarrel Shooter Master	쿼렐슈터 마스터에게 전달
+尋訪流氓大師	Go to the Rogue Master	로그 마스터 찾아가기
+請去找佩迪米安的流氓大師。	Go to the Rogue Master in Fedimian	페디미안에 있는 로그 마스터를 찾아 가세요.
+使用煙幕彈甩掉5個怪物	Use Smoke Bombs to surpass 5 monsters	연막탄을 사용하여 몬스터 5마리 따돌리기
+向流氓大師報告	Report to the Rogue Master	로그 마스터에게 보고
+尋訪重裝步兵大師	Go to the Hoplite Master	하플라이트 마스터 찾아가기
+請去找夏奧雷伊西邊森林的重裝步兵大師。	Find the Hoplite Master in West Siauliai Woods	샤울레이 서쪽 숲의 하플라이트 마스터를 찾아 가세요.
+消滅大教堂正殿的鬼影凱伊洛	Defeat Shadowgaler in the main chamber of the Great Cathedral	대성당 본당의 섀도게일러 처치
+向重裝步兵大師報告	Report to the Hoplite Master	하플라이트 마스터에게 보고
+消滅暗影凱伊洛	Defeat Shadowgaler	섀도게일러 처치
+尋訪野蠻人大師	Meet the Barbarian Master	바바리안 마스터 찾아가기
+請和夏奧雷伊東邊森林的野蠻人對話。	Talk to the Barbarian Master in East Siauliai Woods	샤울레이 동쪽 숲의 바바리안과 대화해 보세요.
+消滅大教堂正殿的石鯨 	Defeat Yekubs in the main chamber of the Great Cathedral	대성당 본당의 예쿱 처치
+向野蠻人大師報告	Report to the Barbarian Master	바바리안 마스터에게 보고
+消滅耶庫	Defeat Yekub	예쿱 처치
+尋訪侍從大師	Meet the Squire Master	스콰이어 마스터 찾아가기
+請和佩迪米安的侍從大師對話。	Talk to the Squire Master in Fedimian	페디미안에 있는 스콰이어 마스터와 대화해 보세요.
+使用捆索繩	Use the tie rope	포박 포승줄 사용하기
+回去找侍從大師	Return to the Squire Master	스콰이어 마스터에게 돌아가기
+尋訪百夫長大師	Meet the Centurion Master	센츄리온 마스터 찾아가기
+請去拜訪大餓鬼路上的百夫長大師。	Meet the Centurion Master at Starving Demon's Way	큰아귀 길에 있는 센츄리온 마스터를 찾아 가세요.
+消滅增岩森林的曼陀花獸	Defeat Colimencia in Layered Rock Forest	점층바위 숲의 콜리멘시아 처치
+回去找百夫長大師	Return to the Centurion Master	센츄리온 마스터에게 돌아가기
+消滅曼陀花獸	Defeat Colimencia	콜리멘시아 처치
+弓箭手大師的呼喚	Call of the Archer Master	아처 마스터의 부름
+到柯拉佩達，弓箭手大師正在找你。	Call of the Archer Master	클라페다에 있는 아처 마스터가 당신을 찾고 있습니다
+消滅露克立斯街道的斯帕娜史霍	The Archer Master in Klaipeda is looking for you	루클리스 거리의 스파나스혼 처치
+弓箭手大師說需要評估你的能力。請在露克立斯街道消滅斯帕娜史霍後回去找弓箭手大師	Defeat Sparnashorn in Ruklys Street	아처 마스터는 기량을 잴 수 있는 것이 필요하다고 합니다. 루클리스 거리에서 스파나스혼을 처치하고 아처 마스터에게 돌아가세요
+消滅斯帕娜史霍	Defeat Sparnashorn	스파나스혼 처치
+遊俠大師的呼喚	Call of the Ranger Master	레인저 마스터의 부름
+到柯拉佩達，遊俠大師正在找你。	The Ranger Master in Klaipeda is looking for you	클라페다의 레인저 마스터가 당신을 찾고 있습니다
+消滅冷清市集的地心蟲王	Defeat Reaverpede in Lonesome Marketplace	스산한 장터의 리버피드 처치
+消滅地心蟲王	Defeat Reaverpede	리버피드 처치
+弩箭手大師的呼喚	Call of the Quarrel Shooter Master	쿼렐슈터 마스터의 부름
+到柯拉佩達，弩箭手大師正在找你。	The Quarrel Shooter Master in Klaipeda is looking for you	클라페다에 있는 쿼렐슈터 마스터가 당신을 찾고 있습니다
+消滅市中心街道的神殿射手	Defeat the Templeshooter of Town Center	중심시가의 템플슈터 처치
+向弩箭手大師	Report to the Quarrel Shooter Master	쿼렐슈터 마스터에게 보고
+射殺神殿射手	Defeat Templeshooter	템플슈터 사살
+工兵大師的呼喚	Call of the Sapper Master	새퍼 마스터의 부름
+獲得天然瑪瑙石	Obtained Natural Mano Stones	천연 마노석 획득
+獵人大師的呼喚	Call of the Hunter Master	헌터 마스터의 부름
+到夏奧雷伊東邊森林，獵人大師正在找你。	The Hunter Master in East Siauliai Woods is looking for you	샤울레이 동쪽 숲에서 헌터 마스터가 당신을 찾고 있습니다
+於冷清市集中消滅大量牛頭人	Defeat frantic Minotaur in Lonesome Marketplace	스산한 장터에서 흥분한 미노타우르스 처치
+交給獵人大師	Hand it over to the Hunter Master	헌터 마스터에게 전달
+獲得巨大獠牙	Obtain the gigantic canine	거대한 송곳니 획득
+巫蠱師大師的呼喚	Call of the Wugushi Master	무고사 마스터의 부름
+到佩迪米安，巫蠱師大師正在找你。	The Wugushi Master in Fedimian is looking for you	페디미안의 무고사 마스터가 당신을 찾고 있습니다
+消滅市中心街道的拉查托特	Defeat Rajatoad in the central district	중심시가의 라자토드 처치
+向巫蠱師大師報告	Report back to the Wugushi Master	무고사 마스터에게 보고
+斥候大師的呼喚	The Call of the Scout Master	스카우트 마스터의 부름
+消滅露克立斯街道的鐵甲僵屍 	Defeat Deadborn in Ruklys Street	루클리스 거리의 데드본 처치
+向斥候大師報告	Report to the Scout Master	스카우트 마스터에게 보고
+流氓大師的呼喚	Call of the Rogue Master	로그 마스터의 부름
+請去找佩迪米安的流氓大師。	Go to the Rogue Master in Fedimian	페디미안의 로그 마스터를 찾아 가세요.
+和流氓大師對決	Duel with the Rogue Master	로그 마스터와 대련
+與流氓大師對話	Talk to the Rogue Master	로그 마스터와 대화
+戰勝流氓大師	Dominate the Rogue Master	로그 마스터 제압
+造箭者大師的呼喚	The Call of the Fletcher Master	플레쳐 마스터의 부름
+收集易燃石	Collect the well burnable stones	잘 타는 돌멩이 수집
+收集易燃石頭	Collect flammable stones	잘 타는 돌맹이 수집
+黑暗騎兵大師的呼喚	Call of the Schwarzer Reiter Master	슈바르츠라이터 마스터의 부름
+到加橋森林，黑暗騎兵大師正在找你。	The Schwarzer Reiter Master is looking for you at Woods of Attached Bridge	덧댄다리 숲에 있는 슈바르츠라이터 마스터가 당신을 찾고 있습니다
+和黑暗騎兵大師練習對決	Duel against Schwarzer Reiter Master	슈바르츠라이터 마스터와 대련
+與黑暗騎兵大師對話	Talk to the Schwarzer Reiter Master	슈바르츠라이터 마스터와 대화
+黑暗騎兵的認可	Acknowledgement of Schwarzer Reiter	슈바르츠라이터의 인정
+尋訪牧師大師	Go to the Cleric Master	클레릭 마스터 찾아가기
+請去找柯拉佩達的牧師大師對話。	Go and talk to the Cleric Master in Klaipeda	클라페다에 있는 클레릭 마스터를 찾아 대화해 보세요.
+在冷清市集尋找野花花蕊	Obtain Wildflower Stamen from Lonesome Marketplace	스산한 장터에서 야생화 꽃술 구하기
+回去找牧師大師	Return to the Cleric Master	클레릭 마스터에게 돌아가기
+野花花蕊	Wildflower Stamen	야생화 꽃술
+在市中心街道回收遺失的聖物	Retrieve the lost Holy Materials in the Town Center	중심 시가에서 잃어버린 성물 회수
+交給聖火祭司大師	Deliver it to the Krivis Master	크리비 마스터에게 전달
+消滅毒魔蛙圖圖	Defeat Tutu	투투 처치
+勘查露克立斯街道	Search the Ruklys Street	루클리스 거리 탐색
+清除邪惡氣息的根源	Remove the Source of Evil Aura	사악한 기운의 근원 처치
+獲取冷清市集的石鯨怪的精髓	Obtain the essences of the petrified whales from Lonesome Marketplace	스산한 장터에서 석화고래의 정수 획득
+交給邪靈祭司大師	Deliver it to the Bokor Master	보코르 마스터에게 전달
+請去拜訪瑪凌波石窟的雕刻家泰斯拉。	Meet the Sculptor Tesla in Rhombuspaving Dale	마름포석골에 있는 조각가 테슬라를 찾아가세요.
+在市中心街道取得雕刻材料	Get piece materials from town center	중심시가에서 조각 재료 구하기
+請交給雕刻家泰斯拉	Give it to Sculptor Tesla	조각가 테슬라에게 전달
+尋找材料	Find the Materials	재료 찾기
+去拜訪佩迪米安的聖者大師	Meet the Sadhu Master in Fedimian	페디미안에 있는 사두 마스터를 찾아가세요.
+找出惡夢的原因並消除	Find the source of the nightmare and eliminate it	악몽의 근원을 찾아서 제거
+消滅妨礙睡眠的惡靈君主	Defeat the Specter Monarch that was the source of the nightmares	수면을 방해하는 스펙터 군주 처치
+請去拜訪玉光懸崖的聖殿十字軍 大師。	Meet the Paladin Master in Emerald Bluffs	옥빛서린 벼랑에 있는 팔라딘 마스터를 찾아가세요.
+消滅冷清市集的魔鬼鰩	Defeat Rajapearl in Lonesome Marketplace	스산한 장터의 라자펄 처치하기
+消滅魔鬼鰩	Defeat Rajapearl	라자펄 처치
+與武僧大師對話	Talk to the Monk Master	몽크 마스터와 대화
+到棲身的樹木山溝找武僧大師。	Find the Monk Master in Remaining Tree Dale	머무르는 나뭇골에 있는 몽크 마스터를 찾아가세요.
+消滅市中心街道的雷普斯並取得雷普斯的腳指甲	Defeat Lepus in the central district and obtain the toe nails of Lepus	중심시가의 레푸스를 처치하고 레푸스의 발톱 획득
+交給武僧大師	Give it to the Monk Master	몽크 마스터에게 전달
+消滅敏捷的雷普斯	Defeat Quick Lepus	재빠른 레푸스 처치
+與寬恕者大師對話	Talk to the Pardoner Master	파드너 마스터와 대화
+請去拜訪水晶小溪的寬恕者大師。	Meet the Pardoner Master in Crystal Brook	수정개울에 있는 파드너 마스터를 찾아가세요.
+找回遺失的免死牌巨款	Get back the lost payment of indulgence	잃어버린 면죄부의 대금 되찾기
+交給寬恕者大師	Give it to the Pardoner Master	파드너 마스터에게 전달
+消滅突然出現的巨眼丹提	Defeat Denoptics that suddenly appeared	갑자기 나타난 덴옵틱 처치
+神諭師大師的呼喚	Call of the Oracle Master	오라클 마스터의 부름
+和神諭師大師對決	Duel with the Oracle Master	오라클 마스터와의 대련
+與神諭師大師對話	Talk to the Oracle Master	오라클 마스터와 대화
+得到神諭師大師的認同	Earn Recognition of the Oracle Master	오라클 마스터에게 인정받기
+請去找柯拉佩達的邪靈祭司大師。	Go to the Bokor Master in Klaipeda	클라페다의 보코르 마스터에게 찾아가세요.
+製作邪靈祭司人偶	Make Bokor Doll	보코르 인형 제작
+ 按下按鍵進入休息模式後 	Press the key to go into the Rest Mode	 키를 눌러 휴식모드 후 
+請按S鍵開始製作邪靈祭司玩偶	Craft Bokor Doll by pressing S key	S 키를 눌러 보코르 인형 제작
+向邪靈祭司大師報告	Report to the Bokor Master	보코르 마스터에게 보고
+請去找柯拉佩達的輕裝步兵大師。	Go to the Peltasta Master in Klaipeda	클라페다에 있는 펠타스타 마스터를 찾아가세요.
+消滅水晶礦山1層的布貝	Defeat the Vubbes in Crystal Mine 1F	수정광산 1층의 부베 처치
+消滅水晶礦山1層的布貝	Defeat the Vubbes in Crystal Mine 1F	수정광산 1층에서 부베 처치
+消滅水晶礦山1層的布貝	Defeat the Vubbes in Crystal Mine 1F	수정광산1층의 부베처치
+幫助邪靈祭司大師的研究	Help with the Bokor Master's research	보코르 마스터의 연구 돕기
+被召喚的惡靈	Summoned Evil	소환된 악령
+開啟烈焰法師大師的箱子	Open the Pyromancer Master's Box	파이로맨서 마스터의 상자 열기
+向寒冰法師大師報告	Report to the Cryomancer Master	크리오맨서 마스터에게 보고
+消滅契約守護者	Defeat the Guardian of Contract	계약의 수호자 처치
+尋訪大餓鬼路的百夫長大師	Go to the Centurion Master in Starving Demons' Road	큰아귀길에 있는 센츄리온 마스터 찾아가기
+挖採尼扣堤亞的嫩芽	Dig the young shoot of Nicotia	니코티아의 어린 순 캐기
+消滅擋在藥草產地前的比特雷巨蜂	Defeat the Biteregina blocking medicinal herb's habitat	약초 자생지 앞을 막고 있는 비테레지나 처치
+挖採藥草	Collect medicinal herbs	약초 캐기
+與聖火祭司大師見面	Meet the Krivis Master	크리비 마스터 만나기
+請去找柯拉佩達的聖火祭司大師。	Go to the Krivis Master in Klaipeda	클라페다에 있는 크리비 마스터를 찾아 가세요.
+與聖水祭司大師見面	Meet the Priest Master	프리스트 마스터 만나기
+幫助聖水祭司大師的工作	Help the Priest Master's work	프리스트 마스터의 일 도와주기
+與牧師大師見面	Meet with the Cleric Master	클레릭 마스터 만나기
+參拜佩迪米安的女神像	Worship the Goddess Statue in Fedimian	페디미안의 여신상에 경배하기
+向聖火祭司大師報告	Report to the Krivis Master	크리비 마스터에게 보고
+祛除邪惡的氣息	Defeat the evil force	사악한 기운 물리치기
+與邪靈祭司大師見面	Meet the Bokor Master	보코르 마스터 만나기
+請去找柯拉佩達的邪靈祭司大師。	Go to the Bokor Master in Klaipeda	클라페다의 보코르 마스터를 찾아 가세요.
+向聖火祭司大師取得寶石	Get the jewel from the Krivis Master	크리비 마스터에게 보석 받아 오기
+回去找邪靈祭司大師	Return to the Bokor Master	보코르 마스터에게 돌아가기
+與雕刻家泰斯拉見面	Meet with Sculptor Tesla	조각가 테슬라 만나기
+與瑪凌波石窟的雕刻家泰斯拉對話。	Talk to Sculptor Tesla in Rhombuspaving Dale	마름포석골에 있는 조각가 테슬라와 대화해 보세요.
+向牧師大師取得香油	Receive balm from the Cleric Master	클레릭 마스터에게 향유 받기
+向聖火祭司大師取得香油	Get balm from the Krivis Master	크리비 마스터에게 향유 받기
+向聖水祭司大師取得香油	Receive balm from the Priest Master	프리스트 마스터에게 향유 받기
+向邪靈祭司大師取得香油	Receive balm from the Bokor Master	보코르 마스터에게 향유 받기
+修整佩迪米安與柯拉佩達的女神像	Restore the Goddess Statues in Fedimian and Klaipeda	페디미안과 클라페다에 있는 여신상 보수하기
+向雕刻家泰斯拉報告	Report to Tesla	조각가 테슬라에게 보고
+與聖者大師見面	Meet the Sadhu master	사두 마스터 만나기
+請與佩迪米安的聖者大師對話。	Talk to the Sadhu Master in Fedimian	페디미안에 있는 사두 마스터와 대화해 보세요.
+消滅大餓鬼路的怪物	Defeat Monsters in Starving Demon's Way	큰아귀 길의 몬스터 퇴치
+聖者大師要求你幫忙消滅在大餓鬼路上威脅居民的怪物們。	The Sadhu Master asked you to defeat the monsters that are threatening the villagers in Starving Demon's Way	사두 마스터는 큰 아귀 길에서 주민들을 위협하는 몬스터들을 퇴치해 달라고 합니다.
+向聖者大師報告	Report to the Sadhu master	사두 마스터에게 보고
+消滅大餓鬼路上的怪物	Defeat Monsters in Starving Demon's Way	큰 아귀 길의 몬스터 처치
+請去找玉光懸崖的聖殿十字軍大師。	Go to the Paladin Master in Emerald Bluffs	옥빛 서린 벼랑에 있는 팔라딘 마스터를 찾아 가세요.
+和聖殿十字軍大師對決	Duel with the Paladin Master	팔라딘 마스터와 대련
+通過聖殿十字軍大師的對決考驗	Pass the duel test with the Paladin Master	팔라딘 마스터의 대련 테스트 통과
+與武僧大師見面	Meet the Monk Master	몽크 마스터 만나기
+到棲身的樹木山溝和武僧大師對話。	Talk with the Monk Master in Remaining Tree Dale	머무르는 나뭇골에 있는 몽크 마스터와 대화하세요.
+和武僧大師對決	Duel with the Monk Master	몽크 마스터와 대련
+通過武僧大師的考驗	Pass the Monk Master's test	몽크 마스터의 테스트 통과
+與寬恕者大師見面	Meet the Pardoner Master	파드너 마스터 만나기
+去見佩迪米安的裝備商人	Meet the Equipment Merchant in Fedimian	페디미안의 장비상인 만나러 가기
+拜訪佩迪米安道具商人	Meet the Item Merchant in Fedimian	페디미안 도구상인 만나기
+獲得火甕	Acquired Fire Pot	불항아리 획득
+消滅魔斯怪	Defeat Mothstem	모스템 처치
+與佩迪米安的裝備商人對話	Talk to Equipment Merchant in Fedimian	페디미안의 장비상인과 대화
+收集大餓鬼路的凝固油	Collect the condensed oil from Starving Demon's Way	큰아귀 길에서 굳은 기름 수집
+交給佩迪米安的裝備商人	Give it to the Equipment Merchant in Fedimian	페디미안의 장비상인에게 전달
+消除夏奧雷伊西邊森林的危險	Remove the threats of West Siauliai Woods	샤울레이 서쪽 숲의 위험 제거
+解除破旗森林的危險	Eliminate the danger in Sunset Flag Forest	해진깃발숲의 위험 제거
+消滅夏奧雷伊東邊森林的波亞塔	Defeat the Poata in East Siauliai Woods	샤울레이 동쪽 숲의 포아타 처치
+消滅夏奧雷伊西邊森林的蘑菇卡利亞	Defeat the Mushcaria in West Siauliai Woods	샤울레이 서쪽 숲의 머슈카리아 처치
+消滅夏奧雷伊礦山村莊的赤紅布貝鬥士	Defeat the Vubbe Fighter at the Miners' Village	샤울레이 광산 마을의 붉은 부베 투사 처치
+向念力法師大師報告	Report to Psychokino master	사이코키노 마스터에게 보고
+消滅赤紅布貝鬥士	Defeat Red Vubbe Fighter	붉은 부베 투사 처치
+消滅夏奧雷伊東邊森林的非凡的布貝鬥士	Defeat the unusual Vubbe Fighter in East Siauliai Woods	샤울레이 동쪽 숲의 비범한 부베 투사 처치
+向鎖鏈法師大師報告	Report to the Linker Master	링커 마스터에게 보고
+消滅非凡的布貝鬥士	Defeat the unusual Vubbe Fighter	비범한 부베 투사 처치
+消滅魔法師之塔1層的燃燒的火焰蜥蜴王	Defeat the Flaming Salamander in Mage Tower 1F	마법사의 탑 1층의 타오르는 셀러맨더 처치
+向奇術師大師報告	Report to the Thaumaturge Master	쏘마터지 마스터에게 보고
+為了元素使大師的試驗，請到棲身的樹木山溝消滅地心蟲王。	Defeat Reaverpede in Remaining Tree Dale for the test of the Elementalist Master	엘레멘탈리스트 마스터의 시험을 위해 머무르는 나뭇골의 리버피드를 처치하세요.
+向元素使大師報告	Report to the Elementalist Master	엘레멘탈리스트 마스터에게 보고
+請去拜訪水晶小溪的巫師大師。	Meet the Sorcerer Master in Crystal Brook	수정 개울의 소서러 마스터를 찾아 가세요.
+消滅水晶小溪的惡魔葛洛夫	Defeat Devilglove in Crystal Brook	수정개울의 데블글로브 처치
+向巫師大師報告	Report to the Sorcerer Master	소서러 마스터에게 보고
+到大餓鬼路和死靈法師大師對話。	Talk with the Necromancer Master in Starving Demon's Way	큰아귀 길의 네크로맨서 마스터와 대화하세요.
+收集大餓鬼路的怪物屍體	Collect the corpses of monsters in Starving Demon's Way	큰 아귀 길의 몬스터 사체 수집
+轉交屍體給死靈法師大師	Hand over the corpses to the Necromancer Master	네크로맨서 마스터에게 사체 전달
+請去找柯拉佩達的劍士大師。	Go to the Swordsman Master in Klaipeda	클라페다의 소드맨 마스터를 찾아 가세요.
+消滅晴嵐森林的鬼眼蜘蛛 	Defeat Honeypin at Deep Indigo Forest	청람머문 숲의 허니핀 처치
+請去找柯拉佩達的輕裝步兵大師。	Go to the Peltasta Master in Klaipeda	클라페다의 펠타스타 마스터를 찾아 가세요.
+消滅無花森林的魔龍凱拉斯	Defeat Gaigalas in Flowerless Forest	꽃모자른 숲의 가이갈라스 처치
+消滅魔龍凱拉斯	Defeat Gaigalas	가이갈라스 처치
+請去找夏奧雷伊東邊森林的野蠻人大師。	Go to the Barbarian Master in East Siauliai Woods	샤울레이 동쪽 숲의 바바리안 마스터를 찾아 가세요.
+消滅增岩森林的波亞塔	Meet the Barbarian Master at East Siauliai Woods	점층바위 숲의 포아타 처치
+請去找佩迪米安的侍從大師。	Go to the Squire Master in Fedimian	페디미안의 스콰이어 마스터를 찾아 가세요.
+請消滅波亞塔尋找家門的紋章	Defeate Poata and find the seal of family	포아타를 처치하여 가문의 문장 찾기
+向侍從大師報告	Report to the Squire Master	스콰이어 마스터에게 보고
+獲得勒肯家門的裝飾	Acquire the ornament of the Legwyn Family	르귄가문의 장식 획득
+和海賊大師對話	Talk to the Corsair Master	커세어 마스터와 대화
+去找大餓鬼路的海賊大師。	Meet the Squire Master in Starving Demon's Way	큰아귀 길의 커세어 마스터를 찾아 가세요.
+向海賊大師報告	Report to the Corsair Master	커세어 마스터에게 보고
+和雙酬傭兵大師對話	Talk to the Doppelsoeldner Master	도펠죌트너 마스터와 대화
+請向雙酬傭兵大師報告	Report to the Doppelsoeldner Master	도펠죌트너 마스터에게 보고
+與時空法師大師對話	Talk to the Chronomancer Master	크로노맨서 마스터와 대화
+到棲身的樹木山溝消滅地心蟲王	Defeat Reaverpede in Remaining Tree Dale	머무르는 나뭇골의 리버피드 처치
+向時空法師大師報告	Report to the Chronomancer Master	크로노맨서 마스터에게 보고
+與法師大師見面	Meet the Wizard Master	위저드 마스터 만나기
+請與柯拉佩達的法師大師見面	Meet the Wizard Master in Klaipeda	클라페다에 있는 위저드 마스터를 만나세요
+消滅夏奧雷伊東邊森林的鋼鐵巴溫	Defeat Ironbaum in East Siauliai Woods	샤울레이 동쪽 숲의 아이언바움 처치
+與烈焰法師大師見面	Meet the Pyromancer Master	파이로맨서 마스터 만나기
+請和柯拉佩達的烈焰法師大師見面	Meet the Pyromancer Master in Klaipeda	클라페다에 있는 파이로맨서 마스터를 만나세요
+與寒冰法師大師見面	Meet the Cryomancer Master	크리오맨서 마스터 만나기
+請和柯拉佩達的寒冰法師大師見面	Meet the Cryomancer Master in Klaipeda	클라페다에 있는 크리오맨서 마스터를 만나세요
+與念力法師大師見面	Meet the Psychokino Master	사이코키노 마스터 만나기
+請去見夏奧雷伊礦山村莊的念力法師大師	Meet the Psychokino Master at the Miners' Village	샤울레이 광산 마을의 사이코키노 마스터를 만나세요
+消滅夏奧雷伊礦山村莊的狼人	Defeat the Werewolf at the Miners' Village	사울레이 광산 마을의 웨어울프 처치
+與鎖鏈法師大師見面	Meet the Linker Master	링커 마스터 만나기
+請去見夏奧雷伊礦山村莊的鎖鏈法師大師	Meet the Linker Master in Siauliai Miners' Village	샤울레이 광산 마을의 링커 마스터를 만나세요
+消滅夏奧雷伊礦山村莊的狼人	Defeat Werewolf in Siauliai Miners' Village	샤울레이 광산 마을의 웨어울프 처치
+與奇術師大師見面	Meet the Thaumaturge Master	쏘마터지 마스터 만나기
+到佩迪米安和奇術師大師見面。	Meet the Thaumaturge Master in Fedimian	페디미안에 있는 쏘마터지 마스터를 만나세요.
+在斷層地消滅尼多普巴伊	Defeat Netherbovine at Faultline	단층지에서 네더보바인을 처치
+和元素使大師見面	Meet the Elementalist Master	엘레멘탈리스트 마스터 만나기
+到佩迪米安和元素使大師見面。	Meet the Elementalist Master in Fedimian	페디미안에 있는 엘레멘탈리스트 마스터를 만나세요.
+消滅斷層地的尼多普巴伊	Defeat Netherbovine in Faultline	단층지의 네더보바인 처치
+與巫師大師見面	Meet the Sorcerer Master	소서러 마스터 만나기
+到水晶小溪和巫師大師見面。	Meet the Sorcerer Master in Crystal Brook	수정개울에 있는 소서러 마스터를 만나세요
+與時空法師大師見面	Meet the Chronomancer Master	크로노맨서 마스터 만나기
+到高根路和時空法師大師見面。	Meet the Chronomancer Master in High Crooked Road	높이굽은 길에 있는 크로노맨서 마스터를 만나세요
+與拜杜塔斯見面	Meet Vaidotas	바이도타스 만나기
+向拜杜塔斯報告	Report to Vaidotas	바이도타스에게 보고
+在水晶礦山1層尋找鏡片	Find the lens in Crystal Mine 1F	수정광산 1층에서 렌즈 찾기
+請去找柯拉佩達的遊俠大師。	Go to the Ranger Master in Klaipeda	클라페다에 있는 레인저 마스터를 찾아 가세요.
+收集蝙蝠毒樣本	Collect Bat Venom Sample	박쥐의 독 견본 수집
+還沒向獵人大師取得葛利查頓的堅韌皮革嗎？	The tough leather of Glizardon from the Hunter Master has not arrived yet?	헌터 마스터에게서 글리자돈의 질긴 가죽은 아직인가?
+還沒向弓箭手大師取得葛利查頓的堅韌皮革嗎？	The tough leather of Glizardon from the Archer Master has not arrived yet?	아처 마스터에게서 글리자돈의 질긴 가죽은 아직인가?
+詢問我該做什麼才好。	Ask what you should do	무엇을 하면 되는지 묻는다
+我沒有義務那麼做	I am not responsible to do it	그럴 의무는 없다고 한다
+安靜的探訪者[遊俠轉職](1)	The Silent Investigator [Ranger Advancement] (1)	조용한 탐문자[레인저 전직](1)
+安靜的探訪者[遊俠轉職](2)	The Silent Investigator [Ranger Advancement] (2)	조용한 탐문자[레인저 전직](2)
+成為魔法師的方法[元素使轉職]	The Way to Become A Wizard [Elementalist]	마법사가 되는 방법[엘리멘탈리스트 전직]
+我要挑戰	Tell him you would challenge for it	도전하겠다고 한다
+太危險了	Tell him its too dangerous	너무 위험하다고 한다
+我願意帶回易燃石材	I will bring burnable woods	잘 타는 석재를 구해 오겠다고 한다
+得到人心的事[聖者轉職]	The Task of Gaining the Mind [Sadhu]	마음을 얻는 일[사두 전직]
+詢問我要做什麼。	Ask what to do	무엇을 해야 하는지 묻는다
+好像沒什麼幫助	Tell him it won't be helpful	별로 도움될 것 같지 않다고 한다
+考驗很重要[元素使轉職]	An Important Test [Elementalist]	시험은 중요해[엘리멘탈리스트 전직]
+好像很危險，我拒絕	Decline since it seems too dangerous	위험할 것 같으니 거절하자
+詢問是什麼禮物。	Ask what the gift is	어떤 선물인지 묻는다
+完成元素使的任務[元素使轉職]	Completing the Elementalist's Mission [Elementalist Advancement]	엘리멘탈리스트의 임무 완수[엘리멘탈리스트 전직]
+在貝雅山谷收集圖約勒的花蕊	Collect the flower alcohol of Doyor from Veja Ravine	베야 골짜기에서 도요르의 꽃술 수집
+圖約勒的花蕊	Flower Alcohol of Doyor	도요르의 꽃술
+寇利羅斯之核	Corylus Core	코릴러스의 핵
+卡露克的血	Galok Blood	갈록의 피
+收集葛利查頓的堅韌皮革	Collect the touch leather of Glizardon	글리자돈의 질긴 가죽 수집
+把葛利查頓的堅韌皮革交給弩箭手大師	Hand over Glizardon's tough leather to Quarrel Shooter Master	쿼렐슈터 마스터에게 글리자돈의 질긴 가죽 전달
+請去找夏奧雷伊西邊森林的雕刻家泰斯拉。	Meet Sculptor Tesla at West Siauliai Woods	샤울레이 서쪽 숲의 조각가 테슬라에게 찾아가세요.
+從草伽藍址的提皮歐那裡取得粗糙樹皮	Obtain the coarse tree barks from Tipios in Grass Riverside	풀가람터의 티피오에게서 성긴 나무 껍질 획득
+科博爾特森林	Cobalt Forest	코발트 숲
+交給柯拉佩達的輕裝步兵大師	Hand them over to the Peltasta Master in Klaipeda	클라페다의 펠타스타 마스터에게 전달
+到貝雅山谷收集畢托爾的腳指甲	Collect Beetow toe nails from Veja Ravine	베야 골짜기에서 비토우의 발톱 수집
+交給高地戰士大師	Hand them over to the Highlander Master	하이랜더 마스터에게 전달
+畢托爾的腳指甲	The toe nails of Beetow	비토우의 발톱
+消滅貝雅山谷的畢托爾	Defeat Beetow at Veja Ravine	베야 골짜기의 비토우 처치
+消滅畢托爾	Defeat Beetow	비토우 처지
+在關口路收集魔族的精髓	Collect the Demon Essences at Gate Route	관문로에서 마족의 정수 수집
+在史爾特凱拉森林尋找地圖	Find the map at Sirdgela Forest	시르드겔라 숲에서 지도 찾기
+尋訪聖者大師	Meet the Sadhu Master	사두 마스터를 찾아가기
+與元素使大師對話	Talk to the Elementalist Master	엘리멘탈리스트 마스터와 대화
+在史爾特凱拉森林尋找艾保尼風的蹤跡	Look for the traces of Evoniphon at Sirdgela Forest	시르드겔라 숲에서 에보니폰 흔적 찾기
+吞吐利亞的易燃汁液	Burnable Juice of Tontulia	톤투리아의 잘 타는 즙
+交給工兵大師	Hand them over to the Sapper Master	새퍼 마스터에게 전달
+請去找夏奧雷伊西邊森林的雕刻家泰斯拉。	Meet the Sculptor Tesla at the West Siauliai Woods	샤울레이 서쪽 숲에 있는 조각가 테슬라를 찾아 가세요.
+到史爾特凱拉森林尋找道具商人的父親	Look for the father of the Equipment Merchant at Sirdgela Forest	시르드겔라 숲에서 도구상인의 아버지 찾기
+前往拉姆斯堤斯峽谷放置太陽之甕	Put the pot of the sun at Ramstis Ridge	람스티스 협곡으로 가서 태양의 항아리 놓기
+消滅比爾塔溪谷的史潘飛行獸人	Defeat Sparnasman at Vieta Gorge	비에타 계곡의 스파나스맨 처치
+消滅拉姆斯堤斯峽谷的死靈查普利	Defeat Chapparition at Ramstis Ridge	람스티스 협곡의 채퍼리션 처치
+在拉姆斯堤斯峽谷收集魔法研究資料	Obtain the magic research materials at Ramstis Ridge	람스티스 협곡에서 마법 연구 자료 모으기
+執行元素使大師的任務	Complete the assignments of the Elementalist Master	엘리멘탈리스트 마스터의 과제 수행
+把任務交給元素使大師	Hand over the assignments to the Elementalist Master	엘리멘탈리스트 마스터에게 과제 전달
+請消滅比爾塔溪谷的史潘飛行獸人，向鐵甲騎兵大師證明自己的能耐。	Defeat Sparnasman at Vieta Gorge to prove your skills to the Cataphract Master	캐터프랙트 마스터에게 비에타 계곡에 있는 스파나스맨을 처치하여 실력을 증명하세요.
+在佩迪米安外城消滅莫厄	Defeat Moas at Fedimian Suburbs	페디미안 외곽에서 모아 처치
+請去找阿克梅斯山脊的海賊大師。	Meet the Corsair Master at Akmens Ridge	아크멘스 능선에 있는 커세어 마스터를 찾아가세요.
+請去找大王關口的圓盾劍士大師。	Meet the Rodelero Master at the Gateway of the Great King	대왕의 관문에 있는 로델레로 마스터를 찾아 가세요.
+尋訪艾沙奇烏村莊的造箭者大師	Find the Fletcher Master at Escanciu Village	에산치우 마을의 플레쳐 마스터 찾아가기
+到艾沙奇烏村莊找造箭者大師。	Find the Fletcher Master at Escanciu Village	에산치우 마을에 있는 플레쳐 마스터를 찾아 가세요.
+使用誘餌狩獵3種怪物	Hunt for 3 kinds of monsters using baits	미끼를 사용하여 몬스터 3종 사냥
+卡汀森林入口的野蜘蛛	Bushspiders at the entrance of Kateen Forest	카틴 숲 입구의 크루마보
+貓頭鷹之墓的艾洛瑪庫	Ellomagos at the Owl Burial Ground	매너클 묘지의 엘로마고
+波塞林奇斯森林的綠色獠牙豬	Green Pokuborns at Poslinkis Forest	포슬린키스 숲의 초록 포쿠본
+向大黃蜂收集合成毒	Collect the synthesized poison from Bites	바이트에게서 합성독 수집
+用閃光彈偵測躲藏的怪物並將之消滅	Find the hidden monsters using flash bombs and defeat them	섬광탄으로 숨어있는 몬스터를 탐지하여 처치
+消滅探知到的怪物	Defeat the detected monsters	탐지된 몬스터 처치
+消滅貓頭鷹之墓的鬼影凱伊洛	Defeat Shadowgaler at the Owl Burial Ground	매너클 묘지의 섀도게일러 처치
+消滅貓頭鷹之墓的耶庫	Defeat Yekub at Owl Burial Ground	매너클 묘지의 예쿱 처치
+消滅克林卡的莊園的曼陀花獸	Defeat Colimencia	그린가의 장원의 콜리멘시아 처치
+消滅路克索那市場的地心蟲王	Defeat Reaverpede at Roxona Marketplace	록소나 장터의 리버피드 처치
+在路克索那市場消滅興奮的米諾牛頭怪	Defeat Minotaur at Roxona Marketplace	록소나 장터에서 흥분한 미노타우르스 처치
+到堤塔斯峽谷，巫蠱師大師正在找你。	The Wugushi Master at Tiltas Valley is looking for you	틸타스 협곡의 무고사 마스터가 당신을 찾고 있습니다
+消滅魔族收監所第1區的拉查托特	Defeat Rajatoad at the 1st zone of the Demon Prison	마족수감소 1구역의 라자토드 처치
+到長橋溪谷，斥候大師正在找你。	The Scout Master at Overlong Bridge Valley is waiting for you	긴다리 계곡의 스카우트 마스터가 당신을 찾고 있습니다
+消滅魔族收監所第1區的鐵甲僵屍	Defeat Deadborn at the 1st zone of the Demon Prison	마족수감소 1구역의 데드본 처치
+到艾沙奇烏村莊，造箭者大師正在找你。	The Fletcher Master of Escanciu Village is looking for you	에산치우 마을의 플레쳐 마스터가 당신을 찾고 있습니다
+收集易燃石材	Collect the burnable wood coals	잘 타는 석재 수집
+到石橋亡地，黑暗騎兵大師正在找你。	The Schwarzer Reiter Master at Awating Stone Bridge is looking for you	돌다리 망터에 있는 슈바르츠라이터 마스터가 당신을 찾고 있습니다
+向黑暗騎兵大師報告	Report to the Schwarzer Reiter Master	슈바르츠라이터 마스터에게 보고
+在路克索那市場取得野花花蕊	Obtain the alcohol of wild flowers at Roxona Marketplace	록소나 장터에서 야생화 꽃술 구하기
+在路克索那市場獲得石鯨怪的精髓	Obtain the Essence of Stone Whale at Roxona Marketplace	록소나 장터에서 석화고래의 정수 획득
+消滅特南茲農場的魔龍凱拉斯	Defeat Gaigalas at Tenants' Farm	테넌츠 농장의 가이갈라스 처치
+消滅突然出現的約納喬雷	Defeat Yonazolem that suddenly appeared	갑자기 나타난 요나졸렘 처치
+請和夏奧雷伊西邊森林的雕刻家泰斯拉對話。	Talk to the Sculptor Tesla at West Siauliai Woods	샤울레이 서쪽 숲에 있는 조각가 테슬라와 대화해 보세요.
+請和阿克梅斯山脊的聖者大師對話。	Talk to the Sadhu Master at Akmens Ridge	아크멘스 능선에 있는 사두 마스터와 대화해 보세요.
+消滅史可尼斯原野的藍色普朗基	Defeat Blue Puragi at Saknis Plains	사크니스 벌판의 푸른 푸라기 처치
+消滅藍色普朗基	Defeat Blue Puragis	푸른 푸라기 처치
+到艾沙奇烏村莊和武僧大師對話。	Talk to the Monk Master at Escanciu Village	에산치우 마을에 있는 몽크 마스터와 대화하세요.
+在史可尼斯原野收集凝固油	Obtain the hardened oil at Saknis Plains	사크니스 벌판에서 굳은 기름 수집
+清除貓頭鷹之墓的危險	Get rid of the danger at the Owl Burial Ground	매너클 묘지의 위험 제거
+向元素使大師報告	Report to the Elementalist Master	엘리멘탈리스트 마스터에게 보고
+消滅佩迪米安外城的惡魔葛洛夫	Defeat Devilglove at Fedimian Suburbs	페디미안 외곽의 데블글로브 처치
+在大餓鬼路上尋找死靈法師大師的禮物	Find the gift of the Necromancer Master at Starving Demon's Way	큰 아귀 길에서 네크로맨서 마스터의 선물 찾기
+向死靈法師大師報告禮物的事	Report about the gifts to the Necromancer Master	네크로맨서 마스터에게 선물 보고
+消滅克里那斯林間小路的鬼眼蜘蛛	Defeat Honeypin at the way of Grynas Trails	그리나스 숲길의 허니핀 처치
+消滅克里那斯修練場的魔龍凱拉斯	Defeat Gaigalas at Grynas Training Camp	그리나스 수련장의 가이갈라스 처치
+消滅克里那斯丘陵地的曼陀花獸	Defeat Colimencia at Grynas Hills	그리나스 구릉지의 콜리멘시아 처치
+消滅克里那斯丘陵地的波亞塔	Defeat Poata at Grynas Hills	그리나스 구릉지의 포아타 처치
+請去找大王關口的圓盾劍士大師。	Meet the Rodelero Master at the Gateway of the Great King	대왕의 관문의 로델레로 마스터를 찾아 가세요.
+消滅特南茲農場的鬼眼蜘蛛	Defeat Honeypin at Tenants' Farm	테넌츠 농장의 허니핀 처치
+消滅艾沙奇烏村莊的地心蟲王	Defeat Reaverpede at Escanciu Village	에산치우 마을의 리버피드 처치
+為了時空法師大師的考驗，請消滅艾沙奇烏村莊的地心蟲王。	Defeat Reaverpede of Escanciu Village to take the test of the Chronomancer Master	크로노맨서 마스터의 시험을 위해 에산치우 마을의 리버피드를 처치하세요.
+在波塞林奇斯森林消滅尼多普巴伊	Defeat Netherbovine at Poslinkis Forest	포슬린키스 숲에서 네더보바인을 처치
+與元素使大師見面	Meet the Elementalist Master	엘리멘탈리스트 마스터 만나기
+請和阿克梅斯山脊的元素使大師見面。	Meet the Elementalist Master at Akmens Ridge	아크멘스 능선에 있는 엘리멘탈리스트 마스터를 만나세요.
+消滅波塞林奇斯森林的尼多普巴伊	Defeat Netherbovine at Poslinkis Forest	포슬린키스 숲의 네더보바인 처치
+請和佩迪米安外城的巫師大師見面。	Meet the Sorcerer Master at Fedimian Suburbs	페디미안 외곽에 있는 소서러 마스터를 만나세요
+請和碑石路的時空法師大師見面	Meet the Chronomancer Master in Stele Road	비석로에 있는 크로노맨서 마스터를 만나세요
+到謬樂斯通道和死靈法師大師對話。	Talk to the Necromancer Master at Mullers Passage	뮬러스 통로의 네크로맨서 마스터와 대화하세요.
+在大餓鬼路尋找死靈法師大師的禮物	Find the gift of the Necromancer Master at Starving Demon's Way	큰아귀 길에서 네크로맨서 마스터의 선물 찾기
+到碑石路和時空法師大師對話。	Talk to the Chronomancer Master at Stele Road	비석로에 있는 크로노맨서 마스터와 대화하세요.
+那點錢我付得出來	I can afford it	그정도라면 낼 수 있다고 한다
+我沒有那種錢	I don't have money for that	그런 돈은 없다고 한다
+在泰內聖堂地上1層中的異面世界獲得書	Obtain the book from the two dimensional world in Tenet Church 1F	테넷 성당 지상 1층에 있는 이면세계에서 책 획득
+在泰內聖堂地上1層的異面世界獲得書	Obtain the book from the two dimensional world in Tenet Church 1F	테넷 성당 지상 1층의 이면세계에서 책 획득
+從貝雅山谷的提皮歐那裡收集粗糙樹皮	Obtain the tree barks from Tipios from Veja Ravine	베야 골짜기의 티피오에게서 성긴 나무 껍질 획득
+在波塞林奇斯森林消滅消滅尼多普巴伊，獲得收集尖銳獠牙	Obtain the sharp canine by defeating Netherbovine at Poslinkis Forest	포슬린키스 숲에서 네더보바인을 처치하고 날카로운 송곳니 획득
+馴鷹者大師	Falconer Master	응사 마스터
+挑剔的胃口[馴鷹者轉職]	Picky Taste [Falconer Advancement]	까다로운 입맛[응사 전직]
+那種麻煩的事我辦不到	I can't do such tiresome duties	그런 귀찮은 일은 못하겠다고 한다
+在水晶礦山1層收集石頭歐魯卡的心臟	Obtain the heart of Stone Orca at Crystal Mine 1F	수정광산 1층에서 스톤오르카의 심장 수집
+水晶礦山1層全區	Crystal Mine 1F Area	수정광산 1층 전지역
+使用煙幕彈消滅怪物	Defeat monsters using smoke bombs	연막탄을 사용하고 몬스터 처치하기
+到柯拉佩達，神諭師大師正在找你。	The Oracle Master is waiting for you in Klaipeda	클라페다에서 오라클 마스터가 당신을 찾고 있습니다
+馴鷹者大師的呼喚	Call of the Falconer Master	응사 마스터의 부름
+取得老鷹喜歡的肉	Obtain the meat that the hawk likes	매가 좋아하는 고기 구하기
+與馴鷹者大師對話	Talk with the Falconer Master	응사 마스터와 대화
+貝雅山谷全地區	All regions at Veja Ravine	베야 골짜기 전 지역
+消滅石頭歐魯卡	Defeat Stone Orca	스톤오르카를 처치
+詢問我要幫忙什麼。	What should I help you with?	도와줄 일이 무엇인지 묻는다
+請告訴我	Tell me about it	말해보라고 한다
+引誘中	Luring	유인 중
+採集野花花蕊中	Extracting wildflower alcohol	야생화 꽃술 채집 중
+Notice/空箱子	Notice/Empty Box	Notice/빈 상자입니다
+沒錯	Yes	그렇다고 한다
+收集賽堤尼山溝裡卡樂卡修的種子	Collect the seeds of Carcashus from Septyni Glen	셉티니 골에서 카르카슈의 씨앗 수집
+在賽堤尼山溝的曼陀羅之樹身上獲取粗糙樹皮	Obtain the coarse tree barks from Mentiwood at Septyni Glen	셉티니 골의 멘티우드에게서 성긴 나무 껍질 획득
+收集賽堤尼山溝中畢特羅斯的腳趾甲	Collect the toe nails of Biteroses at Septyni Glen	셉티니 골에서 비테로스의 발톱 수집
+賽堤尼山溝全區	All regions in Septyni Glen	셉티니 골 전 지역
+畢特羅斯的腳指甲	The toe nails of Biteroses	비테로스의 발톱
+消滅賽堤尼山溝的卡樂卡修	Defeat Carcashus at Septyni Glen	셉티니 골의 카르카슈 처치
+請和大王關口的巫蠱師大師對話。	Talk to the Wugushi Master in Gateway of Great King	대왕의 관문에 있는 무고사 마스터와 대화해 보세요.
+向夏奧雷伊礦山村莊的布貝收集綠色膏藥	Collect Green Ointments from Vubbes in Siauliai Miners' Village	샤울레이 광산 마을의 부베에게서 녹색 고약 수집
+請去找女神的古院的造箭者大師。	Go to the Fletcher Master in Goddess' Ancient Garden	여신의 옛뜰에 있는 플레쳐 마스터를 찾아 가세요.
+獵捕各地的怪物3種	Hunt for 3 kinds of monsters in various regions	다양한 지역의 몬스터 3종 사냥
+請去找大王關口的巫蠱師大師。	Go to the Wugushi Master in Gateway to Great King	대왕의 관문에 있는 무고사 마스터를 찾아 가세요.
+請去找大王關口的斥候大師。	Go to the Scout Master in Gateway to Great King	대왕의 관문에 있는 스카우트 마스터를 찾아 가 보세요.
+請去找祈願森林的百夫長大師。	Go to the Centurion Master in Forest of Prayer	기원의 숲에 있는 센츄리온 마스터를 찾아 가세요.
+請去找女神的古院的武僧大師。	Go to the Monk Master in Goddess' Ancient Garden	여신의 옛뜰에 있는 몽크 마스터를 찾아가세요.
+向波塞林奇斯森林的尼多普巴伊收集尖銳獠牙	Collect a Sharp Canine from Netherbovine at Poslinkis Forest	포슬린키스 숲의 네더보바인에게서 날카로운 송곳니 수집
+請去找阿克梅斯山脊的寬恕者大師。	Go to the Pardoner Master in Akmens Ridge	아크멘스 능선에 있는 파드너 마스터를 찾아가세요.
+消滅亞希梅斯堤交叉路的赤紅安布羅樹精	Defeat Red Tree Ambulos at Apsimesti Crossroads	압시메스티 교차로의 붉은 트리암불로 처치
+請去找祈願森林的巫師大師。	Go to the Sorcerer Master in Forest of Prayer	기원의 숲의 소서러 마스터를 찾아 가세요.
+請去找大王關口的鐵甲騎兵大師。	Go to the Cataphract Master in Gateway of Great King	대왕의 관문의 캐터프랙트 마스터를 찾아 가세요.
+請和大王關口的奇術師大師見面。	Go to the Thaumaturge Master in Gateway of Great King	대왕의 관문에 있는 쏘마터지 마스터를 만나세요.
+請和祈願森林的巫師大師見面	Meet the Sorcerer Master in Forest of Prayer	기원의 숲에 있는 소서러 마스터를 만나세요
+勒肯家門的印章[侍從轉職]	Legwyn Family's Seal [Squire Advancement]	르귄 가문의 인장[스콰이어 전직]
+古老大海的名譽[海賊轉職]	Honor of the Old Sea [Corsair Advancement]	옛 바다의 명예[커세어 전직]
+王國軍團的軍團旗[百夫長轉職]	Royal Army Corps Machine [Centurion Advancement]	왕국 군단의 군단기[센츄리온 전직]
+失蹤的使團的去向[雙酬傭兵轉職]	Missing Delegation's Whereabouts [Doppelsoeldner Advancement]	실종된 사절단의 행방[도펠죌트너 전직]
+長生不老的女人[巫師轉職]	Invincible Lady [Sorcerer Advancement]	불노불사의 여인[소서러 전직]
+鍊金術士的情由[時空法師轉職]	Alchemist's Story [Chronomancer Advancement]	연금술사의 사정[크로노맨서 전직]
+死後遺留的物品[死靈法師轉職]	Things Left Behind Death [Necromancer Advancement]	죽음 뒤 남겨진 것들[네크로맨서 전직]
+水晶礦山的過去(1)[鍊金術士轉職]	Past of Crystal Mine (1) [Alchemist Advancement]	수정광산의 과거(1)[알케미스트 전직]
+水晶礦山的過去(2)[鍊金術士轉職]	Past of Crystal Mine (2) [Alchemist Advancement]	수정광산의 과거(2)[알케미스트 전직]
+神不知鬼不覺[流氓轉職]	No One Knows [Rogue Advancement]	쥐도 새도 모르게[로그 전직]
+利迪亞夏班與黑色家族[造箭者轉職]	Lydia Schaffen and the Black Family [Fletcher Advancement]	리디아 샤펜과 블랙가문[플레쳐 전직]
+馴服怪物[馴鷹者轉職]	Handling Monsters [Falconer Advancement]	몬스터 길들이기[응사 전직]
+百發百中[黑暗騎兵轉職]	Perfect Marksmanship [Schwarzer Reiter Advancement]	오십발오십중[슈바르츠 라이터 전직]
+歐爾帕斯克林的責任[武僧轉職]	Responsibility of the Olpas Painting [Monk Advancement]	올파스 그림의 책임[몽크 전직]
+聖職者的預備帳簿[寬恕者轉職]	Reserved Records of the Cleric [Pardoner Advancement]	성직자의 예비장부[파드너 전직]
+災禍的結果也是很棒的樣本[德魯伊轉職]	Disaster is a Great Sample [Druid Advancement]	재앙의 결과도 훌륭한 샘플[드루이드 전직]
+接收障礙[神諭師轉職]	Reception Error [Oracle Advancement]	수신장애[오라클 전직]
+把偷取的物品交給柯拉佩達雜貨商人	Give the stolen goods to the Klaipeda Item Merchant	클라페다 잡화 상인에게 훔친 물품 전달
+收集BOSS怪物卡片	Collect Boss Monster Card	보스 몬스터 카드 수집
+與柯拉佩達雜貨商人對話	Talk to Klaipeda Item Merchant	클라페다 잡화 상인과 대화
+在史爾特凱拉森林尋找雜貨商人的父親	Find the Item Merchant's father in Sirdgela Forest	시르드겔라 숲에서 잡화 상인의 아버지 찾기
+把父親的衣服碎片交給雜貨商人	Give the piece of father's clothes to Item Merchant	잡화 상인에게 아버지의 옷 조각 전달
+與佩迪米安雜貨商人見面	Meet Fedimian Item Merchant	페디미안 잡화 상인 만나기
+請去找佩迪米安的侍從大師。	Go to the Squire Master in Fedimian	페디미안에 있는 스콰이어 마스터를 찾아가세요.
+勒肯家門的印章碎片	Piece of Legwyn Family Seal	르귄가의 인장 조각
+該做的事	Things to do	할일
+請去找祈願森林的百夫長大師。	Go to the Centurion Master in Forest of Prayer	기원의 숲에 있는 센츄리온 마스터를 찾아가세요.
+請去找佩迪米安的雙酬傭兵大師。	Go to the Doppelsoeldner Master in Fedimian	페디미안에 있는 도펠죌트너 마스터를 찾아가세요.
+請去找祈願森林的巫師大師。	Go to the Sorcerer Master in Forest of Prayer	기원의 숲에 있는 소서러 마스터를 찾아가세요.
+請去找碑石路的時空法師大師。	Go to the Chronomancer Master in Stele Road	비석로에 있는 크로노맨서 마스터를 찾아가세요.
+請去找謬樂斯通道的死靈法師大師。	Go to the Necromancer Master in Mullers Passage	뮬러스 통로에 있는 네크로맨서 마스터를 찾아가세요.
+水晶礦山的過去	Past of the Crystal Mine	수정광산의 과거
+和鍊金術士大師對話	Talk to the Alchemist Master	알케미스트 마스터와 대화
+請去找佩迪米安的流氓大師。	Go to the Rogue Master in Fedimian	페디미안에 있는 로그 마스터를 찾아가세요.
+請去找女神的古院的造箭者大師。	Go to the Fletcher Master in Goddess' Ancient Garden	여신의 옛뜰에 있는 플레쳐 마스터를 찾아가세요.
+請去找碑石路的馴鷹者大師。	Go to Falconer Master in Stele Road	비석로에 있는 응사 마스터를 찾아가세요.
+與黑暗騎兵大師對話	Talk to the Schwarzer Reiter Master	슈바르츠 라이터 마스터와 대화
+請去找祈願森林的黑暗騎兵大師。	Go to the Schwarzer Reiter Master in Forest of Prayer	기원의 숲에 있는 슈바르츠 라이터 마스터를 찾아가세요.
+請去找柯拉佩達的神諭師大師。	Go to the Oracle Master in Klaipeda	클라페다에 있는 오라클 마스터를 찾아가세요.
+我會把印章收回來	I will retrieve the seal	인장을 수거해오겠다고 한다
+我不想介入他人的家事	Tell you don't want to get involved in a family matter	집안일에 끼고 싶지 않다고 한다
+真是胡說八道	Tell that it's absurd	터무니없는 소리라고 한다
+我當然願意幫忙	I will certainly help	당연히 돕겠다고 한다
+我沒什麼興趣	I am not interested	별로 관심없다고 한다
+放心交給我吧	Tell to believe in you	믿고 맡겨두라고 한다
+我不想干預奇怪的事	I don't want to get involved in a suspicious task	수상한 일에는 관여하지 않겠다고 한다
+傳達狀況中/TALK/3/TRACK_BEFORE/None	Telling him the circumstances/TALK/3/TRACK_BEFORE/None	상황을 전하는 중/TALK/3/TRACK_BEFORE/None
+長生不老的安基納斯[巫師轉職]	Eternal Amjinas [Sorcerer Advancement]	불노불사의 암지나스[소서러 전직]
+我去問問再回來	I will ask him	물어보고 오겠다고 한다
+直接去	Tell him to go there himself	직접 가라고 한다
+傳達聽到的話中/TALK/3/TRACK_BEFORE/None	Passing what you heard/TALK/3/TRACK_BEFORE/None	들은 이야기를 전하는 중/TALK/3/TRACK_BEFORE/None
+太可怕了，我要放棄	I will quit since it's scary	무서우니 관두겠다고 한다
+自己的事情，自己看著辦	Tell him to do his task on his own	자기 일은 알아서 하라고 한다
+在泰內聖堂地下1層收集死亡魔特斯的尾針	Collect Desmodus' Tail Pins at Tenet Church B1	테넷 성당 지하 1층에서 데스모두스의 꼬리침 수집
+葛利查頓的黑指甲	Glizardon's Black Nails	글리자돈의 검은 손톱
+消滅泰內聖堂地下1層的葛利查頓	Defeat a Glizardon in Tenet Church B1	테넷 성당 지하 1층의 글리자돈 처치
+尋找大海賊普拉迪斯洛巴斯的物品	Look for the objects of the Great Pirate Vladslovas	대해적 블라디슬로바스의 물건 찾기
+回收破裂的王國軍軍團旗	Retrieve the ripped Royal Army's Flag	찢어진 왕국군의 군단기 회수
+尋找失蹤的使者的下落	Find the whereabouts of the disappeared 	실종된 사절의 행방 찾기
+收集有關安基納斯的情報	Collect the information regarding Amjinas	암지나스에 대한 정보 수집
+探索水晶礦山	Explore the Crystal Mine	수정광산 탐사
+獲得散發強烈迷戀之意的遺物	Obtain the keepsakes which you could feel strong regrets	강한 미련이 느껴지는 유품 획득
+勘查水晶礦山	Explore Crystal Mine	수정광산 탐색
+我願意尋找印章	Accept	인장을 찾겠다고 한다
+我不想介入他人的私事	Reject	개인사에 끼고 싶지 않다고 한다
+收集勒肯家門的印章碎片	Piece of Legwyn Family Seal	르귄가의 인장 조각 수집
+交給侍從大師	Talk to the Squire Master	스콰이어 마스터에게 전달
+搜索大海賊普拉迪斯洛巴斯的項鍊	Search for the necklace of the Great Pirate Vladslovas	대해적 블라디슬로바스의 목걸이 수색
+永生不朽的安基納斯[巫師轉職]	Eternal Amjinas [Sorcerer Advancement]	불로불사의 암지나스[소서러 전직]
+我希望親耳聽	Tell him that it will be better to listen directly	직접 듣는 게 좋겠다고 한다
+我沒有那種勇氣	I don't have guts for it	그럴 용기는 없다고 한다
+請去找夏奧雷伊礦山村莊的拜杜塔斯。	Meet Vaidotas at Siauliai Miners' Village	샤울레이 광산 마을에 있는 바이도타스를 찾아가세요.
+偷偷把禮物交給斥候大師	Secretly give the present to the Scout Master	스카우트 마스터에게 몰래 선물 전달
+查找與利迪亞夏班有關的線索	Search for the traces of Lydia Schaffen	리디아 샤펜에 관한 단서 수색
+交給造箭者大師	Give them to the Fletcher Master	플레쳐 마스터와 전달
+請把太陽之甕放在死靈查普利看守的位置上！	Put the Sun Essence on the spot that Chapparition was guarding	채퍼리션이 지키던 자리에 태양의 항아리를 잘 놓아두세요!
+空箱子	It's an empty box	빈 상자입니다
+傳達狀況中	Explaining the situation	상황을 전하는 중
+傳達聽到的話中	Explaining what you heard	들은 이야기를 전하는 중

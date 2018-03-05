@@ -1,0 +1,2294 @@
+攻擊	Attack	공격
+[大花草] 向周邊放毒	[Rafflesia] Spread Poison	[라플레시아] 주변으로 독 날리기
+[大花草] 發射毒炸彈	[Rafflesia] Poison Bomb	[라플레시아] 독 포탄 날리기
+[吉嘎利] 施展迴轉攻擊	[Zigri] Spinning Strike	[지그리] 회전공격 가하기
+[吉嘎利] 跳躍後，發出衝擊波	[Zigri] Jump and Stomping Shock	[지그리] 점프해서 충격파 보내기
+[普拉卡大食花] 快速撕咬	[Fragaras] Quick bite	[프라가라스] 빠르게 물어뜯기
+[普拉卡大食花] 大口撕咬	[Fragaras] Large Chomp	[프라가라스] 크게 물어뜯기
+基本一般攻擊	Basic Normal Attack	베이직 일반 공격
+[赤紅野蜘蛛] 跳躍後劈擊	[Red Bushspider] Jump and Smash	[붉은 크루마보] 점프해서 내려찍기
+[樹靈] 以單手打擊	[Tree Ghost] One-handed Strike	[나무유령] 한손으로 타격
+[樹靈] 以雙手拍手	[Tree Ghost] Two-handed clap	[나무유령] 양손으로 박수치기
+[樹靈] 劈擊地板	[Tree Ghost] Stomp ground	[나무유령] 바닥을 내려치기
+[吉努特] 物理刺擊火屬性攻擊1次	[Zinute] Physical Pierce Fire Property Attack 1 time	[지누테] 물리 찌르기 화속성 1회 공격
+[吉努特] 物理斬擊火屬性攻擊1次	[Zinute] Physical Slash Fire Property Attack 1 time	[지누테] 물리 베기 화속성 1회 공격
+[吞吐利亞] 物理打擊電氣屬性攻擊1次	[Tontulia] Physical Strike Lightning Property Attack 1 time	[톤투리아] 물리 타격 전기속성 1회 공격
+[吞吐利亞] 物理打擊電氣屬性攻擊2次	[Tontulia] Physical Strike Lightning Property Attack 2 times	[톤투리아] 물리 떄리기 전기속성 2회 공격
+[頭盔蟲]一般攻擊2	[Helmet Bug] Normal Attack2	[투구벌레]일반공격2
+[吉努特] 以單手打擊	[Zinute] One-handed Blow	[지누테] 한손으로 타격
+[吉努特] 以雙手拍手	[Zinute] Two-handed clap	[지누테] 양손으로 박수치기
+[吉努特] 劈擊地板	[Zinute] Ground Smash	[지누테] 바닥을 내려치기
+[丹德爾] 物理刺擊雷屬性攻擊1次	[Dandel] Physical Pierce Lightning Property Attack 1 time	[단델] 물리 찌르기 뇌속성 1회 공격
+[梅達奇亞] 劈擊地板	[Medakia] Ground Smash	[메다키아] 바닥을 내려치기
+[霍倫] 以雙手拍手	[Wheelen] Two-handed clap	[휠렌] 양손으로 박수치기
+[薩厄加] 物理打擊地屬性攻擊1次	[Sauga] Physical Strike Earth Property Attack 1 time	[사우가] 물리 타격 땅속성 1회 공격
+攻擊2	Attack 2	공격2
+技能	Skills	스킬
+[卓柏卡布拉] 卓柏一般攻擊3	[Chupacabra] Chupa Normal attack 3	[츄파카브라] 츄파 일반 공격3
+[卓柏卡布拉] 卓柏一般攻擊4	[Chupacabra] Chupa Normal attack 4	[츄파카브라] 츄파 일반 공격4
+大爆發	Large explosion	대폭발
+大爆發(Defence)	Large explosion (Defense)	대폭발(Defence)
+[戰鬥兵] 戰鬥員攻擊	[Combat Soldiers] Combatants attack	[전투병] 전투원 공격
+[戰鬥兵] 戰鬥員攻擊2	[Combat Soldiers] Combatants attack 2	[전투병] 전투원 공격2
+火焰之壁	Wall of Flame	화염의 벽
+地雷爆炸	Mine explosion	지뢰 폭발
+猛毒爆炸。	Toxic explosion	맹독 폭발
+克雷摩亞爆炸	Claymore explosion	크레모아 폭발
+跳躍攻擊	Jump Attack	점프공격
+生命流動	Life Stream	생명의 흐름
+生命流動治療。	Life Stream Hill	생명의 흐름 힐.
+冰河臨風	Glacier Wedge	빙하 쐐기
+冰河臨風2連打以後。	After the 2 Glacier Wedge	빙하 쐐기 2연타 이후.
+種子爆炸	Seed explosion	씨앗 폭발
+火山爆發	Flame explosion	살불 폭발
+暴風雪	Snowstorm	눈보라
+流星強打	Meteor Bang	유성 강타
+一般攻擊	Normal attack	일반 공격
+劈擊	Smack Down	내려찍기
+飛彈攻擊	Missile attack	미사일공격
+AOS炮塔攻擊	AOS turret attack	AOS터렛 공격
+[樹林妖精] 攻擊	[Woodman] attack	[우드맨] 공격
+火焰蜥蜴王攻擊	Salamander attack	샐러맨더 공격
+大廳石像攻擊	Hall statue attack	홀 석상 공격
+大廳石像技能	Hall statue skill	홀 석상 스킬
+祭司攻擊1	Priest attack 1	사제 공격 1
+祭司技能1	Priest skill 1	사제 스킬 1
+石像攻擊1	Attack Statue 1	석상 공격 1
+治癒	Heal	힐
+怪物治癒	Monster Heal	몬스터 힐
+布貝礦工攻擊	Vubbe Miner Attack	부베 광부 공격
+[大型柯卡特里斯]	[Big Cockatrice]	[빅 코카트리스]
+[潘圖咒術師] 物理一般打擊	[Panto Shaman] Physical Normal Strike	[판토 주술사] 물리 일반 타격
+[潘圖咒術師] 魔法雷屬性打擊	[Panto Shaman] Magic Lightning Property Strike	[판토 주술사] 매직 뇌속성 타격
+[潘圖咒術師] 魔法雷屬性魔法	[Panto Shaman] Magic Lightning Property Magic	[판토 주술사] 매직 뇌속성 매직
+[潘圖魔法師] 物理一般打擊	[Panto Wizard] Physical Normal Strike	[판토 마법사] 물리 일반 타격
+[潘圖魔法師] 魔法雷屬性打擊	[Panto Wizard] Magic Lightning Property Strike	[판토 마법사] 매직 뇌속성 타격
+[潘圖魔法師] 魔法雷屬性魔法	[Panto Wizard] Magic Lightning Property Magic	[판토 마법사] 매직 뇌속성 매직
+[提努] 物理毒屬性 斬擊	[Tanu] Physical Poison Property Slash	[타누] 물리 독속성 베기
+[傑克諾茲] 物理毒屬性打擊	[Zignuts] Physical Poison Property Strike	[지그너츠] 물리 독속성 타격
+[傑克諾茲] 物理一般斬擊	[Zignuts] Physical Normal Slash	[지그너츠] 물리 일반 베기
+[圖約勒] 魔法反射盾魔法	[Doyor] Magic Reflect Shield Magic	[도요르] 매직 리플렉트쉴드 매직
+[提皮歐] 物理一般打擊	[Tipio] Physical Normal Strike	[티피오] 물리 일반 타격
+[提皮歐] 魔法毒屬性魔法	[Tipio] Magic Poison Property Magic	[티피오] 매직 독속성 매직
+[赫嘉塞露分身體]魔法暗屬性魔法	[Avatar of Helgasecle] Magic Dark Property Magic	[헬가세르클 분신체] 마법 암속성 매직
+[霍克瑪戰士] 物理斬擊火屬性攻擊1次	[Hogma Warrior] Physical Slash Fire Property Attack	[호그마 전사] 물리 베기 화속성 1회 공격
+[霍克瑪弓箭手] 遠距離刺擊電氣屬性攻擊1次	[Hogma Archer] Range Pierce Lightning Property Attack	[호그마 궁수] 원거리 찌르기 전기속성 1회 공격
+[霍克瑪戰鬥隊長] 物理刺擊暗屬性攻擊1次	[Hogma Battle Commander] Physical Pierce Dark Property Attack	[호그마 전투대장] 물리 찌르기 암속성 1회 공격
+[霍克瑪戰鬥隊長] 召喚怪獸	[Hogma Battle Commander] Monster Summon	[호그마 전투대장] 몬스터 소환
+[溫迪戈] 物理斬擊火屬性攻擊1次	[Wendigo] Physical Slash Fire Property Attack	[웬디고] 물리 베기 화속성 1회 공격
+[霍克瑪戰鬥兵] 物理斬擊電氣屬性攻擊1次	[Hogma Fighter] Physical Slash Lightning Property Attack	[호그마 전투병] 물리 베기 전기속성 1회 공격
+[霍克瑪守望者] 物理打擊水屬性攻擊1次	[Hogma Guard] Physical Strike Ice Property Attack	[호그마 파수꾼] 물리 타격 수속성 1회 공격
+[歐爾塔倫] 物理刺擊毒屬性攻擊1次	[Ultanun] Physical Pierce Poison Property Attack	[얼타눈] 물리 찌르기 독속성 1회 공격
+[歐爾塔倫] 魔法毒屬性魔法	[Ultanun] Magic Poison Property Magic	[얼타눈] 매직 독속성 매직
+[彼蘭特]	[Firent]	[피렌트]
+[惡靈君主]	[Specter Monarch]	[스펙터 군주]
+[青苔泥人] 右邊猛衝	[Golem] Light Smash	[골렘] 라이트 스매시
+[青苔泥人] 猛衝	[Golem] Smash	[골렘] 스매시
+[青苔泥人] 咆哮	[Golem] Roar	[골렘] 포효
+[彼蘭特] 使用能力調換 BUFF	[Firent] Use Transforce Buff	[피렌트] 트랜스포스 버프 사용
+[灰色波庫布]	[Gray Pokubu]	[회색 포쿠부]
+[潘迪邁爾]	[Pendinmire]	[펜딘마이어]
+[迪歐尼亞] 物理無屬性打擊	[Dionia] Physical Non-Property Strike	[디오니아] 물리 무속성 타격
+[迪歐尼亞] 魔法毒屬性打擊	[Dionia] Magic Poison Property Strike	[디오니아] 매직 독속성 타격
+[貝亞卡拉斯] 物理地屬性打擊	[Bearkaras] Physical Earth Property Strike	[베아카라스] 물리 땅속성 타격
+[貝亞卡拉斯] 物理地屬性斬擊	[Bearkaras] Physical Earth Property Slash	[베아카라스] 물리 땅속성 베기
+[鐵甲殘魔] 物理無屬性打擊	[Abomination] Physical Non-Property Strike	[어보미네이션] 물리 무속성 타격
+[鐵甲殘魔] 魔法無屬性魔法	[Abomination] Magic Non-Property Magic	[어보미네이션] 매직 무속성 마법
+[蠱惑惡靈] 物理暗屬性魔法	[Dazzled Specter] Physical Dark Property Magic	[현혹의 스펙터] 물리 암속성 마법
+[利卡烏斯] 物理無屬性打擊	[Rikaus] Physical Non-Property Strike	[리카우스] 물리 무속성 타격
+[利卡烏斯] 物理暗屬性打擊	[Rikaus] Physical Dark Property Strike	[리카우스] 물리 암속성 타격
+[佛朗布] 物理無屬性打擊	[Bramble] Physical Non-Property Strike	[브람블] 물리 무속성 타격
+[佛朗布] 物理無屬性刺擊	[Bramble] Physical Non-Property Pierce	[브람블] 물리 무속성 찌르기
+[莫雷克] 物理暗屬性打擊	[Molich] Physical Dark Property Strike	[몰렉] 물리 암속성 타격
+[莫雷克] 魔法暗屬性魔法	[Molich] Magic Dark Property Magic	[몰렉] 매직 암속성 마법
+[賽夸伊亞] 物理無屬性打擊	[Sequoia] Physical Non-Property Strike	[세콰이아] 물리 무속성 타격
+[賽夸伊亞] 物理火屬性打擊	[Sequoia] Physical Fire Property Strike	[세콰이아] 물리 화속성 타격
+[賽夸伊亞] 魔法火屬性魔法	[Sequoia] Magic Fire Property Magic	[세콰이아] 매직 화속성 마법
+[利卡烏斯] 魔法暗屬性魔法	[Rikaus] Magic Dark Property Magic	[리카우스] 매직 암속성 마법
+[史潘飛行獸人] 物理無屬性打擊	[Sparnasman] Physical Non-Property Strike	[스파나스맨] 물리 무속성 타격
+[史潘飛行獸人] 物理無屬性魔法	[Sparnasman] Physical Non-Property Magic	[스파나스맨] 물리 무속성 마법
+[杜梅頓] 魔法無屬性魔法	[Tomb Maiden] Magic Non-Property Magic	[툼메이든] 매직 무속성 마법
+[杜梅頓] 物理無屬性打擊	[Tomb Maiden] Physical Non-Property Strike	[툼메이든] 물리 무속성 타격
+[庫巴斯] 物理無屬性魔法	[Kubas] Physical Non-Property Magic	[큐바스] 물리 무속성 마법
+[庫巴斯] 物理電氣屬性魔法	[Kubas] Physical Lightning Property Magic	[큐바스] 물리 전기속성 마법
+[庫巴斯] 物理水屬性魔法	[Kubas] Physical Ice Property Magic	[큐바스] 물리 수속성 마법
+[庫巴斯] 物理火屬性魔法	[Kubas] Physical Fire Property Magic	[큐바스] 물리 화속성 마법
+[克萊獰怪] 物理火屬性打擊	[Grinender] Physical Fire Property Strike	[그라이넨더] 물리 화속성 타격
+[克萊獰怪] 物理火屬性 刺擊	[Grinender] Physical Fire Property Pierce	[그라이넨더] 물리 화속성 찌르기
+[克萊獰怪] 物理火屬性魔法	[Grinender] Physical Fire Property Magic	[그라이넨더] 물리 화속성 마법
+[克萊獰怪] 魔法火屬性魔法	[Grinender] Magic Fire Property Magic	[그라이넨더] 매직 화속성 마법
+[派伊羅艾庫] 物理火屬性打擊	[Pyroego] Physical Fire Property Strike	[파이로에고] 물리 화속성 타격
+[派伊羅艾庫] 魔法火屬性魔法	[Pyroego] Magic Fire Property Magic	[파이로에고] 매직 화속성 마법
+[利托雷克斯] 魔法毒屬性魔法	[Lithorex] Magic Poison Property Magic	[리토렉스] 매직 독속성 마법
+[利托雷克斯] 魔法無屬性魔法	[Lithorex] Magic Non-Property Magic	[리토렉스] 매직 무속성 마법
+[莫雷克] 物理無屬性打擊	[Molich] Physical Non-Property Strike	[몰렉] 물리 무속성 타격
+[克羅洛鐘] 魔法電氣屬性魔法	[Link Roller] Magic Lightning Property Magic	[링크롤러] 매직 전기속성 마법
+[鐵甲殭屍] 物理暗屬性打擊	[Deadborn] Physical Dark Property Strike	[데드본] 물리 암속성 타격
+[鐵甲殭屍] 物理暗屬性 斬擊	[Deadborn] Physical Dark Property Slash	[데드본] 물리 암속성 베기
+[火焰蜥蜴王] 物理火屬性打擊	[Salamander] Physical Fire Property Strike	[샐러맨더] 물리 화속성 타격
+[火焰蜥蜴王] 物理火屬性 刺擊	[Salamander] Physical Fire Property Pierce	[샐러맨더] 물리 화속성 찌르기
+[克帕奇樹妖] 物理無屬性打擊	[Kepachieftain] Physical Non-Property Strike	[케파치프틴] 물리 무속성 타격
+[克帕奇樹妖] 魔法無屬性打擊	[Kepachieftain] Magic Non-Property Strike	[케파치프틴] 매직 무속성 타격
+[青苔泥人] 物理地屬性打擊	[Golem] Physical Earth Property Strike	[골렘] 물리 땅속성 타격
+[蠱惑惡靈] 魔法暗屬性打擊	[Dazzled Specter] Magic Dark Property Strike	[현혹의 스펙터] 매직 암속성 타격
+[惡靈君主] 魔法暗屬性魔法	[Specter Monarch] Magic Dark Property Magic	[스펙터 군주] 매직 암속성 마법
+[米爾堤斯] 物理暗屬性 斬擊	[Mirtis] Physical Dark Property Slash	[미르티스] 물리 암속성 베기
+[米爾堤斯] 物理暗屬性魔法	[Mirtis] Physical Dark Property Magic	[미르티스] 물리 암속성 마법
+[米爾堤斯] 魔法暗屬性魔法	[Mirtis] Magic Dark Property Magic	[미르티스] 매직 암속성 마법
+[米爾堤斯] 魔法暗屬性斬擊	[Mirtis] Magic Dark Property Slash	[미르티스] 매직 암속성 베기
+[薩爾提斯托] 物理水屬性打擊	[Saltistter] Physical Ice Property Strike	[살티스터] 물리 수속성 타격
+[薩爾提斯托] 物理水屬性魔法	[Saltistter] Physical Ice Property Magic	[살티스터] 물리 수속성 마법
+[樹精] 物理無屬性打擊	[Woodspirit] Physical Non-Property Strike	[우드스피릿] 물리 무속성 타격
+[樹精] 物理無屬性魔法	[Woodspirit] Physical Non-Property Magic	[우드스피릿] 물리 무속성 마법
+[樹精] 魔法無屬性魔法	[Woodspirit] Magic Non-Property Magic	[우드스피릿] 매직 무속성 마법
+[石鯨怪] 魔法地屬性魔法	[Stone_Whale] Magic Earth Property Magic	[석화고래] 매직 땅속성 마법
+[奇葛拉斯] 物理火屬性打擊	[Ginklas] Physical Fire Property Strike	[긴클라스] 물리 화속성 타격
+[約納喬雷] 物理無屬性打擊	[Yonazolem] Physical Non-Property Strike	[요나졸렘] 물리 무속성 타격
+[約納喬雷] 魔法無屬性打擊	[Yonazolem] Magic Non-Property Strike	[요나졸렘] 매직 무속성 타격
+[毒魔蛙圖圖] 物理毒屬性打擊	[Tutu] Physical Poison Property Strike	[투투] 물리 독속성 타격
+[毒魔蛙圖圖] 魔法毒屬性魔法	[Tutu] Magic Poison Property Magic	[투투] 매직 독속성 마법
+[比特雷巨蜂] 物理無屬性 刺擊	[Biteregina] Physical Non-Property Pierce	[비테레지나] 물리 무속성 찌르기
+[比特雷巨蜂] 物理毒屬性 斬擊	[Biteregina] Physical Poison Property Slash	[비테레지나] 물리 독속성 베기
+[比特雷巨蜂] 物理毒屬性魔法	[Biteregina] Physical Poison Property Magic	[비테레지나] 물리 독속성 마법
+[神燈魔神] 物理無屬性打擊	[Master Genie] Physical Non-Property Strike	[마스터 지니] 물리 무속성 타격
+[神燈魔神] 魔法水屬性魔法	[Master Genie] Magic Ice Property Magic	[마스터 지니] 매직 수속성 마법
+[伊提斯大嘴獸] 物理無屬性打擊	[Iltiswort] Physical Non-Property Strike	[일티스워트] 물리 무속성 타격
+[伊提斯大嘴獸] 物理毒屬性魔法	[Iltiswort] Physical Poison Property Magic	[일티스워트] 물리 독속성 마법
+[雷普斯] 物理無屬性斬擊	[Lepus] Physical Non-Property Slash	[레푸스] 물리 무속성 베기
+[蘑菇卡利亞] 物理毒屬性魔法	[Mushcaria] Physical Poison Property Magic	[머슈카리아] 물리 독속성 마법
+[蘑菇卡利亞] 物理毒屬性打擊	[Mushcaria] Physical Poison Property Strike	[머슈카리아] 물리 독속성 타격
+[機角卡洛斯] 物理無屬性打擊	[Ellaganos] Physical Non-Property Strike	[엘라가노스] 물리 무속성 타격
+[迪歐尼亞] 魔法無屬性魔法	[Dionia] Magic Non-Property Magic	[디오니아] 매직 무속성 마법
+[石鯨怪] 物理地屬性打擊	[Stone_Whale] Physical Earth Property Strike	[석화고래] 물리 땅속성 타격
+[石鯨怪] 物理地屬性刺擊	[Stone_Whale] Physical Earth Property Pierce	[석화고래] 물리 땅속성 찌르기
+[奇葛拉斯] 物理火屬性魔法	[Ginklas] Physical Fire Property Magic	[긴클라스] 물리 화속성 마법
+[雷普斯] 魔法無屬性打擊	[Lepus] Magic Non-Property Strike	[레푸스] 매직 무속성 타격
+[樹林巨獸] 魔法火屬性刺擊	[Giantredwood] Magic Fire Property Pierce	[자이언트 레드 우드] 매직 화속성 찌르기
+[火暴地鼠獸] 物理無屬性打擊	[Bebraspion] Physical Non-Property Strike	[베브라스피온] 물리 무속성 타격
+[火暴地鼠獸] 物理電氣屬性打擊	[Bebraspion] Physical Lightning Property Strike	[베브라스피온] 물리 전기속성 타격
+[斯帕勒那絲] 物理無屬性打擊	[Sparnas] Physical Non-Property Strike	[스파르나스] 물리 무속성 타격
+[斯帕勒那絲] 物理無屬性刺擊	[Sparnas] Physical Non-Property Pierce	[스파르나스] 물리 무속성 찌르기
+[斯帕勒那絲] 物理電氣屬性魔法	[Sparnas] Physical Lightning Property Magic	[스파르나스] 물리 전기속성 마법
+[拉查托特] 魔法無屬性魔法	[Rajatoad] Magic Non-Property Magic	[라자토드] 매직 무속성 마법
+[拉查托特] 物理水屬性打擊	[Rajatoad] Physical Ice Property Strike	[라자토드] 물리 수속성 타격
+[查伊波] 物理毒屬性斬擊	[Chafer] Physical Poison Property Slash	[체이퍼] 물리 독속성 베기
+[查伊波] 物理毒屬性刺擊	[Chafer] Physical Poison Property Pierce	[체이퍼] 물리 독속성 찌르기
+[查伊波] 物理毒屬性魔法	[Chafer] Physical Poison Property Magic	[체이퍼] 물리 독속성 마법
+[王座大蜘蛛] 物理毒屬性魔法	[Throneweaver] Physical Poison Property Magic	[쓰론위버] 물리 독속성 마법
+[王座大蜘蛛] 物理毒屬性打擊	[Throneweaver] Physical Poison Property Strike	[쓰론위버] 물리 독속성 타격
+[王座大蜘蛛] 魔法毒屬性魔法	[Throneweaver] Magic Poison Property Magic	[쓰론위버] 매직 독속성 마법
+[瑪因洛德] 物理電氣屬性打擊	[Mineloader] Physical Lightning Property Strike	[마인로더] 물리 전기속성 타격
+[鬼影凱伊洛] 物理暗屬性斬擊	[Shadowgaler] Physical Dark Property Slash	[섀도게일러] 물리 암속성 베기
+[鬼影凱伊洛] 魔法暗屬性魔法	[Shadowgaler] Magic Dark Property Magic	[섀도게일러] 매직 암속성 마법
+[鬼影凱伊洛] 物理暗屬性魔法	[Shadowgaler] Physical Dark Property Magic	[섀도게일러] 물리 암속성 마법
+[樹林巨獸] 物理無屬性打擊	[Giantredwood] Physical Non-Property Strike	[자이언트 레드 우드] 물리 무속성 타격
+[樹林巨獸] 物理火屬性打擊	[Giantredwood] Physical Fire Property Strike	[자이언트 레드 우드] 물리 화속성 타격
+[雷克西波] 物理暗屬性打擊	[Rexipher] Physical Dark Property Strike	[렉시퍼] 물리 암속성 타격
+[遠古石龜獸] 物理地屬性打擊	[Rocktortuga] Physical Earth Property Strike	[락토르투가] 물리 땅속성 타격
+[魯托普士] 物理無屬性刺擊	[Luropus] Physical Non-Property Pierce	[루토푸스] 물리 무속성 찌르기
+[地獄亡靈] 魔法暗屬性打擊	[Necroventer] Magic Dark Property Strike	[네크로벤터] 매직 암속성 타격
+[地獄亡靈] 魔法暗屬性魔法	[Necroventer] Magic Dark Property Magic	[네크로벤터] 매직 암속성 마법
+[赫嘉塞露女妖] 魔法暗屬性斬擊	[Helgasercle] Magic Dark Property Slash	[헬가세르클] 매직 암속성 베기
+[赫嘉塞露女妖] 物理暗屬性斬擊	[Helgasercle] Physical Dark Property Slash	[헬가세르클] 물리 암속성 베기
+[赫嘉塞露女妖] 魔法暗屬性魔法	[Helgasercle] Magic Dark Property Magic	[헬가세르클] 매직 암속성 마법
+[魯托普士] 物理無屬性打擊	[Luropus] Physical Non-Property Strike	[루토푸스] 물리 무속성 타격
+[魯托普士] 魔法無屬性魔法	[Luropus] Magic Non-Property Magic	[루토푸스] 매직 무속성 마법
+[地錢苔王] 物理毒屬性打擊	[King Liverwort] Physical Poison Property Strike	[킹 우산이끼] 물리 독속성 타격
+[亞崑] 物理火屬性打擊	[Archon] Physical Fire Property Strike	[아콘] 물리 화속성 타격
+[耶庫] 物理暗屬性打擊	[Yekub] Physical Dark Property Strike	[예쿱] 물리 암속성 타격
+[耶庫] 魔法暗屬性打擊	[Yekub] Magic Dark Property Strike	[예쿱] 매직 암속성 타격
+[耶庫] 魔法無屬性魔法	[Yekub] Magic Non-Property Magic	[예쿱] 매직 무속성 마법
+[蓋洛貝斯寄居蟹] 物理水屬性打擊	[Carapace] Physical Ice Property Strike	[캐러페이스] 물리 수속성 타격
+[蓋洛貝斯寄居蟹] 物理水屬性斬擊	[Carapace] Physical Ice Property Slash	[캐러페이스] 물리 수속성 베기
+[狼人] 物理無屬性斬擊	[Werewolf] Physical Non-Property Slash	[웨어울프] 물리 무속성 베기
+[狼人] 物理無屬性打擊	[Werewolf] Physical Non-Property Strike	[웨어울프] 물리 무속성 타격
+[狼人] 物理暗屬性魔法	[Werewolf] Physical Dark Property Magic	[웨어울프] 물리 암속성 마법
+[狼人] 物理暗屬性斬擊	[Werewolf] Physical Dark Property Slash	[웨어울프] 물리 암속성 베기
+[亞崑] 魔法無屬性魔法	[Archon] Magic Non-Property Magic	[아콘] 매직 무속성 마법
+[機角卡洛斯] 物理無屬性刺擊	[Ellaganos] Physical Non-Property Pierce	[엘라가노스] 물리 무속성 찌르기
+[機角卡洛斯] 物理暗屬性魔法	[Ellaganos] Physical Dark Property Magic	[엘라가노스] 물리 암속성 마법
+[獨眼巨人] 物理暗屬性打擊	[Cyclops] Physical Dark Property Strike	[사이클롭스] 물리 암속성 타격
+[獨眼巨人] 魔法暗屬性魔法	[Cyclops] Magic Dark Property Magic	[사이클롭스] 매직 암속성 마법
+[魔鬼鰩] 物理無屬性斬擊	[Rajapearl] Physical Non-Property Slash	[라자펄] 물리 무속성 베기
+[魔鬼鰩] 物理水屬性魔法	[Rajapearl] Physical Ice Property Magic	[라자펄] 물리 수속성 마법
+[鬼眼蜘蛛] 物理毒屬性打擊	[Honeypin] Physical Poison Property Strike	[허니핀] 물리 독속성 타격
+[鬼眼蜘蛛] 物理毒屬性魔法	[Honeypin] Physical Poison Property Magic	[허니핀] 물리 독속성 마법
+[克帕奇樹妖] 魔法無屬性魔法	[Kepachieftain] Magic Non-Property Magic	[케파치프틴] 매직 무속성 마법
+[尼多普巴伊] 物理暗屬性刺擊	[Netherbovine] Physical Dark Property Pierce	[네더보바인] 물리 암속성 찌르기
+[尼多普巴伊] 物理暗屬性魔法	[Netherbovine] Physical Dark Property Magic	[네더보바인] 물리 암속성 마법
+[尼多普巴伊] 物理暗屬性打擊	[Netherbovine] Physical Dark Property Strike	[네더보바인] 물리 암속성 타격
+[艾哈特] 物理無屬性打擊	[Achat] Physical Non-Property Strike	[에하트] 물리 무속성 타격
+[霸王食人花] 物理毒屬性打擊	[Rytaswort] Physical Poison Property Strike	[리타스워트] 물리 독속성 타격
+[霸王食人花] 物理毒屬性魔法	[Rytaswort] Physical Poison Property Magic	[리타스워트] 물리 독속성 마법
+[霸王食人花] 魔法毒屬性魔法	[Rytaswort] Magic Poison Property Magic	[리타스워트] 매직 독속성 마법
+[霸王食人花] 魔法無屬性魔法	[Rytaswort] Magic Non-Property Magic	[리타스워트] 매직 무속성 마법
+[雷普斯] 物理無屬性打擊	[Lepus] Physical Non-Property Strike	[레푸스] 물리 무속성 타격
+[雷克西波] 魔法暗屬性魔法	[Rexipher] Magic Dark Property Magic	[렉시퍼] 매직 암속성 마법
+[克洛提德] 魔法暗屬性魔法	[Corrupted] Magic Dark Property Magic	[코럽티드] 매직 암속성 마법
+[克洛提德] 魔法暗屬性打擊	[Corrupted] Magic Dark Property Strike	[코럽티드] 매직 암속성 타격
+[蘑菇卡利亞] 魔法毒屬性魔法	[Mushcaria] Magic Poison Property Magic	[머슈카리아] 매직 독속성 마법
+[遠古石龜獸] 魔法地屬性魔法	[Rocktortuga] Magic Earth Property Magic	[락토르투가] 매직 땅속성 마법
+[查伊波] 魔法毒屬性魔法	[Chafer] Magic Poison Property Magic	[체이퍼] 매직 독속성 마법
+[布貝鬥士] 物理地屬性斬擊	[Vubbe Fighter] Physical Earth Property Slash	[부베 투사] 물리 땅속성 베기
+[布貝鬥士] 物理地屬性打擊	[Vubbe Fighter] Physical Earth Property Strike	[부베 투사] 물리 땅속성 타격
+[蠱惑惡靈] 魔法暗屬性魔法	[Dazzled Specter] Magic Dark Property Magic	[현혹의 스펙터] 매직 암속성 마법
+[蘑菇沃特] 物理無屬性打擊	[Mushwort] Physical Non-Property Strike	[머쉬워트] 물리 무속성 타격
+[蘑菇沃特] 物理無屬性魔法	[Mushwort] Physical Non-Property Magic	[머쉬워트] 물리 무속성 마법
+[蘑菇沃特] 魔法無屬性魔法	[Mushwort] Magic Non-Property Magic	[머쉬워트] 매직 무속성 마법
+[蘑菇沃特] 魔法毒屬性魔法	[Mushwort] Magic Poison Property Magic	[머쉬워트] 매직 독속성 매직
+[那克提斯] 魔法無屬性打擊	[Naktis] Magic Non-Property Strike	[나크티스] 매직 무속성 타격
+[德拉涪里溫] 物理無屬性刺擊	[Drapeliun] Physical Non-Property Pierce	[드라페리운] 물리 무속성 찌르기
+[德拉涪里溫] 物理無屬性魔法	[Drapeliun] Physical Non-Property Magic	[드라페리운] 물리 무속성 마법
+[德拉涪里溫] 魔法暗屬性魔法	[Drapeliun] Magic Dark Property Magic	[드라페리운] 매직 암속성 마법
+[斯帕娜史霍] 物理無屬性打擊	[Sparnas Horn] Physical Non-Property Strike	[스파나스혼] 물리 무속성 타격
+[斯帕娜史霍] 物理無屬性刺擊	[Sparnas Horn] Physical Non-Property Pierce	[스파나스혼] 물리 무속성 찌르기
+[斯帕娜史霍] 物理電氣屬性魔法	[Sparnas Horn] Physical Lightning Property Magic	[스파나스혼] 물리 전기속성 마법
+[火山龜獸] 物理火屬性打擊	[Magburk] Physical Fire Property Strike	[매그버크] 물리 화속성 타격
+[魔龍凱拉斯] 物理無屬性打擊	[Gaigalas] Physical Non-Property Strike	[가이갈라스] 물리 무속성 타격
+[魔龍凱拉斯] 物理火屬性魔法	[Gaigalas] Physical Fire Property Magic	[가이갈라스] 물리 화속성 마법
+[鋼鐵巴溫] 物理無屬性打擊	[Ironbaum] Physical Non-Property Strike	[아이언바움] 물리 무속성 타격
+[鋼鐵巴溫] 物理火屬性打擊	[Ironbaum] Physical Fire Property Strike	[아이언바움] 물리 화속성 타격
+[鋼鐵巴溫] 物理火屬性魔法	[Ironbaum] Physical Fire Property Magic	[아이언바움] 물리 화속성 마법
+[鋼鐵巴溫] 魔法無屬性魔法	[Ironbaum] Magic Non-Property Magic	[아이언바움] 매직 무속성 마법
+[魔花卡諾波] 物理毒屬性打擊	[Carnivore] Physical Poison Property Strike	[카너버] 물리 독속성 타격
+[魔花卡諾波] 物理毒屬性魔法	[Carnivore] Physical Poison Property Magic	[카너버] 물리 독속성 마법
+[魔花卡諾波] 物理毒屬性刺擊	[Carnivore] Physical Poison Property Pierce	[카너버] 물리 독속성 찌르기
+[魔花卡諾波] 魔法毒屬性魔法	[Carnivore] Magic Poison Property Magic	[카너버] 매직 독속성 마법
+[瑪因洛德] 物理電氣屬性魔法	[Mineloader] Physical Lightning Property Magic	[마인로더] 물리 전기속성 마법
+[仙人掌妖精] 物理毒屬性打擊	[Cactusvel] Physical Poison Property Strike	[캑터스벨] 물리 독속성 타격
+[仙人掌妖精] 物理無屬性打擊	[Cactusvel] Physical Non-Property Strike	[캑터스벨] 물리 무속성 타격
+[仙人掌妖精] 物理無屬性魔法	[Cactusvel] Physical Non-Property Magic	[캑터스벨] 물리 무속성 마법
+[鎖鏈羅德] 物理無屬性魔法	[Tomblord] Physical Non-Property Magic	[툼로드] 물리 무속성 마법
+[尖角皮德蟲] 物理毒屬性打擊	[Ravinepede] Physical Poison Property Strike	[라바인피드] 물리 독속성 타격
+[尖角皮德蟲] 魔法無屬性魔法	[Ravinepede] Magic Non-Property Magic	[라바인피드] 매직 무속성 마법
+[奇魯毛蟲獸] 物理無屬性打擊	[Kirmelich] Physical Non-Property Strike	[키르멜리치] 물리 무속성 타격
+[奇魯毛蟲獸] 物理無屬性刺擊	[Kirmelich] Physical Non-Property Pierce	[키르멜리치] 물리 무속성 찌르기
+[那克提斯] 魔法無屬性魔法	[Naktis] Magic Non-Property Magic	[나크티스] 매직 무속성 마법
+[惡魔葛洛夫] 物理無屬性打擊	[Devilglove] Physical Non-Property Strike	[데블글로브] 물리 무속성 타격
+[惡魔葛洛夫] 魔法無屬性打擊	[Devilglove] Magic Non-Property Strike	[데블글로브] 매직 무속성 타격
+[地獄三頭犬] 物理無屬性打擊	[Kelberos] Physical Non-Property Strike	[켈베로스] 물리 무속성 타격
+[地獄三頭犬] 物理無屬性魔法	[Kelberos] Physical Non-Property Magic	[켈베로스] 물리 무속성 마법
+[米諾牛頭怪] 物理火屬性打擊	[Minotaurs] Physical Fire Property Strike	[미노타우로스] 물리 화속성 타격
+[米諾牛頭怪] 魔法火屬性魔法	[Minotaurs] Magic Fire Property Magic	[미노타우로스] 매직 화속성 마법
+[米諾牛頭怪] 物理火屬性魔法	[Minotaurs] Physical Fire Property Magic	[미노타우로스] 물리 화속성 마법
+[死靈查普利] 物理暗屬性斬擊	[Chapparition] Physical Dark Property Slash	[채퍼리션] 물리 암속성 베기
+[死靈查普利] 魔法暗屬性魔法	[Chapparition] Magic Dark Property Magic	[채퍼리션] 매직 암속성 마법
+[巨魔蠍] 物理無屬性斬擊	[Scorpio] Physical Non-Property Slash	[스콜피오] 물리 무속성 베기
+[巨魔蠍] 物理無屬性刺擊	[Scorpio] Physical Non-Property Pierce	[스콜피오] 물리 무속성 찌르기
+[莫厄] 物理無屬性刺擊	[Moa] Physical Non-Property Pierce	[모아] 물리 무속성 찌르기
+[莫厄] 物理無屬性打擊	[Moa] Physical Non-Property Strike	[모아] 물리 무속성 타격
+[莫厄] 物理無屬性斬擊	[Moa] Physical Non-Property Slash	[모아] 물리 무속성 베기
+[巨魔蠍] 物理毒屬性魔法	[Scorpio] Physical Poison Property Magic	[스콜피오] 물리 독속성 마법
+[佛朗布] 魔法無屬性魔法	[Bramble] Magic Non-Property Magic	[브람블] 매직 무속성 마법
+[佛朗布] 魔法暗屬性魔法	[Bramble] Magic Dark Property Magic	[브람블] 매직 암속성 마법
+[葛雷斯墨爾] 物理無屬性打擊	[Glass_Mole] Physical Non-Property Strike	[글래스몰] 물리 무속성 타격
+[葛雷斯墨爾] 物理無屬性刺擊	[Glass_Mole] Physical Non-Property Pierce	[글래스몰] 물리 무속성 찌르기
+[巨眼丹提] 魔法無屬性魔法	[Denoptic] Magic Non-Property Magic	[덴옵틱] 매직 무속성 마법
+[巨眼丹提] 魔法無屬性打擊	[Denoptic] Magic Non-Property Strike	[덴옵틱] 매직 무속성 타격
+[死亡魔女] 物理無屬性魔法	[Deathweaver] Physical Non-Property Magic	[데스위버] 물리 무속성 마법
+[死亡魔女] 魔法無屬性魔法	[Deathweaver] Magic Non-Property Magic	[데스위버] 매직 무속성 마법
+[死亡魔女] 物理無屬性刺擊	[Deathweaver] Physical Non-Property Pierce	[데스위버] 물리 무속성 찌르기
+[神殿射手] 物理無屬性刺擊	[Templeshooter] Physical Non-Property Pierce	[템플슈터] 물리 무속성 찌르기
+[神殿射手] 魔法無屬性魔法	[Templeshooter] Magic Non-Property Magic	[템플슈터] 매직 무속성 마법
+[邪惡寶箱怪] 物理暗屬性打擊	[Unknocker] Physical Dark Property Strike	[언낙커] 물리 암속성 타격
+[邪惡寶箱怪] 物理暗屬性魔法	[Unknocker] Physical Dark Property Magic	[언낙커] 물리 암속성 마법
+[邪惡寶箱怪] 魔法暗屬性打擊	[Unknocker] Magic Dark Property Strike	[언낙커] 매직 암속성 타격
+[庫勒坤魔牛] 物理無屬性打擊	[Gorgon] Physical Non-Property Strike	[고르곤] 물리 무속성 타격
+[庫勒坤魔牛] 物理暗屬性打擊	[Gorgon] Physical Dark Property Strike	[고르곤] 물리 암속성 타격
+[庫勒坤魔牛] 魔法暗屬性魔法	[Gorgon] Magic Dark Property Magic	[고르곤] 매직 암속성 마법
+[木乃伊賈西特] 物理暗屬性打擊	[Mummyghast] Physical Dark Property Strike	[머미가스트] 물리 암속성 타격
+[木乃伊賈西特] 物理暗屬性 刺擊	[Mummyghast] Physical Dark Property Pierce	[머미가스트] 물리 암속성 찌르기
+[木乃伊賈西特] 魔法暗屬性魔法	[Mummyghast] Magic Dark Property Magic	[머미가스트] 매직 암속성 마법
+[希德拉] 物理水屬性魔法	[Hydra] Physical Ice Property Magic	[히드라] 물리 수속성 마법
+[希德拉] 魔法水屬性魔法	[Hydra] Magic Ice Property Magic	[히드라] 매직 수속성 마법
+[希德拉] 物理無屬性刺擊	[Hydra] Physical Non-Property Pierce	[히드라] 물리 무속성 찌르기
+[希德拉] 物理無屬性斬擊	[Hydra] Physical Non-Property Slash	[히드라] 물리 무속성 베기
+[鎖鏈羅德] 魔法無屬性魔法	[Tomblord] Magic Non-Property Magic	[툼로드] 매직 무속성 마법
+[遠古石龜獸_TEST] 物理無屬性打擊	[Rocktortuga_TEST] Physical Non-Property Strike	[락토르투가_TEST] 물리 무속성 타격
+[女妖克萊默] 物理毒屬性打擊	[Clymen] Physical Poison Property Strike	[클라이멘] 물리 독속성 타격
+[地心蟲王] 物理無屬性打擊	[Reaverpede] Physical Non-Property Strike	[리버피드] 물리 무속성 타격
+[柯里曼希亞] 物理無屬性打擊	[Colimencia] Physical Non-Property Strike	[콜리멘시아] 물리 무속성 타격
+[女妖克萊默] 物理毒屬性魔法	[Clymen] Physical Poison Property Magic	[클라이멘] 물리 독속성 마법
+[柯里曼希亞] 物理無屬性魔法	[Colimencia] Physical Non-Property Magic	[콜리멘시아] 물리 무속성 마법
+[柯里曼希亞] 魔法無屬性魔法	[Colimencia] Magic Non-Property Magic	[콜리멘시아] 매직 무속성 마법
+[南瓜燈籠怪] 物理無屬性打擊	[Jack-o-Lantern] Physical Non-Property Strike	[잭오랜턴] 물리 무속성 타격
+[南瓜燈籠怪] 物理火屬性打擊	[Jack-o-Lantern] Physical Fire Property Strike	[잭오랜턴] 물리 화속성 타격
+[魔斯怪] 物理電氣屬性刺擊	[Mothstem] Physical Lightning Property Pierce	[모스템] 물리 전기속성 찌르기
+[魔斯怪] 物理電氣屬性魔法	[Mothstem] Physical Lightning Property Magic	[모스템] 물리 전기속성 마법
+[凱吉青苔泥人] 物理無屬性打擊	[Gauge Golem] Physical non-Property damage	[게이징 골렘] 물리 무속성 타격
+[孟堤肯] 物理無屬性斬擊	[Mentiken] Physical Non-Property Slash	[맨티켄] 물리 무속성 베기
+[莫亞班羅喀] 物理無屬性打擊	[Moyabruka] Physical Non-Property Strike	[모야브루카] 물리 무속성 타격
+[貝洛查德] 物理無屬性打擊	[Velorchard] Physical Non-Property Strike	[벨로차드] 물리 무속성 타격
+[虛拿因] 物理無屬性打擊	[Shnayim] Physical Non-Property Strike	[쉬나임] 물리 무속성 타격
+[夏勒琵雅] 物理無屬性斬擊	[Harpeia] Physical Non-Property Slash	[하르피아] 물리 무속성 베기
+[鎖鏈羅德] 魔法無屬性刺擊	[Tomblord] Magic Non-Property Pierce	[툼로드] 매직 무속성 찌르기
+[艾哈特] 物理電氣屬性魔法	[Achat] Physical Lightning Property Magic	[에하트] 물리 전기속성 마법
+[虛拿因] 物理電氣屬性魔法	[Shnayim] Physical Lightning Property Magic	[쉬나임] 물리 전기속성 마법
+[孟堤肯] 物理毒屬性魔法	[Mentiken] Physical Poison Property Magic	[맨티켄] 물리 독속성 마법
+[凱吉青苔泥人] 物理火屬性打擊	[Gazing Golem] Physical Fire Property Strike	[게이징 골렘] 물리 화속성 타격
+[凱吉青苔泥人] 物理火屬性魔法	[Gazing Golem] Physical Fire Property Magic	[게이징 골렘] 물리 화속성 마법
+[地心蟲王] 魔法毒屬性魔法	[Reaverpede] Magic Poison Property Magic	[리버피드] 매직 독속성 마법
+[地心蟲王] 物理毒屬性魔法	[Reaverpede] Physical Poison Property Magic	[리버피드] 물리 독속성 마법
+[孟堤肯] 物理無屬性魔法	[Mentiken] Physical Non-Property Magic	[맨티켄] 물리 무속성 마법
+[孟堤肯] 物理無屬性 刺擊	[Mentiken] Physical Non-Property Pierce	[맨티켄] 물리 무속성 찌르기
+[貝洛查德] 魔法毒屬性魔法	[Velorchard] Magic Poison Property Magic	[벨로차드] 매직 독속성 마법
+[貝洛查德] 物理無屬性魔法	[Velorchard] Physical Non-Property Magic	[벨로차드] 물리 무속성 마법
+[魔地獸] 物理毒屬性魔法	[Moldyhorn] Physical Poison Property Magic	[몰디혼] 물리 독속성 마법
+[魔地獸] 物理無屬性打擊	[Moldyhorn] Physical Non-Property Strike	[몰디혼] 물리 무속성 타격
+[魔地獸] 魔法毒屬性魔法	[Moldyhorn] Magic Poison Property Magic	[몰디혼] 매직 독속성 마법
+[樹林巨獸] 魔法無屬性刺擊	[Giant Wood Goblin] Magic Non-Property Pierce	[자이언트 우드 고블린] 매직 무속성 찌르기
+[樹林巨獸] 物理無屬性打擊	[Giant Wood Goblin] Physical Non-Property Strike	[자이언트 우드 고블린] 물리 무속성 타격
+[葛雷斯墨爾] 魔法無屬性打擊	[Glass_Mole] Magic Non-Property Strike	[글래스몰] 매직 무속성 타격
+[夏勒琵雅] 物理無屬性刺擊	[Harpeia] Physical Non-Property Pierce	[하르피아] 물리 무속성 찌르기
+[夏勒琵雅] 魔法無屬性魔法	[Harpeia] Magic Non-Property Magic	[하르피아] 매직 무속성 마법
+[夏勒琵雅] 物理電氣屬性魔法	[Harpeia] Physical Lightning Property Magic	[하르피아] 물리 전기속성 마법
+[拉查托特] 物理水屬性魔法	[Rajatoad] Physical Ice Property Magic	[라자토드] 물리 수속성 마법
+[瑪爾雷飛龍] 物理水屬性打擊	[Mallet Wyvern] Physical Ice Property Strike	[말렛와이번] 물리 수속성 타격
+[瑪爾雷飛龍] 物理水屬性魔法	[Mallet Wyvern] Physical Ice Property Magic	[말렛와이번] 물리 수속성 마법
+[摩吉] 物理無屬性斬擊	[Merge] Physical Non-Property Slash	[머지] 물리 무속성 베기
+[摩吉] 物理無屬性刺擊	[Merge] Physical Non-Property Pierce	[머지] 물리 무속성 찌르기
+[獨角獸] 物理無屬性刺擊	[Unicorn] Physical Non-Property Pierce	[유니콘] 물리 무속성 찌르기
+[獨角獸] 物理暗屬性刺擊	[Unicorn] Physical Dark Property Pierce	[유니콘] 물리 암속성 찌르기
+[獨角獸] 物理暗屬性斬擊	[Unicorn] Physical Dark Property Slash	[유니콘] 물리 암속성 베기
+[獨角獸] 魔法暗屬性魔法	[Unicorn] Magic Dark Property Magic	[유니콘] 매직 암속성 마법
+[南瓜燈籠怪] 物理火屬性刺擊	[Jack-o-Lantern] Physical Fire Property Pierce	[잭오랜턴] 물리 화속성 찌르기
+[杰斯提] 魔法暗屬性魔法	[Gesti] Magic Dark Property Magic	[제스티] 매직 암속성 마법
+[灰色青苔泥人] 物理地屬性打擊	[Golem_Gray] Physical Earth Property Strike	[회색 골렘] 물리 땅속성 타격
+[灰色青苔泥人] 物理地屬性魔法	[Golem_Gray] Physical Earth Property Magic	[회색 골렘] 물리 땅속성 마법
+[摩洛克]基本一般攻擊	[Molich]Basic Normal Attack	[몰레크]베이직 일반 공격
+[希默普] 物理地屬性打擊	[Simorph] Physical Earth Property Strike	[시모프] 물리 땅속성 타격
+[豬籠草] 物理地屬性打擊	[Nepenthes] Physical Earth Property Strike	[네펜더스] 물리 땅속성 타격
+[豬籠草] 回復 BUFF 技能	[Nepenthes] Heal Buff Skill	[네펜더스] 힐 버프 스킬
+[卡普里亞] 物理毒屬性斬擊	[Capria] Physical Poison Property Slash	[카프리아] 물리 독속성 베기
+[卡普里亞] 小怪召喚	[Capria] Monster Summon	[카프리아] 쫄몹 소환
+[惡靈君主] 召喚物	[Specter Monarch] Summon	[스펙터 군주] 소환물
+[尼多普巴伊] 魔法暗屬性魔法	[Netherbovine] Magic Dark Property Magic	[네더보바인] 매직 암속성 마법
+召喚約納喬雷怪物	[Yonazolem Monster Summon]	요나졸렘 몬스터소환
+[原野死靈查普利]基本一般暗黑	[Field Chaparition]Basic Normal Dark	[필드 채퍼리션]베이직 일반 암흑
+[原野死靈查普利]魔法一般暗黑	[Field Chaparition]Magic Normal Dark	[필드 채퍼리션]매직 일반 암흑
+[原野地獄三頭犬]基本一般火焰	[Field Kerberos]Basic Normal Fire	[필드 켈베로스]베이직 일반 화염
+[原野地獄三頭犬]魔法魔法火焰	[Field Kerberos]Magic Magic Fire	[필드 켈베로스]매직 매직 화염
+[波亞塔] 物理毒屬性打擊	[Poata] Physical Poison Property Strike	[포아타] 물리 독속성 타격
+[波亞塔] 物理毒屬性小怪召喚	[Poata] Physical Poison Property Monster Summon	[포아타] 물리 독속성 쫄몹 소환
+[赤紅布貝鬥士鬥士] 物理火屬性打擊	[Red Vubbe Fighter] Physical Fire Property Strike	[붉은 부베 투사] 물리 불속성 타격
+魔法魔法黑暗	Magic Magic Dark	매직 매직 다크
+[布貝鬥士] 物理地屬性小怪召喚	[Vubbe Fighter] Physical Earth Property Monster Summon	[부베 투사] 물리 땅속성 쫄몹 소환
+[赤紅布貝鬥士] 物理火屬性小怪召喚	[Red Vubbe Fighter] Physical Fire Property Monster Summon	[붉은 부베 투사] 물리 불속성 쫄몹 소환
+[克洛提德] 物理暗屬性 刺擊	[Corrupted] Physical Dark Property Pierce	[코럽티드] 물리 암속성 찌르기
+[魔花卡諾波] 小怪召喚	[Carnivore] Monster Summon	[카너버] 쫄몹 소환
+[石鯨怪] 小怪召喚	[Stone_Whale] Monster Summon	[석화고래] 쫄몹 소환
+[聖殿十字軍大師] 一般攻擊	[Paladin Master] Normal attack	[팔라딘 마스터] 일반 공격
+[聖水祭司大師] 一般攻擊	[Priest Master] Normal attack	[프리스트 마스터] 일반 공격
+[獵人大師] 一般攻擊	[Hunter Master] Normal attack	[헌터 마스터] 일반 공격
+[聖火祭司大師] 一般攻擊	[Krivis Master] Normal attack	[크리비 마스터] 일반 공격
+[野蠻人大師] 一般攻擊	[Barbarian Master] Normal attack	[바바리안 마스터] 일반 공격
+[鎖鏈法師大師] 一般攻擊	[Linker Master] Normal attack	[링커 마스터] 일반 공격
+[巫蠱師大師] 一般攻擊	[Wugushi Master] Normal attack	[무고사 마스터] 일반 공격
+[聖者大師] 一般攻擊	[Sadhu Master] Normal attack	[사두 마스터] 일반 공격
+[圓盾劍士大師] 一般攻擊	[Rodelero Master] Normal attack	[로델레로 마스터] 일반 공격
+[斥候大師] 一般攻擊	[Scout Master] Normal attack	[스카우트 마스터] 일반 공격
+[流氓大師] 一般攻擊	[Rogue Master] Normal attack	[로그 마스터] 일반 공격
+[武僧大師] 一般攻擊	[Monk Master] Normal attack	[몽크 마스터] 일반 공격
+[神諭師大師] 一般攻擊	[Oracle Master] Normal attack	[오라클 마스터] 일반 공격
+[德魯伊大師] 一般攻擊	[Druid Master] Normal attack	[드루이드 마스터] 일반 공격
+基本攻擊	Basic Attack	기본 공격
+弓箭右手(雙手弓專用)	Right-hand Bow (Two-handed Bow only)	보우 오른손(투핸드보우 전용)
+對近距離的敵人攻擊(戰士雙手劍專用)	Attack an enemy from a short distance(Warrior's Two-handed Sword only)	근거리의 적에게 공격을 합니다(전사 양손검 전용)
+短劍刺擊	Dagger Pierce	단검 찌르기
+夢想家	Dream Song	몽왕가
+黑影雨傘	Shadow Umbrella	섀도엄브렐러 
+開發中	In development	개발중
+道具技能	Item skill	아이템 스킬
+再次攻擊	Dash Attack	대시 공격
+基本攻擊的突擊版本	This is the dash version of the base attack	기본공격의 대시버전입니다
+落雷	Zaibas	자이바스
+基本	Basic	기본
+基本攻擊2	Basic Attack 2	기본 공격2
+弓箭左手	Bow Left hand	보우 왼손
+弓箭右手(十字弓專用)	Right-hand Bow (Crossbow only)	보우 오른손(크로스보우 전용)
+共用_測試1	Public_Test 1	공용_테스트1
+火熱1	Mischief 1	화끈1
+共用_測試2	Public_Test 2	공용_테스트2
+火熱2	Mischief 2	화끈2
+共用_測試3	Public_Test 3	공용_테스트3
+火熱3	Mischief 3	화끈3
+共用_測試4	Public_Test 4	공용_테스트4
+火熱4	Mischief 4	화끈4
+共用_測試5	Public_Test 5	공용_테스트5
+火熱5	Mischief 5	화끈5
+冰塊衝擊	Ice paster	아이스 페이스터
+重裝步兵	Hoplite	하플라이트
+開發進行中	In development	개발 진행 중
+防守	Guard	가드
+以盾牌擋下敵人的攻擊。[防守點數150]	Block enemy attack with shield [Guard Point 150]	방패로 적의 공격을 막아냅니다. [가드포인트 150]
+[青苔泥人卡片] 物理無屬性打擊	[Golem Card] Physical Non-Property Strike	[골렘 카드] 물리 무속성 타격
+[蘑菇卡利亞卡片] 物理毒屬性打擊	[Mushcaria Card] Physical Poison Property Strike	[머슈카리아 카드] 물리 독속성 타격
+[遠古石龜獸卡片] 物理無屬性打擊	[Rocktortuga Card] Physical Non-Property Strike	[락토르투가 카드] 물리 무속성 타격
+[波亞塔卡片] 物理暗屬性魔法	[Poata Card] Physical Dark Property Magic	[포아타 카드] 물리 암속성 마법
+[毒魔蛙圖圖卡片] 物理毒屬性斬擊	[Tutu Card] Physical Poison Property Slash	[투투 카드] 물리 독속성 베기
+[布貝鬥士卡片] 物理無屬性打擊	[Vubbe Fighter Card] Physical Non-Property Strike	[부베 투사 카드] 물리 무속성 타격
+[赤紅布貝鬥士卡片] 物理無屬性刺擊	[Red Vubbe Fighter Card] Physical Non-Property Pierce	[붉은 부베 투사 카드] 물리 무속성 찌르기
+[查伊波卡片] 物理毒屬性魔法	[Chafer Card] Physical Poison Property Magic	[체이퍼 카드] 물리 독속성 마법
+[葛雷斯墨爾卡片] 物理無屬性刺擊	[Glass_Mole Card] Physical Non-Property Pierce	[글래스몰 카드] 물리 무속성 찌르기
+[樹精卡] 物理無屬性魔法	[Woodspirit Card] Physical Non-Property Magic	[우드스피릿 카드] 물리 무속성 마법
+[獨眼巨人卡片] 物理暗屬性打擊	[Cyclops Card] Physical Dark Property Strike	[사이클롭스 카드] 물리 암속성 타격
+[火焰蜥蜴王卡片] 魔法火屬性魔法	[Salamander Card] Magic Fire Property Magic	[샐러맨더 카드] 매직 화속성 마법
+[貝亞卡拉斯卡片] 物理無屬性魔法	[Bearkaras Card] Physical Non-Property Magic	[베아카라스 카드] 물리 무속성 마법
+[蠱惑惡靈卡片] 魔法暗屬性打擊	[Dazzled Specter Card] Magic Dark Property Strike	[현혹의 스펙터 카드] 매직 암속성 타격
+[石鯨怪卡片] 魔法無屬性打擊	[Stone_Whale Card] Magic Non-Property Strike	[석화고래 카드] 매직 무속성 타격
+[奇葛拉斯卡片] 物理火屬性打擊	[Ginklas Card] Physical Fire Property Strike	[긴클라스 카드] 물리 화속성 타격
+[蓋洛貝斯寄居蟹卡片] 物理無屬性打擊	[Carapace Card] Physical Non-Property Strike	[캐러페이스 카드] 물리 무속성 타격
+[惡靈君主卡片] 魔法暗屬性魔法	[Specter Monarch Card] Magic Dark Property Magic	[스펙터 군주 카드] 매직 암속성 마법
+[尼多普巴伊卡片] 物理暗屬性 刺擊	[Netherbovine Card] Physical Dark Property Pierce	[네더보바인 카드] 물리 암속성 찌르기
+[米爾堤斯卡片] 魔法暗屬性 斬擊	[Mirtis Card] Magic Dark Property Slash	[미르티스 카드] 매직 암속성 베기
+[賽夸伊亞卡片] 物理火屬性魔法	[Sequoia Card] Physical Fire Property Magic	[세콰이아 카드] 물리 화속성 마법
+[利卡烏斯卡片] 物理暗屬性 斬擊	[Rikaus Card] Physical Dark Property Slash	[리카우스 카드] 물리 암속성 베기
+[狼人卡片] 物理暗屬性魔法	[Werewolf Card] Physical Dark Property Magic	[웨어울프 카드] 물리 암속성 마법
+[鬼影凱伊洛卡片] 魔法暗屬性 斬擊	[Shadowgaler Card] Magic Dark Property Slash	[섀도게일러 카드] 매직 암속성 베기
+[魔花卡諾波卡片] 物理毒屬性魔法	[Carnivore Card] Physical Poison Property Magic	[카너버 카드] 물리 독속성 마법
+[米諾牛頭怪卡片] 魔法火屬性魔法	[Minotaur Card] Magic Fire Property Magic	[미노타우로스 카드] 매직 화속성 마법
+[王座大蜘蛛卡片] 魔法毒屬性打擊	[Throneweaver Card] Magic Poison Property Strike	[쓰론위버 카드] 매직 독속성 타격
+[比特雷巨蜂卡片] 物理無屬性 刺擊	[Biteregina Card] Physical Non-Property Pierce	[비테리지나 카드] 물리 무속성 찌르기
+[死靈查普利卡片] 魔法暗屬性魔法	[Chapparition Card] Magic Dark Property Magic	[채퍼리션 카드] 매직 암속성 마법
+[木乃伊賈西特卡片] 物理暗屬性魔法	[Mummyghast Card] Physical Dark Property Magic	[머미가스트 카드] 물리 암속성 마법
+冰雪吐息	Ice Breath	아이스브레스
+[鋼鐵巴溫卡片] 物理火屬性打擊	[Ironbaum Card] Physical Fire Property Strike	[아이언바움 카드] 물리 화속성 타격
+[庫勒坤魔牛卡片] 魔法暗屬性刺擊	[Gorgon Card] Magic Dark Property Pierce	[고르곤 카드] 매직 암속성 찌르기
+[德拉涪里溫卡片] 物理暗屬性刺擊	[Drapeliun Card] Physical Dark Property Pierce	[드라페리운 카드] 물리 암속성 찌르기
+[獨角獸卡片] 魔法暗屬性斬擊	[Unicorn Card] Magic Dark Property Slash	[유니콘 카드] 매직 암속성 베기
+[魔地獸卡片] 魔法毒屬性魔法	[Moldyhorn Card] Magic Poison Property Magic	[몰디혼 카드] 매직 독속성 마법
+[霸王食人花卡片] 魔法毒屬性刺擊	[Rytaswort Card] Magic Poison Property Pierce	[리타스워트 카드] 매직 독속성 찌르기
+[夏勒琵雅卡片] 物理電氣屬性斬擊	[Harpeia Card] Physical Lightning Property Slash	[하르피아 카드] 물리 전기속성 베기
+[魔斯怪怪卡] 物理電氣屬性刺擊	[Mothstem Card] Physical Lightning Property Pierce	[모스템 카드] 물리 전기속성 찌르기
+[摩吉卡片] 物理無屬性斬擊	[Merge Card] Physical Non-Property Slash	[머지 카드] 물리 무속성 베기
+[女妖克萊默卡片] 物理毒屬性打擊	[Clymen Card] Physical Poison Property Strike	[클라이멘 카드] 물리 독속성 타격
+[惡魔葛洛夫卡片] 魔法電氣屬性打擊	[Devilglove Card] Magic Lightning Property Strike	[데블글로브 카드] 매직 전기속성 타격
+[地獄亡靈卡片] 魔法暗屬性魔法	[Necroventer Card] Magic Dark Property Magic	[네크로벤터 카드] 매직 암속성 마법
+[莫雷克卡片] 物理暗屬性打擊	[Molich Card] Physical Dark Property Strike	[몰렉 카드] 물리 암속성 타격
+[約納喬雷卡片] 魔法無屬性打擊	[Yonazolem Card] Magic Non-Property Strike	[요나졸렘 카드] 매직 무속성 타격
+[鐵甲殘魔卡片] 物理暗屬性斬擊	[Abomination Card] Physical Dark Property Slash	[어보미네이션 카드] 물리 암속성 베기
+[機角卡洛斯卡片] 物理暗屬性刺擊	[Ellaganos Card] Physical Dark Property Pierce	[엘라가노스 카드] 물리 암속성 찌르기
+[亞崑卡片] 物理火屬性打擊	[Archon Card] Physical Fire Property Strike	[아콘 카드] 물리 화속성 타격
+[魔龍凱拉斯卡片] 物理火屬性魔法	[Gaigalas Card] Physical Fire Property Magic	[가이갈라스 카드] 물리 화속성 마법
+[佛朗布卡片] 魔法暗屬性打擊	[Bramble Card] Magic Dark Property Strike	[브람블 카드] 매직 암속성 타격
+[鬼眼蜘蛛卡片] 物理毒屬性打擊	[Honeypin Card] Physical Poison Property Strike	[허니핀 카드] 물리 독속성 타격
+[火暴地鼠獸卡片] 物理電氣屬性打擊	[Bebraspion Card] Physical Lightning Property Strike	[베브라스피온 카드] 물리 전기속성 타격
+[樹林巨獸] 魔法火屬性魔法	[Giant Red Wood Goblin Card] Magic Fire Property Magic	[자이언트 레드 우드 카드] 매직 화속성 마법
+[樹林巨獸卡片] 魔法無屬性魔法	[Giant Wood Goblin Card] Magic Non-Property Magic	[자이언트 우드 고블린 카드] 매직 무속성 마법
+[奇魯毛蟲獸卡片] 物理毒屬性刺擊	[Kirmelich Card] Physical Poison Property Pierce	[키르멜리치 카드] 물리 독속성 찌르기
+[火山龜獸] 物理火屬性魔法	[Magbug] Physical Fire Property Magic	[매그버크] 물리 화속성 마법
+[克帕奇樹妖卡片] 物理毒屬性打擊	[Kepachieftain Card] Physical Poison Property Strike	[케파치프틴 카드] 물리 독속성 타격
+[艾哈特卡片] 魔法無屬性魔法	[Achat Card] Magic Non-Property Magic	[에하트 카드] 매직 무속성 마법
+[虛拿因卡片] 魔法電氣屬性魔法	[Shnayim Card] Magic Lightning Property Magic	[쉬나임 카드] 매직 전기속성 마법
+[鎖鏈羅德卡片] 魔法暗屬性魔法	[Tomb Lord Card] Magic Dark Property Magic	[툼로드 카드] 매직 암속성 마법
+[巨眼丹提卡片] 魔法電氣屬性 斬擊	[Denoptic Card] Magic Lightning Property Slash	[덴옵틱 카드] 매직 전기속성 베기
+[伊提斯大嘴獸卡片] 物理毒屬性魔法	[Iltiswort Card] Physical Poison Property Magic	[일티스워트 카드] 물리 독속성 마법
+[巨魔蠍卡片] 物理毒屬性刺擊	[Scorpio Card] Physical Poison Property Pierce	[스콜피오 카드] 물리 독속성 찌르기
+[強化毒] 魔法毒屬性魔法	[Enchant Poison] Magic Poison Property	[인챈트포이즌] 매직 독속성 마법
+[尖角皮德蟲卡片] 物理毒屬性打擊	[Ravinepede Card] Physical Poison Property Strike	[라바인피드 카드] 물리 독속성 타격
+[拉查托特卡片] 物理水屬性魔法	[Rajatoad Card] Physical Water Property Magic	[라자토드 카드] 물리 수속성 마법
+[邪惡寶箱怪卡片] 物理暗屬性打擊	[Unknocker Card] Physical Dark Property Strike	[언낙커 카드] 물리 암속성 타격
+[薩爾提斯托卡片] 物理水屬性打擊	[Saltistter Card] Physical Water Property Strike	[살티스터 카드] 물리 수속성 타격
+[鐵甲殭屍卡片] 物理無屬性斬擊	[Deadborn Card] Physical Non-Property Slash	[데드본 카드] 물리 무속성 베기
+[克洛提德卡片] 魔法神聖屬性魔法	[Corrupted Card] Magic Holy Property Magic	[코럽티드 카드] 매직 신성속성 마법
+[瑪爾雷飛龍卡片] 魔法無屬性打擊	[Mallet Wyvern Card] Magic Non-Property Strike	[말렛와이번 카드] 매직 무속성 타격
+[莫亞班羅喀卡片] 物理無屬性打擊	[Moyabruka Card] Physical Non-Property Strike	[모야브루카 카드] 물리 무속성 타격
+[柯里曼希亞卡片] 物理水屬性打擊	[Colimencia Card] Physical Water Property Strike	[콜리멘시아 카드] 물리 수속성 타격
+[魔鬼鰩卡片] 魔法水屬性打擊	[Rajapearl Card] Magic Water Property Strike	[라자펄 카드] 매직 수속성 타격
+[蘑菇沃特卡片] 魔法毒屬性魔法	[Mushwort Card] Magic Poison Property Magic	[머쉬워트 카드] 매직 독속성 마법
+[雷普斯卡片] 物理水屬性刺擊	[Lepus Card] Physical Water Property Pierce	[레푸스 카드] 물리 수속성 찌르기
+[斯帕勒那絲卡片] 物理電氣屬性魔法	[Sparnas Card] Physical Lightning Property Magic	[스파르나스 카드] 물리 전기속성 마법
+[仙人掌妖精卡片] 物理毒屬性魔法	[Cactusvel Card] Physical Poison Property Magic	[캑터스벨 카드] 물리 독속성 마법
+[丟擲] 物理無屬性打擊	[Throw] Physical Non-Property Strike	[던지기] 물리 무속성 타격
+[貝洛查德卡片] 魔法毒屬性魔法	[Velorchard Card] Magic Poison Property Magic	[벨로차드 카드] 매직 독속성 마법
+[魯托普士卡片] 物理無屬性刺擊	[Luropus Card] Physical Non-Property Pierce	[루토푸스 카드] 물리 무속성 찌르기
+[迪歐尼亞卡片] 魔法無屬性魔法	[Dionia Card] Magic Non-Property Magic	[디오니아 카드] 마법 무속성 매직
+[凱吉青苔泥人卡片] 物理火屬性打擊	[Gazing Golem Card] Physical Fire Property Strike	[게이징 골렘 카드] 물리 화속성 타격
+[樹葉召喚] 魔法無屬性魔法	[Summon Leaves] Non-Property Magic	[나뭇잎 소환] 매직 무속성 마법
+[希德拉卡片] 物理水屬性魔法	[Hydra Card] Physical Water Property Magic	[히드라 카드] 물리 수속성 마법
+[莫厄卡片] 物理無屬性打擊	[Moa Card] Physical Non-Property Strike	[모아 카드] 물리 무속성 타격
+[南瓜燈籠怪卡片] 魔法火屬性刺擊	[Jack O'Lantern Card] Magic Fire Property Pierce	[잭오랜턴 카드] 매직 화속성 찌르기
+[孟堤肯卡片] 物理無屬性魔法	[Manticen Card] Physical Non-Property Magic	[맨티켄 카드] 물리 무속성 마법
+[瑪因洛德卡片] 物理電氣屬性魔法	[Mineloader Card] Physical Lightning Property Magic	[마인로더 카드] 물리 전기속성 마법
+[克萊獰怪卡片] 魔法火屬性魔法	[Grinender Card] Magic Fire Property Magic	[그라이넨더 카드] 매직 화속성 마법
+[赫嘉塞露卡片] 物理暗屬性斬擊	[Helgasercle Card] Physical Dark Property Slash	[헬가세르클 카드] 물리 암속성 베기
+[耶庫卡片] 魔法暗屬性打擊	[Yekub Card] Magic Dark Property Strike	[예쿱 카드] 매직 암속성 타격
+[物理盾牌] 魔法無屬性魔法	[Physical Shield] Non-Property Magic	[물리 실드] 매직 무속성 마법
+[史潘飛行獸人卡片] 物理無屬性魔法	[Sparnasman Card] Physical Non-Property Magic	[스파나스맨 카드] 물리 무속성 마법
+突刺	Thrust	쓰러스트
+痛擊	Bash	배쉬
+奮起	Gung Ho	겅호
+專注	Concentrate	콘센트레이트
+抑制	Restrain	리스트레인
+盾心打擊	Umbo Blow	엄보블로
+盾緣敲擊	Rim Blow	림블로
+敲盾挑釁	Swash Buckling	스워시 버클링
+盾牌投擲	Shield Lob	실드랍
+高級守護	High Guard	하이가드
+蝴蝶	Butterfly	버터플라이
+車輪斬	Wagon Wheel	수레바퀴
+蓄力一擊	Cartar Stroke	카타스트로크
+擊頭	Crown	크라운
+十字守護	Cross Guard	크로스 가드
+連續斬	Moulinet	뮬리넷
+刺擊	Stabbing	스태빙
+貫穿擊	Pierce	피어스
+瞄準隙缝	Finestra	피네스트라
+雙手突刺	Synchro Thrusting	양손찌르기
+長驅直入	Long Stride	롱스트라이드
+長矛投擲	Spear Throw	투창
+盾牌衝鋒	Shield Charge	실드 챠지
+蒙塔諾	Montano	몬타노
+盾牌碎擊	Targe Smash	타지스매쉬
+盾牌推擊	Shield Push	실드푸시
+穿刺	Impaler	임패일러
+地動波	Earth Wave	어스 웨이브
+疾行	Trot	트롯
+騎乘衝鋒	Steed Charge	스티드 챠지
+毀滅刺擊	Doom Spike	둠 스파이크
+突擊	Rush	돌격
+死亡牽引	Dragging Death	드래깅 데쓰
+開腸剖肚	Embowel	임바우얼
+狂怒	Frenzy	프렌지
+侵略者	Aggressor	어그레서
+野蠻人	Savagery	새비지리
+戰鬥怒吼	Warcry	워크라이
+踐踏	Stomping Kick	스톰핑 킥
+武器維修	Weapon Maintenance	웨폰 매인터넌스
+盔甲維修	Armor Maintenance	아머 매인터넌스
+維修	Repair	리페어
+捕縛	Arrest	포박
+海賊旗	Jolly Roger	졸리로저
+鐵鉤	Iron Hook	아이언 후크
+龍骨拖引	Keel Hauling	킬 홀링
+開箱	Unlock Chest	언락 체스트
+取消次武器	Cancel Sub Weapon	서브웨폰 캔슬
+徵召	Conscript	컨스크립트
+方陣	Phalanx	팔랑크스
+大方陣	Tercio	테르시오
+鶴翼陣	Winged Formation	윙드 포메이션
+楔形陣	Wedge Formation	웨지 포메이션
+密集方陣	Schiltron Formation	스킬트론
+龜甲陣	Testudo	테스튜도
+爭鬥者	Skirmisher	스커미셔
+方向轉換	Change Direction	방향전환
+英勇行動	Deeds of Valor	디드 오브 밸러
+苦痛屏障	Pain Barrier	페인 배리어
+擊殺	Mordschlag	살격
+雙酬	Double Pay Earn	더블페이언
+受到傷害3倍	Three times of hit damage	맞는 대미지 3배
+折磨	Punish	퍼니쉬
+旋風斬	Cyclone	사이클론
+自爆	Selfdestruct	자폭
+分身術	Shadow Clone	분신술
+攻擊準備	Prepare for Attack	공격 준비
+角鬥士1	Murmillo 1	무르밀로1
+角鬥士2	Murmillo 2	무르밀로2
+撞擊肩膀，震退敵人。	Use shoulder to tackle and push away enemy	어깨를 적에게 부딪쳐 밀쳐냅니다.
+增加擊倒力量	Increase Knockdown Power	넉다운파워 증가
+詛咒	Curse	저주
+能量箭	Energy Bolt	에너지 볼트
+虛弱	Lethargy	레써지
+催眠	Sleep	슬리프
+反射盾	Reflect Shield	리플렉트 실드
+地震	Earthquake	어스퀘이크
+超級詠唱	Surespell	슈어스펠
+魔法飛彈	Magic Missile	매직 미사일
+快速施法	Quick Cast	퀵캐스트
+火球	Fireball	파이어볼
+火牆	Fire Wall	파이어월
+火焰附魔	Enchant Fire	인챈트 파이어
+烈焰	Flare	플레어
+火柱	Fire Pillar	파이어 필라
+地獄氣息	Hell Breath	헬브레스
+冰箭	Ice Bolt	아이스볼트
+冰槍	Ice Pike	아이스파이크
+冰爆術	Ice Blast	아이스 블래스트
+狂風	Gust	거스트
+冰柱	Frost Pillar	프로스트필라
+靈能壓力	Psychic Pressure	사이킥 프레셔
+念動力	Telekinesis	텔레키네시스
+位置互換	Swap	스왑
+瞬間移動	Teleportation	텔레포테이션
+磁力	Magnetic Force	마그네틱 포스
+浮空	Raise	레이즈
+重力磁場	Gravity Pole	그라비티 폴
+解除鏈結	Unbind	언바인드
+物理鏈結	Physical Link	피지컬링크
+聯合懲罰	Joint Penalty	조인트 페널티
+絞首鏈	Hangman's Knot	행맨스 낫
+精神鏈結	Spiritual Chain	스피리추얼 체인
+臍帶	Lifeline	탯줄
+左臂強化	Swell Left Arm	왼팔 강화
+體積縮小	Shrink Body	크기 축소
+體積變大	Swell Body	크기 확대
+能力調換	Transpose	트랜스포스
+法陣反轉	Reversi	리버시
+右臂強化	Swell Right Arm	오른팔 강화
+頭腦全開	Swell Brain	두뇌 풀가동
+電擊	Electrocute	일렉트로큐트
+石化咒詛	Stone Curse	스톤커스
+冰雹	Hail	헤일
+紅焰	Prominence	홍염
+隕石	Meteor	메테오
+召喚惡魔	Summoning	서모닝
+召魔：指定攻擊	Attack Ground	지정 공격
+召魔：騎乘	Riding	탑승
+召魔：變異	Morph	변이
+攻擊加快	Quicken	퀴큰
+重生	Reincarnate	환생
+停止	Stop	스톱
+緩速	Slow	슬로우
+移動加快	Haste	헤이스트
+時間倒轉	Backmasking	백마스킹
+屍塊收集	Gather Corpse	게더 콥스
+製造修格斯	Create Shoggoth	쇼고스 만들기
+屍塊砲擊	Flesh Cannon	플레쉬 캐논
+屍塊護環	Flesh Hoop	플레쉬 후프
+土牆	Dirty Wall	더티 월
+屍塊挖掘	Disinter	디신터
+燃燒	Combustion	컴버스천
+魔法大盾	Magic Pavise	마법 파비스
+挖掘	Dig	디그
+烘培	Roasting	로스팅
+熔合	Briquetting	브리케팅
+製作藥劑	Tincturing	팅크쳐링
+究極煉成	Magnum Opus	마그눔 오푸스
+對指定對象施展 [詛咒]，降低防禦能力值。	Apply [Curse] to the target and reduce its defense	지정한 대상에게 [저주]를 걸어 방어능력치를 떨어 트립니다.
+目前開發中	Currently in development	현재 개발 중
+大理石	Marble	마블
+黑洞	Black Hole	블랙홀
+倒數	Countdown	카운트다운
+提升攻速的BUFF	Buff for adding attack speed	공속올려주는 버프
+測試	test	테슷흐
+多重射擊	Multi Shot	멀티샷
+滿弦	Full Draw	풀드로우
+跪射	Kneeling Shot	닐링샷
+迅步	Swift Step	스위프트스텝
+斜射	Oblique Shot	오블리크 샷
+扇射	Barrage	배라지
+貫通箭	High Anchoring	하이앵커링
+暴擊射擊	Critical Shot	크리티컬 샷
+穩定瞄準	Steady Aim	스테디에임
+定時炸彈箭	Time Bomb Arrow	타임봄 애로우
+彈跳射擊	Bounce Shot	바운스샷
+箭雨	Arrow Sprinkle	화살비
+螺旋箭	Spiral Arrow	스파이럴 애로우
+置盾	Deploy Pavise	파비스 설치
+丟擲鐵蒺藜	Scatter Caltrops	캘트롭 뿌리기
+撿取石頭	Stone Picking	돌멩이 줍기
+石頭射擊	Stone Shot	스톤샷
+連續射擊	Rapid Fire	래피드파이어
+掃蕩陷阱	Broom Trap	브룸트랩
+竹尖釘	Punji Stake	푼지스테이크
+引爆陷阱	Detonate Traps	데토네이트 트랩
+追蹤咬擊	Coursing	코싱
+咬回	Retrieve	리트리브
+攫取	Snatching	스내칭
+讚揚	Praise	프레이즈
+標記	Pointing	포인팅
+追蹤	Hounding	하운딩
+解毒	Detoxify	해독
+吹箭	Needle Blow	취시
+蠱惑	Bewitch	고혹
+蜈蚣蠱	Wugong Gu	오공고
+毒罐	Throw Gu Pot	독항아리
+金蠶蠱	Jincan Gu	금잠고
+偽裝	Camouflage	카모플라주
+響箭	Flu Flu	플루플루
+燃燒箭	Flare Shot	플레어 샷
+潛行	Cloaking	클로킹
+距離扭曲	Perspective Distortion	원근왜곡
+掃瞄	Scan	스캔
+預備	Be Prepared	차렷
+偷襲	Sneak Hit	스닉 힛
+佯攻	Feint	페인트
+揮舞弓箭	Brandish Bow	브랜디쉬 보우
+潛伏	Burrow	버로우
+闊箭	Broadhead	브로드헤드
+錐箭	Bodkin Point	보드킨 포인트
+荊棘箭	Barbed Arrow	바브드애로
+交叉火力	Crossfire	크로스파이어
+演奏笛子	Playing Flute	피리 연주
+感情	Identify	감정
+腿部射擊	Leg Shot	다리쏘기
+軍刀突刺	Saber Thrust	세이버 쓰러스트
+軍刀痛擊	Saber Bash	세이버 배쉬
+騎兵集氣	Cavalry Charge	카발리 챠지
+軍馬衝突	Horse Tackle	군마충돌
+空砲彈	Blank Ammunition	공포탄
+集中炮火	Concentrated Fire	집중포화
+箭頭攻擊	Pommel Attack	폼멜찍기
+弱化	Weakening	약화
+逃脫射擊	Caracole	카라콜
+騎射	Limacon	리마콘
+淨化	Cure	큐어
+安全領域	Safety Zone	세이프티 존
+破防領域	Deprotected Zone	디프로텍티드 존
+神聖力量	Divine Might	디바인 마이트
+暴擊魔法陣	Zalciai	잘챠이
+神光	Daino	다이노
+神聖烙印	Divine Stigma	디바인 스티그마
+祈禱	Melstis	멜스티스
+潑灑聖水	Aspersion	아스퍼션
+聖光體	Monstrance	몬스트런스
+祝福	Blessing	블레싱
+復活術	Resurrection	리저렉션
+聖禮	Sacrament	사크라멘트
+消護	Protection	수호
+多多拉	Dodola	도돌라
+迷惑	Hexing	헥싱
+釘草人	Effigy	에피지
+驅屍	Tet Mamak La	텟 마카클라
+製造殭屍	Zombify	좀비 만들기
+符咒	Mackangdal	마캉달
+殭屍圍繞	Bwa Kayiman	브와카이망
+體力旗幟	Samediveve	삼디베베
+力量旗幟	Ogouveve	오구베베
+殭屍自爆	Damballa	댐발라
+澤米娜女神像	Statue of Goddess Zemyna	제미나 여신상
+拉伊瑪女神像	Statue of Goddess Laima	라이마 여신상
+雕刻攻擊	Carve Attack	목각 공격
+貓頭鷹雕刻	Carve Owl	부엉이 조각
+雕刻世界樹	Carve World Tree	세계수 조각
+靈魂出竅	Out of Body	유체이탈
+魂魄移動範圍150	Body moving range 150	유체 이동 범위 150
+靈體合一	Prakriti	프라크리티
+支配	Possession	포제션
+衰弱	Vashita Siddhi	바쉬타 싯디
+靈魂爆炸	Astral Body Explosion	유체 폭발
+能量傳送	Transmit Prana	프라나 전송
+重擊	Smite	스마이트
+恢復	Restoration	리스토레이션
+皈依	Conversion	개종
+魔法陣持續時間10秒	Magic circle duration 10 seconds	마법진 지속시간 10초
+元素抗性	Resist Elements	레지스트 엘레멘츠
+驅趕惡靈	Turn Undead	턴 언데드
+障壁	Barrier	배리어
+鐵布衫	Iron Skin	철포삼
+雙鎖功	Double Punch	쌍쇄공
+鐵砂掌	Palm Strike	철사장
+觀音掌	Hand Knife	관음장
+寸勁	One Inch Punch	촌경
+氣功波	Energy Blast	양광수
+製作驅除器	Dispeller Crafting	디스펠러 제작
+聖職買賣	Simony	시모니
+推進器製作	Craft Booster	부스터제작
+魔法商店	Spell Shop	주문 판매상점 개설
+寬恕	Indulgentia	인둘겐티아
+奉獻	Oblation	봉헌
+心靈控制	Telepath	텔레파쓰
+肉食化	Carnivory	육식화
+形態變換	Shape Shifting	쉐입시프팅
+變形術	Transform	트랜스폼
+防禦植物	Sterea Trofh	스트레아 트로페
+速成植被	Chortasmata	코르타스마타
+植物化	Make into Plant	식물화
+女神呼喚	Call of Deities	콜오브디어티스
+秘法能量	Arcane Energy	아케인에너지
+轉換	Change	체인지
+預知眼	Clairvoyance	클레어보이언스
+反擊	Counter Spell	카운터스펠
+預知	Forecast	포어캐스트
+讓組隊成員開始狂熱時間	Fever time starts on party members	파티원에게 피버타임 시작
+喚醒對象的靈魂	Take out soul target	대상의 영혼을 꺼낸다
+測試技能	Test Skill	테스트스킬
+昏倒	Stun	기절
+無法行動。	Unable to move	행동 불가.
+恐怖	Fear	공포
+出血	Bleeding	출혈
+過多出血	Excessive Bleed	과다출혈
+疾走	Spurt	질주
+恢復	Recovery	회복
+發現	Discovery	발견
+休息	Rest	휴식
+安全	Safety	안전
+寒氣	Chilly	냉기
+結冰	Frozen	결빙
+著火	Ignite	발화
+復活後遺症	Resurrection After Effects	부활 후유증
+移動速度增加	Increase Movement Speed	이동속도증가
+衝擊波	Shock wave	충격파
+火焰	Fire	화염
+召魔：待命	Hold	홀드
+固定移動速度	Fixed Movement Speed	이동속도고정
+暗黑	Dark	암흑
+士氣BUFF	OP Buff	사기버프
+猛毒	Deadly Poison	맹독
+傳染性劇毒	Contagious Deadly Poison	전염성 맹독
+迴避	Evasion	회피
+防禦衝擊	Defense Shock	방어 충격
+石化	Petrify	석화
+強化忍耐	Enhance patience	강화 인내
+活著的火花	Burning Flame	살아있는 불꽃
+觸發寒氣	Trigger chill	냉기 촉발
+燃燒	Burn	타오름
+平靜	Calm	진정
+中毒	Poison	중독
+透明	Transparent	투명
+怪物抑制	monster Hold	몬스터 홀드
+怪物抑制 Script 連續	Monster hold script link	몬스터 홀드 스크립트 연계
+攻擊力增加	Increased Attack	공격력 증가
+攻擊力和迴避數值減少	Attack and evasion decrease	공격력과 회피 수치 감소
+SP、耐力增加	Increased SP & Stamina	SP, 스태미나 증가
+SP、耐力恢復量增加	Increases the amount of SP and Stamina recovery	SP, 스태미나 회복량 증가
+憤怒	Rage	분노
+中毒氣息	Addiction Aura	중독의 오오라
+成長	Growth	성장
+混亂	Confusion	혼란
+僵直	Staggered	경직
+玩家 RAISEUP	Player RAISEUP	플레이어 RAISEUP
+凍結	Frozen	얼어붙음
+行動者 Frozen	Actor Frozen	액터 Frozen
+陣營破壞	Destroy Camp	진영 파괴
+吸引	Suction	흡인
+反射	Reflection	반사
+技能追加中	Adding skills	스킬 추가중
+犧牲	Sacrifice	희생
+生機位置互換	Exchange life	생기 교환
+靜止	Stop	정지
+移動速度增加	Increased Movement Speed	이동속도 증가
+移動速度大幅增加	Significantly increases Movement Speed	이동속도 대폭 증가
+離子	Ion	이온
+對象以外周圍傷害	Damage surroundings except target	대상제외 주변데미지
+防具破壞	Armor Break	방어구파괴
+傷害負面BUFF	Damage Debuff	데미지디버프
+隱藏角色(影片用)	Hide character (for video)	캐릭터감추기(영상용)
+以念動力抓住敵人	Capture enemies with Telekinesis	텔레키네시스로 적을 붙잡음
+被念動力抓住的狀態	Captured by Telekinesis	텔레키네시스로 인해 붙잡힌 상태
+反射盾牌	Reflect Shield	리플렉트 쉴드
+發生恐怖和混亂	Causes Fear and Confusion	공포와 혼란 발생
+響箭效果	Flu Flu Effect	플루플루 효과
+發生恐怖	Fear Outbreak	공포 발생
+全身汽油	Oil Stains	기름범벅
+神聖氣息	Holy Aura	홀리아우라
+對我軍施展新取得的BUFF。	Spread newly received buffs to allies	새로받은 버프를 아군에게 뿌린다.
+煙霧	Fog	포그
+箱子隱藏	Hide in Box	상자숨기
+擋開	Parrying	패링
+消滅此狀態的敵人後，力量和智力會暫時增加。	STR and INT increased when killing enemy in this state	이 상태의 적을 죽이면 힘과 지능이 일시적으로 증가함
+北斗陣	Great Bear camp	북두진
+挑釁	Provoke	도발
+稍後獲得傷害	Receive damage after a while	잠시 후 피해를 받음
+火柱	Fire Pillar	파이어필라
+感染	Infection	감염
+無法移動	Movement Disabled	이동불가
+減少移動速度	Decreased movement speed	이동속도 감소
+出血毒	Bleeding Poison	출혈 독
+神經毒	Neurotoxin	신경 독
+要害強打	Vital Strike	급소 강타
+庇護	Bless	블레스
+聖水洗禮	Holy Baptism	성수 세례
+局限	Limitation	리미테이션
+毒液	Venom	베놈
+生命之光。	Light of Life	생명의 빛
+減少移動速度	Decreased movement speed	이동 속도 감소
+神聖氣息	Divine Aura	신성의 기운
+增加物理、魔法防禦力	Physical and magic defense increase	물리, 마법 방어력이 증가
+笑咪咪	Round	빙글
+滴溜溜	All around	빙그르르
+無法攻擊狀態	Attack disabled	공격불능상태
+懸賞金	Reward	현상금
+轉動	Round and round	빙글빙글
+體力氣息	HP Aura	체력오오라
+鸚鵡	Parrot	앵무새
+擊倒力量增加	Increased knockdown power	넉다운파워증가
+丟擲裝備	Throw Equipment	장비 던지기
+隱藏左手裝備	Hide Left-handed Equipment	왼손장비 감추기
+隱藏左手裝備	Hide Left-handed Equipment	왼손장비 감춤
+隱藏右手裝備	Hide right handed Equipment	오른손장비 감추기
+隱藏右手裝備	Hide Right-handed Equipment	오른손장비 감춤
+迅步	Swift Step	스위프트 스텝
+發生距離扭曲	Perspective distortion occurs	원근왜곡이 발생하고 있음
+神聖力量	Divine Might	디바인마이트
+取消次武器	Cancel Sub Weapon	서브웨폰캔슬
+衝擊	Shock	충격
+增加暴擊攻擊力	Increased critical attack	치명타 공격력 증가
+減少暴擊抵抗	Decreased critical resistance	치명타 저항 감소
+神聖烙印BUFF	Divine Stigma buff	디바인 스티그마 버프
+移動射擊 on	Moving Shot On	무빙샷on
+冰爆術	Ice Blast	아이스블래스트
+攻擊力強化	Enhanced Attack	공격력 강화
+暫時增加攻擊力。	Temporarily increased attack	일시적으로 공격력이 증가합니다
+1次暴擊增加	One-Time Increased Critical	1회 크리증가
+防禦力增加	Increased defense	방어력증가
+力量減少	Reduce STR	힘감소
+力量減少	Decreased STR	힘이 감소합니다
+神聖	Holiness	신성함
+神聖攻擊力追加	Added Holy attack	신성 공격력 추가
+防禦力減少	Decreased defense	방어력 감소
+敏捷暫時大幅提升	Agility is temporarily increased significantly	민첩이 일시적으로 대폭 상승
+增加刺擊傷害。	Increased Pierce damage	찌르기 데미지 증가
+強化火焰	Enchant Fire	인챈트파이어
+激奮	Rage	격분
+傷害增加、SP消耗量增加	Increased damage and SP cost	데미지 증가, sp 소모량 증가
+集氣中-迴避	Charging - Evasion	차지중-회피
+吹箭毒	Needle Blow Poison	취시 독
+高亢毒	Gohang Venom	고항 독
+拖引飛行體	Pull down flying object	비행체끌어내리기
+失衡	Unbalanced	언밸런스
+角鬥士	Murmillo	무르밀로
+升級	Level Up	레벨업
+分身	Shadow Clone	분신
+大頭	Big Head	대두
+束縛	Trap	결박
+炸彈爆炸，對周圍造成傷害。	Bomb explodes and inflicts damage around	폭탄이 터지고, 주변에 피해를 입힙니다.
+增加最大 SP和最大 STA	Increased maximum SP and STA	최대 SP와 최대 STA 증가
+魔法無法及消除負面BUFF	Invalid magic and remove debuff	마법 무효 및 디버프 제거
+力量增加	Increase Strength	힘 증가
+力量增加	Strength increases	힘이 증가
+體力增加	Increase HP	체력 증가
+體力增加	Increase CON	체력이 증가
+智力增加	Increase INT	인트 증가
+智力增加	Increase Intelligence	지능이 증가
+敏捷增加	Increase DEX	민첩 증가
+敏捷增加	Agility is increased	민첩이 증가
+破壞力量	Power of destruction	파괴의 힘
+守護力量	Power of the guardian	수호의 힘
+防禦力增加	Increase defense	방어력 증가
+超級瑪利歐	Super Mario	슈퍼마리오
+超級瑪利歐 BUFF	Super Mario Buff	슈퍼마리오 버프
+女神淨化	Goddess' Purification	여신의 정화
+攻擊能力喪失	Loss ability to attack	공격능력 상실
+SP 恢復	SP Recovery	SP 회복
+SP 恢復	SP Recovery	SP가 회복
+HP 恢復	HP Recovery	HP 회복
+HP 恢復	HP Recovery	HP가 회복
+梅杜莎	Medusa	메두사
+卡普利頌的力量	Cafrisun's Power	카프리선의 힘
+攻擊時，追加 +12 地屬性固定傷害	+12 additional Earth property damage when attacking	공격시 +12 땅 속성 고정 피해 추가
+發動魔龍凱拉斯卡片	Activated Gaigalas Card	가이갈라스 카드 발동
+發動波亞塔卡片	Activated Poata Card	포아타 카드 발동
+發動梅里那斯賽克爾卡片	Activated Melinas Sequoia Card	멜리나스 세콰이어 카드 발동
+發動查里亞斯樹精卡	Activated Zalias Woodspirit Card	잘리아스 우드스피릿 카드 발동
+增加地屬性抵抗力。	Increases Earth Property Resistance	땅 속성 저항력이 증가합니다.
+發動查伊波卡片	Activated Chafer Card	체이퍼 카드 발동
+發動鐵甲殘魔卡片	Activated Abomination Card	어보미네이션 카드 발동
+發動樹精卡片	Activated Woodspirit Card	우드스피릿 카드 발동
+發動火山龜獸放片	Activated Magbirk Card	매그버크 카드 발동
+發動鐵甲殭屍卡片	Activated Deadborn Card	데드본 카드 발동
+發動巨眼丹提卡片	Activated Denoptic Card	덴옵틱 카드 발동
+發動魔地獸卡片	Activated Moldyhorn Card	몰디혼 카드 발동
+發動鎖鏈羅德卡片	Activated Tomb Lord Card	툼로드 카드 발동
+發動蘑菇卡利亞卡片	Activated Mushcaria Card	머슈카리아 카드 발동
+發動奇葛拉斯卡片	Activated Ginklas Card	긴클라스 카드 발동
+發動貝洛查德卡片	Activated Velorchard Card	벨로차드 카드 발동
+發動南瓜燈籠怪卡片	Activated Jack O'Lantern Card	잭오랜턴 카드 발동
+發動斯帕勒那絲卡片	Activated Sparnas Card	스파르나스 카드 발동
+發動利卡烏斯卡片	Activated Rikaus Card	리카우스 카드 발동
+發動地獄三頭犬卡片。	Activated Cerberos Card	켈베로스 카드 발동
+發動克洛佩斯卡片	Activated Carapace Card	캐러페이스 카드 발동
+發動約納喬雷卡片	Activated Yonazolem Card	요나졸렘 카드 발동
+發動克帕奇樹妖卡片	Activated Kepa Chieftain Card	케파치프틴 카드 발동
+發動機角卡洛斯卡片	Activated Ellaganos Card	엘라가노스 카드 발동
+忍住	Endure	버티기
+希德拉的劇毒	Hydra's Venom	히드라의 맹독
+被凍住的腳	Frozen Feet	얼어붙은 발
+腐敗	Corruption	부패
+魔法拒絕	Reject Magic	마법 거부
+載主人	Give ride to master	주인태우기
+HP藥水推助器	HP Potion Booster	HP포션 부스터
+SP藥水推助器	SP Potion Booster	SP포션 부스터
+掌握刀劍	Sword Mastery	소드 마스터리
+掌握權杖	Staff Mastery	스태프 마스터리
+掌握弓箭	Bow Mastery	보우 마스터리
+掌握鈍器	Mace Mastery	메이스 마스터리
+生存本能	Survival Instinct	생존본능
+冰矛	Ice Spear	아이스 스피어
+破裂一擊	Rupture Blow	파열의 일격
+破滅	Rupture	파열
+克服	Overcome	극복
+跳躍	Jump	점프
+橫身	Sidestep	횡신
+疾走	Dash	대쉬
+沉思	Meditation	메디테이션
+再生	Regeneration	재생
+煥發	Inspiration	번뜩임
+橫越	Traverse	트래버스
+盾擊	Shield Heater	실드 히터
+震怒	Anger	진노
+直覺	Intuition	직감
+截斷	Cut	절단
+警戒	Guard	경계
+掌握雙手劍	Two-handed Sword Mastery	투 핸드 소드 마스터리
+陀螺	Whipping Top	휘핑 탑
+地獄網	Nether Web	네더웹
+燃燒	Ignite	이그나이트
+奇襲	Surprise Attack	기습
+集中	Concentration	집중
+自活力	Self Vitality	자활력
+襲擊	Strike	스트라이크
+亂打	Nanta	난타
+智力增加	Increase INT	지능 증가
+均衡	Balance	균형
+擊破	Smash	격파
+銳利的矛頭	Sharp Spear Head	예리한 창끝
+鋼絲繩	Wire Rope	와이어로프
+離心力	Centrifugal Force	원심력
+才幹	Tricks	재주
+戰憟	Shiver	전율
+掌握盾牌	Shield Mastery	실드 마스터리
+雙手劍掌握	Two-handed Sword Mastery	투핸드소드 마스터리
+技能[戰鬥怒吼]的持續時間，每個特性等級會增加2秒。	Duration of [Warcry] will increase by 2 seconds per level	스킬 [워크라이]의 지속시간이 특성 레벨 당 2초 증가합니다.
+神聖	Divine	디바인
+雕刻家	Sculptor	조각가
+[箭雨]	[Arrow Sprinkle]	[화살비]
+技能 [連續射擊] 在聚氣中可以進行迴轉(如果射擊，無法迴轉)	You can change directions while charging [Rapid Fire] (Not possible when shooting)	스킬 [래피드파이어] 챠지 중 방향회전이 가능해집니다(샷 하면 회전 불가능)
+吹箭-使用毒	Needle Blow - Use Poison	취시-독사용
+使用技能 [潛伏]挖地躲藏後，SP恢復增加特性 Lv x5  -> 刪除	Skill [Burrow] to hide dug the ground with the SP recovery features Lv x 5 increase -> Delete	스킬 [버로우]로 땅을 파고 숨으면 SP 회복이 특성 Lv x 5 만큼 증가 -> 제거
+製作弓箭	Arrow Crafting	화살제작
+[造箭者] 製作弓箭	[Fletcher] arrow production	[플레쳐] 화살 제작
+技能 [武器修整]的維持時間每等級增加10分鐘。	Retention time of [Weapon TouchUp] increases by 10 minutes per attribute level	스킬 [무기 손질]의 유지시간이 레벨당 10분씩 증가합니다
+技能 [防具修整]的維持時間每等級增加10分鐘。	Retention time of [Armor TouchUp] increases by 10 minutes per attribute level	스킬 [방어구 손질]의 유지시간이 레벨당 10분씩 증가합니다
+組成海盜團	Form Pirates	해적단 결성
+技能 [氣功波] 集氣中，可方向迴轉。(開始射擊後就無法)	You can change directions while using [Energy Blast] (Not possible when shooting)	스킬 [양광수] 챠지 중 방향회전이 가능해집니다(샷 하기 시작하면 불가능)
+使用單手劍	Use One-handed Swords	한손검 사용
+可配戴[單手劍]系列武器。	Able to use the [One-handed Sword] weapon type	[한손검] 계열 무기가 착용 가능해집니다
+使用雙手劍	Use Two-handed Swords	양손검 사용
+可配戴[雙手劍]系列武器。	Able to use the [Two-handed Sword] weapon type	[양손검]계열 무기가 착용 가능해집니다
+使用單手長槍	Use One-handed Spears	한손창 사용
+可配戴[單手長槍]系列武器。	Able to use the [One-handed Spear] weapon type	[한손창]계열 무기가 착용 가능해집니다
+使用雙手長槍	Use Two-handed Spears	양손창 사용
+可配戴[雙手長槍]系列武器。	Able to use the [Two-handed Spear] weapon type	[양손창]계열 무기가 착용 가능해집니다
+使用弓箭	Use Bows	활 사용
+可配戴[弓箭]系列武器。	Able to use the [Bow] weapon type	[활]계열 무기가 착용 가능해집니다
+使用十字弓	Use Crossbows	크로스보우 사용
+可配戴[十字弓]系列武器	Able to use the [Crossbow] weapon type	[크로스보우]계열 무기가 착용 가능해집니다
+使用魔杖	Use Rods	로드 사용
+可配戴[魔杖]系列武器。	Able to use the [Rod] weapon type	[로드]계열 무기가 착용 가능해집니다
+使用權杖	Use Staves	스태프 사용
+可配戴[權杖]系列武器。	Able to use the [Staff] weapon type	[스태프]계열 무기가 착용 가능해집니다
+使用鈍器	Use Maces	메이스 사용
+可配戴[鈍器]系列武器。	Able to use the [Mace] weapon type	[메이스]계열 무기가 착용 가능해집니다
+使用魔棒	Use Wands	완드 사용
+可配戴[魔棒]系列武器。	Able to use the [Wand] weapon type	[완드]계열 무기가 착용 가능해집니다
+劍柄打擊	Pommel Beat	포멀비트
+二重斬	Double Slash	더블슬래쉬
+骷髏搖擺	Skull Swing	스컬 스윙
+開設裝備耐久度修理商店	Open item durability repair shop	장비 내구도 수리 상점 개설
+設置據點	Base Camp	거점 설치
+設置餐台	Refreshment Table	배식대 설치
+滾動雪球	Snow Rolling	스노우 롤링
+大腦強化	Swell Brain	스웰 브레인
+雨水	Rain	레인
+召喚使役魔	Summon Familiar	사역마 소환
+製作寶石	Gem Roasting	젬 로스팅
+道具喚醒	Item Awakening	아이템 어웨이크닝
+擊退射擊	Knockback Shot	넉백 샷
+雙強力射擊擊	Dual Shot	듀얼 샷
+粉碎大盾	Break Pavise	파비스 깨기
+石弓移動射擊	Crossbow Moving Shot	석궁 무빙샷
+隱蔽	Conceal	은폐
+連打型陷阱	Continuous-type Trap	연타형 트랩
+鋼絲陷阱	Spike Shooter	스파이크 슈터
+人質炸彈	Collar Bomb	인질 폭탄
+咆哮	Growling	그로울링
+奪取	Capture	노획
+迴避	Evasion	이베이션
+仇殺	Vendetta	벤데타
+催淚彈	Lachrymator	최루
+背刺	Backstab	백스텝
+漸隱	Fade	페이드
+守護聖人	Guardian Saint	수호성인
+重生	Revive	리바이브
+驅魔	Exorcise	엑소사이즈
+彈指神功	God Finger Flick	탄지신통
+金鐘罩	Golden Bell Shield	금종조
+辨別邪惡	Discerning Evil	디서닝 이블
+重置	Resetting	리셋팅
+死亡宣告	Death Sentence	죽음의 선고
+投擲左手裝備	Throw left-hand weapon	왼손 장비 던지기
+元素抗性	Resist Elements	레지스트 엘리멘츠
+減少持續的傷害和 SP	Periodic decrease of SP and damage	지속적인 대미지와 SP 감소
+解除負面效果	Removes harmful effects	해로운 효과를 해제
+丟擲右手裝備	Throw right-hand weapon	오른손 장비 던지기
+減少迴避率	Decreased evasion rate	회피율 감소
+提升迴避率	Increased evasion rate	회피율 상승
+裝備虛擬武器	Equip virtual weapon	가상무기장착
+防具整修	Repair Armor	방어구손질
+拉引技能[雕刻世界樹]範圍內敵人。	Pull enemies within range of [Carve World Tree]	스킬 [세계수 조각] 범위안에 있는 적을 끌어 당깁니다.
+手槍右手(手槍專用)	Right-handed Pistol (Pistol Only)	권총 오른손(권총 전용)
+迴避移動	Slithering	회피이동
+武器整修	Weapon Maintenance	무기 손질
+防具整修	Armor Maintenance	방어구 손질
+設置營地	Base Camp	베이스 캠프 설치
+按技能等級增加飲食效能。	Increases food effectiveness with each skill level	스킬 레벨별로 음식의 효능 증가
+在基本攻擊動作之後，可無延遲使用短劍。	Able to use the dagger without delay from the basic attack	기본 공격 모션 후 딜레이 없이 단검 사용 가능
+強力擊退接近的敵人	Enemy approaching is pushed far back	다가오는 적이 크게 밀려남
+變更陣形的方向。	Change direction of formation	포메이션의 방향을 변경합니다.
+正看著的方向變為正面	The direction you face become front	보고 있는 방향이 정면이 됨
+召喚魔法書的惡魔。	Summon demon of Grimore	그리모어의 악마를 소환합니다.
+可以使用惡魔的技能。	Enables you to use a Devil's skill	악마의 스킬 사용 가능
+變形為登錄在魔法上的{nl}其它惡魔型BUSS	Transform to another Devil-type boss that is added to the Grimoire	그리모어에 등록한{nl}또 다른 악마형 보스로 변이
+召喚薩拉米恩	Summon Salamion	살라미온 소환
+仿照登錄在死靈之書上的怪物形態，製造修格斯。	Refer to monster registered in Necronomicon and summon Shawgus	네크로노미콘에 등록한 몬스터의 형태를 본떠서 쇼고스를 소환합니다.
+登錄在死靈之書上的BOSS卡片	Boss card registered in Necronomicon	네크로노미콘에 등록한 보스카드
+製作屍壁，阻止敵人靠近。	Make wall of corpse and block enemies	시체 벽을 만들어 대상의 접근을 막습니다.
+套用範圍100	Target range 100	적용 범위 100
+挖地尋找煉金術所需要的礦石。	Dig the ground and get items for alchemy	땅을 파서 연금술에 필요한 광석을 획득합니다.
+每次獲得不同的礦石	Get different ore every time	매번 다른 광석을 얻음
+按技能等級減少寶石的懲罰。	Decreases the Gem's penalty depending on the skill level	스킬 레벨별로 젬의 패널티가 감소
+透過配方製作藥水	Create a potion through a recipe	레시피를 통해 포션 제작
+隱蔽設置物，不讓敵人們發覺。	Hide installation from enemies	설치물을 은폐시켜 적들이 눈치채지 못하게 합니다.
+躲在地底，隱藏自身的模樣。	Hide under the ground	땅속에 숨어 자신의 모습을 감춥니다.
+潛伏狀態下只能進行基本攻擊	Can only use basic attacks in the Burrow state	버로우 상태에서 기본 공격만 가능
+後退射擊	Retreat Shot	후퇴 사격
+可登錄消耗道具的技能	Can register skill that use item	아이템 소비하는 스킬 등록 가능
+強制增加對象的負面效果的持續時間。	Remove target's harmful effects	대상의 해로운 효과의 지속시간을 강제로 증가시킵니다.
+可以使用怪物的技能	Can use monster's skill	몬스터의 스킬을 사용할 수 있음
+變身為最近以形狀轉移所變身的怪物。	Transform into the monster last shap shifted	가장 최근에 쉐입시프팅으로 변신했던 몬스터로 변신합니다.
+事先看到怪物所會掉落的道具。	Preview item that the monster will drop	몬스터가 떨어뜨릴 아이템을 미리 보여줍니다
+變更掉落道具	Chagen drop item	드랍 아이템 변경
+攻擊套用為連打。	Attack is applied continuously	공격이 연타로 적용됩니다.
+可以一邊跑動，一邊進行移動射擊	Can use moving shot while running	무빙샷을 뛰면서 할 수 있음
+掠奪	Pillaging	약탈
+使用手槍	Use Pistol	권총 사용
+可配戴[手槍]系列武器。	Can use [Pistol] weapons	[권총]계열 무기가 착용 가능해집니다
+劇毒之箭	Poisonous Arrow	맹독 화살
+突襲	Pouncing	파운싱
+召喚僕人	Summon Servant	서번트 소환
+強力射擊	Heavy Shot	헤비 샷
+雙箭	Twin Arrow	트윈 애로우
+拆除	Teardown	철거
+奔跑射擊	Running Shot	런닝샷
+奧施莉奈女神像	Statue of Goddess Ausrine	아우슈리네 여신상
+奧施莉奈。	Ausrine	아우슈리네.
+揮刀前進。	Use sword while moving forward	칼질하며 전진합니다.
+[寬恕者] 製作驅除器	[Pardoner] Make despeller	[파드너] 디스펠러 제작
+製作抵抗魔法	Craft Anti-Magic	안티매직 제작
+[寬恕者] 製作抵抗魔法	[Pardoner] Craft Anti-Magic	[파드너] 안티매직 제작
+鐵鏟開挖	Shovelling	삽질
+金屬探測	Detect metal	금속탐지
+噴水器	Water spray	물뿌리개
+自身的攻擊一定會命中，但會自身的暴擊發生和暴擊迴避會減少。	Your attack hits target but chance of critical and critical evasion decreases?	자신의 공격이 반드시 명중하지만, 자신의 치명타 발생과 치명타 회피가 감소하는 상태가 됩니다.
+大車輪	Giant Swing	자이언트 스윙
+鶴翼陣	Winged Formation	학익진
+生命線	Lifeline	생명줄
+強力射擊	Heavy Shot	헤비샷
+雙箭	Twin Arrows	트윈애로우
+衝鋒	Rush Dog	러쉬독
+呼喚	Call	부르기
+鷹屎白	Looking	응시백
+棲木	Roost	횃대 설치
+盤旋	Circling	서클링
+俯衝	Hovering	호버링
+懸掛	Hand and Shoot	매달려쏘기
+靈體攻擊	Attack soul	영체 공격
+掠奪。	Pillaging	약탈.
+看不到見面。	Cannot see in front	앞이 보이지 않음.
+女神呵護	Blessing of the Goddess	여신의 가호
+可探索	Searchable	탐색 가능
+肌肉傾注	Muscle Pumping	근육 펌핑
+守望者套裝BUFF	Sentinel Set Buff	파수꾼 세트 버프
+可以發動守望者的意志BUFF的狀態BUFF	Status buff where Will of Guard buff can be activated	파수꾼의 의지 버프가 발동 될 수 있는 상태 버프
+守望者的意志	Will of Guard	파수꾼의 의지
+增加惡魔型對象攻擊力 +125	Increases damage against Devil-type targets by +125	악마형 대상 공격력 +125 증가
+技能[擊殺]將只能對皮革防禦敵人套用的效果也對布防禦敵人套用。	Apply effect of Mordschlag on leather armor also to cloth armor type	스킬 [살격]이 가죽 방어 적에게만 적용되던 효과를 천 방어 적에게도 적용됩니다.
+武器位置互換	Weapon Swap	무기 스왑
+魔法飛彈2	Magic Missile	매직 미사일2
+雙手猛攻	Double Weapon Assault	쌍수맹공
+懸吊射擊	Hanging Shot	행잉샷
+可以更輕易開啟寶箱。	Can open the treasure chest easily	보물상자를 더 쉽게 열 수 있습니다.
+SP 回復速度	SP Recovery Speed	SP 회복 속도
+耐力回復	Stamina Recovery	스태미나 회복
+紅色靈氣	Red Aura	레드 오라
+藍色靈氣	Blue Aura	블루 오라
+黃色靈氣	Yellow Aura	옐로 오라
+耐力回復上升	Increase Stamina recovery	스태미나 회복 상승
+每打擊10下就會造成較大的傷害	Give greater damage every 10 attacks	10대를 칠 때마다 큰 피해를 입힙니다
+大地套裝BUFF	Earth Set Buff	대지의 세트 버프
+大地的憤怒BUFF可以發動的狀態BUFF	Status buff where Rage of Earth Buff can be triggered	대지의 분노 버프가 발동 될 수 있는 상태 버프
+大地的憤怒	Earth Rage	대지의 분노
+大屬性固定傷害追加	Additional fixed damage for Earth property attacks	땅 속성 고정 피해 추가
+鐵鏟開挖狀態BUFF	Shovel status buff	삽질 상태 버프
+露奎家族的套裝BUFF	Legwyn Family Set Buff	르귄가문의 세트 버프
+可以發動露奎家族的遺產BUFF的狀態BUFF	Status buff where Legacy of Legwyn Family buff can be triggered	르귄가문의 유산 버프가 발동 될 수 있는 상태 버프
+露奎家族的遺產	Legwyn Family's Legacy	르귄가문의 유산
+權杖攻擊	Staff Attack	스태프 공격
+增加HP、SP恢復力	Increase HP & SP Recovery	HP, SP 회복력 증가
+所有屬性增加	All Status Increase	올스탯 증가
+減少冷卻時間	Cooltime Decrease	쿨타임 감소
+增加經驗值獲得量	Increased EXP Rate	경험치 획득량 증가
+隨對象攻擊的次數追加傷害	Additional damage according to the number attacks	대상이 공격한 횟수만큼 추가 피해
+傷害效果	Damage Effect	대미지효과
+效果結束後受到傷害	Receive damage after an effect	효과가 끝나면 피해를 받음
+將新獲得的效果撒在我軍身上。	Spread the new buff received to allies	새로받은 효과를 아군에게 뿌린다.
+高亢	Gohang	고항
+無法跳躍	Can't jump	점프 불가능
+圖示轉換	Ani Change	애니 체인지
+快死掉時圖示變更	Ani Change when damaged	피달면 애니변경
+時間到後圖示變更	Ani Change when free time	시간되면 애니변경
+猛衝撞擊	Dash Run	대쉬런
+增加物理攻擊力和魔法攻擊力	Increase Physical and Magic Attack	물리 공격력과 마법 공격력이 증가
+可以發動守望者意志效果的狀態效果	A status effect can activate Will of Guard	파수꾼의 의지 효과가 발동 될 수 있는 상태 효과
+可以發動大地憤怒效果的狀態效果	A status effect can activate Rage of Earth	대지의 분노 효과가 발동 될 수 있는 상태 효과
+鐵鏟開挖狀態效果	Shovel status effect	삽질 상태 효과
+可以發動露奎家族的遺產效果的狀態效果	Status effect can activate Legacy of Legwyn Family	르귄가문의 유산 효과가 발동 될 수 있는 상태 효과
+格擋增加	Block Increase	블럭 증가
+格擋增加	Increased block	블럭이 증가
+暴擊攻擊力增加	Increased critical attack	치명타 공격력이 증가
+魔法增幅增加	Magic Amplification Increase	마법 증폭 증가
+增加魔法增幅	Increase Magic Amplification	마법 증폭이 증가
+防具貫穿	Armor Penetration	방어구 관통
+減少物理防禦力	Decreased Physical Defense	물리 방어력이 감소
+掌握短劍	Dagger Mastery	단검 마스터리
+召魔：騎乘寵物	Companion Riding	컴패니언 탑승
+物理防禦力減少	Decreased physical defense 	물리 방어력 감소
+減少物理防禦力	Decreased defense 	물리 방어력이 감소함
+定期受到火焰傷害	Periodically receive Fire damage	주기적으로 화염 피해를 받음
+SP 吸收	SP Absorption	SP 흡수
+為吸收SP的狀態	SP Absorption Status	SP를 흡수하는 상태입니다
+SP遭吸收的狀態。	Status from receiving SP Absorption	SP를 흡수당하는 상태입니다
+銀幣增加	Silver Increase	실버 증가
+魔防增加	Increased magic defense 	마법 방어력이 증가
+減少移動速度	Movement speed decrease	이동속도가 감소
+技能[蒙塔諾]會賦予對象10秒[緩速]，[緩慢]持續時間每特性等級對小型怪物/中型怪物/大型怪物各增加3秒/2秒/1秒。	Inflicts the target with [Slow] for seconds and increases the duration of [Slow] by 3/2/1 seconds per attribute level on small/medium/large sized monsters respectively with [Montano]	스킬 [몬타노]가 대상에게 10초 동안 [슬로우]를 부여하며, [슬로우] 지속시간이 특성 레벨당 소형몬스터/중형몬스터/대형몬스터에게 각각 3초/2초/1초씩 증가합니다.
+每次特性等級升級，[恢復]的HP恢復力增加效果會提升1。	HP recovery effect of [Restoration] increases per attribute level	특성 레벨당 [리스토레이션]의 HP 회복력 증가 효과가 1 상승합니다.
+技能[驅趕惡靈]的即死機率會按照角色的精神比例增加。	Increases the instant death chance of [Turn Undead] in proportion to the character's SPR	스킬 [턴 언데드]의 즉사 확률이 캐릭터의 정신에 비례하여 증가합니다.
+使用技能[秘法能量]時，在附近的敵人會受到[特性等級]的神聖傷害。	Nearby enemies receive Holy damage equal to [attribute level] when using [Arcane Energy]	스킬 [아케인에너지]를 사용할 때, 근처에 있던 적은 [특성 레벨] 만큼의 신성 피해를 받습니다.
+需要製作藥劑Lv1	Lv1 Tincturing required	팅크쳐링 1레벨 필요
+需要跪射Lv3	Lv3 Kneeling Shot required	닐링샷 3레벨 필요
+需要戰鬥怒吼Lv3	Lv3 Warcry required	워크라이 3레벨 필요
+需要製造殭屍Lv2	Lv2 Zombify required	좀비 만들기 2레벨 필요
+需要製造殭屍Lv3	Lv3 Zombify required	좀비 만들기 3레벨 필요
+需要符咒Lv3	Lv3 Mackangdel required	마캉달 3레벨 필요
+需要鐵甲騎兵2階	Cataphract 2nd Circle required	캐터프랙트 2서클 필요
+需要鐵甲騎兵3階	Cataphract 3rd Circle required	캐터프랙트 3서클 필요
+需要時空操控者2階	Chronomancer 2nd Circle required	크로노맨서 2서클 필요
+需要破防領域Lv3	Lv3 Deprotected Zone required	디프로텍티드 존 3레벨 필요
+需要烈焰法師1階	Pyromancer 1st Circle required	파이로맨서 1서클 필요
+需要寒冰法師1階	Cryomancer 1st Circle required	크리오맨서 1서클 필요
+需要盤旋Lv3	Lv3 Hovering required	호버링 3레벨 필요
+需要冰牆Lv3	Lv3 Ice Wall required	아이스월 3레벨 필요
+需要蓄力一擊Lv3	Lv3 Cartar Stroke required	카타스트로크 3레벨 필요
+需要十字守護Lv3	Lv3 Cross Guard required	크로스 가드 3레벨 필요
+需要高地戰士2階	Highlander 2nd Circle required	하이랜더 2서클 필요
+需要高地戰士3階	Highlander 3rd Circle required	하이랜더 3서클 필요
+需要瞄準隙缝Lv3	Lv3 Finestra required	피네스트라 3레벨 필요
+需要獵人2階	Hunter 2nd Circle required	헌터 2서클 필요
+需要聖火Lv3	Lv3 Aukuras required	아우쿠라스 3레벨 필요
+需要絞首鏈Lv3	Lv3 Hangman's Knot required	행멘스낫 3레벨 필요
+需要鎖鏈法師 2階	Linker 2nd Circle required	링커 2서클 필요
+需要鎖鏈法師 3階	Linker 3rd Circle required	링커 3서클 필요
+需要恢復Lv3	Lv3 Restoration required	리스토레이션 3레벨 필요
+需要驅趕惡靈Lv2	Lv2 Turn Undead required	턴 언데드 2레벨 필요
+需要寬恕Lv6	Lv6 Indulgentia required	인둘겐티아 6레벨 필요
+需要寬恕者2階	Pardoner 2nd Circle required	파드너 2서클 필요
+需要高級守護Lv3	Lv3 High Guard required	하이가드 3레벨 필요
+需要盾心打擊Lv6	Lv6 Umbo Blow required	엄보블로 6레벨 필요 
+需要盾緣敲擊Lv6	Lv6 Rim Blow required	림블로 6레벨 필요 
+需要聖水祭司2階、復活術Lv2	Priest 2nd Circle & Lv2 Resurrection required	프리스트 2서클, 리저렉션 2레벨 필요
+需要念力法師2階	Psychokino 2nd Circle required	사이코키노 2서클 필요
+需要念力法師3階	Psychokino 3rd Circle required	사이코키노 3서클 필요
+需要催淚彈Lv3	Lv3 Lachrymator required	최루 3레벨 필요
+需要衰弱Lv3	Lv3 Vashita Siddhi required	바쉬타 싯디 3레벨 필요
+需要召喚使役魔Lv3	Lv3 Summon Familiar required	사역마 소환 3레벨 필요
+需要巫師 2階	Sorcerer 2nd Circle required	소서러 2서클 필요
+需要武器修理Lv3	Lv3 Weapon Maintenance required	무기 손질 3레벨 필요
+需要防具修理Lv3	Lv3 Armor Maintenance required	방어구 손질 3레벨 필요
+需要侍從2階	Squire 2nd Circle required	스콰이어 2서클 필요
+需要右臂強化Lv3	Lv3 Swell Right Arm required	오른팔 강화 3레벨 필요
+需要體積縮小Lv2	Lv2 Shrink Body required	크기 축소 2레벨 필요
+需要體積變大Lv2	Lv2 Swell Body required	크기 확대 2레벨 필요
+需要大腦強化Lv3	Lv3 Swell Brain required	스웰 브레인 3레벨 필요
+需要痛擊Lv3	Lv3 Bash required	배쉬 3레벨 필요
+需要奮起Lv3	Lv3 Gung Ho required	겅호 3레벨 필요
+需要虛弱Lv3	Lv3 Lethargy required	레써지 3레벨 필요
+需要反射盾Lv3	Lv3 Reflect Shield required	리플렉트 실드 3레벨 필요
+需要法師2階	Wizard 2nd Circle required	위저드 2서클 필요
+需要法師3階	Wizard 3rd Circle required	위저드 3서클 필요
+[卡普利頌]物理/打擊/無屬性	[Cafrisun] Physical/Strike/No Property	[카프리선]물리/타격/무속성
+屬性增加	Increased Stats	스탯 증가
+增加所有屬性能力值。	Increased All Stats	모든 스탯 능력치가 증가합니다.
+冷卻時間減少	Decrease Cooldown Time	재사용 대기시간 감소
+減少技能冷卻時間	Decreases Skill Cooldown Time	스킬 재사용 대기시간이 감소합니다
+屍塊砲擊	Flesh Cannon	플래쉬 캐논
+屍塊護環	Flesh Hoop	플래쉬 후프
+楔形陣。	Wedge Formation	웨지 포메이션.
+密集方陣。	Schiltron	스킬트론.
+龜甲陣。	Testudo	테스튜도.
+定期受到毒屬性傷害	Periodically receive poison damage	주기적으로 독 속성 피해를 받음
+狂擊衝擊	Lightning Shock	전기 충격
+定期受到電氣屬性傷害	Periodically receiving Lightning property damage	주기적으로 전기 속성 피해를 받음
+MP減少	MP decreases	MP가 감소
+增加獲得的傷害	Damage taken increase	받는 피해 증가
+採集植物	Gather plants	식물채집
+狂氣	Lunacy	광기
+狂氣解放	Release Lunacy	광기 해방
+快速施法	Quick Cast	퀵 캐스트
+釘草人強化	Effigy Enhance	에피지 강화
+提前釘草人的攻擊紅利	Increases the attack bonus of Effigy	에피지의 공격보너스를 앞당겨준다
+需要祝福Lv3	Lv3 Blessing required	블레싱 3레벨 필요
+需要穩定瞄準Lv3	Lv3 Steady Aim required	스테디에임 3레벨 필요
+需要專注Lv3	Lv3 Concentrate required	콘센트레이트 3레벨 필요
+盾心突刺	Umbo Thrust	엄보 쓰러스트
+破空斬	Skyliner	스카이라이너
+十字斬擊	Crosscut	크로스컷
+垂直斬	Vertical Slash	버티컬 슬래쉬
+破顱斬	Helm Chopper	헬름쵸퍼
+地裂斬	Seism	사이즘
+劈斬	Cleave	클리브
+盾牌猛擊	Shield Shoving	실드셔빙
+盾牌痛擊	Shield Bash	실드배쉬
+上段踢	High Kick	하이킥
+塵捲風	Dust Devil	더스트 데블
+毀滅連擊	Hexen Dropper	헥슨드롭퍼
+喚醒	Evocation	에보케이션
+污穢之柱	Dirty Pole	더티 폴
+死者甦醒	Raise Dead	레이즈 데드
+鴆毒	Zhendu	짐 독
+群體治療	Mass Heal	매스 힐
+皮膚硬化	Stone Skin	스톤 스킨
+殭屍膠囊	Zombie Capsule	좀비 캡슐
+定罪	Conviction	컨빅션
+魔防增加	Increase Magic Defense	마법방어력 증가
+預言	Prophecy	프로퍼시
+1等級狀態以上免疫	Immune to Lv1 status ailments	1레벨 상태이상 면역
+盾牌痛擊-屬性能力混亂。	Shield Bash-Mix stat	실드배쉬-스탯 뒤섞임
+對打擊攻擊脆弱	Vulnerable to Strike attacks	때리기 공격에 취약해짐
+格擋增加	Block Increase	블록 증가
+阿克貝尼帕套裝BUFF	Agvenipa Set Buff	아그베니파 세트 버프
+盾防防守	Shield Guard	실드 가드
+技能[毀滅刺擊]無法再打倒敵人。 (該特性如果為ON，絕對不會倒下。)	[Doom Spike] no longer knocks enemies down (Only applies if this attribute is set to ON)	스킬 [둠 스파이크]가 더 이상 적을 넘어뜨리지 않습니다. (해당 특성이 ON이면 무조건 넘어뜨리지 않습니다.)
+烈焰大地	Flame Ground	플레임 그라운드
+冰球	Freezing Sphere	프리징 스피어
+冰霜之雲	Frost Cloud	프로스트 클라우드
+分裂箭	Split Arrow	스플릿 애로우
+靈魂結界	Spirit Barrier	영혼의 결계
+挑釁	Provoke	프로보크
+掌握十字弓	Crossbow Mastery	크로스보우 마스터리
+需要海賊2階	Corsair 2nd Circle required	커세어 2서클 필요
+爪擊	Scratch	할퀴기
+劈砍	Slash	가르기
+狂野氣息	Wild Breath	와일드 브레스
+咆哮	Warcry	포효
+攻擊遠距離的敵人	Attack a distant enemy	원거리의 적을 공격 합니다
+砲擊攻擊	Cannon Attack	캐논 공격
+採礦	Mining	채광
+派對吹笛	Party Horn	풍선 피리
+長刺	Langort	랑고르트
+長矛刺擊	Spear Lunge	스피어 런지
+懲罰減少	Penalty Reduction	페널티 감소
+死亡連擊	Deadly Combo	데들리 콤보
+手槍射擊	Pistol Shot	피스톨 샷
+特戰隊型	Special Formation	특전대형
+召喚馬車	Summon Carriage	마차 소환
+會心一擊	Zornhau	존하우
+迴旋斬擊	Redel	레델
+側邊揮擊	Zucken	츠켄
+旋斬	Zwerchhau	즈버크하우
+怨捶斬	Sturtzhau	슈트루츠하우
+連續擊刺	Attaque Composee	아따끄 꽁뽀제
+弓步刺擊	Lunge	런지
+七星擊	Sept Etoiles	세테뚜와르
+護手攻擊	Attaque Coquille	아따끄 꼬끼유
+閃避刺擊	Esquive Toucher	에스뀌브 뚜슈
+準備姿勢	Preparation	프레파라시옹
+滑劍刺擊	Flanconnade	플랑코나드
+迅猛刺擊	Balestra Fente	발레스트라 팡트
+武器擊落	Attaque au Fer	아따끄 오 페르
+爆猛刺擊	Flash	플레쉬
+微塵忍術	Mijin no Jutsu	인법 미진술
+影分身忍術	Bunshin no Jutsu	인법 분신술
+木遁忍術	Mokuton no Jutsu	인법 목둔술
+火遁忍術	Katon no Jutsu	인법 화둔술
+御璽頭具	Cassis Crista	어인 투구
+狂傲斬擊	Frenzied Slash	프렌지드 슬래쉬
+ 迴避刺擊	Evade Thrust	이베이드 쓰러스트
+頭擊	Headbutt	헤드버트
+報復痛擊	Take Down	테이크 다운
+狂傲猛踢	Frenzied Shoot	프렌지드 슛
+飛盾	Scutum Hit	스큐텀 힛
+龍牙	Dragontooth	드래곤투스
+蛇咬之舞	Serpentine	서펜틴
+穿刺之矛	Gae Bulg	게이불그
+昇龍之勢	Dragon Soar	드래곤소어
+驅趕	Dethrone	디쓰론
+神隱龍	Dragon Dive	드래곤 다이브
+召喚公會成員	Summon Guild Member	길드원 소환
+移動至公會成員	Warp To Guild Member	길드원에게 이동
+移動至所選擇的公會成員的位置	Warp To Specific Guild Member's Location	선택한 길드원의 위치로 이동
+公會塔	Build Guild Tower	길드 타워
+提升公會塔功能	Improve Guild Tower Features	길드 타워 기능 향상
+減少製作時間	Reduce Craft Time	제작시간 감소
+戰鬥命令	Battle Orders	배틀 오더스
+索命斬擊	Mortal Slash	모탈 슬래쉬
+BUFF共享	Buff Share	버프 공유
+公會基地內部可建設能增強公會成員的物理攻擊力的鐵匠工場。{nl}鐵匠工場是	The forge that increases physical attack of guild members 	길드원들의 물리 공격력을 증가시켜주는 포지를 길드 아지트 안에 건설할 수 있습니다.{nl}포지는 
+粉碎一擊	Crush	크러쉬
+頭部襲擊	Head Strike	헤드 스트라이크
+沉默刺擊	Joust	자우스트
+落馬攻擊	Unhorsing	낙마 공격
+正中標靶	Quintain	퀸테인
+開始	Initiate	개시
+召喚邪靈	Evocation	이보케이션
+縮時	Pass	패스
+屍塊襲擊	Flesh Strike	플래쉬 스트라이크
+召喚骸骨弓箭手	Raise Skull Archer	레이즈 스컬아처
+鍊金術士 飛彈	Alchemistic Missile	알케미스틱 미사일
+血浴	Blood Bath	블러드배쓰
+骨頭指點	Bone Pointing	본 포인팅
+腐敗骨刺	Ngadhundi	은가둔디
+死亡步伐	Kurdaitcha	커다이챠
+昆德拉斬擊	Kundela Slash	쿤델라 슬래쉬
+反重力	Levitation	레비테이션
+血之詛咒	Blood Curse	블러드 커스
+苦痛之柱	Pole of Agony	폴 오브 아고니
+惡靈召喚	Invocation	인보케이션
+惡意	Mastema	마스테마
+惡靈獻祭	Evil Sacrifice	이블 새크리파이스
+精神耗盡	Drain	드레인
+安息日	Ghastly Trail	사바쓰
+破壞符文	Rune of Destruction	파괴의 룬
+寒水符文	Rune of Ice	얼음의 룬
+巨人符文	Rune of Giants	거인의 룬
+正義符文	Rune of Justice	정의의 룬
+保護符文	Rune of Protection	보호의 룬
+出發到好友那邊	Warp to Friend	친구에게 이동
+出發道已選擇的好友那邊	Warp to Specific Friend's Location	선택한 친구의 위치로 이동
+粒子空間	Micro Dimension	마이크로 디멘션
+終極空間	Ultimate Dimension	얼티밋 디멘션
+瞬間幻影	Blink	블링크
+驚恐	Maze	메이즈
+縮小魔法陣	Magic Circle Reduction	마법진 축소
+飛彈	Missile Hole	미사일 홀
+恍惚	Enchantment	인챈트먼트
+戰利獎賞	Reward	리워드
+敏捷	Agility	어질리티
+防具附魔	Enchant Armor	인챈트 아머
+根據等級可賦予的選項種類增加	The number of available enchantments increases as its skill level does	레벨에 따라 부여할 수 있는 옵션 종류 증가
+製作魔法卷軸	Craft Spellbook	스펠북 제작
+咒語書使用後就會消失	The spellbook disappears after it's used	스펠북은 사용 후 사라짐
+雷屬性附魔	Enchant Lightning	인챈트 라이트닝
+精神賦予	Empowering	임파워링
+狂射	Wild Shot	와일드 샷
+啟動迴避	Evasive Action	회피기동
+進射	Marching Fire	돌격 사격
+音速突擊	Sonic Strike	음속타
+熔合	Combination	콤비네이션
+神隱彈	Dive Bomb	다이브 봄
+瞄準	Aiming	에이밍
+主動攻擊	Pre-Emptive Strike	선제 공격
+重砲射擊	Cannon Shot	캐논샷
+對空砲擊	Shootdown	슛다운
+攻城轟炸	Siege Burst	시즈버스트
+重砲轟炸	Cannon Blast	캐논 블래스트
+連續砲擊	Cannon Barrage	캐논 배라지
+火箭筒	Bazooka	바주카
+掩護射擊	Covering Fire	커버링파이어
+爆頭射擊	Headshot	헤드샷
+狙擊	Snipe	스나이프
+穿透射擊	Penetration Shot	페네트레이션 샷
+槍托重擊	Butt Stroke	버트스트로크
+刺刀突擊	Bayonet Thrust	바요넷 쓰러스트
+群體發射	Volleyfire	발리파이어
+鳥狙	Birdfall	버드폴
+銳光切擊	Skarphuggning	스칼푸그닝
+刀騎兵	Hacka Pelle	하카 펠레
+炮擊命令	Bombardment Orders	포격 명령
+騎兵衝鋒	Hackapell Charge	하카펠 차지
+腿部射擊	Leg Shot	다리 쏘기
+暴風錘	Storm Bolt	스톰 볼트
+多方射擊	Spread Shot	스프레드 샷
+火力集中	Homing Arrow	호밍 애로우
+速射	Rapid Fire	속사
+三連發	Triple Arrow	트리플 애로우
+跳躍射擊	Jump Shot	도약 사격
+帕蒂亞之箭	Parthian Shaft	파르티안 샤프트
+the TEN	Decatose	데카토스
+救世者	Savior	세이비어
+狼人化	Lycanthropy	라이칸스로피
+性別開關	Gender Switch	스위치 젠더
+預示	Foretell	포어텔
+命運扭轉	Twist of Fate	트위스트 오브 페이트
+再生因子	Healing Factor	힐링팩터
+焚燒	Incineration	소각
+放血	Bloodletting	방혈
+消毒	Fumigate	소독
+感染	Pandemic	판데믹
+鳥喙面具	Beak Mask	새 부리 가면
+黑死病蒸氣	Black Death Steam	흑사병 증기
+反附魔	Disenchant	디센챈트
+七重煉獄	Revenged Sevenfold	리벤지드 세븐폴드
+快蛇	Nachash	나하쉬
+無盡	Ein Sof	아인 소프
+梅爾卡巴戰輪	Merkabah	메르카바
+數秘術	Gematria	게마트리아
+拼詞計算術	Notarikon	노타리콘
+連打機會	Double Chance	연타 챤스
+等級降低	Reduce Level	레벨 감소
+複製	Clone	복제
+終傅聖事	Last Rites	종부성사
+設置祈禱所	Deploy Capella	카펠라 설치
+十字驅魔	Magnus Exorcismus	장엄구마
+潑灑聖水	Aspergillum	아스페르길룸
+異端者佛克	Heretic's Fork	이단자 포크
+鋼鐵靴	Iron Boots	아이언 부츠
+噴蠟機	Lead Sprayer	납 뿌리개
+神之粉碎	God Smash	갓 스매쉬
+魔導的審判	Malleus Maleficarum	마도 심판
+人足付地法	Entrenchment	인족부지법
+引重法	Hurling	인중법
+取人藏物法	Hidden Potential	취인장물법
+急急如律令	Begone Demon	급급여율령
+祭神杖	Gohei	고헤이
+清掃	Sweeping	빗자루질
+破魔矢	Hamaya	하마야
+神樂	Kagura	카구라
+排除預定	Scheduled removal	제거 예정
+範圍防禦比率減少	Decreased AoE Defense Ratio	광역 방어 비율 감소
+提升寵物的能力值	Companion Ability Buff	컴패니언의 능력치 향상
+無法攻擊	Unable to Attack	공격 불가
+遭受SP吸收	SP absorbed	SP 흡수당함
+長矛刺擊	Spear Lunge	스피어런지
+下一次攻擊的刺擊屬性攻擊力增加。	Increased Pierce-type attack upon the next attack	다음 1회 공격하는 찌르기 속성의 공격력이 증가합니다.
+移動速度增加	Increased movement speed	이동 속도 증가
+隱身	Stealth	은신
+移動速度減少狀態。	Decreased movement speed	이동속도 감소 상태입니다
+減少冷卻時間	Reducing cooltime	재사용 대기시간이 감소합니다
+魔法防禦力減少的狀態	Reduced magical defense	마법방어력이 감소된 상태입니다
+斬擊攻擊下變得脆弱	Vulnerable to Slash Attacks	베기 공격에 취약해짐
+暴擊抵抗 降低	Decreased critical resistance	크리티컬 저항 감소
+預計移除。	x	제거 예정.
+增加主人的黑暗屬性攻擊力	Increased owner's Dark property attack	주인의 어둠 속성 공격력 증가
+潑灑聖水	Aspergillum	아스페르길름
+強烈腐蝕	Great Corruption	강력한 부패
+增加HP恢復能力。	Increases HP recovery	HP 회복능력이 증가합니다.
+焚燒狀態。	Incineration state	소각 상태입니다.
+消毒狀態。	Fumigate state	소독 상태입니다.
+增加3級以下狀態異常抵抗機率	Increased chance of resisting Lv3 status ailments	3레벨 이하 상태이상 저항 확률 증가
+車輪刑罰	Wheel Torture	수레바퀴 형벌
+呼風喚雨	Storm Calling	호풍환우
+束縛狀態	Bound	결박 상태
+腿部彈傷	Leg Shot	레그샷
+戰利獎賞(武器)	Reward (Weapon)	리워드(무기)
+戰利獎賞(上衣)	Reward (Top)	리워드(상의)
+破魔矢(神聖)	Hamaya (Holy)	하마야(신성)
+鑲金防具	Cracked Armor	금간 방어구
+物理防禦力減少	Decreased Physical Defense	물리방어력 감소
+魔法防禦力減少	Decreased Magic Defense	마법방어력 감소
+減少物理攻擊力	Decreased Physical Attack	물리공격력 감소
+魔法攻擊力減少	Decreased Magic Attack	마법공격력 감소
+毒免疫	Poison Immunity	독 면역
+增加物理攻擊力、魔法攻擊力	Increased physical attack and magic attack	물리 공격력, 마법 공격력 증가
+增加物理防禦力、魔法防禦力	Increased physical defense and magic defense	물리 방어력, 마법 방어력 증가
+隱藏	Hide	하이드
+隱藏狀態	Hidden State	하이드 상태
+隔絕負面效果機率增加	Increased harmful effect resistance rate	해로운 효과 차단 확률 증가
+有害效果的持續時間快速消耗	Fastly Decreases Duration of Harmful Effects	해로운 효과의 지속시간이 빠르게 소진
+公會戰鬥觀戰者	GvG Spectator	길드배틀 관전자
+公會戰鬥開始前	Pre-GvG	길드배틀 시작전
+防禦效果增加	Increased defense effects	방어 효과 증가
+魔法攻擊 免疫	Magic Attack Immunity	마법 공격 면역
+飛彈攻擊 免疫	Missile Attack Immunity	미사일 공격 면역
+固定傷害免疫	Continuous Damage Immunity	고정 피해 면역
+地板免疫 BUFF	Floor Immunity Buff	장판면역 버프
+侏儒	Homunculus	호문클루스
+飛彈攻擊防禦	Missile Attack Defense	미사일 공격 방어
+範圍攻擊比率增加	Wide Range Attack Rate Increases	광역 공격 비율 증가
+範圍攻擊比率增加	Wide Range Attack Rate Increases	광역 공격 비율이 증가
+晶球召喚負面BUFF	Orb Summon Debuff	오브 소환 디버프
+HP恢復力的一部份，會增加在魔法增幅，但HP恢復力減少為0	Increased magic amplification at the cost of reducing HP recovery rate to 0	HP 회복력의 일부가 마법 증폭에 더해지는 대신 HP 회복력이 0으로 감소
+魔防防禦力增加	Increased magic attack	마법 공격력이 증가합니다
+增加物理攻擊力	Physical Attack Increased	물리 공격력이 증가합니다
+暴擊率增加	Critical Rate Increase	치명타 발생 증가
+暴擊率增加	Increased critical rate	치명타 발생이 증가
+物理攻擊力增加	Physical Attack Increase	물리 공격력 증가
+物理攻擊力增加	Increased physical attack	물리 공격력이 증가
+火屬性抵抗力增加	Fire Property Resistance Increase	불 속성 저항력 증가
+火屬性抵抗力增加	Increased Fire property resistance	불 속성 저항력이 증가
+冰屬性抵抗力增加	Ice Property Resistance Increase	얼음 속성 저항력 증가
+冰屬性抵抗力增加	Increased Ice property resistance	얼음 속성 저항력이 증가
+毒屬性抵抗力增加	Poison Property Resistance Increase	독 속성 저항력 증가
+毒屬性抵抗力增加	Increased Poison property resistance	독 속성 저항력이 증가
+地屬性抵抗力增加	Earth Property Resistance Increase	땅 속성 저항력 증가
+地屬性抵抗力增加	Increased Earth property resistance	땅 속성 저항력이 증가
+電氣屬性抵抗力增加	Lightning Property Resistance Increase	전기 속성 저항력 증가
+電氣屬性抵抗力增加	Increased Lightning property resistance	전기 속성 저항력이 증가
+魔法防禦力增加	Increase magic defense	마법 방어력 증가
+魔法攻擊力增加	Increase magic attack	마법 공격력 증가
+魔法攻擊力增加	Increased magic attack	마법 공격력이 증가
+鑽研	Porapore	포라포레
+鑽研活性化	Porapore Activation	포라포레 활성화
+光明、黑暗屬性攻擊力增加	Light and Dark Property Attack Increase	빛, 어둠 속성 공격력이 증가
+魔法防禦力增加，物理防禦力增加	Increased magic defense and decreased physical defense	마법 방어력이 증가, 물리 방어력은 감소
+在保護膜全部消失以前，HP不會減少	HP won't be reduced by attacks until all the protections are used	보호막이 모두 소진되기 전까지 HP가 감소되지 않음
+基本攻擊套用5連打	Changed to 5 continuous attacks	기본 공격이 5연타로 적용
+耐力減少	Reduced Stamina	스태미나 감소
+跛腳	Cripple	절름발이
+釘草人紅利1	Effigy bonus1	에피지 보너스1
+釘草人的追加害紅利套用於第2次攻擊	Applies additional damage of Effigy on the second attack	에피지의 추가대미지 보너스가 2회째 공격에 적용
+聖職者系列套用時，增加神聖屬性攻擊力	Increases Holy Property attack when used by Cleric-type characters	성직자 계열이 착용 시, 신성 속성 공격력 증가
+移動速度、物理攻擊力、魔法攻擊力增加	Increased movement speed and physical/magic attack	이동속도, 물리 공격력, 마법 공격력 증가
+魔力增幅	Magic Amplification	마력증폭
+防禦力、魔法防禦力增加	Defense and Magic Defense Increase	방어력,마법방어력 증가
+企鵝持有中	Penguin Owner	펭귄 보유중
+攻擊力、魔法攻擊力增加	Attack and Magic Attack Increase	공격력,마법공격력 증가
+紅熊貓持有中	Lesser Panda Owner	레서판다 보유중
+守護的項鍊-暗黑	Necklace of Protection - Darkness	수호의 목걸이-암흑
+守護的手鐲-暗黑	Bracelet of Protection - Darkness	수호의 팔찌-암흑
+守護的項鍊-暗黑II	Necklace of Protection - Darkness II	수호의 목걸이-암흑II
+守護的手鐲-暗黑II	Bracelet of Protection - Darkness II	수호의 팔찌-암흑II
+守護的項鍊-寒氣	Necklace of Protection - Frost	수호의 목걸이-냉기
+守護的手鐲-寒氣	Bracelet of Protection - Frost	수호의 팔찌-냉기
+守護的項鍊-寒氣II	Necklace of Protection - Frost II	수호의 목걸이-냉기II
+守護的手鐲-寒氣II	Bracelet of Protection - Frost II	수호의 팔찌-냉기II
+守護的項鍊-暗黑III	Necklace of Protection - Darkness III	수호의 목걸이-암흑III
+守護的手鐲-暗黑III	Bracelet of Protection - Darkness III	수호의 팔찌-암흑III
+物理/魔法 防禦力 增加	Increase Physical/Magical Defense	물리/마법 방어력 증가
+物理/魔法 防禦力 增加	Physical/Magical Defense will be increased	물리/마법 방어력이 증가
+戰鬥鴉雀持有中	Battlebird Owner	전투 뱁새 보유중
+古代力量	Power Ancient	고대의 힘
+強化攻擊效果	Berserker Effect	버서커 효과
+SP 增加狀態	SP Increased State	SP 증가 상태
+HP 增加 狀態	HP Increased State	HP 증가 상태
+瑪那哈斯的呵護	Manahas' Protection	마나하스의 가호
+香檳	Champagne	샴페인
+地下城掃蕩券保護膜	Instanced Clear Voucher Barrier	인스턴스 던전 소탕권 보호막
+變異形怪物增加傷害	Deals additional damage to Mutant-type monsters	변이형 몬스터 추가 대미지
+怪物依大小增加傷害	Deals additional damage to monsters depending on their size	몬스터 사이즈별 추가 대미지
+怪物依名次增加傷害	Deals additional damage to monsters depending on their rank	몬스터 랭크별 추가 대미지
+怪物依種族增加傷害	Deals additional damage to monsters depending on their species	몬스터 종족별 추가 대미지
+怪物依屬性增加傷害	Deals additional damage to monsters depending on their properties	몬스터 속성별 추가 대미지
+物理防禦力增加	Increased physical defense	물리 방어력 증가
+黑暗屬性攻擊力增加	Increased Darkness property damage	어둠 속성 공격력 증가
+地屬性攻擊力增加	Increased Earth property damage	땅 속성 공격력 증가
+火屬性攻擊力增加	Increased Fire property damage	불 속성 공격력 증가
+神聖屬性攻擊力增加	Increased Holy property damage	신성 속성 공격력 증가
+冰屬性攻擊力增加	Increased Ice property damage	얼음 속성 공격력 증가
+電氣屬性攻擊力增加	Increased Lightning property damage	전기 속성 공격력 증가
+毒屬性攻擊力增加	Increased Poison property damage	독 속성 공격력 증가
+副本組隊經驗值獲得量增加	Increased party EXP rate for Instanced Dungeons	인던 파티 경험치 획득량 증가
+隊伍等級	Team Level	팀 레벨
+火屬性傷害反射	Reflects Fire property damage	불속성 대미지 반사
+移動速度增加	Increased movement speed	이동속도가 증가
+VIP	Token	토큰
+Nexon網咖	Nexon PC Internet Cafe	넥슨 피시방
+經驗之書	EXP Tome	경험의 서
+副本無限制入場	Unlimited Instanced Dungeon Entry	인던 무제한입장
+不可獲得野外BOSS魔方	Field Boss Cube Unobtainable	필드 보스 큐브 획득 불가
+使用細劍	Use Rapiers	레이피어 사용
+最大重量增加	Increased Maximum Weight	최대 무게 증가
+寵物緊急治療	Companion First Aid	컴패니언 응급치료
+使用步槍	Use Rifles	장총 사용
+繳納稅金	Tax Payment	세금 납부
+增加最大Buff數	Increased Maximum Buff Count	최대 버프 수 증가
+獲得寶箱道具	Obtain Chest Item	상자 아이템 획득
+輕裝步兵盾牌攻擊 強化	Enhanced Peltasta Shield Attack	펠타스타 방패 공격 강화
+圓盾劍士盾牌攻擊 強化	Enhanced Rodelero Shield Attack	로델레로 방패 공격 강화
+連打攻擊 強化	Repeated Hits Attack Boost	연타 공격 강화
+重裝步盾牌攻擊強化	Enhanced Hoplite Shield Attack	하플라이트 방패 공격 강화
+製作附魔彈	Craft Enchant Round	인챈트탄 제작
+掌握手槍：追加傷害	Revolver Mastery	권총 마스터리: 추가 피해
+蹲踞穿透狀態下可施展技能 [穿透射擊]。	[Penetration Shot] can be used while in the state of [Kneeling Shot]	닐링샷 상태 중에 스킬 [페네트레이션 샷] 사용이 가능합니다.
+[梅爾卡巴戰輪]的輪子移動速度變慢。	Reduces the movement speed of [Merkabah]	[메르카바]의 바퀴 이동속도가 느려집니다.
+若位在[梅爾卡巴戰輪]的車輪附近的話，我方的魔法 防禦力每特性等級可增加10。	Increases an ally's magic defense when nearby the wheel of [Merkabah] by 10 per attribute level	[메르카바]의 바퀴 주변에 있으면 아군의 마법 방어력이 특성 레벨당 10 증가합니다.
+製作御守	Craft Omamori	오마모리 제작
+需要鍊金術士1階	Alchemist 1st Circle required	알케미스트 1서클 필요
+需要野蠻人1階	Barbarian 1st Circle required	바바리안 1서클 필요
+需要邪靈祭司1階	Bokor 1st Circle required	보코르 1서클 필요
+需要重砲手1階	Cannoneer 1st Circle required	캐노니어 1서클 필요
+需要重砲手 2階	Cannoneer 2nd Circle Required	캐노니어 2서클 필요
+需要牧師1階	Cleric 1st Circle required	클레릭 1서클 필요
+需要職業排行5	Class Rank 5 required	클래스 5랭크 필요
+需要道士 1階	Taoist 1st Circle Required	도사 1서클 필요
+需要雙酬傭兵1階	Doppelsoeldner 1st Circle required	도펠죌트너 1서클 필요
+需要雙酬傭兵 3階	Doppelsoeldner 3rd Circle Required	도펠죌트너 3서클 필요
+需要雙酬傭兵2階	Doppelsoeldner 2nd Circle required	도펠죌트너 2서클 필요
+需要會心一擊 6等級	Lv6 Zornhau required	존하우 6레벨 필요
+需要側邊揮擊 6等級	Lv6 Zucken required	츠켄 6레벨 필요
+需要迴旋斬擊 6等級	Lv6 Redel required	레델 6레벨 필요
+需要龍騎士1階	Dragoon 1st Circle required	드라군 1서클 필요
+需要龍騎士 2階	Dragoon 2nd Circle Required	드라군 2서클 필요
+需要德魯伊1階	Druid 1st Circle required	드루이드 1서클 필요
+需要附魔師 1階	Enchanter 1st Circle Required	인챈터 1서클 필요
+需要馴鷹者1階	Falconer 1st Circle required	응사 1서클 필요
+需要馴鷹者 3階	Falconer 3rd Circle Required	응사 3서클 필요
+需要馴鷹者2階	Falconer 2nd Circle required	응사 2서클 필요
+需要妖術師1階	Featherfoot 1st Circle required	페더풋 1서클 필요
+需要妖術師 2階	Featherfoot 2nd Circle Required	페더풋 2서클 필요
+需要擊劍手1階	Fencer 1st Circle required	펜서 1서클 필요
+需要擊劍手2階	Fencer 2nd Circle required	펜서 2서클 필요
+需要擊劍手 3階	Fencer 3rd Circle Required	펜서 3서클 필요
+需要刀騎兵 1階	Hackapell 1st Circle Required	하카펠 1서클 필요
+需要重裝步兵1階	Hoplite 1st Circle required	하플라이트 1서클 필요
+需要審判者1階	Inquisitor 1st Circle Required	인퀴지터 1서클 필요
+需要卡巴拉 2階	Kabalist 2nd Circle Required	카발리스트 2서클 필요
+需要卡巴拉1階	Kabbalist 1st Circle required	카발리스트 1서클 필요
+需要槍騎兵 1階	Lancer 1st Circle Required	랜서 1서클 필요
+需要神射手 1階	Mergen 1st Circle Required	메르겐 1서클 필요
+需要角鬥士 1階	Murmillo 1st Circle Required	무르밀로 1서클 필요
+需要火槍手1階	Musketeer 1st Circle required	머스킷티어 1서클 필요
+需要火槍手 2階	Musketeer 2nd Circle Required	머스킷티어 2서클 필요
+需要死靈法師1階	Necromancer 1st Circle required	네크로맨서 1서클 필요
+需要神諭師1階	Oracle 1st Circle required	오라클 1서클 필요
+需要神諭師 3階	Oracle 3rd Circle Required	오라클 3서클 필요
+需要神諭師2階	Oracle 2nd Circle required	오라클 2서클 필요
+需要瘟疫醫生1階	Plague Doctor 1st Circle required	플레이그닥터 1서클 필요
+需要瘟疫醫生 2階	Plague Doctor 2nd Circle Required	플레이그닥터 2서클 필요
+需要念力法師1階	Psychokino 1st Circle required	사이코키노 1서클 필요
+需要賢者 1階	Sage 1st Circle Required	세이지 1서클 필요
+需要黑暗騎兵1階	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요
+需要黑暗騎兵 3階	Schwarzer Reiter 3rd Circle Required	슈바르츠라이터 3서클 필요
+需要黑暗騎兵2階	Schwarzer Reiter 2nd Circle required	슈바르츠라이터 2서클 필요
+需要忍者1階	Shinobi 1st Circle required	시노비 1서클 필요
+需要咒術師1階	Warlock 1st Circle required	워록 1서클 필요
+需要咒術師 2階 	Warlock 2nd Circle Required	워록 2서클 필요
+需要弓箭手1階	Archer 1st Circle required	아처 1서클 필요
+需要鐵甲騎兵1階	Cataphract 1st Circle required	캐터프랙트 1서클 필요
+需要百夫長1階	Centurion 1st Circle required	센츄리온 1서클 필요
+需要隨軍牧師1階	Chaplain 1st Circle required	채플린 1서클 필요
+需要時空法師1階	Chronomancer 1st Circle required	크로노맨서 1서클 필요
+需要時空法師3階	Chronomancer 3rd Circle required	크로노맨서 3서클 필요
+需要海賊1階	Corsair 1st Circle required	커세어 1서클 필요
+需要海賊3階	Corsair 3rd Circle required	커세어 3서클 필요
+需要海賊旗Lv2	Lv2 Jolly Roger required	졸리로저 2레벨 필요
+需要雕刻師1階	Dievdirbys 1st Circle required	딥디르비 1서클 필요
+需要元素使1階	Elementalist 1st Circle required	엘리멘탈리스트 1서클 필요
+需要造箭者1階	Fletcher 1st Circle required	플레쳐 1서클 필요
+需要高地戰士1階	Highlander 1st Circle required	하이랜더 1서클 필요
+需要獵人1階	Hunter 1st Circle required	헌터 1서클 필요
+需要聖火祭司1階	Krivis 1st Circle required	크리비 1서클 필요
+需要鎖鏈法師1階	Linker 1st Circle required	링커 1서클 필요
+需要武僧1階	Monk 1st Circle required	몽크 1서클 필요
+需要聖殿十字軍1階	Paladin 1st Circle required	팔라딘 1서클 필요
+需要元素抗性Lv3	Lv3 Resist Elements required	레지스트 엘리멘츠 3레벨 필요
+需要寬恕者1階	Pardoner 1st Circle required	파드너 1서클 필요
+需要輕裝步兵1階	Peltasta 1st Circle required	펠타스타 1서클 필요
+需為輕裝步兵2階	Peltasta 2nd Circle required	펠타스타 2서클 필요
+需要盾心打擊Lv6	Lv6 Umbo Blow required	엄보블로 6레벨 필요
+需要盾緣敲擊Lv6	Lv6 Rim Blow required	림블로 6레벨 필요
+需為輕裝步兵3階	Peltasta 3rd Circle required	펠타스타 3서클 필요
+需要聖水祭司1階	Priest 1st Circle required	프리스트 1서클 필요
+需要弩箭手1階	Quarrel Shooter 1st Circle required	쿼렐슈터 1서클 필요
+需要遊俠1階	Ranger 1st Circle required	레인저 1서클 필요
+需要圓盾劍士1階	Rodelero 1st Circle required	로델레로 1서클 필요
+需要流氓1階	Rogue 1st Circle required	로그 1서클 필요
+需要符文師1階	Rune Caster 1st Circle required	룬캐스터 1서클 필요
+需要聖者1階	Sadhu 1st Circle required	사두 1서클 필요
+需要工兵1階	Sapper 1st Circle required	새퍼 1서클 필요
+需要斥候1階	Scout 1st Circle required	스카우트 1서클 필요
+需要巫師1階	Sorcerer 1st Circle required	소서러 1서클 필요
+需要召喚僕人Lv3	Lv3 Summon Servant required	서번트 소환 3레벨 필요
+需要巫師3階	Sorcerer 3rd Circle required	소서러 3서클 필요
+需要侍從1階	Squire 1st Circle required	스콰이어 1서클 필요
+需要奇術師1階	Thaumaturge 1st Circle required	쏘마터지 1서클 필요
+需要劍士1階	Swordsman 1st Circle required	소드맨 1서클 필요
+需要法師1階	Wizard 1st Circle required	위저드 1서클 필요
+需要巫蠱師1階	Wugushi 1st Circle required	무고사 1서클 필요
+幸運餅乾 1階段	Fortune Cookies - 1	포춘 쿠키 1단계
+幸運餅乾 2階段	Fortune Cookies - 2	포춘 쿠키 2단계
+幸運餅乾 3階段	Fortune Cookies - 3	포춘 쿠키 3단계
+幸運餅乾 4階段	Fortune Cookies - 4	포춘 쿠키 4단계
+幸運餅乾 5階段	Fortune Cookies - 5	포춘 쿠키 5단계
+設置物技能等級 +1	Adds +1 skill level for installment skills	설치물 스킬레벨이 +1 증가
+伺服器追加經驗值	Server EXP Bonus	서버 추가 경험치
+經驗值追加活動	EXP Event Bonus	추가 경험치 이벤트
+隊伍追加經驗值	Party EXP Bonus	파티 추가 경험치
+野性	Wild Nature	야성
+[冰牆] 技能的持續時間增加 10秒。	Increases the duration of [Ice Wall] by 10 second	[아이스월] 스킬의 지속시간이 10초 증가합니다.
+需要巫女1階	Miko 1st Circle required	무녀 1서클 필요
+需要侍從3階	Squire 3rd Circle required	스콰이어 3서클 필요
+需要聖殿騎士2階	Templar 2nd Circle required	템플러 2서클 필요
+祈願合格麥芽糖	Lucky Taffy	합격 기원 엿
+祈願合格維他命	Vitamin Pill	합격 기원 비타민
+祈願合格巧克力	Valentine Chocolate	합격 기원 초콜릿
+紅色種子	Red Seed	붉은 씨앗
+活動地下城	Event Dungeon	이벤트 던전
+可以令索爾米奇板金組合的特殊效果發動的狀態	Able to activate the special effect of Solmiki plate set	솔미키 판금 세트의 특수효과를 발동시킬 수 있는 상태
+索爾米奇板金組合效果	Solmiki Plate Set Effect	솔미키 판금 세트 효과
+5秒內恢復一定HP	Partially heals HP for 5 seconds	5초간 일정 HP를 회복
+白色情人節	Sweet Boy Buff	화이트데이
+放煙火	Fireworks	불꽃놀이
+暖暖包	Hot Pack	핫 팩
+高估	Overestimate	과대평가
+仿造品	Forgery	모조품
+低估	Devaluation	평가절하
+弱點攻擊	Blindside	약점공격
+提升輔助武器的強化度。	Increase Sub-weapon Enhancement	보조무기의 강화도를 올려준다
+曝露弱點	Reveal Weak Spot	약점 노출
+無視強化和超越	Ignore Enhancement and Transcendence	강화와 초월을 무시한다
+狂熱	Fever	피버
+飛彈攻擊傷害增加	Missile Attack Damage Increase	미사일 공격 데미지 증가
+海盜團	Pirates	해적단
+拉克斯頓 持有中	Rocksodon Owner	락스돈 보유중
+角色別經驗值活動	Character EXP Event	캐릭별 경험치 이벤트
+蘊含祝福的新芽 第1階段	Blessed Sprout Stage 1	축복이 깃든 새싹 1단계
+蘊含祝福的新芽 第2階段	Blessed Sprout Stage 2	축복이 깃든 새싹 2단계
+蘊含祝福的新芽 第3階段	Blessed Sprout Stage 3	축복이 깃든 새싹 3단계
+蘊含祝福的新芽 第4階段	Blessed Sprout Stage 4	축복이 깃든 새싹 4단계
+蘊含祝福的新芽 第5階段	Blessed Sprout Stage 5	축복이 깃든 새싹 5단계
+公會戰 第1名	Regional Guild Battles - 1st Place	길드배틀 1위
+公會戰 第2名	Regional Guild Battles - 2nd Place	길드배틀 2위
+公會戰 第3名	Regional Guild Battles - 3rd Place	길드배틀 3위
+公會戰勝利者	Guild Battle Victor	길드배틀 승리자
+參與活動	Apply for Event	이벤트 참여
+裝作結冰	Pretend to be frozen	결빙 걸린 척
+寵物Buff	Companion Buff	컴패니언 버프
+1周年爆竹	Firecracker	1주년 폭죽
+Commander Lord Phail Buff	Commander Lord Phail Buff	Commander Lord Phail 버프
+* 武器可變更	* Can change weapons	* 무기 변경 가능
+* 可以裝備[單手劍]系列武器	* Can equip [One-handed Sword] type weapons	* [한손검] 계열 무기 착용 가능
+* 可以裝備[雙手劍]系列武器	* Can equip [Two-handed Sword] type weapons	* [양손검] 계열 무기 착용 가능
+* 可以裝備[單手槍]系列武器	* Can equip [One-handed Spear] type weapons	* [한손창] 계열 무기 착용 가능
+* 可以裝備[雙手槍]系列武器	* Can equip [Two-handed Spear] type weapons	* [양손창] 계열 무기 착용 가능
+* 可以裝備[弓 ]系列武器	* Can equip [Bow] type weapons	* [활] 계열 무기 착용 가능
+* 可以裝備[十字弓]系列武器	* Can equip [Crossbow] type weapons	* [크로스보우] 계열 무기 착용 가능
+* 可以裝備[魔杖]系列武器	* Can equip [Rod] type weapons	* [로드] 계열 무기 착용 가능
+* 可以裝備[權杖]系列武器	* Can equip [Staff] type weapons	* [스태프] 계열 무기 착용 가능
+* 可以裝備[鈍器]系列武器	* Can equip [Mace] type weapons	* [메이스] 계열 무기 착용 가능
+* 可以裝備[魔棒]系列武器	* Can equip [Wand] type weapons	* [완드] 계열 무기 착용 가능
+* 騎乘寵物時可使用技能	* Can use skill while riding companion	* 컴패니언에 탑승한채로 스킬 사용 가능
+* 可以裝備[細劍]系列武器	* Can equip [Rapier] type weapons	* [레이피어] 계열 무기 착용 가능
+* 角色背包可攜帶重量增加20	* Increases character's maximum inventory weight by 20	* 캐릭터 인벤토리의 휴대 가능무게가 20 증가
+* 寵物的耐力消耗周期時間每特性等級{nl}    增加10秒	* Increases stamina consumption cycle of companion by 10 seconds per attribute level	* 컴패니언의 스태미나가 소모되는 주기 시간이 특성 레벨당{nl}    10초 증가
+* 可以裝備[步槍]系列武器	* Can equip [Rifle] type weapons	* [장총] 계열 무기 착용 가능
+* 角色可獲得的最多Buff數量增加1	* Increases character's maximum amount of buffs by 1	* 캐릭터가 받을 수 있는 최대 버프 개수가 1 증가
+* 可以裝備[單手劍]系列武器於右手(輔助裝備)	* [One-handed Sword] type weapons can be equipped on the right hand (sub weapon)	* [한손검] 계열 무기를 오른손(보조 장비)에 착용 가능
+* [痛擊]的技能攻擊力每特性等級增加28	* Increases damage dealt with [Bash] by 28 per attribute level	* [배쉬]의 스킬 공격력이 특성 레벨당 28 증가
+* [痛擊]傷害強化為劍士3階水準	* Enhances damage of [Bash] to Swordsman Circle 3 standards	* [배쉬] 대미지가 소드맨 3서클 수준으로 강화
+* [突刺]傷害強化為劍士2階水準	* Enhances damage of [Thrust] to Swordsman Circle 2 standards	* [쓰러스트] 대미지가 소드맨 2서클 수준으로 강화
+* [突刺]傷害強化為劍士3階水準	* Enhances damage of [Thrust] to Swordsman Circle 3 standards	* [쓰러스트] 대미지가 소드맨 3서클 수준으로 강화
+* [奮起]的物理攻擊力每特性等級增加效果提升1{nl}* 防禦力減少效果提升1	* Amplifies physical damage increase effect and decreased defense effect of [Gung Ho] by 1 per attribute level	* 특성 레벨당 [겅호]의 물리 공격력 증가 효과가 1 상승{nl}* 방어력 감소 효과 1 상승
+* [專注]的追加傷害每特性等級增加2	* Increases additional damage of [Concentrate] by 2 per attribute level	* 특성 레벨당 [콘센트레이트]의 추가대미지가 2 증가
+* [盾心打擊]傷害強化為輕裝步兵2階水準	* Enhances damage of [Umbo Blow] to Peltasta Circle 2 standards	* [엄보블로] 대미지가 펠타스타 2서클 수준으로 강화
+* [盾心打擊]傷害強化為輕裝步兵3階水準	* Enhances damage of [Umbo Blow] to Peltasta Circle 3 standards	* [엄보블로] 대미지가 펠타스타 3서클 수준으로 강화
+* [盾牌投擲]傷害強化為輕裝步兵3階水準	* Enhances damage of [Shield Lob] to Peltasta Circle 3 standards	* [실드랍] 대미지가 펠타스타 3서클 수준으로 강화
+* 使用技能[高級守護]時每特性等級防禦力增加1	* Increases defense by 1 per attribute level when using [High Guard]	* 스킬 [하이 가드] 중일 때 방어력이 특성 레벨당 1씩 증가
+* [蓄力一擊]傷害強化為高地戰士2階水準	* Enhances damage of [Cartar Stroke] to Highlander Circle 2 standards	* [카타스트로크] 대미지가 하이랜더 2서클 수준으로 강화
+* [蓄力一擊]傷害強化為高地戰士3階水準	* Enhances damage of [Cartar Stroke] to Highlander Circle 3 standards	* [카타스트로크] 대미지가 하이랜더 3서클 수준으로 강화
+* [擊頭]傷害強化為高地戰士2階水準	* Enhances damage of [Crown] to Highlander Circle 2 standards	* [크라운] 대미지가 하이랜더 2서클 수준으로 강화
+* [擊頭]傷害強化為高地戰士3階水準	* Enhances damage of [Crown] to Highlander Circle 3 standards	* [크라운] 대미지가 하이랜더 3서클 수준으로 강화
+* [車輪斬]傷害強化為高地戰士2階水準	* Enhances damage of [Wagon Wheel] to Highlander Circle 2 standards	* [수레바퀴] 대미지가 하이랜더 2서클 수준으로 강화
+* [車輪斬]傷害強化為高地戰士3階水準	* Enhances damage of [Wagon Wheel] to Highlander Circle 3 standards	* [수레바퀴] 대미지가 하이랜더 3서클 수준으로 강화
+* [十字守護]的物理防禦力增加效果每特性等級增加1	* Enhances physical defense increase effect of [Cross Guard] by 1 per attribute level	* [크로스 가드]의 물리 방어력 증가 효과가 특성 레벨당 1 추가
+* [連續斬]傷害強化為高地戰士3階水準	* Enhances damage of [Moulinet] to Highlander Circle 3 standards	* [뮬리넷] 대미지가 하이랜더 3서클 수준으로 강화
+* 受到[骷髏搖擺]的敵人無法跳躍	* Enemies cannot jump when attacked with [Skull Swing]	* [스컬 스윙]에 당한 적은 점프 불가
+* [刺擊]傷害強化為重裝步兵2階水準	* Enhances damage of [Stabbing] to Hoplite Circle 2 standards	* [스태빙] 대미지가 하플라이트 2서클 수준으로 강화
+* [刺擊]傷害強化為重裝步兵3階水準	* Enhances damage of [Stabbing] to Hoplite Circle 3 standards	* [스태빙] 대미지가 하플라이트 3서클 수준으로 강화
+* [雙手突刺]傷害強化為重裝步兵2階水準	* Enhances damage of [Synchro Thrusting] to Hoplite Circle 2 standards	* [양손찌르기] 대미지가 하플라이트 2서클 수준으로 강화
+* [雙手突刺]傷害強化為重裝步兵3階水準	* Enhances damage of [Synchro Thrusting] to Hoplite Circle 3 standards	* [양손찌르기] 대미지가 하플라이트 3서클 수준으로 강화
+* [貫穿擊]傷害強化為重裝步兵2階水準	* Enhances damage of [Pierce] to Hoplite Circle 2 standards	* [피어스] 대미지가 하플라이트 2서클 수준으로 강화
+* [貫穿擊]傷害強化為重裝步兵3階水準	* Enhances damage of [Pierce] to Hoplite Circle 3 standards	* [피어스] 대미지가 하플라이트 3서클 수준으로 강화
+* [長驅直入]傷害強化為重裝步兵3階水準	* Enhances damage of [Long Stride] to Hoplite Circle 3 standards	* [롱스트라이드] 대미지가 하플라이트 3서클 수준으로 강화
+* 技能[長驅直入]的冷卻時間減少10秒	* Decreases??쬸oldown time of [Long Stride] by 10 seconds	* 스킬 [롱스트라이드]의 재사용 대기시간이 10초 감소
+* [開腸剖肚]傷害強化為野蠻人2階水準	* Enhances damage of [Embowel] to Barbarian Circle 2 standards	* [임바우얼] 대미지가 바바리안 2서클 수준으로 강화
+* [開腸剖肚]傷害強化為野蠻人3階水準	* Enhances damage of [Embowel] to Barbarian Circle 3 standards	* [임바우얼] 대미지가 바바리안 3서클 수준으로 강화
+* [狂怒]的物理攻擊力增加效果每特性等級提升	* Enhances physical attack increase effect of [Frenzy] per attribute level	* 특성 레벨당 [프렌지]의 물리 공격력 증가 효과가 상승
+* [踐踏]傷害強化為野蠻人3階水準	* Enhances damage of [Stomping Kick] to Barbarian Circle 3 standards	* [스톰핑 킥] 대미지가 바바리안 3서클 수준으로 강화
+* 野性Buff的持續時間增加5秒	* Increases Wild Nature buff duration by 5 seconds	* 야성 버프의 지속시간이 5초 증가
+* [盾牌衝鋒]傷害強化為圓盾劍士2階水準	* Enhances damage of [Shield Charge] to Rodelero Circle 2 standards	* [실드 챠지] 대미지가 로델레로 2서클 수준으로 강화
+* [盾牌衝鋒]傷害強化為圓盾劍士3階水準	* Enhances damage of [Shield Charge] to Rodelero Circle 3 standards	* [실드 챠지] 대미지가 로델레로 3서클 수준으로 강화
+* [蒙塔諾]傷害強化為圓盾劍士2階水準	* Enhances damage of [Montano] to Rodelero Circle 2 standards	* [몬타노] 대미지가 로델레로 2서클 수준으로 강화
+* [蒙塔諾]傷害強化為圓盾劍士3階水準	* Enhances damage of [Montano] to Rodelero Circle 3 standards	* [몬타노] 대미지가 로델레로 3서클 수준으로 강화
+* [盾牌碎擊]傷害強化為圓盾劍士2階水準	* Enhances damage of [Targe Smash] to Rodelero Circle 2 standards	* [타지스매쉬] 대미지가 로델레로 2서클 수준으로 강화
+* [盾牌碎擊]傷害強化為圓盾劍士3階水準	* Enhances damage of [Targe Smash] to Rodelero Circle 3 standards	* [타지스매쉬] 대미지가 로델레로 3서클 수준으로 강화
+* [盾牌推擊]傷害強化為圓盾劍士2階水準	* Enhances damage of [Shield Push] to Rodelero Circle 2 standards	* [실드푸시] 대미지가 로델레로 2서클 수준으로 강화
+* [盾牌推擊]傷害強化為圓盾劍士3階水準	* Enhances damage of [Shield Push] to Rodelero Circle 3 standards	* [실드푸시] 대미지가 로델레로 3서클 수준으로 강화
+* [穿刺]傷害強化為鐵甲騎兵2階水準	* Enhances the damage of [Impaler] to Cataphract Circle 2 standards	* [임패일러] 대미지가 캐터프락트 2서클 수준으로 강화
+* [穿刺]傷害強化為鐵甲騎兵3階水準	* Enhances the damage of [Impaler] to Cataphract Circle 3 standards	* [임패일러] 대미지가 캐터프락트 3서클 수준으로 강화
+* [地動波]傷害強化為鐵甲騎兵2階水準	* Enhances damage of [Earth Wave] to Cataphract Circle 2 standards	* [어스 웨이브] 대미지가 캐터프렉트 2서클 수준으로 강화
+* [地動波]傷害強化為鐵甲騎兵3階水準	* Enhances damage of [Earth Wave] to Cataphract Circle 3 standards	* [어스 웨이브] 대미지가 캐터프렉트 3서클 수준으로 강화
+* [騎乘衝鋒]傷害強化為鐵甲騎兵2階水準	* Enhances damage of [Steed Charge] to Cataphract Circle 2 standards	* [스티드 챠지] 대미지가 캐터프렉트 2서클 수준으로 강화
+* [騎乘衝鋒]傷害強化為鐵甲騎兵3階水準	* Enhances damage of [Steed Charge] to Cataphract Circle 3 standards	* [스티드 챠지] 대미지가 캐터프렉트 3서클 수준으로 강화
+* [毀滅刺擊]傷害強化為鐵甲騎兵3階水準	* Enhances damage of [Doom Spike] to Cataphract Circle 3 standards	* [둠 스파이크] 대미지가 캐터프렉트 3서클 수준으로 강화
+* 技能[武器修理]的次數每特性等級增加20	* Increases count of [Weapon Maintenance] by 20 per attribute level	* 스킬 [무기 손질]의 횟수가 특성 레벨당 20씩 증가
+* 技能[防具修理]的次數每特性等級增加5	* Increases count of [Armor Maintenance] by 5 per attribute level	* 스킬 [방어구 손질]의 횟수가 특성 레벨당 5씩 증가
+* 技能[設置餐台]的沙拉效果持續時間{nl}    每特性等級增加1分鐘	* Increases duration of [Refreshment Table] Salad effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 샐러드 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가
+* 技能[設置餐台]的三明治效果持續時間{nl}    每特性等級增加1分鐘	* Increases duration of [Refreshment Table] Sandwich effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 샌드위치 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가
+* 技能[設置餐台]的濃湯效果持續時間{nl}    每特性等級增加1分鐘	* Increases duration of [Refreshment Table] Soup effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 수프 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가
+* 技能[設置餐台]的優格效果持續時間{nl}    每特性等級增加1分鐘	* Increases duration of [Refreshment Table] Yogurt effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 요거트 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가
+* 技能[掠奪]的持續時間每特性等級增加1秒	* Increases duration of [Pillaging] by 1 second per attribute level	* 스킬 [약탈]의 지속시간이 특성 레벨당 1초 증가
+* 若開啟寶箱每特性等級7秒內{nl}    角色的移動速度增加4	* Increases movement speed by 4 for 7 seconds per attribute level when opening a treasure chest	* 보물 상자를 열면 특성 레벨당 7초 동안 캐릭터의{nl}    이동속도가 4 증가
+* 疾走中移動速度大幅增加{nl}STA消耗量減少	* Increases movement speed and decreases STA consumption while dashing	* 대쉬 중 이동속도가 소폭 증가{nl}STA 소모량 감소
+* [能量箭]傷害值強化為法師2階水準	* Enhances damage of [Energy Bolt] to Wizard Circle 2 standards	* [에너지 볼트] 대미지가 위저드 2서클 수준으로 강화
+* [能量箭]傷害值強化為法師3階水準	* Enhances damage of [Energy Bolt] to Wizard Circle 3 standards	* [에너지 볼트] 대미지가 위저드 3서클 수준으로 강화
+* [虛弱]的物理攻擊力和魔法攻擊弱化效果{nl}    每特性等級提升1	* Increases physical and magic attack debuff effect of [Lethargy] by 1 per attribute level	* 특성 레벨당 [레써지]의 물리 공격력과 마법 공격력 약화 효과가{nl}    특성 레벨당 1 상승
+* [地震]傷害值強化為法師3階水準	* Enhances damage of [Earthquake] to Wizard Circle 3 standards	* [어스퀘이크] 대미지가 위저드 3서클 수준으로 강화
+* [催眠]的持續時間每特性等級增加1	* Increases duration of [Sleep] by 1 second per attribute level	* [슬리프]의 지속시간이 특성 레벨당 1초씩 증가
+* [火球]傷害強化為烈焰術士2階水準	* Enhances damage of [Fireball] to Pyromancer Circle 2 standards	* [파이어볼] 대미지가 파이로맨서 2서클 수준으로 강화
+* [火球]傷害強化為烈焰術士3階水準	* Enhances damage of [Fireball] to Pyromancer Circle 3 standards	* [파이어볼] 대미지가 파이로맨서 3서클 수준으로 강화
+* [火牆]傷害強化為烈焰術士2階水準	* Enhances damage of [Fire Wall] to Pyromancer Circle 2 standards	* [파이어월] 대미지가 파이로맨서 2서클 수준으로 강화
+* [火牆]傷害強化為烈焰術士3階水準	* Enhances damage of [Fire Wall] to Pyromancer Circle 3 standards	* [파이어월] 대미지가 파이로맨서 3서클 수준으로 강화
+* [烈焰]傷害強化為烈焰術士2階水準	* Enhances damage of [Flare] to Pyromancer Circle 2 standards	* [플레어] 대미지가 파이로맨서 2서클 수준으로 강화
+* [烈焰]傷害強化為烈焰術士3階水準	* Enhances damage of [Flare] to Pyromancer Circle 3 standards	* [플레어] 대미지가 파이로맨서 3서클 수준으로 강화
+* [火焰附魔]的火屬性攻擊力增加效果每特性等級提升	* Increases Fire property attack enhancing effect of [Enchant Fire] per attribute level	* 특성 레벨당 [인챈트 파이어]의 불 속성 공격력 증가 효과가 상승
+* [火柱]傷害強化為烈焰術士3階水準	* Enhances damage of [Fire Pillar] to Pyromancer Circle 3 standards	* [파이어필라] 대미지가 파이로맨서 3서클 수준으로 강화
+* 裝備[權杖]時角色的火屬性攻擊力每特性等級增加3	* Increases character's Fire property attack by 3 per attribute level when equipped with a [Staff]	* [스태프] 착용 시 캐릭터의 불 속성 공격력이 특성 레벨당 3 증가
+* [冰箭]傷害強化為寒冰法師2階水準	* Enhanced damage of [Ice Bolt] to Cryomancer Circle 2 standards	* [아이스 볼트] 대미지가 크리오맨서 2서클 수준으로 강화
+* [冰箭]傷害強化為寒冰法師3階水準	* Enhances damage of [Ice Bolt] to Cryomancer Circle 3 standards	* [아이스 볼트] 대미지가 크리오맨서 3서클 수준으로 강화
+* [冰槍]傷害強化為寒冰法師2階水準	* Enhances damage of [Ice Pike] to Cryomancer Circle 2 standards	* [아이스파이크] 대미지가 크리오맨서 2서클 수준으로 강화
+* [冰槍]傷害強化為寒冰法師3階水準	* Enhances damage of [Ice Pike] to Cryomancer Circle 3 standards	* [아이스파이크] 대미지가 크리오맨서 3서클 수준으로 강화
+* [冰爆術]傷害強化為寒冰法師2階水準	* Enhances damage of [Ice Blast] to Cryomancer Circle 2 standards	* [아이스 블래스트] 대미지가 크리오맨서 2서클 수준으로 강화
+* [冰爆術]傷害強化為寒冰法師3階水準	* Enhances damage of [Ice Blast] to Cryomancer Circle 3 standards	* [아이스 블래스트] 대미지가 크리오맨서 3서클 수준으로 강화
+* 裝備[魔杖]時角色的冰屬性攻擊力每特性等級增加3	* Increases character's Ice property attack by 3 per attribute level when equipped with a [Rod]	* [로드] 착용 시 캐릭터의 얼음 속성 공격력이 특성 레벨당 3 증가
+* [冰牆]技能的持續時間增加10秒	* Increases duration of [Ice Wall] by 10 seconds	* [아이스월] 스킬의 지속시간이 10초 증가
+* [念動力]傷害強化為念力法師2階水準	* Enhances damage of [Telekinesis] to Psychokino Circle 2 standards	* [텔레키네시스] 대미지가 사이코키노 2서클 수준으로 강화
+* [念動力]傷害強化為念力法師3階水準	* Enhances damage of [Telekinesis] to Psychokino Circle 3 standards	* [텔레키네시스] 대미지가 사이코키노 3서클 수준으로 강화
+* [靈能壓力]傷害強化為念力法師2階水準	* Enhances damage of [Psychic Pressure] to Psychokino Circle 2 standards	* [사이킥 프레셔] 대미지가 사이코키노 2서클 수준으로 강화
+* [靈能壓力]傷害強化為念力法師3階水準	* Enhances damage of [Psychic Pressure] to Psychokino Circle 3 standards	* [사이킥 프레셔] 대미지가 사이코키노 3서클 수준으로 강화
+* [磁力]傷害強化為念力法師3階水準	* Enhances damage of [Magnetic Force] to Psychokino Circle 3 standards	* [마그네틱 포스] 대미지가 사이코키노 3서클 수준으로 강화
+* 技能[位置互換]的套用對象是我軍不是敵軍	* Applies [Swap] to allies and not enemies	* 스킬 [스왑]이 적군이 아닌 아군을 대상으로 적용
+* [左臂強化]攻擊力強化效果每特性等級提升3	* Increases attack increase effect of [Swell Left Arm] by 3 per attribute level	* 특성 레벨당 [왼팔 강화] 공격력 강화 효과가 특성 레벨당 3 상승
+* [右臂強化]防禦力和攻擊力強化效果{nl}    每特性等級提升3	* Increases defense and attack increase effect of [Swell Right Arm] by 3 per attribute level	* 특성 레벨당 [오른팔 강화] 방어력 및 공격력 강화 효과가{nl}    특성 레벨당 3 상승
+* [大腦強化]智力增加效果每特性等級提升2	* Increases INT increase effect of [Swell Brain] by 2 per attribute level	* 특성 레벨당 [스웰 브레인] 지능 증가 효과가 특성 레벨당 2 상승
+* 使用[能力調換]時短力和體力不會互換{nl}    而是各自套用智力和體力的平均值	* Applies average of INT and CON to both stats when using [Transpose]	* [트랜스포스] 사용 시 지능과 체력이 서로 바뀌지 않고{nl}    지능과 체력의 평균값이 각각 적용
+* [紅焰]傷害強化為元素使2階水準	* Enhances damage of [Prominence] to Elementalist Circle 2 standards	* [홍염] 대미지가 엘리멘탈리스트 2서클 수준으로 강화
+* [紅焰]傷害強化為元素使3階水準	* Enhances damage of [Prominence] to Elementalist Circle 3 standards	* [홍염] 대미지가 엘리멘탈리스트 3서클 수준으로 강화
+* [冰雹]傷害強化為元素使2階水準	* Enhances damage of [Hail] to Elementalist Circle 2 standards	* [헤일] 대미지가 엘리멘탈리스트 2서클 수준으로 강화
+* [冰雹]傷害強化為元素使3階水準	* Enhances damage of [Hail] to Elementalist Circle 3 standards	* [헤일] 대미지가 엘리멘탈리스트 3서클 수준으로 강화
+* [電擊]傷害強化為元素使2階水準	* Enhances damage of [Electrocute] to Elementalist Circle 2 standards	* [일렉트로큐트] 대미지가 엘리멘탈리스트 2서클 수준으로 강화
+* [電擊]傷害強化為元素使3階水準	* Enhances damage of [Electrocute] to Elementalist Circle 3 standards	* [일렉트로큐트] 대미지가 엘리멘탈리스트 3서클 수준으로 강화
+* [隕石]傷害強化為元素使3階水準	* Enhanced damage of [Meteor] to Elementalist Circle 3 standards	* [메테오] 대미지가 엘리멘탈리스트 3서클 수준으로 강화
+* 角色的SP恢復力每特性等級增加1	* increases character's SP recovery by 1 per attribute level	* 캐릭터의 SP 회복력이 특성 레벨당 1씩 증가
+* 技能[攻擊領域]的冷卻時間減少2秒	* Decreases cooldown time of [Attack Ground] by 2 seconds	* 스킬 [어택 그라운드]의 재사용 대기시간이 2초 감소
+* 技能[待命]的冷卻時間減少2秒	* Decreases cooldown time of [Hold] by 2 seconds	* 스킬 [홀드]의 재사용 대기시간이 2초 감소
+* 技能[時間暫停]的SP消耗減少40	* Decreases SP consumption of [Stop] by 40	* 스킬 [스톱]의 소모 SP가 40 감소
+* 被召喚的修格斯的攻擊力每特性等級增加1	* Increases attack of the summoned Shoggoth by 1 per attribute level	* 소환된 쇼고스의 공격력이 특성 레벨당 1 증가
+* 被召喚的咒屍塔攻擊力每特性等級增加1	* Increases attack of the summoned Corpse Tower by 1 per attribute level	* 소환된 콥스타워의 공격력이 특성 레벨당 1 증가
+* 被死靈法師技能命中後陷入[腐敗]Debuff時{nl}    敵人所穿戴的裝備會暫時腐敗變得無效	* Corruption caused by Necromancer skills will temporarily nullify enemy gear	* 네크로맨서 스킬로 인해 [부패] 디버프에 걸렸을 떄{nl}    적이 장착한 장비 아이템을 일시적으로 부패시켜 무력하게 만듬
+* 死靈之書的最大屍體持有量每特性等級增加100	* Increases Necronomicon's maximum corpse capacity by 100 per attribute level	* 네크로노미콘의 최대 사체 보유량이 특성 레벨당 100 증가
+* 技能[挖掘]的冷卻時間減少10秒	* Decreases cooldown time of [Dig] by 10 seconds	* 스킬 [디그]의 재사용 대기시간이 10초 감소
+* 當附近沒有掉落的道具時{nl}    使用身上200銀幣對前方造成爆作傷害	* Creates explosion using 200 silver when there are no dropped items nearby	* 주변에 드랍된 아이템이 없을 때, 소지한 200 실버를{nl}    사용해 전방에 폭발 대미지
+* 進行[熔合]技能時可選擇主武器或是材料武器的外型	* Allows for [Briquetting] to change the appearance of a main weapon or material weapon	* [브리케팅]시 주 무기 또는 재료 무기의 외형 선택 가능
+* 在[道具喚醒]地下城登場的怪物個體數減少 	* Reduces number of monsters in [Item Awakening] dungeon	* [아이템 어웨이크닝] 던전에서 등장하는 몬스터의 개체수 감소
+* 以[吸血]吸收的HP量每特性等級增加1	* Increases HP absorbed by 1 per attribute level	* [흡혈]로 흡수하는 HP량이 특성 레벨당 1 증가
+* 以[血浴]吸收的SP量每特性等級增加1	* Increases SP absorbed by 1 per attribute level	* [블러드배쓰]로 흡수하는 SP량이 특성 레벨당 1 증가
+* 可使用魔法粉末製作附魔彈{nl}* 在休息模式下也可製作附魔彈	* Allows you to craft Enchant Rounds using Magic Powder on Rest Mode	* 마법 가루를 이용하여 인챈트탄 제작 가능{nl}* 인챈트탄 제작은 휴식모드에서 가능
+* 傳點的欄位數量每特性等級增加1	* Increases portal slot number by 1 per attribute level	* 포탈의 슬롯수가 특성 레벨당 1 증가
+* [多重射擊]傷害強化為弓箭手2階水準	* Enhances damage of [Multi Shot] to Archer Circle 2 standards	* [멀티샷] 대미지가 아처 2서클 수준으로 강화
+* [多重射擊]傷害強化為弓箭手3階水準	* Enhances damage of [Multi Shot] to Archer Circle 3 standards	* [멀티샷] 대미지가 아처 3서클 수준으로 강화
+* [滿弦]傷害強化為弓箭手2階水準	* Enhances damage of [Full Draw] to Archer Circle 2 standards	* [풀드로우] 대미지가 아처 2서클 수준으로 강화
+* [滿弦]傷害強化為弓箭手3階水準	* Enhances damage of [Full Draw] to Archer Circle 3 standards	* [풀드로우] 대미지가 아처 3서클 수준으로 강화
+* [跪射]的物理攻擊力增加效果每特性等級提升1	* Enhances physical damage increase effect of [Kneeling Shot] by 1 per attribute level	* 특성 레벨당 [닐링샷]의 물리 공격력 증가 효과가 1 상승
+* [斜射]傷害強化為弓箭手3階水準	* Enhances damage of [Oblique Shot] to Archer Circle 3 standards	* [오블리크 샷] 대미지가 아처 3서클 수준으로 강화
+* [強力射擊]傷害強化為弓箭手3階水準	* Enhances damage of [Heavy Shot] is to Archer Circle 3 standards	* [헤비샷] 대미지가 아처 3서클 수준으로 강화
+* [跪射]狀態下可使用部份技能	* Allows you to use some skills in the [Kneeling Shot] position	* [닐링샷] 상태에서 일부 스킬 사용 가능
+* [扇射]傷害強化為遊俠2階水準	* Enhanced damage of [Barrage] to Ranger Circle 2 standards	* [배라지] 대미지가 레인저 2서클 수준으로 강화
+* [扇射]傷害強化為遊俠3階水準	* Enhanced damage of [Barrage] to Ranger Circle 3 standards	* [배라지] 대미지가 레인저 3서클 수준으로 강화
+* [貫通箭]傷害強化為遊俠2階水準	* Enhances damage of [High Anchoring] to Ranger Circle 2 standards	* [하이앵커링] 대미지가 레인저 2서클 수준으로 강화
+* [貫通箭]傷害強化為遊俠3階水準	* Enhances damage of [High Anchoring] to Ranger Circle 3 standards	* [하이앵커링] 대미지가 레인저 3서클 수준으로 강화
+* [穩定瞄準]的追加傷害每特性等級增加2	* Increases additional damage effect of [Steady Aim] by 2 per attribute level	* 특성 레벨당 [스테디에임]의 추가대미지가 2 증가
+* [暴擊射擊]傷害強化為遊俠2階水準	* Enhances damage of [Critical Shot] to Ranger Circle 2 standards	* [크리티컬 샷] 대미지가 레인저 2서클 수준으로 강화
+* [暴擊射擊]傷害強化為遊俠3階水準	* Enhances damage of [Critical Shot] to Ranger Circle 3 standards	* [크리티컬 샷] 대미지가 레인저 3서클 수준으로 강화
+* [定時炸彈箭]傷害強化為遊俠3階水準	* Enhances damage of [Time Spring Arrow] to Ranger Circle 3 standards	* [타임봄 애로우] 대미지가 레인저 3서클 수준으로 강화
+* [丟擲鐵蒺藜]傷害強化為弩箭手2階水準	* Enhances damage of [Scatter Caltrops] to Quarrel Shooter Circle 2 standards	* [캘트롭 뿌리기] 대미지가 쿼렐슈터 2서클 수준으로 강화
+* [丟擲鐵蒺藜]傷害強化為弩箭手3階水準	* Enhances damage of [Scatter Caltrops] to Quarrel Shooter Circle 3 standards	* [캘트롭 뿌리기] 대미지가 쿼렐슈터 3서클 수준으로 강화
+* [石彈射擊]傷害強化為弩箭手2階水準	* Enhances damage of [Stone Shot] to Quarrel Shooter Circle 2 standards	* [스톤샷] 대미지가 쿼렐슈터 2서클 수준으로 강화
+* [石彈射擊]傷害強化為弩箭手3階水準	* Enhances damage of [Stone Shot] to Quarrel Shooter Circle 3 standards	* [스톤샷] 대미지가 쿼렐슈터 3서클 수준으로 강화
+* [連續射擊]傷害強化為弩箭手3階水準	* Enhances damage of [Rapid Fire] to Quarrel Shooter Circle 3 standards	* [래피드파이어] 대미지가 쿼렐슈터 3서클 수준으로 강화
+* [拆除]傷害強化為弩箭手3階水準	* Enhances damage of [Teardown] to Quarrel Shooter Circle 3 standards	* [철거] 대미지가 쿼렐슈터 3서클 수준으로 강화
+* [奔跑射擊]傷害每特性等級提升。	* Increases damage of [Running Shot] per attribute level	* 특성 레벨당 [런닝샷] 대미지가 상승합니다.
+* [掃蕩陷阱]傷害強化為工兵2階水準	* Enhances damage of [Broom Trap] to Sapper Circle 2 standards	* [브룸트랩] 대미지가 새퍼 2서클 수준으로 강화
+* [掃蕩陷阱]傷害強化為工兵3階水準	* Enhances damage of [Broom Trap] to Sapper Circle 3 standards	* [브룸트랩] 대미지가 새퍼 3서클 수준으로 강화
+* [闊劍地雷]傷害強化為工兵2階水準	* Enhanced damage of [Claymore] to Sapper Circle 2 standards	* [크레모어] 대미지가 새퍼 2서클 수준으로 강화
+* [闊劍地雷]傷害強化為工兵3階水準	* Enhanced damage of [Claymore] to Sapper Circle 3 standards	* [크레모어] 대미지가 새퍼 3서클 수준으로 강화
+* [竹尖釘]傷害強化為工兵2階水準	* Enhances damage of [Punji Stake] to Sapper Circle 2 standards	* [푼지스테이크] 대미지가 새퍼 2서클 수준으로 강화
+* [竹尖釘]傷害強化為工兵3階水準	* Enhances damage of [Punji Stake] to Sapper Circle 3 standards	* [푼지스테이크] 대미지가 새퍼 3서클 수준으로 강화
+* [引爆陷阱]傷害強化為工兵2階水準	* Enhances damage of [Detonate Traps] to Sapper Circle 2 standards	* [데토네이트 트랩] 대미지가 새퍼 2서클 수준으로 강화
+* [引爆陷阱]傷害強化為工兵3階水準	* Enhances damage of [Detonate Traps] to Sapper Circle 3 standards	* [데토네이트 트랩] 대미지가 새퍼 3서클 수준으로 강화
+* [人質炸彈]傷害強化為工兵3階水準	* Enhances damage of [Collar Bomb] to Sapper Circle 3 standards	* [인질 폭탄] 대미지가 새퍼 3서클 수준으로 강화
+* [吹箭]傷害強化為巫蠱師2階水準	* Enhances damage of [Needle Blow] to Wugushi Circle 2 standards	* [취시] 대미지가 무고사 2서클 수준으로 강화
+* [吹箭]傷害強化為巫蠱師3階水準	* Enhances damage of [Needle Blow] to Wugushi Circle 3 standards	* [취시] 대미지가 무고사 3서클 수준으로 강화
+* [蜈蚣蠱]傷害強化為巫蠱師2階水準	* Enhances damage of [Wugong Gu] to Wugushi Circle 2 standards	* [오공고] 대미지가 무고사 2서클 수준으로 강화
+* [蜈蚣蠱]傷害強化為巫蠱師3階水準	* Enhances damage of [Wugong Gu] to Wugushi Circle 3 standards	* [오공고] 대미지가 무고사 3서클 수준으로 강화
+* [毒罐]傷害強化為巫蠱師3階水準	* Enhances damage of [Throw Gu Pot] to Wugushi Circle 3 standards	* [독항아리] 대미지가 무고사 3서클 수준으로 강화
+* 敵人所受到的[吹箭]毒傷害每特性等級增加2	* Increases poison damage dealt with [Needle Blow] by 2 per attribute level	* 적에게 입히는 [취시]의 독 대미지가 특성 레벨당 2 증가
+* 敵人所受到的[蜈蚣蠱]毒傷害每特性等級增加2	* Increases poison damage dealt with [Wugong Gu] by 2 per attribute level	* 적에게 입히는 [오공고]의 독 대미지가 특성 레벨당 2 증가
+* [響箭]傷害強化為斥候2階水準	* Enhances damage of [Flu Flu] to Scout Circle 2 standards	* [플루플루] 대미지가 스카우트 2서클 수준으로 강화
+* [響箭]傷害強化為斥候3階水準	* Enhances damage of [Flu Flu] to Scout Circle 3 standards	* [플루플루] 대미지가 스카우트 3서클 수준으로 강화
+* [燃燒箭]傷害強化為斥候2階水準	* Enhances damage of [Flare Shot] to Scout Circle 2 standards	* [플레어 샷] 대미지가 스카우트 2서클 수준으로 강화
+* [燃燒箭]傷害強化為斥候3階水準	* Enhances damage of [Flare Shot] to Scout Circle 3 standards	* [플레어 샷] 대미지가 스카우트 3서클 수준으로 강화
+* [仇殺]傷害強化為流氓3階水準	* Enhances damage of [Vendetta] to Rogue Circle 3 standards	* [벤데타] 대미지가 로그 3서클 수준으로 강화
+* [闊箭]傷害強化為造箭者2階水準	* Enhances damage of [Broadhead] to Fletcher Circle 2 standards	* [브로드헤드] 대미지가 플레쳐 2서클 수준으로 강화
+* [錐箭]傷害強化為造箭者2階水準	* Enhances damage of [Bodkin Point] to Fletcher Circle 2 standards	* [보드킨 포인트] 대미지가 플레쳐 2서클 수준으로 강화
+* [荊棘箭]傷害強化為造箭者2階水準	* Enhances damage of [Barbed Arrow] to Fletcher Circle 2 standards	* [바브드애로] 대미지가 플레쳐 2서클 수준으로 강화
+* [交叉火力]傷害強化為造箭者2階水準	* Enhances damage of [Crossfire] to Fletcher Circle 2 standards	* [크로스파이어] 대미지가 플레쳐 2서클 수준으로 강화
+* 被技能[闊箭]攻擊的敵人狀能[出血]的持續時間每特性等級增加2秒	* Increases duration of [Bleeding] by 2 seconds per attribute level when an enemy is hit by [Broadhead]	* 스킬 [브로드헤드]로 피격된 적 상태 [출혈]의 지속시간이 특성 레벨당 2초 증가
+* [主動攻擊]時不讓隼鷹使用懸停。	* The hawk will not use [Hovering] when [Pre-Emptive Strike] is being used	* [선제 공격] 시 매가 호버링을 사용하지 않게 됩니다.
+* [主動攻擊]時不讓隼鷹使用音速突擊	* The hawk will not use [Sonic Strike] when [Pre-Emptive Strike] is being used	* [선제 공격] 시 매가 음속타를 사용하지 않게 됩니다.
+* 使用技能[逃脫射擊]時後退距離會小幅減少	* Reduces [Caracole]'s recoil	* 스킬 [카라콜] 사용시 밀려나는 거리가 소폭 감소
+* 在寵物騎乘狀態下瞬間疾走移動速度增加	* Increases  movement speed of an instant dash when riding on a companion	* 컴패니언 탑승 상태에서 순간적으로 대쉬하여 이동속도가 증가
+* 雙手弓和單手弓基本攻擊的射程距離每特性等級增加1	* Increases basic attack range for bows and crossbows by 1 per attribute level	* 양손활과 한손활 기본 공격의 사거리가 특성 레벨당 1 증가
+* [高估] Buff的持續時間每個特性等級增加1秒	* Duration of [Overestimate] buff increased 1 second per attribute level	* [과대평가] 버프의 지속시간이 특성 레벨당 1초 증가
+* [淨化]傷害強化為牧師2階水準	* Enhances damage of [Cure] to Cleric Circle 2 standards	* [큐어] 대미지가 클레릭 2서클 수준으로 강화
+* [淨化]傷害強化為牧師3階水準	* Enhances damage of [Cure] to Cleric Circle 3 standards	* [큐어] 대미지가 클레릭 3서클 수준으로 강화
+* [治癒] 傷害和治癒量強化為牧師2階水準	* Enhances damage and healing amount of [Heal] to Cleric Circle 2 standards	* [힐] 대미지와 치유량이 클레릭 2서클 수준으로 강화
+* [治癒] 傷害和治癒量強化為牧師3階水準	* Enhances damage and healing amount of [Heal] to Cleric Circle 3 standards	* [힐] 대미지와 치유량이 클레릭 3서클 수준으로 강화
+* 因為[守護聖人]獲得傷害的對象變成自己	* [Guardian Saint] selects you as the recipient of damage	* [수호성인]으로 피해를 대신 받는 대상을 자신으로 변경
+* [落雷]傷害強化為聖火祭司2階水準	* Enhances damage of [Zaibas] to Krivis Circle 2 standards	* [자이바스] 대미지가 크리비 2서클 수준으로 강화
+* [落雷]傷害強化為聖火祭司3階水準	* Enhances damage of [Zaibas] to Krivis Circle 3 standards	* [자이바스] 대미지가 크리비 3서클 수준으로 강화
+* 角色的火屬性扺抗每特性等級增加5{nl}    黑暗屬性扺抗每特性等級減少3	* Increases the character's Fire property resistance and decreases dark property resistance by 5 and 3 per attribute level respectively	* 캐릭터의 불 속성 저항이 특성 레벨당 5 증가하고{nl}    어둠 속성 저항이 특성 레벨당 3 감소
+* [暴擊魔法陣]的暴擊攻擊力每特性等級增加1	* Increases critical attack of [Zalciai] by 1 per attribute level	* 특성 레벨당 [잘챠이]의 치명타 공격력이 1 증가
+* [潑灑聖水]傷害強化為聖水祭司2階水準	* Enhances damage of [Aspersion] to Priest Circle 2 standards	* [아스퍼션] 대미지가 프리스트 2서클 수준으로 강화
+* [潑灑聖水]傷害強化為聖水祭司3階水準	* Enhances damage of [Aspersion] to Priest Circle 3 standards	* [아스퍼션] 대미지가 프리스트 3서클 수준으로 강화
+*  [祝福]的追加傷害每特性等級增加2	* Increases additional damage of [Blessing] by 2 per attribute level	* 특성 레벨당 [블레싱]의 추가대미지가 2 증가
+* [聖禮]的神聖屬性攻擊力增加效果每特性等級提升	* Increases Holy property attack of [Sacrament] per attribute level	* 특성 레벨당 [사크라멘트]의 신성 속성 공격력 증가 효과 상승
+* [釘草人]傷害強化為邪靈祭司2階水準	* Enhanced damage of [Effigy] to Bokor Circle 2 standards	* [에피지] 대미지가 보코르 2서클 수준으로 강화
+* [釘草人]傷害強化為邪靈祭司3階水準	* Enhanced damage of [Effigy] to Bokor Circle 3 standards	* [에피지] 대미지가 보코르 3서클 수준으로 강화
+* [符咒]的累積傷害每特性等級減少2	* Decreases accumulated damage from [Mackangdal] by 2 per attribute level	* [마캉달]의 누적된 대미지가 특성 레벨당 2 감소
+* [殭屍圍繞]傷害強化為邪靈祭司3階水準	* Enhances damage of [Bwa Kayiman] to Bokor Circle 3 standards	* [브와카이망] 대미지가 보코르 3서클 수준으로 강화
+* [雕刻攻擊]傷害強化為雕刻師2階水準	* Enhanced damage of [Carve] to Dievdirbys Circle 2 standards	* [목각 공격] 대미지가 딥디르비 2서클 수준으로 강화
+* [雕刻攻擊]傷害強化為雕刻師3階水準	* Enhanced damage of [Carve] to Dievdirbys Circle 3 standards	* [목각 공격] 대미지가 딥디르비 3서클 수준으로 강화
+* [貓頭鷹雕像]傷害強化為雕刻師3階水準	* Enhances damage of [Carve Owl] to Dievdirbys Circle 3 standards	* [부엉이 조각상] 대미지가 딥디르비 3서클 수준으로 강화
+* 技能[瓦卡麗涅女神像]的冷卻時間減少10秒	* Decreases cooldown time of [Statue of Goddess Vakarine] by 10 seconds	* 스킬 [바카리네 여신상]의 재사용 대기시간이 10초 감소
+* 技能[奧施莉奈女神像]的冷卻時間減少10秒	* Decreases the cooldown of [Statue of Goddess Ausrine] by 10 seconds	* 스킬 [아우슈리네 여신상]의 재사용 대기시간이 10초 감소
+* [靈魂爆炸]傷害強化為聖者2階水準	* Enhances damage of [Astral Body Explosion] to Sadhu Circle 2 standards	* [유체 폭발] 대미지가 사두 2서클 수준으로 강화
+* [靈魂爆炸]傷害強化為聖者3階水準	* Enhances damage of [Astral Body Explosion] to Sadhu Circle 3 standards	* [유체 폭발] 대미지가 사두 3서클 수준으로 강화
+* [支配]傷害強化為聖者3階水準	* Enhances damage of [Possession] to Sadhu Circle 3 standards	* [포제션] 대미지가 사두 3서클 수준으로 강화
+* 使用[能量傳送]時同時傳送力量能力值	* Allows [Transmit Prana] to also transmit STR	* [프라나 전송] 사용 시 힘 능력치도 전송
+* 使用[能量傳送]時同時傳送體力能力值	* Allows [Transmit Prana] to also transmit CON	* [프라나 전송] 사용 시 체력 능력치도 전송
+* 使用[能量傳送]時同時傳送精神能力值	* Allows [Transmit Prana] to also transmit SPR	* [프라나 전송] 사용 시 정신 능력치도 전송
+* 使用[能量傳送]時同時傳送敏捷能力值	* Allows [Transmit Prana] to also transmit DEX	* [프라나 전송] 사용 시 민첩 능력치도 전송
+* [恢復]的HP恢復力增加效果每特性等級增加2	* Increases HP recovery effect of [Restoration] by 2 per attribute level	* 특성 레벨당 [리스토레이션]의 HP 회복력 증가 효과가 2 상승
+* [重擊]傷害強化為聖殿十字軍2階水準	* Enhances damage of [Smite] to Paladin Circle 2 standards	* [스마이트] 대미지가 팔라딘 2서클 수준으로 강화
+* [重擊]傷害強化為聖殿十字軍3階水準	* Enhances damage of [Smite] to Paladin Circle 3 standards	* [스마이트] 대미지가 팔라딘 3서클 수준으로 강화
+* [元素抗性]各屬性扺抗力每特性等級增加1	* Increases property resistance of [Resist Elements] by 1 per attribute level	* 특성 레벨당 [레지스트 엘리멘츠] 속성 저항력들이 1 증가
+* [皈依]的怪物附近若有其他怪物接近皈依的怪物會自爆	* [Conversion] makes the target explode when coming in contact with other monsters	* [개종]된 몬스터 근처에 다른 몬스터가 근접하면 개종된 몬스터가 자폭
+* [雙鎖功]傷害強化為武僧2階水準	* Enhances damage of [Double Punch] to Monk Circle 2 standards	* [쌍쇄공] 대미지가 몽크 2서클 수준으로 강화
+* [鐵砂掌]傷害強化為武僧2階水準	* Enhances damage of [Palm Strike] to Monk Circle 2 standards	* [철사장] 대미지가 몽크 2서클 수준으로 강화
+* [觀音掌]傷害強化為武僧2階水準	* Enhances damage of [Hand Knife] to Monk Circle 2 standards	* [관음장] 대미지가 몽크 2서클 수준으로 강화
+* 按目前奉獻箱的道具數量比例{nl}    提升寬恕的攻擊力	* Increases the attack of Indulgentia based on the number of items in the Offering Box	* 현재 봉헌함에 있는 아이템 개수에 비례하여 인둘겐티아의{nl}    공격력이 상승
+* 將登錄在[魔法商店]的效果賦予同伴時{nl}    效果的持續時間每特性等級增加5分	* Increases duration of [Spell Shop] by 5 minutes per attribute level when you endow a registered effect to an ally	* [주문 판매상점 개설]에 등록된 효과를 동료에게 부여할 때{nl}    효과의 지속시간이 특성 레벨당 5분씩 증가
+* 以[形態變換]或[變形術]變身後可更快速使用怪物的技能	* Increases skill casting time while [Shapeshifting] or [Transform] is active	* [쉐입시프팅] 혹은 [트랜스폼]으로 변신후 몬스터의 스킬을 좀 더 빠르게 사용 가능
+* 以[形態變換]或[變形術]變身後也能繼續維持PC移動速度	* Maintains the character's movement speed after transforming with [Shapeshifting] or [Transform]	* [쉐입시프팅] 혹은 [트랜스폼]으로 변신 후에도 PC 이동속도에 가깝게 유지
+* 技能[重置]的冷卻時間減少30秒	* Decreases cooldown time of [Resetting] by 30 seconds	* 스킬 [리셋팅]의 재사용 대기시간이 30초 감소
+* 配戴[鳥喙面具]時毒屬性扺抗力每特性等級增加5	* Increases Poison property resistance by 5 per attribute level whilst wearing the [Bird Beak Mask]	* [새 부리 가면]을 착용 중 독 속성 저항력이 특성 레벨당 5 증가
+* [感染]套用的範圍增加	* Increases the range of [Pandemic]	* [판데믹]이 적용되는 범위가 증가
+* [梅爾卡巴戰輪]的輪子移動速度減少	* Reduces the movement speed of [Merkabah]	* [메르카바]의 바퀴 이동속도 감소
+* 很快顯示技能[數秘術]和[拼詞計算術]的數字結果值	* The numbers from [Gematria] and [Notarikon] are quickly calculated	* 스킬 [게마트리아]과 [노타리콘]의 숫자 결과값이 빠르게 표시
+* 技能[數秘術]和[拼詞計算術]每特性等級對1名{nl}    額外套用	* [Gematria] and [Notarikon] affect 1 additional target per attribute level	* 스킬 [게마트리아]과 [노타리콘]이 특성 레벨당 1명에게{nl}    추가 적용
+* 透過技能[取人藏物法]增加的物理攻擊力和魔法攻擊力的最小數值每特性等級增加1	* Increases minimum amount of physical and magic attack from [Hidden Potential] by 1 per attribute level	* 스킬 [취인장물법]으로 증가하는 물리 공격력과 마법 공격력의 최소 수치가 특성 레벨당 1 증가
+* 對我軍召喚物施展[拍手]而恢復的HP量每特性等級增加1	* Increases ally installments' HP recovered by [Clapping] by 1 per attribute level	* 아군 소환물에게 [박수]로 회복시켜주는 HP량이 특성 레벨당 1 증가
+需要鑑定師1階	Requires Appraiser Circle 1	감정사 1서클 필요
+黑暗的精髓	Dark Crystal	어둠의 정수
+已收集黑暗的精髓。	You have collected a Dark Crystal	어둠의 정수를 수집하였습니다.
+索爾米奇板金組合	Solmiki Plate Set	솔미키 판금 세트
+杜奈斯的Buff	Donnes' Buff	도네스의 버프
+* [十字守護]的物理防禦力增加效果每特性等級增加3	* Enhances physical defense increase effect of [Cross Guard] by 3 per attribute level	* [크로스 가드]의 물리 방어력 증가 효과가 특성 레벨당 3 추가
+* 技能[重力磁場]使用中每特性等級迴避增加50	* Increases evasion by 50 per attribute level when using [Gravity Pole]	* 스킬 [그라비티 폴] 사용 중, 회피가 특성 레벨당 50 증가
+* 技能[靈魂出竅]活化期間本體的迴避{nl}    每特性等級增加10	* Increases the body's evasion by 10 per attribute level when [Out of Body] is active	* 스킬 [유체이탈]이 활성화 되어 있는 동안 본체의 회피가{nl}    특성 레벨당 10 증가
+* [恢復]的HP恢復力增加效果每特性等級增加1%	* Increases HP recovery effect of [Restoration] by 1 per attribute level	* 특성 레벨당 [리스토레이션]의 HP 회복력 증가 효과가 1% 추가 상승
+* [元素抗性]各屬性扺抗力每特性等級增加1%	* Increases property resistance of [Resist Elements] by 1 per attribute level	* 특성 레벨당 [레지스트 엘리멘츠] 속성 저항력들이 1% 증가
+* 以[形態變換]或[變形術]變身的怪物若是小型{nl}    迴避每特性等級增加50	* Increases evasion of small-type monster transformed by [Shape Shifting] or [Transform] by 50 per attribute level	* [쉐입시프팅] 혹은 [트랜스폼]으로 변신한 몬스터가 소형이면{nl}    회피가 특성 레벨당 50 증가
+* 以[形態變換]或[變形術]變身的怪物若是動物型{nl}    暴擊率每特性等級增加40	* Increases critical rate of the animal-type monsters transformed via [Shape Shifting] or [Transform] by 40 per attribute level	* [쉐입시프팅] 혹은 [트랜스폼]으로 변신한 몬스터가 동물형이면{nl}    치명타 발생이 특성 레벨당 40 증가
+移動速度、迴避減少	Decreased movement speed and evasion	이동속도, 회피 감소
+靈魂消失	Loss of Spirit	영혼소실
+發光的幸運	Shining Luck	빛나는 행운
+移動速度+5。	Increases Movement Speed +5	이동 속도 +5 증가합니다.
+結婚蛋糕	Wedding Cake	웨딩 케잌
+屬性扺抗力屬性攻擊力變更	Property resistance / Property attack	속성 저항력 속성 공격력변경
+卡伊特姆歐組合	Kite Moor Set	카이트 무어 세트
+休克炸彈發生	Shock Boom Effect	쇼크 봄 발생
+普利耶努組合	Frienoet	프리에노 세트
+Stack型防禦力增加	Stack Defense Increase	스택형 방어력 증가
+帕希烏泰斯組合	Pasiuteset	파시우테스 세트
+Stack型防禦力確認用途	Stack Defense Check	스택형 방어력 체크용도
+帕希烏泰斯組合確認	Pasiuteset Check	파시우테스 세트 체크
+Stack型魔攻確認用途	Stack Magic Attack Check	스택형 마공 체크 용도
+利嫰奇希特組合確認	Lynnki Sit Set Check	리느키 시트 세트 체크
+Stack型魔攻增加	Stack Magic Attack Increase	스택형 마공 증가
+利嫰奇希特組合	Lynnki Sit Set	리느키 시트 세트
+烤魚	Grilled Fish	생선 구이
+波勒派絲/培里歐爆炸Buff	Varpas/Verijo Explosion Buff	바르파스/배리오 폭발 버프
+波勒派絲/培里歐裝備爆炸計數及攻擊Buff	Varpas/Verijo Equipment Explosion Countdown and Attack Buff	바르파스/배리오 장비 폭발 카운트및 공격 버프
+波勒派絲/培里歐爆炸延遲	Varpas/Verijo Explosion Delay	바르파/배리오 폭발 딜레이
+波勒派絲/培里歐裝備爆炸延遲Buff	Varpas/Verijo Equipment Explosion Delay Buff	바르파스/배리오 장비 폭발 딜레이 버프
+粉紅小花怪持有中	Hanaming	하나밍 보유중
+物理、魔法攻擊力 +100	Physical and magic attack +100	물리, 마법 공격력 +100
+物理、魔法防禦力 +100	Physical and magic defense +100	물리, 마법 방어력 +100
+隊伍戰鬥聯盟第1名	Team Battle League 1st Place	팀 배틀 리그 1위
+隊伍戰鬥聯盟第2名	Team Battle League 2nd Place	팀 배틀 리그 2위
+隊伍戰鬥聯盟第3名	Team Battle League 3rd Place	팀 배틀 리그 3위
+獵鯨人	Stone Spirit	고래 사냥꾼
+隱藏Buff	Hide Buff	하이드 버프
+米飯餌	Paste Bait	떡밥
+黃金漁場	Golden Fishing Spot	황금어장
+滾動雪球Attach 	Snow Rolling Attached	스노우롤링어태치
+貓咪的恩惠	Tuxedo Cat	고양이의 은혜
+迴避率增加	Increased evasion rate	회피율 증가
+盾牌集氣啟動中	Shield Charger Activated	실드 차져 가동중
+物理/魔方防禦力減少	Decreased Physical/Magical Defense	물리/마법 방어력 감소
+GM 攻擊力	GM Attack 	GM 공격력
+GM 防禦力	GM Defense 	GM 방어력
+GM 最大HP	GM Max HP 	GM 최대HP
+一流冒險家	First-rate Adventurer	초일류 모험가
+已達成冒險日誌排名第1名。	Achieved 1st place in the Adventure Journal	모험일지 랭킹 1위를 달성했습니다
+奎波爾的祈禱	Kupole's Prayer	큐폴의 기도
+有嚴重浪費癖的救援者	Thrifty Savior	낭비벽이 심한 구원자
+已達成冒險日誌道具消費排名第1名。	Achieved 1st place for item consumption in the Adventure Journal	모험일지 아이템 소비 랭킹 1위를 달성했습니다
+獲得的傷害減少	Decreased received damage	받는 대미지 감소
+獲得的傷害減少	Damage received decrease	받는 피해 감소
+守護者	Guardian	수호자
+堅固的皮膚	Thick Skin	견고한 피부
+使用雙手鈍器	Use Two-handed Blunt Weapon	양손둔기 사용
+* 可以裝備[雙手鈍器]系列武器	* Can equip [Two-handed Blunt] type weapons	* [양손둔기] 계열 무기 착용 가능
+亞卡利歐基本攻擊	Creepy Klaipeda Basic Attack	아가리오 기본 공격
+糖果疾走	Candy Dash	캔디 대쉬
+亞卡利歐基本攻擊2	Creepy Klaipeda Basic Attack2	아가리오 기본 공격2
+亞卡利歐基本攻擊3	Creepy Klaipeda Basic Attack3	아가리오 기본 공격3
+亞卡利歐基本攻擊4	Creepy Klaipeda Basic Attack4	아가리오 기본 공격4
+扇子	Fan	부채
+雙槍攻擊	Double Pistol Attack	쌍권총 공격
+紅絨布反擊	Muleta counter attack	물레타 반격
+雷電之手基本攻擊	Lightning Hands Basic Attack	라이트닝 핸즈 기본 공격
+雷電之手	Lightning Hands	라이트닝 핸즈
+泰拳攻擊	Nak Muay Attack	낙무아이 공격
+火槍攻擊	Musket Attack	머스킷 공격
+綠色煙火	Fireworks Green	불꽃놀이 녹색
+火焰彈	Flame	화염 탄
+對敵人發射火焰彈	Shoot Flame to enemy	적에게 화염 탄을 발사합니다
+電氣彈	Lightning	전기 탄
+對敵人發射雷彈	Shoot Lightning to enemy	적에게 뇌 탄을 발사합니다
+寒氣彈	Chill	냉기 탄
+對敵人發射寒氣彈	Shoot Chill to enemy	적에게 냉기 탄을 발사합니다
+網鬥士任務技能1	Quest Skill 1	레티아리이 퀘스트 스킬1
+雪人玩具	Magical Snowman Wand	눈사람 장난감
+聖誕鐘玩具	Christmas Handbell	크리스마스 종 장난감
+盾牌衝擊	Shield Train	실드 트레인
+繼承者烏克奴思	Sprint	스프린트
+龍墜	Dragon Fall	드래곤 폴
+不可侵犯的領域	Non-Invasive Area	불가침 영역
+預防	Prevent	프리벤트
+隆格米安特	Rhongomiant	롱고미안트
+紅布挑釁	Capote	카포티
+紅絨布	Muleta	물레타
+連續劈刺	Faena	파에나
+歡呼	Ole	올레
+鬥牛舞	Paso Doble	파소 도블레
+滑行迴避	Back Slide	백 슬라이드
+衰弱	Enervation	에너베이션
+惡魔爪擊	Demon Scratch	데몬 스크래치
+傳送商店	Portal Shop	포탈 상점
+傳點可開啟次數3次	Up to 3 saved locations may be used	포탈 개시 가능 수 3회
+空間壓縮	Dimension Compression	디멘션 컴프레션
+大地強化	Enchant Earth	인챈트 어스
+暗影荊棘	Shadow Thorn	섀도우 쏜
+暗影魔法	Shadow Conjuration	섀도우 컨저레이션
+暗影沼澤	Shadow Pool	섀도우 풀
+幻影分身	Hallucination 	할루시네이션
+暗影束縛	Shadow Fetter	섀도우 페터
+大砲轟炸	Sweeping Cannon	스위핑 캐논
+狙擊手的沉著	Sniper's Serenity	스나이퍼즈 세레니티
+連續斬擊	Grind Cutter	그라인드 커터
+箭雨	Down Fall	다운 폴
+銀彈	Silver Bullet	실버불릿
+電擊彈	Tase	테이즈
+燃燒彈	Napalm Bullet	소이탄
+全金屬包覆彈	Full Metal Jacket	풀 메탈 자켓
+雙槍姿態	Double Gun Stance	더블 건 스탠스
+血腥殺戮	Bloody Overdrive	블러디 오버드라이브
+粉碎彈	Smash Bullet	파쇄탄
+曳光彈	Tracer Bullet	예광탄
+莫三比克射擊法	Mozambique Drill	모잠비크 드릴
+庇護	Sanctuary	생츄어리
+摧毀	Demolition	데몰리션
+美沙酮	Methadone	메타돈
+權能輪	Gevura	게부라
+審判	Judgment	저지먼트
+所以要變身為他信任的巨錘王，告知欺瞞的哈勃克的計畫，{nl}猜忌的哈勃克很清楚自己的實力劣於其他的哈勃克。	Divine Punishment	천형부
+無懈可擊	Invulnerable 	인버너러블
+犧牲	Immolation	이몰레이션
+瞬移	Beady Eyed	비디 아이드
+狂熱	Fanaticism 	파나티시즘
+狂熱幻覺	Fanatic Illusion	파나틱 일루젼
+盲目信仰	Blind Faith	블라인드 페이쓰
+壓縮	Condensation	콘덴세이션
+魔法攻擊無效化	Dispel Magic Attack	마법 공격 무효화
+那就是紀錄寶珠創造裝置，{nl}只要在裝置寫下注意事項，就會出現紀錄的寶珠。	Put enemies in Iron Maiden	적을 아이언 메이든에 가둠
+雖然選擇單字時想必有一定程度的難度，但你表現得很好，所以紀錄寶珠完成了。	Debuff Immunity	디버프에 면역됨
+比較帶來的黑色哈路卡爾精髓後，製造出能區分野心哈勃克精銳部下的印章。{nl}使用識別印章分辨野心哈勃克的部下後，使用紀錄寶珠。	Immune to Knockback and Knockdown	넉백, 넉다운 면역 상태
+看來得告訴你使用紀錄寶珠時的注意事項才行！{nl}紀錄寶珠烙印在腦海中的時間並不長。	Cursed characters will receive additional damage when hit	저주를 건 캐릭터에게 피격 시 추가 대미지를 입음
+挑釁周圍敵人的狀態	Surrounding enemies are provoked	주변 적을 도발한 상태
+Seed red	SeeRed	씨레드
+可格擋魔法的狀態。	Able to block magic	마법 블록이 가능한 상태입니다.
+火屬性傷害	Fire Property Damage	불 속성 피해
+暴擊機率增加	Critical Chance Increase	치명타 확률 증가
+暴擊傷害增加	Critical Damage Increase	치명타 피해 증가
+暗影侵蝕	Shadow Trap	그림자 잠식
+迴避增加	Increase Evasion	회피 증가
+粒子空間後遺症	Micro Dimension After Effects	마이크로 디멘션 후유증
+終極空間後遺症	Ultimate Dimension After Effects	얼티밋 디멘션 후유증
+周期性HP減少	Periodical HP Reduction	주기적인 HP 감소
+物理防禦力和魔法防禦力增加，攻擊時，依增加的防禦力賦予追加傷害	Physical and magic defense increased and additional damage while attack	물리 방어력과 마법 방어력이 증가하고 공격 시 증가한 방어력만큼 추가 대미지
+暫時免疫壓縮	Condensation Immunity	콘덴세이션일시면역
+元素效果	Elemental Effect	원소 효과
+凱特力斯屬性傷害增加藥水效果	Keitrys Elemental Enhance Potion Effect	케이트리스 속성 대미지 증가 포션 효과
+火焰屬性追加傷害增加	Increases additional flame damage	화염 속성 추가 대미지 증가
+火焰屬性追加傷害+200	Flame damage +200	화염 속성 추가 대미지 +200
+冰屬性追加傷害增加	Increases additional ice damage	얼음 속성 추가 대미지 증가
+冰屬性追加傷害+200	Ice damage +200	얼음 속성 추가 대미지 +200
+電屬性追加傷害增加	Increases additional lightning damage	전기 속성 추가 대미지 증가
+電屬性追加傷害+200	Lightning damage +200	전기 속성 추가 대미지 +200
+地屬性追加傷害增加	Increases additional earth damage	땅 속성 추가 대미지 증가
+地屬性追加傷害+200	Earth damage +200	땅 속성 추가 대미지 +200
+屬性詛咒發生效果	Elemental curse effects 	속성 저주 발생 효과
+HP自然恢復量增加	Increases natural recovery of HP	HP 자연 회복량 증가
+格擋減少	Decreases Block 	블럭 감소
+衝突	Charge	충돌
+衝突後遺症	Charge After Effects	충돌 후유증
+摩西尼奧斯雙手槍	Masinios Two-handed Spear	마시니오스 양손창
+瑪西尼歐雙手槍	Masinios Two-handed Spear	마시니오 양손창
+瑪西尼歐細劍	Masinios Rapier	마시니오 레이피어
+銳利	Sharpness	예리함
+暴擊攻擊力增加60，最多重疊5次	Increase 60 Critical Damage Maximum 5 Stacks	치명타 공격력 60증가 최대 5 중첩
+5連擊	5 consecutive attacks	5연격
+套用基本攻擊5次	Applying basic attack 5 times	기본 공격 5회 적용
+集中精神	Concentration of mind	정신 집중
+精神上升5	Increase 5 SPR	정신이 5 상승
+鬥氣	Fighting Spirit	투기
+5秒內持續堆疊5次時，發動戰鬥狂效果	Attack war aficionado effect during 5 second per 5 stacks	5초간 지속 5스택 쌓일 경우 전투광 효과 발동
+戰鬥狂	War aficionado	전투광
+電屬性追加攻擊	Lightning Shock additional Effect	전기 속성 추가 공격
+移動速度增加 +3。	Increases Movement Speed +3	이동 속도 +3 증가합니다.
+製作寒氣彈、火焰彈、電氣彈基本上需要帶有魔力的粉末。{nl}夏頓蓄水區裡有發著紅光的魔力凝聚器。{nl}{nl}魔力凝聚器發出紅光啟動的時候，可以消滅充滿魔氣的怪物，把他們的肉塊放入裡面。	Cannot gain EXP	경험치 획득 불가
+寵物停車	Park Companion	컴패니언 주차
+挑戰者	Challenger	챌린저
+挑戰結束	End Challenge	도전 종료
+黑暗恐懼	Darkness Fear	어둠의 공포
+卡巴拉之杖	Staff of Kabbalah	카발라의 지팡이
+卡巴拉的服裝	Kabbalah Garments	카발라의 의복
+需要槍彈者1階	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요
+需要槍彈者2階	Bulletmarker 2nd Circle Required	불릿 마커 2서클 필요
+需要重砲手3階	Canoneer 3rd Circle Required	캐노니어 3서클 필요
+需要道士2階	Taoist 2nd Circle Required	도사 2서클 필요
+需要龍騎士3階	Dragoon 3rd Circle Required	드라군 3서클 필요
+需要昇龍之勢11級	Requires Dragon Soar Lv 11	드래곤소어 11레벨 필요
+需要附魔師2階	Enchanter Circle 2 Required	인챈터 2서클 필요
+需要妖術師3階	Featherfoot 3rd Circle Required	페더풋 3서클 필요
+需要刀騎兵2階	Hackapell 2nd Circle Required	하카펠 2서클 필요
+需要審判者2階	Inquisitor Circle 2 Required	인퀴지터 2서클 필요
+需要卡巴拉3階	Kabalist 3rd Circle Required	카발리스트 3서클 필요
+需要神聖烙印10級	Requires Divine Stigma Level 10	디바인 스티그마 10레벨 필요
+需要槍騎兵2階	Lancer 2nd Circle Required	랜서 2서클 필요
+需要鬥牛士1階	Matador 1st Circle Required	마타도르 1서클 필요
+需要鬥牛士2階	Matador 2nd Circle Required	마타도르 2서클 필요
+需要梅勒肯2階	Mergen 2nd Circle Required	메르겐 2서클 필요
+需要角鬥士2階	Murmillo 2nd Circle Required	무르밀로 2서클 필요
+需要火槍手3階	Musketeer 3rd Circle Required	머스킷티어 3서클 필요
+需要瘟疫醫生3階	Plague Doctor Circle 3 Required	플레이그닥터 3서클 필요
+需要感染11級	Requires Pandemic Level 11	판데믹 11레벨 필요
+需要賢者2階	Sage Circle 2 Required	세이지 2서클 필요
+需要暗影師1階	Shadowmancer 1st Circle Required	섀도우맨서 1서클 필요
+需要暗影師2階	Shadowmancer 2nd Circle Required	섀도우맨서 2서클 필요
+需要聖殿騎士3階	Templar Circle 3 required	템플러 3서클 필요
+需要咒術師3階	Warlock 3rd Circle required	워록 3서클 필요
+需要狂熱者1階	Zealot 1st Circle Required	질럿 1서클 필요
+需要狂熱者2階	Zealot Circle 2 required	질럿 2서클 필요
+新手玩家之書	New Savior's Tome 	신규 유저의 서
+回歸玩家之書	Returning Savior's Book 	복귀 유저의 서
+回歸玩家的藥水	Returning Savior's Potion	복귀 유저의 포션
+新年祈願	Make a New Year's Wish	새해 소망 기원
+超級盔甲	Super Armor	슈퍼아머
+瞬間迴避	Instant Evasion	순간회피
+透徹的舉報精神	Clear Signal	투철한 신고정신
+需要寬恕者3階	Pardoner 3rd Circle required	파드너 3서클 필요
+鮮艷的雨傘 1階段	Colorful Umbrella Stage 1	컬러풀한 우산 1단계
+鮮艷的雨傘 2階段	Colorful Umbrella Stage 2	컬러풀한 우산 2단계
+鮮艷的雨傘 3階段	Colorful Umbrella Stage 3	컬러풀한 우산 3단계
+鮮艷的雨傘 4階段	Colorful Umbrella Stage 4	컬러풀한 우산 4단계
+鮮艷的雨傘 5階段	Colorful Umbrella Stage 5	컬러풀한 우산 5단계
+家門的榮光	Family Glory	가문의 영광
+黃金財犬持有中	Golden Dog	금강불개 보유 중
+神聖屬性攻擊力增加。	Added Holy attack	신성 속성 공격력이 증가합니다.
+參與夜市活動中	Market Time Limit	야시장 참여 중
