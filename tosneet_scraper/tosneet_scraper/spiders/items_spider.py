@@ -1,17 +1,13 @@
-import scrapy
+from .tosneet_spider import TosneetSpider
 
 
-class ItemsSpider(scrapy.Spider):
+class ItemsSpider(TosneetSpider):
     name = "items"
     start_urls = [
         'https://tos.neet.tv/items?f=1',
     ]
 
-    def parse(self, response):
-        # Get Table header
-        # thead = response.css('.results-table thead tr')[0]
-        # heads = ['img'] + [tr.extract() for tr in thead.css('th::text')]
-
+    def scrape_page(self, response):
         for row in response.css('.results-table tbody tr'):
             data = {
                 'img': row.css('td img::attr(src)'),
@@ -23,8 +19,3 @@ class ItemsSpider(scrapy.Spider):
             }
             data = {key: value.extract_first() for key, value in data.items()}
             yield data
-
-        next_page = response.css('.pagination').xpath(
-            ".//a[text()='›']/@href").extract_first()
-        if next_page is not None:
-            yield response.follow(next_page, callback=self.parse)
