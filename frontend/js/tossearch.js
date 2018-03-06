@@ -5,29 +5,35 @@
 ----------------*/
 var TypeaheadHelper = function() {
   this.items_en = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.whitespace,
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['en', 'tw']),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
-    // url points to a json file that contains an array of country names, see
-    // https://github.com/twitter/typeahead.js/blob/gh-pages/data/countries.json
-    prefetch: 'data/names_en.json'
+    identify: function (obj) { return obj.ClassID; },
+    prefetch: 'data/result_table.json'
   });
-  this.items_tw = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.whitespace,
-    queryTokenizer: Bloodhound.tokenizers.whitespace,
-    prefetch: 'data/names_tw.json'
-  });
+  this.firstSuggestion = {};
 };
 
 TypeaheadHelper.prototype.action = function () {
-  // passing in `null` for the `options` arguments will result in the default
-  // options being used
-  $('#prefetch .typeahead').typeahead(null, {
+  $('.typeahead').typeahead(null, {
     name: 'items-en',
-    source: this.items_en
-  }, {
-    name: 'items-tw',
-    source: this.items_tw
+    source: this.items_en,
+    display: function(obj) {
+      return obj.en;
+    },
+    templates: {
+      suggestion: this.suggestion
+    }
   });
+};
+
+TypeaheadHelper.prototype.suggestion = function(data) {
+  input_val = $('#search-content').val();
+  let hasChinese = /[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]/.test(input_val);
+  if (hasChinese) {
+    return '<div><strong>' + data.tw + '</strong> (' + data.en + ')</div>';
+  } else {
+    return '<div><strong>' + data.en + '</strong> (' + data.tw + ')</div>';
+  }  
 };
 
 
@@ -47,14 +53,22 @@ TosSearchMod.prototype.readData = function(self) {
   });
 };
 
-TosSearchMod.prototype.search = function(val) {
+TosSearchMod.prototype.search = function(val, cb_fail) {
   console.log("Searching: " + val);
-  let classID = this.dictionary[val]['ClassID'];
-  if (classID) {
+  let entry = this.dictionary[val];
+  if (entry) {
+    let classID = entry.ClassID;
     console.log("ClassID:" + classID);
+    this.openpage(classID);
   } else {
     console.log("ClassID Not Found.");
+    cb_fail();
   }
+};
+
+TosSearchMod.prototype.openpage = function(classID) {
+  let url = 'https://tos.neet.tv/items/' + classID;
+  window.open(url);
 };
 
 
@@ -70,10 +84,22 @@ $(document).ready(function () {
   typeaheadHelper.action();
 
   $('.typeahead').bind('typeahead:select', function (ev, suggestion) {
-    console.log('Selection: ' + suggestion);
+    searchmod.search(suggestion.en);
   });
 
   $('#search').click(function () {
-    searchmod.search($('#search-content').val())
+    $(".tt-suggestion").first().trigger('click')
+    // let val = $('#search-content').val();
+    // searchmod.search(val, function() {
+    //   $('#notfound-indicator').html('Not Found');
+    // });
   });
+
+  tippy('.tippy');
+
+  // $('.typeahead').on('keyup', function (e) {
+  //   if (e.which == 13) {
+  //     $(".tt-suggestion").first().trigger('click');
+  //   }
+  // });
 });

@@ -37,6 +37,7 @@ class DictionaryGenerator():
         return self.neettables
 
     def merge(self):
+        print("Start merging..")
         for key, table in self.neettables.items():
             self.neettables[key] = pd.merge(
                 table, self.langmap,
@@ -54,9 +55,9 @@ class DictionaryGenerator():
         resulttable = resulttable.drop_duplicates(subset=['tw'])
         resulttable = resulttable.drop_duplicates(subset=['en'])
         self.resulttable = resulttable
-        self.export_list(resulttable, output)
+        # self.export_list(resulttable, output)
         self.export_table(resulttable, output)
-
+        
     def export_list(self, result, output):
         self.to_json(result['tw'], Path(output) / 'names_tw.json',
                      orient='values')
@@ -64,12 +65,14 @@ class DictionaryGenerator():
                      orient='values')
 
     def export_table(self, result, output):
-        dictionary = result.set_index('en')
-        self.to_json(dictionary, Path(output) / 'tables_en.json',
-                     orient='index')
-        dictionary = result.set_index('tw')
-        self.to_json(dictionary, Path(output) / 'tables_tw.json',
-                     orient='index')
+        self.to_json(result, Path(output) / 'result_table.json',
+                     orient='records')
+        # dictionary = result.set_index('en')
+        # self.to_json(dictionary, Path(output) / 'tables_en.json',
+        #              orient='index')
+        # dictionary = result.set_index('tw')
+        # self.to_json(dictionary, Path(output) / 'tables_tw.json',
+        #              orient='index')
 
 
 if __name__ == '__main__':

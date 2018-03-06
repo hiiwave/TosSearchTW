@@ -11,26 +11,38 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/typeahead.css" rel="stylesheet">
     <link href="css/signin.css" rel="stylesheet">
+    <link href="css/stylesheet.css" rel="stylesheet">
     <script src="js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/typeahead.bundle.min.js"></script>
     <script type="text/javascript" src="js/tossearch.js"></script>
+    <script type="text/javascript" src="js/tippy.all.min.js"></script>
   </head>
 
   <body class="text-center">
     <form class="form-signin">
-      <img class="mb-4" src="img/search.png" alt="" width="72" height="72">
+      <img class="mb-4" src="img/search1.png" alt="" width="72" height="72">
       <h1 class="h3 mb-3 font-weight-normal">Tos Search</h1>
 
-      <div id="prefetch" class="input-group">
+      <div id="tosquery" class="input-group">
         <input id="search-content" class="typeahead form-control" type="text"
-               placeholder="Popolion Doll">
+               placeholder="Popolion / 波波小獅王">
         <span class="input-group-btn">
           <button id="search" class="btn btn-outline-success" type="button">Search</button>
         </span>
       </div>
-
-      <p class="mt-5 mb-3 text-muted">&copy; 2018</p>
+      <div id='notfound-indicator'>
+      </div>
+      <p class="mt-5 mb-3 text-muted">
+        
+        <span class="tippy"
+              title="波光粼粼 @ 夏祭"
+              data-tippy-placement="top">
+          <img src="img/SummerFestival.png" width="18" height="18">
+          &copy;
+        </span>
+        2018
+      </p>
     </form>
   </body>
 </html>
