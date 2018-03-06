@@ -22,6 +22,7 @@ class DictionaryGenerator():
         self.neettables = NeetReader(path_neet).read()
         self.path_langmap = Path(path_langmap)
         self.langmap = pd.DataFrame()
+        self.resulttable = pd.DataFrame()
 
     def read_langmap(self):
         self.langmap = pd.read_csv(
@@ -48,18 +49,27 @@ class DictionaryGenerator():
 
     def export_dictionary(self, output='output/'):
         tables = [table for _, table in self.neettables.items()]
-        tables = [df[['tw', 'en']] for df in tables]
-        langmap = functools.reduce(pd.concat, tables)
-        langmap = langmap.drop_duplicates(subset=['tw'])
-        dictionary = langmap.set_index('tw')
-        if output is not None:
-            self.to_json(langmap['tw'], Path(output) / 'names_tw.json',
-                         orient='values')
-            self.to_json(langmap['en'], Path(output) / 'names_en.json',
-                         orient='values')
-            self.to_json(dictionary, Path(output) / 'dictionary.json',
-                         orient='index')
-        return dictionary
+        tables = [df[['tw', 'en', 'ClassID']] for df in tables]
+        resulttable = functools.reduce(pd.concat, tables)
+        resulttable = resulttable.drop_duplicates(subset=['tw'])
+        resulttable = resulttable.drop_duplicates(subset=['en'])
+        self.resulttable = resulttable
+        self.export_list(resulttable, output)
+        self.export_table(resulttable, output)
+
+    def export_list(self, result, output):
+        self.to_json(result['tw'], Path(output) / 'names_tw.json',
+                     orient='values')
+        self.to_json(result['en'], Path(output) / 'names_en.json',
+                     orient='values')
+
+    def export_table(self, result, output):
+        dictionary = result.set_index('en')
+        self.to_json(dictionary, Path(output) / 'tables_en.json',
+                     orient='index')
+        dictionary = result.set_index('tw')
+        self.to_json(dictionary, Path(output) / 'tables_tw.json',
+                     orient='index')
 
 
 if __name__ == '__main__':
