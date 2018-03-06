@@ -28,3 +28,10 @@ $(document).ready(function () {
     console.log('Selection: ' + suggestion);
   });
 });
+
+$.getJSON("data/tables_en.json", function (data) {
+  console.log(data['Shaman Armband']);
+  console.log(data['Shaman Armnd']);
+  // $.each(data, function (key, val) {
+  // });
+});
