@@ -1,10 +1,10 @@
 # Tos Search Gadget
-This is a searching gadget for [Tree of Savior](https://treeofsavior.com/page/main/)  game.
+This is a search gadget for [Tree of Savior](https://treeofsavior.com/page/main/)  game.
 
 ## Features:
 * Support Chinese(zh-tw) / English
 * Support typeahead(autocomplete)
-* Link search result to tos.neet.tv
+* Link search result to [tos.neet.tv](https://tos.neet.tv/)
 
 ## Demo:
 https://hiiwave.github.io/TosSearchTW/frontend/index.html
