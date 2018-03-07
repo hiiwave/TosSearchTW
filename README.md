@@ -42,14 +42,14 @@ It seems to be a *typeahead.js* issue, see [this](https://github.com/twitter/typ
 
 
 ## Change Log:
-### 2018.3.8 (v0.2 Released)
-* Integrate more data categories, including npcs, zones, skills, attributes
+### 2018.3.7 (v0.2 Released)
+* Integrate more data categories, including npcs, zones, skills, and attributes
 * Implement dropdown menu
 * Implement Enter key listening
 
-### 2018.3.7 (v0.1 Released)
+### 2018.3.6 (v0.1 Released)
 * Implement [frontend](./frontend/)
-* Support items category
+* Support category: items
 
 ### 2018.3.5
 * Implement [Scraper](./tosneet_scraper/) and [Dictionary](./tos_dictionary/)
