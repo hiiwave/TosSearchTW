@@ -77,6 +77,6 @@ class DictionaryGenerator():
 
 if __name__ == '__main__':
     dictgen = DictionaryGenerator(
-        '../tosneet_scraper/', './langmap/merged.tsv')
+        '../tosneet_scraper/output/', './langmap/merged.tsv')
     dictgen.run()
     dictgen.export_dictionary()
