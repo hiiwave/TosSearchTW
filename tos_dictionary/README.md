@@ -9,4 +9,4 @@ The language mapping file is exported from project [Tos-Translator](https://gith
 
 1. `python langmap_merge.py`: to merge langmap files into single file `langmap/merged.tsv`.
 
-1. `python dictionary_gen.py`: export lookup table onto `output/result_table.json` and `output/tables_en.json`.
+1. `python dictionary_gen.py`: export lookup table onto `output/result_list.json` and `output/tables_en.json`.

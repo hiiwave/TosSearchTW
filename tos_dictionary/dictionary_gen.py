@@ -22,7 +22,7 @@ class DictionaryGenerator():
         self.neettables = NeetReader(path_neet).read()
         self.path_langmap = Path(path_langmap)
         self.langmap = pd.DataFrame()
-        self.resulttable = pd.DataFrame()
+        self.result_table = pd.DataFrame()
 
     def read_langmap(self):
         self.langmap = pd.read_csv(
@@ -48,35 +48,25 @@ class DictionaryGenerator():
         with path.open('w', encoding='utf-8') as file:
             df.to_json(file, force_ascii=False, ** kwargs)
 
-    def export_dictionary(self, output='output/'):
+    def export(self, output='output/'):
         tables = [table for _, table in self.neettables.items()]
         tables = [df[['tw', 'en', 'ClassID']] for df in tables]
-        resulttable = functools.reduce(pd.concat, tables)
-        resulttable = resulttable.drop_duplicates(subset=['tw'])
-        resulttable = resulttable.drop_duplicates(subset=['en'])
-        self.resulttable = resulttable
-        # self.export_list(resulttable, output)
-        self.export_table(resulttable, output)
-        
-    def export_list(self, result, output):
-        self.to_json(result['tw'], Path(output) / 'names_tw.json',
-                     orient='values')
-        self.to_json(result['en'], Path(output) / 'names_en.json',
-                     orient='values')
+        result_table = functools.reduce(pd.concat, tables)
+        result_table = result_table.drop_duplicates(subset=['tw'])
+        result_table = result_table.drop_duplicates(subset=['en'])
+        self.result_table = result_table
+        self.export_table(result_table, output)
 
     def export_table(self, result, output):
-        self.to_json(result, Path(output) / 'result_table.json',
+        self.to_json(result, Path(output) / 'result_list.json',
                      orient='records')
-        # dictionary = result.set_index('en')
-        # self.to_json(dictionary, Path(output) / 'tables_en.json',
-        #              orient='index')
-        # dictionary = result.set_index('tw')
-        # self.to_json(dictionary, Path(output) / 'tables_tw.json',
-        #              orient='index')
+        tables_en = result.set_index('en')
+        self.to_json(tables_en, Path(output) / 'tables_en.json',
+                     orient='index')
 
 
 if __name__ == '__main__':
     dictgen = DictionaryGenerator(
         '../tosneet_scraper/output/', './langmap/merged.tsv')
     dictgen.run()
-    dictgen.export_dictionary()
+    dictgen.export()

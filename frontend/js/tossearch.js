@@ -8,7 +8,7 @@ var TypeaheadHelper = function() {
     datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['en', 'tw']),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     identify: function (obj) { return obj.ClassID; },
-    prefetch: 'data/result_table.json'
+    prefetch: 'data/result_list.json'
   });
   this.firstSuggestion = {};
 };
