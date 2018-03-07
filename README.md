@@ -41,6 +41,20 @@ In this case you could still type "Swordsman Master" and click search button to 
 It seems to be a *typeahead.js* issue, see [this](https://github.com/twitter/typeahead.js/issues/238) or [this](https://github.com/twitter/typeahead.js/issues/1198) for more details.
 
 
+## Change Log:
+### 2018.3.8 (v0.2 Released)
+* Integrate more data categories, including npcs, zones, skills, attributes
+* Implement dropdown menu
+* Implement Enter key listening
+
+### 2018.3.7 (v0.1 Released)
+* Implement [frontend](./frontend/)
+* Support items category
+
+### 2018.3.5
+* Implement [Scraper](./tosneet_scraper/) and [Dictionary](./tos_dictionary/)
+
+
 ## Contribution
 Any issue reporting or pull request is welcome.
 
