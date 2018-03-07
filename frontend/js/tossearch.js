@@ -10,7 +10,6 @@ var TypeaheadHelper = function() {
     identify: function (obj) { return obj.ClassID; },
     prefetch: 'data/result_list.json'
   });
-  this.firstSuggestion = {};
 };
 
 TypeaheadHelper.prototype.action = function () {
@@ -42,6 +41,7 @@ TypeaheadHelper.prototype.suggestion = function(data) {
 ----------------*/
 var TosSearchMod = function () {
   this.dictionary = {};
+  this.dictionary_tw = {};
   this.readData(this);
 };
 
@@ -51,23 +51,29 @@ TosSearchMod.prototype.readData = function(self) {
     // Cannot use this here due to jQuery
     self.dictionary = data;
   });
+  $.getJSON("data/tables_tw.json", function (data) {
+    console.log("Dictionary-tw loaded");
+    self.dictionary_tw = data;
+  });
 };
 
-TosSearchMod.prototype.search = function(val, cb_fail) {
+TosSearchMod.prototype.search = function(val, cb_success, cb_fail) {
   console.log("Searching: " + val);
   let entry = this.dictionary[val];
+  if (!entry) entry = this.dictionary_tw[val];
   if (entry) {
     let classID = entry.ClassID;
-    console.log("ClassID:" + classID);
-    this.openpage(classID);
+    let category = entry.category;
+    this.openpage(category, classID);
+    cb_success();
   } else {
     console.log("ClassID Not Found.");
     cb_fail();
   }
 };
 
-TosSearchMod.prototype.openpage = function(classID) {
-  let url = 'https://tos.neet.tv/items/' + classID;
+TosSearchMod.prototype.openpage = function (category, classID) {
+  let url = 'https://tos.neet.tv/' + category + '/' + classID;
   window.open(url);
 };
 
@@ -88,15 +94,23 @@ $(document).ready(function () {
   });
 
   $('#search').click(function () {
-    $(".tt-suggestion").first().trigger('click')
-    // let val = $('#search-content').val();
-    // searchmod.search(val, function() {
-    //   $('#notfound-indicator').html('Not Found');
-    // });
+    let val = $('#search-content').val();
+    val = val.replace(/\b\w/g, l => l.toUpperCase());
+    searchmod.search(val, function cb_success() {
+      $('#notfound-indicator').html('');
+    }, function cb_fail() {
+      if ($(".tt-suggestion").length) {
+        $(".tt-suggestion").first().trigger('click');
+        $('#notfound-indicator').html('');
+      } else {
+        $('#notfound-indicator').html('Not Found');
+      }
+    });
   });
 
   tippy('.tippy');
 
+  // Listen to Keypress
   // $('.typeahead').on('keyup', function (e) {
   //   if (e.which == 13) {
   //     $(".tt-suggestion").first().trigger('click');

@@ -66,6 +66,9 @@ class DictionaryGenerator():
         tables_en = result.set_index('en')
         self.to_json(tables_en, Path(output) / 'tables_en.json',
                      orient='index')
+        tables_tw = result.set_index('tw')
+        self.to_json(tables_tw, Path(output) / 'tables_tw.json',
+                     orient='index')
 
 
 if __name__ == '__main__':

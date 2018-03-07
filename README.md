@@ -34,6 +34,13 @@ The web interface of this gadget. Implemented by [typeahead.js](https://github.c
 Please refer to `README.md` in these subfolders for more details.
 
 
+## Known Issues:
+* Some suggestions fail to show when they include spaces *and* there are longer words including them;
+for example the word "Swordsman Master" does not show due to the existence of "Swordsman Master Costume".
+In this case you could still type "Swordsman Master" and click search button to get the result.
+It seems to be a *typeahead.js* issue, see [this](https://github.com/twitter/typeahead.js/issues/238) or [this](https://github.com/twitter/typeahead.js/issues/1198) for more details.
+
+
 ## Contribution
 Any issue reporting or pull request is welcome.
 
