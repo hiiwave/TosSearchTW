@@ -66,10 +66,10 @@ TosSearchMod.prototype.search = function(val, cb_success, cb_fail) {
     let classID = entry.ClassID;
     let category = entry.category;
     this.openpage(category, classID);
-    cb_success();
+    if (cb_success) cb_success();
   } else {
     console.log("ClassID Not Found.");
-    cb_fail();
+    if (cb_fail) cb_fail();
   }
 };
 
@@ -111,10 +111,9 @@ $(document).ready(function () {
 
   tippy('.tippy');
 
-  // Listen to Keypress
-  // $('.typeahead').on('keyup', function (e) {
-  //   if (e.which == 13) {
-  //     $(".tt-suggestion").first().trigger('click');
-  //   }
-  // });
+  // Listen to Enter Key
+  // Use 'keypress' instead of 'keyup' to avoid Chinese input issue (wbkuo.pixnet.net/blog/post/191525544-[javascript]-解決使用新注音輸入時選字按-enter-)
+  $('.typeahead').on('keypress', function (e) {
+    if (e.which == 13) $('#search').trigger('click');
+  });
 });
