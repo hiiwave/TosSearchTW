@@ -13,6 +13,8 @@ class NeetReader():
             path = self.path_neet / (name + '.json')
             df = pd.read_json(path, orient='records')
             df = df.rename({'Name or Alias': 'Name'}, axis='columns')
+            if 'img' not in df:
+                df['img'] = ""
             df['category'] = name
             neettables[name] = df
         return neettables
@@ -33,12 +35,12 @@ class DictionaryGenerator():
             error_bad_lines=False)
 
     def run(self):
+        print("Start processing..")
         self.read_langmap()
         self.merge()
         return self.neettables
 
     def merge(self):
-        print("Start merging..")
         for key, table in self.neettables.items():
             self.neettables[key] = pd.merge(
                 table, self.langmap,
@@ -51,9 +53,7 @@ class DictionaryGenerator():
 
     def export(self, output='output/'):
         tables = [table for _, table in self.neettables.items()]
-        tables = [df[['tw', 'en', 'ClassID', 'category']] for df in tables]
-        for df in tables:
-            print(df.head())
+        tables = [df[['tw', 'en', 'ClassID', 'category', 'img']] for df in tables]
         result_table = pd.concat(tables)
         result_table = result_table.drop_duplicates(subset=['tw'])
         result_table = result_table.drop_duplicates(subset=['en'])
