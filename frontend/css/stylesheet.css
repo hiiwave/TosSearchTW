@@ -5,6 +5,9 @@
 
 .tt-menu {
   text-align: left;
+  /* Dropdown menu (https://github.com/twitter/typeahead.js/issues/1301) */
+  max-height: 150px;
+  overflow-y: auto;
 }
 
 .text-muted {

@@ -19,6 +19,7 @@ TypeaheadHelper.prototype.action = function () {
     display: function(obj) {
       return obj.en;
     },
+    limit: 100,
     templates: {
       suggestion: this.suggestion
     }
