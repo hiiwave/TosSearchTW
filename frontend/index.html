@@ -24,9 +24,12 @@
     <form class="form-signin">
       <img class="mb-4" src="img/search1.png" alt="" width="72" height="72">
       <h1 class="h3 mb-3 font-weight-normal">Tos Search</h1>
-      <div id="loader"></div>
-      <div id="tosquery" style="display:none;" class="input-group">
-        <input id="search-content" class="typeahead form-control" type="text"
+      <!-- <div id="tosquery" style="display:none;" class="input-group"> -->
+      <div id="tosquery" class="input-group">
+        <span id="loader"></span>
+        <!-- <input id="search-content" class="typeahead form-control" type="text"
+               disabled="true" placeholder="Popolion / 波波小獅王"> -->
+        <input id="search-content" class="typeahead form-control gray" type="text"
                placeholder="Popolion / 波波小獅王">
         <span class="input-group-btn">
           <button id="search" class="btn btn-outline-success" type="button">Search</button>

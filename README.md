@@ -42,7 +42,7 @@ It seems to be a *typeahead.js* issue, see [this](https://github.com/twitter/typ
 
 
 ## Change Log:
-### 2018.3.8 (v0.21)
+### 2018.3.8 (v0.22)
 * Implement image thumbnails
 * Add Loader before loading completes
 

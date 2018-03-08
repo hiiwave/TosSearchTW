@@ -128,7 +128,8 @@ TosSearchMod.prototype.openpage = function (category, classID) {
 
 function showPage() {
   document.getElementById("loader").style.display = "none";
-  document.getElementById("tosquery").style.display = "block";
+  $("#tosquery input").prop('disabled', false);
+  $("#tosquery input").removeClass('gray');
 }
 
 var readyHelper = new ReadyHelper(function () {
@@ -140,6 +141,7 @@ var searchmod = new TosSearchMod();
 
 $(document).ready(function () {
   console.log("DOM ready!");
+  $("#tosquery input").prop('disabled', true);
   readyHelper.setReady('document');
 
   typeaheadHelper.action();
