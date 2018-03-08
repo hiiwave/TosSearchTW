@@ -4,11 +4,19 @@
   TypeaheadHelper
 ----------------*/
 var TypeaheadHelper = function() {
-  this.items_en = new Bloodhound({
+  let engine = new Bloodhound({
     datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['en', 'tw']),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     identify: function (obj) { return obj.ClassID; },
-    prefetch: 'data/result_list.json'
+    prefetch: 'data/result_list.json',
+    initialize: false
+  });
+  this.items_en = engine;
+  var promise = engine.initialize();
+  promise.done(function() {
+    console.log("typeahead ready");
+  }).fail(function() {
+    console.log("typeahead error");
   });
 };
 
@@ -88,7 +96,7 @@ var typeaheadHelper = new TypeaheadHelper();
 var searchmod = new TosSearchMod();
 
 $(document).ready(function () {
-  console.log("ready!");
+  console.log("DOM ready!");
   typeaheadHelper.action();
 
   $('.typeahead').bind('typeahead:select', function (ev, suggestion) {

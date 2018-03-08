@@ -1,5 +1,5 @@
 ## Part 3: Frontend (`frontend/`)
-The web interface of this gadget. Implemented by [typeahead.js](https://github.com/twitter/typeahead.js).
+The web interface of this gadget. Implemented by [typeahead.js](https://github.com/corejavascript/typeahead.js).
 
 
 ### Usage:

@@ -29,7 +29,7 @@ Merge scraped data, append zh-tw language, and export a lookup table. Implemente
 The language mapping file is exported from project [Tos-Translator](https://github.com/hiiwave/Tos-Translater).
 
 3. [Frontend (`frontend/`)](./frontend/):
-The web interface of this gadget. Implemented by [typeahead.js](https://github.com/twitter/typeahead.js).
+The web interface of this gadget. Implemented by [typeahead.js](https://github.com/corejavascript/typeahead.js).
 
 Please refer to `README.md` in these subfolders for more details.
 
