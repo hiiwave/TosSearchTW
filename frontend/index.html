@@ -12,6 +12,7 @@
     <link href="css/typeahead.css" rel="stylesheet">
     <link href="css/signin.css" rel="stylesheet">
     <link href="css/stylesheet.css" rel="stylesheet">
+    <link href="css/loader.css" rel="stylesheet">
     <script src="js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/typeahead.bundle.js"></script>
@@ -23,7 +24,8 @@
     <form class="form-signin">
       <img class="mb-4" src="img/search1.png" alt="" width="72" height="72">
       <h1 class="h3 mb-3 font-weight-normal">Tos Search</h1>
-      <div id="tosquery" class="input-group">
+      <div id="loader"></div>
+      <div id="tosquery" style="display:none;" class="input-group">
         <input id="search-content" class="typeahead form-control" type="text"
                placeholder="Popolion / 波波小獅王">
         <span class="input-group-btn">

@@ -1,6 +1,33 @@
 /*jshint esversion: 6 */
 
 /* --------------
+  ReadyHelper
+----------------*/
+class ReadyHelper {
+  constructor(callback) {
+    this.readys = {
+      typeahead: false,
+      dictionary: false,
+      dictionary_en: false,
+      document: false
+    };
+    this.callback = callback;
+  }
+  setReady(id) {
+    this.readys[id] = true;
+    this.checkReady();
+  }
+  checkReady() {
+    let allready = true;
+    $.each(this.readys, function (index, value) {
+      allready &= value;
+    }); 
+    if (allready) this.callback();
+  }
+}
+
+
+/* --------------
   TypeaheadHelper
 ----------------*/
 var TypeaheadHelper = function() {
@@ -14,6 +41,7 @@ var TypeaheadHelper = function() {
   this.items_en = engine;
   var promise = engine.initialize();
   promise.done(function() {
+    readyHelper.setReady('typeahead');
     console.log("typeahead ready");
   }).fail(function() {
     console.log("typeahead error");
@@ -58,11 +86,13 @@ var TosSearchMod = function () {
 TosSearchMod.prototype.readData = function(self) {
   $.getJSON("data/tables_en.json", function (data) {
     console.log("Dictionary loaded");
+    readyHelper.setReady('dictionary');
     // Cannot use this here due to jQuery
     self.dictionary = data;
   });
   $.getJSON("data/tables_tw.json", function (data) {
     console.log("Dictionary-tw loaded");
+    readyHelper.setReady('dictionary_en');
     self.dictionary_tw = data;
   });
 };
@@ -92,17 +122,26 @@ TosSearchMod.prototype.openpage = function (category, classID) {
   main
 ----------------*/
 
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("tosquery").style.display = "block";
+}
+
+var readyHelper = new ReadyHelper(function () {
+  console.log("ALL READY");
+  showPage();
+});
 var typeaheadHelper = new TypeaheadHelper();
 var searchmod = new TosSearchMod();
 
 $(document).ready(function () {
   console.log("DOM ready!");
-  typeaheadHelper.action();
+  readyHelper.setReady('document');
 
+  typeaheadHelper.action();
   $('.typeahead').bind('typeahead:select', function (ev, suggestion) {
     searchmod.search(suggestion.en);
   });
-
   $('#search').click(function () {
     let val = $('#search-content').val();
     val = val.replace(/\b\w/g, l => l.toUpperCase());
@@ -117,12 +156,11 @@ $(document).ready(function () {
       }
     });
   });
-
-  tippy('.tippy');
-
   // Listen to Enter Key
   // Use 'keypress' instead of 'keyup' to avoid Chinese input issue (wbkuo.pixnet.net/blog/post/191525544-[javascript]-解決使用新注音輸入時選字按-enter-)
   $('.typeahead').on('keypress', function (e) {
     if (e.which == 13) $('#search').trigger('click');
   });
+  
+  tippy('.tippy');
 });
