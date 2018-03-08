@@ -17,3 +17,7 @@
 .text-muted a {
   color: inherit;
 }
+
+.text-muted img.dim {
+  opacity: 0.6;
+}
