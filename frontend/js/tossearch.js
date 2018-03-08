@@ -65,7 +65,11 @@ TypeaheadHelper.prototype.action = function () {
 TypeaheadHelper.prototype.suggestion = function(data) {
   input_val = $('#search-content').val();
   let hasChinese = /[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]/.test(input_val);
-  let imgstr = '<img src="https://tos.neet.tv' + data.img + '" width="18" height="18"> ';
+  let imgstr = data.img;
+  if (!(imgstr.length >= 10 && imgstr.substr(0, 10) == 'thumbnails')) {
+    imgstr = 'https://tos.neet.tv' + data.img;
+  }
+  imgstr = '<img src="' + imgstr + '" width="18" height="18"> ';
   let lang1 = hasChinese ? data.tw: data.en;
   let lang2 = hasChinese ? data.en : data.tw;
   lang1 = '<strong>' + lang1 + '</strong>';
@@ -141,6 +145,7 @@ $(document).ready(function () {
   typeaheadHelper.action();
   $('.typeahead').bind('typeahead:select', function (ev, suggestion) {
     searchmod.search(suggestion.en);
+    $('#notfound-indicator').html('');
   });
   $('#search').click(function () {
     let val = $('#search-content').val();
@@ -150,7 +155,6 @@ $(document).ready(function () {
     }, function cb_fail() {
       if ($(".tt-suggestion").length) {
         $(".tt-suggestion").first().trigger('click');
-        $('#notfound-indicator').html('');
       } else {
         $('#notfound-indicator').html('Not Found');
       }

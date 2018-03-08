@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from pathlib import Path
 
 
@@ -13,11 +14,25 @@ class NeetReader():
             path = self.path_neet / (name + '.json')
             df = pd.read_json(path, orient='records')
             df = df.rename({'Name or Alias': 'Name'}, axis='columns')
-            if 'img' not in df:
-                df['img'] = ""
+            self.addimg(df, name)
             df['category'] = name
             neettables[name] = df
         return neettables
+
+    def addimg(self, df, name):
+        if 'img' in df:
+            return
+        assert name in ['zones', 'npcs']
+        if name == 'zones':
+            df['img'] = "thumbnails/zones.png"
+        elif name == 'npcs':
+            conditions = [
+                df['Rank'] == 'Boss',
+                df['Rank'] == 'NPC'
+            ]
+            choices = ['thumbnails/boss.png', 'thumbnails/person.png']
+            df['img'] = np.select(conditions, choices,
+                                  default='thumbnails/mon.png')
 
 
 class DictionaryGenerator():
@@ -61,12 +76,15 @@ class DictionaryGenerator():
         self.export_table(result_table, output)
 
     def export_table(self, result, output):
-        self.to_json(result, Path(output) / 'result_list.json',
+        self.to_json(result,
+                     Path(output) / 'result_list.json',
                      orient='records')
         tables_en = result.set_index('en')
+        tables_en = tables_en[['ClassID', 'category']]
         self.to_json(tables_en, Path(output) / 'tables_en.json',
                      orient='index')
         tables_tw = result.set_index('tw')
+        tables_tw = tables_en[['ClassID', 'category']]
         self.to_json(tables_tw, Path(output) / 'tables_tw.json',
                      orient='index')
 
