@@ -3,6 +3,19 @@
   color: red;
 }
 
+.input-group {
+  /* Center buttons */
+  /* https://stackoverflow.com/questions/22578853/how-to-center-buttons-in-twitter-bootstrap-3 */
+  margin:auto;
+  display:block;
+  /* vertical alignment */
+  /* https://stackoverflow.com/questions/19461521/how-to-center-an-element-horizontally-and-vertically */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
 .tt-menu {
   text-align: left;
   /* Dropdown menu (https://github.com/twitter/typeahead.js/issues/1301) */
