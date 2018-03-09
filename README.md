@@ -42,9 +42,10 @@ It seems to be a *typeahead.js* issue, see [this](https://github.com/twitter/typ
 
 
 ## Change Log:
-### 2018.3.8 (v0.23)
+### 2018.3.8 - 3.9 (v0.2.4)
 * Implement image thumbnails
 * Add Loader at the right side before loading completes
+* Vertical/ Horizontal align UI elements
 
 ### 2018.3.7 (v0.2 Released)
 * Integrate more data categories, including npcs, zones, skills, and attributes
