@@ -1,8 +1,4 @@
 副本,任務追加進場1次	+1 extra instance entry for missions and dungeons	인던,미션 1회 추가입장
-魔法賦予卷軸10個寶箱	10x Enchant Scroll Box	마법 부여 스크롤 10개 상자
-擴音器10個寶箱	10x Megaphone Box	확성기 10개 상자
-怪物卡片冊箱子	Monster Card Album Box	몬스터 카드첩 상자
-生存獎勵魔方	Cursed Doll Cube	생존 보상 큐브
 家門的榮光 1階段	Hunter's Buff - 1	가문의 영광 1단계
 家門的榮光 2階段	Hunter's Buff - 2	가문의 영광 2단계
 家門的榮光 3階段	Hunter's Buff - 3	가문의 영광 3단계
@@ -10,8 +6,53 @@
 家門的榮光 5階段	Hunter's Buff - 5	가문의 영광 5단계
 少女的心意	Box of Chocolates	소녀의 마음
 冬季將盡	Last Winter Buff	마지막 겨울 버프
+閃亮的戰鬥鴉雀蛋	Shining Battlebird Egg	빛나는 전투 뱁새 알
+生存獎勵魔方	Cursed Doll Cube	생존 보상 큐브
 冬季鑰匙	Winter Key	겨울 열쇠
 冰錐(14天)	Icicle (14 Days)	고드름(14일)
+怪物卡片冊箱子	Monster Card Album Box	몬스터 카드첩 상자
+魔法賦予卷軸10個寶箱	10x Enchant Scroll Box	마법 부여 스크롤 10개 상자
+擴音器10個寶箱	10x Megaphone Box	확성기 10개 상자
+閃亮的戰鬥鴉雀禮包	Shining Battlebird Egg Package	빛나는 전투 뱁새 패키지
+閃亮的企鵝禮包	Shining Penguin Egg Package	빛나는 펭귄 패키지
+金庫	Vault	금고
 冬季企鵝活動	Last Winter	마지막 겨울 이벤트
 獲得冬季企鵝活動BUFF	Receive Last Winter Buff	마지막 겨울 버프 받기
 獲得冬季企鵝活動禮物	Receive Last Winter Gift	마지막 겨울 선물 받기
+紅利魔方	Bonus Cube	보너스 큐브
+活動 BUFF	Event Buff	이벤트 버프
+[活動]第一個啟示	[Event] Crystal Mine Revelation	[이벤트]첫번째 계시
+稱號 - [EVENT]Crystal Mine Revelation	Title - Crystal Mine Revelator	칭호 - [EVENT]Crystal Mine Revelation
+獲得稱號	Receive Title	칭호 받기
+獲得BUFF	Receive Buff	버프 받기
+佩迪米安守護魔方	Fedimian's Hero Cube	페디미안 수호 큐브
+特性點數箱 S級 (3個)	Attribute Points Box Rank S (x3)	특성 포인트 상자 S급 (3개)
+匠人的鑽石鐵砧箱	Artisan Diamond Anvil Box	장인의 다이아몬드 모루 상자
+匠人的武器秘密製作書-艾布都查單手劍	Artisan Secret Recipe - Abdochar	장인의 비밀 제작서-아브도챠
+匠人的武器秘密製作書-薩克米斯	Artisan Secret Recipe - Sarkmis	장인의 비밀 제작서-사크미스
+匠人的武器秘密製作書-斯寇史梅修	Artisan Secret Recipe - Skull Smasher	장인의 비밀 제작서-스컬 스매셔
+匠人的武器秘密製作書-里加德角法杖	Artisan Secret Recipe - Regard Horn Staff	장인의 비밀 제작서-리가드 혼 스태프
+匠人的武器秘密製作書-榮耀之心	Artisan Secret Recipe - Heart of Glory	장인의 비밀 제작서-하트 오브 글로리
+匠人的武器秘密製作書-骷髏粉碎者	Artisan Secret Recipe - Skull Breaker	장인의 비밀 제작서-스컬 브레이커
+匠人的武器秘密製作書-艾蒙加德匕首	Artisan Secret Recipe - Emengard Dagger	장인의 비밀 제작서-에멘가드 대거
+匠人的武器秘密製作書-云夏德矛槍	Artisan Secret Recipe - Wingshard Spear	장인의 비밀 제작서-윙샤드 스피어
+匠人的武器秘密製作書-里加德角長槍	Artisan Secret Recipe - Regard Horn Pike	장인의 비밀 제작서-리가드 혼 파이크
+匠人的武器秘密製作書-黑色魂魄	Artisan Secret Recipe - Black Horn	장인의 비밀 제작서-블랙 혼
+匠人的武器秘密製作書-里加德角十字弓	Artisan Secret Recipe - Regard Horn Crossbow	장인의 비밀 제작서-리가드 혼 크로스보우
+匠人的武器秘密製作書-阿斯特拉弓	Artisan Secret Recipe - Astra Bow	장인의 비밀 제작서-아스트라 보우
+匠人的武器秘密製作書-亞斯帕娜左輪手槍	Artisan Secret Recipe - Aspana Revolver 	장인의 비밀 제작서-아스파나 리볼버
+匠人的武器秘密製作書-艾蒙加德重砲	Artisan Secret Recipe - Emengard Cannon	장인의 비밀 제작서-에멘가드 캐논
+匠人的武器秘密製作書-艾蒙加德火槍	Artisan Secret Recipe - Emengard Musket	장인의 비밀 제작서-에멘가드 머스킷
+匠人的武器秘密製作書-艾蒙加德之盾	Artisan Secret Recipe - Emengard Shield	장인의 비밀 제작서-에멘가드 실드
+大師名冊	List of Invited Masters	마스터 명단 리스트
+活動傳送卷軸 - 2週年活動開始	Start 2nd Anniversary Event	이벤트 워프 주문서 - 2주년 이벤트 시작
+2週年臂環	Steam 2nd Anniversary Arm Band	스팀 2주년 암밴드
+繽紛城市活動參與中	Rainbow Trek	비비드 시티 참여 중
+受詛咒之魂使用者	Cursed Spirit Owner	저주받은 혼 사용자
+受詛咒之魂	Cursed Spirit	저주받은 혼
+從某地傳來的聲音	Voice in the Distance	어디선가 들려오는 목소리
+2018 雷堤夏寶箱(8月)	2018 Leticia's Treasure Chest (Season 1)	2018 레티샤의 보물 상자(시즌1)
+2018 雷堤夏寶箱(9月)	2018 Leticia's Treasure Chest (Season 2)	2018 레티샤의 보물 상자(시즌2)
+Mongo DB上是否會使用特定系統訊息儲存/log功能	Use Mongo DB system message save/load function Y/N	몽고 db에 특정 시스템 메시지 저장/로드 기능 사용할 것인지
+2018 雷堤夏寶箱(10月)	2018 Leticia's Treasure Chest (Season 3)	2018 레티샤의 보물 상자(시즌3)
+您要選擇獲得參與10次的獎勵嗎？	Would you select a 10-time participation reward?	받으실 10회 참여 횟수 보상을 선택해 주시겠어요?

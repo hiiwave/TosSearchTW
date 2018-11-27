@@ -1,5 +1,8 @@
 瓦卡麗涅女神像	Statue of Goddess Vakarine	여신 바카리네의 상
 選擇	Select	선택
+你對什麼事情好奇呢？	What do you want to know? 	어떤 것이 궁금하신가요?
+克里斯蒂娜	Cristina	크리스티나
+圖拉斯	Toras	토라스
 選擇群組	Select Group	그룹 선택
 選擇地區	Select Zone	존 선택
 轉職選擇	Select Advancement	전직 선택
@@ -7,25 +10,99 @@
 女神拉伊瑪	Goddess Laima	여신 라이마
 威廉	William	윌리엄
 坎伯萊	Cyneburg	캔버그
+精髓變換器	Essence Purifier	정수 변환기
+使用火焰結晶	Use Fire Crystal	화염 결정 사용
+選擇要召喚的我軍	Select Ally to Summon	소환할 아군 선택
+選擇要移動得我軍位置	Select Destination for Ally	이동할 아군 위치 선택
+地區移動	Move Zone	지역이동
 流浪商人	Wandering Merchant	방랑 상인
-克里斯蒂娜	Cristina	크리스티나
+活動獎勵支援兵	Event Reward Volunteer	이벤트 보상 지원병
+活動小幫手	Event Helper	이벤트 도우미
+傳達員蘭達	Receptionist Ramda	접수원 람다
+傳達員利安	Receptionist Liam	접수원 리암
+馬上前往嗎？	Do you want to go?	바로 가실건가요?
+廢墟遺跡地	Historic Site Ruins	폐허 유적지
+針刺藤蔓森林	Thorny Vines Forest Dungeon	가시 덩굴 숲
+傾倒的宅邸	Collapsed Residential Quarters	무너진 저택가
+深處的地下監獄	Deep Underground Prison	깊숙한 지하감옥
+心願的碑石路	Demon Prison Guild	염원의 비석로
+要馬上去找大師 NPC 嗎？	Do you want to move to the Master NPC?	마스터 NPC에게 바로 이동하시겠습니까?
+要前往邪靈祭司大師的家嗎？	Do you want to move to the Bokor Master's Home?	보코르 마스터의 집으로 이동하시겠습니까?
+要前往高地戰士大師的家嗎？	Do you want to move to the Highlander Master's Training Hall?	하이랜더 마스터의 도장으로 이동하시겠습니까?
+要前往烈焰術士大師的家嗎？	Do you want to move to the Pyromancer Master's Lab?	파이로맨서 마스터의 연구실로 이동하시겠습니까?
 選擇任務	Select Quest	퀘스트 선택
 變更任務狀態	Modify Quest Status	퀘스트 상태변경
 強制開始？	Force start?	강제 시작?
 要刪除的道具	Items to be deleted	삭제할 아이템
 選擇GenType 	Select GenType	GenType 선택
 選擇座標	Select Coordinates	좌표 선택
+要轉職7階級嗎？	Advance to 7th Rank?	7랭크로 전직하시겠습니까?
+巴力斯	Valis	발리스
+赫奴利卡	Henrika	헤느리카
+普羅亞那	Florianna	플로아나
+雷那	Lena	레나
+拉希亞	Rosia	라시아
+用什麼東西跟你交換呢？	What will you trade these for?	어떤 걸로 교환해드릴까요?
+需要幾個？	How many do you need?	몇 개가 필요하신가요?
+魔族掃蕩募集員	Demon Hunt Recruiter	마족 소탕 모집원
+鑑定師 桑德拉	Identifier Sandra	감정사 산드라
+詢問內容	Question Content	질문내용
+瓦卡麗涅的奎波爾	Vakarine's Kupole	바카리네의 큐폴
+澤米娜的奎波爾	Zemyna's Kupole	제미나의 큐폴
+警告文	Warning	경고문
+重置支援奎波爾	Reset Helper Kupole	초기화 지원 큐폴
+海賊團員	Pirate	해적 단원
+海賊大師	Corsair Master	커세어 마스터
+鐵匠杰羅斯	Blacksmith Zaras	대장장이 자라스
+黃金之歌傭兵團員	Golden Note Mercenary	황금노래 용병단원
+拿到確認書了嗎？	Do you have the certificates?	확인증을 받아오셨나요?
+飾品商人羅奈沙	Accessory Merchant Ronesa	악세서리 상인 로네사
+裝備商人鄧凱爾	Equipment Merchant Dunkel	장비 상인 던켈
+雜貨商人米利娜	Item Merchant Mirina	잡화 상인 미리나
+拍賣場管理員羅吉	Market Manager Logi	마켓 관리인 로지
+倉庫管理員力塔	Storage Keeper Rita	창고지기 리타
+你是新的祭司嗎？	Are you a new priest?	자네는 새로운 사제인가?
+武僧祭司	Monk	몽크 사제
+氣球活動小幫手	Popolion Mascot	풍선 이벤트 도우미
+玩具活動小幫手	Tuxedo Cat	장난감 이벤트 도우미
+今天送什麼禮物好呢？	What will it be today?	오늘은 어떤 선물을 드릴까요?
+雙酬傭兵大師	Doppelsoeldner Master	도펠죌트너 마스터
+你說想要加入我們傭兵團？	Are you saying you want to join us?	우리 용병단에 들어 오고 싶다고?
+刀刃誓約傭兵團員	Pledge of the Blade Mercenary	칼날서약 용병단원
+與我們刀刃誓約傭兵團員合作如何？	So you wanna join the Pledge of the Blade?	우리 칼날서약 용병단과 함께하는 건 어때?
+職業解除券	Class Unlock Voucher	클래스 해금권
+刀刃誓約傭兵團 調查員	Pledge of the Blade Investigator	칼날서약 용병단 조사원
 騎士 堤塔斯	Knight Titas	기사 티타스
+發送獎勵	Give Reward	보상 지급
+他們說是從東邊森林帶回來的暗號文呢。	Is this the cryptogram your brought from the East Woods?	동쪽 숲에서 가지고 오신 암호문이라고요.
+你說這把弓是在凱利高原發現的？	Are you saying you found this arrowhead in Gele Plateau?	이 화살촉이 겔리 고원에서 발견되었던 것이라고?
+痕跡	Traces	흔적
+尤拉泰的奎波爾	Jurate's Kupole	유라테의 큐폴
+確認獎勵	Check Rewards	보상 확인
+活動佈告欄	Event Notice Board	이벤트 알림판
+這種活動小幫手	Event Helper	이런 이벤트 도우미
+今天得到了 	Today 	오늘은 
+這種活動	this event	이런 이벤트
+目前為了幫助新來的救援者， 	I'm giving new Saviors the  	새로 오신 구원자분들을 성장을 도우려고 
+只有330級以下 	You can only receive the  	330레벨 이하에서만 
+邀請活動小幫手	Invitation Event Helper	초대 이벤트 도우미
+選擇套裝	Select Costume	코스튬 선택
+拉伊瑪的奎波爾	Laima's Kupole	라이마의 큐폴
+萬聖節稻草人	Scaredy Scarecrow	할로윈 허수아비
+重置支援小幫手	Reset Helper	초기화 지원 도우미
+網鬥士大師	Retiarius Master	레티아리이 마스터
+雷堤夏的聖誕禮物	Leticia's Christmas Gift	레티샤의 성탄 선물
+要幫忙您嗎?	What can I do for you?	무엇을 도와드릴까요?
+修女雅伊斯特	Sister Aiste	수녀 아이스테
+修女拉薩	Sister Lhasa	수녀 라사
+支援初級防守活動	Starter Defense Event Guide	초급 디펜스 이벤트 지원
+支援中級防守活動	Medium Defense Event Guide	중급 디펜스 이벤트 지원
 士兵 穆迪	Soldier Moody	병사 무디
 聯合調查團 史考特	Joint Investigation Team - Scott	합동조사단 스캇
-這些到底是什麼？	What in the world do you call this?	이게 다 도대체 뭐랍니까.
-雷那	Lena	레나
-赫奴利卡	Henrika	헤느리카
 佈告欄	Bulletin Board	알림판
 淡定的未亡人	Indifferent Widow	담담한 미망인
 休息中的士兵	Resting Soldier	휴식중인 병사
 夏奧雷伊警備兵	Siauliai Guard	샤울레이 경비병
-4年前的神樹之日，他們也沒有回應我們的祈禱，不是嗎？	Isn't it true that the goddesses haven't responded to any of our prayers since Medzio Diena four years ago?	4년 전의 신수의 날에도 우리들의 기도에 아무런 응답이 없으셨잖아요?
 東方森林警戒兵	Eastern Woods Sentinel	동쪽 숲 경계병
 安全守則	Safety Instructions	안전 수칙
 補給基地士兵	Supply Base Soldier	보급기지 병사
@@ -33,14 +110,14 @@
 柯拉佩達警備兵隊長	Klaipeda Guard Captain	클라페다 경비병 대장
 柯拉佩達少女	Klaipeda Girl	클라페다 소녀
 柯拉佩達貴婦人	Klaipeda Lady	클라페다 귀부인
-重裝步兵大師	Hoplite Master	하플라이트 마스터
 機械工匠	Machine Worker	기계 제작 장인
 隱退的獵人	Retired Hunter	은퇴한 사냥꾼
 做陶器的老人	Old Potter	도자기 빚는 노인
-雙酬傭兵大師	Doppelsoeldner Master	도펠죌트너 마스터
-海賊大師	Corsair Master	커세어 마스터
 岩石	Boulder	바위
 魔法研究資料	Magical Research Material	마법 연구 자료
+修道士洛希	Monk Lotze	수도사 로체
+修道士金塔斯	Monk Zidas	수도사 지다스
+修道士歐洛泰卡	Monk Ortega	수도사 오르테가
 不知名盜賊的碑石	Forgotten Thief's Monument	이름 모를 도둑의 비석
 教訓的碑石	Commanding Monument	교훈의 비석
 魔王傑斯堤	Demon Queen Gesti	마왕 제스티
@@ -56,23 +133,17 @@
 現在該做什麼呢？	So what do I do now?	이제 뭘 해야하지?
 是這裡沒錯嗎？	Is this the right place?	여기가 맞아?
 說明中	Explaining	설명 중
-盜墓者胡貝爾塔斯	Grave Robber Hubertas	도굴꾼 후베르타스
-盜墓者班賈米那斯	Grave Robber Benjaminas	도굴꾼 벤자미나스
 某市民的日記	A Citizen's Journal	어느 시민의 일기
 某哨兵的日記	A Sentry's Report	어느 파수병의 일지
 某商人的日記	A Trader's Log	어느 상인의 일기
 某將校的紀錄	An Officer's Record	어느 장교의 기록
-寒冰法師科斯塔斯	Cryomancer Kostas	크리오맨서 코스타스
-盜墓者魯特爾巴斯	Grave Robber Rudolfas	도굴꾼 루돌파스
 王國軍將校的紀錄	A Royal Officer's Record	왕국군 장교의 기록
 都市居民的紀錄	Townsperson's Document	도시 주민의 기록
 王國軍行政官的紀錄	Army Official's Report	왕국군 행정관의 기록
 市民的紀錄	Citizen's Record	시민의 기록
-盜墓者斯提波納斯	Grave Robber Stephonas	도굴꾼 스테포나스
-王國軍羅普戴爾	Royal Army Guard Rofdel	왕국군 로프델
-邪靈祭司艾提達	Bokor Edita	보코르 에디타
-鍊金術士莎莉亞莫納斯	Alchemist Saliamonas	알케미스트 살리아모나스
-盜墓者阿曼達	Grave Robber Amanda	도굴꾼 아만다
+王國宣戰文	Propaganda of the Kingdom	왕국 선전물
+叛亂軍的紀錄	Records of the Rebel Army	반란군의 기록
+王國軍入伍宣傳	Royal Army Recruit Propaganda	왕국군 입대 선전
 快速移動	High Speed Movement	쾌속 이동
 被撕掉的信件	Torn Letter	찢어진 편지
 休假中的補給兵	Off-duty Supply Trooper	휴가중인 보급병
@@ -83,49 +154,51 @@
 感性的貓頭鷹	Sensitive Owl	감성적인 부엉이
 士兵彼得	Soldier Pitt	병사 피트
 士兵布蘭	Soldier Bran	병사 브란
-訓練兵莫爾特	Training Soldier Malt	훈련병 몰트
 指揮官賴伊蒙特斯	Commander Raimondas	지휘관 라이몬다스
 採藥者	Herb Broker	약초꾼
 有什麼事來找我嗎？	Do you need anything?	저에게 무슨 볼일이라도?
 教官尼克	Instructor Nicker	교관 닉커
 民間軍務員	Private Personnel	민간 군무원
-約克	York	요크
 攤販	Street Vendor	노점 상인
 碑文	Epitaph	비문
 通知	Notice	알림
 碑石	Gravestone	비석
 士兵的日記	A Diary of a Soldier	병사의 일지
+鐵匠安那	Blacksmith Anna	대장장이 안나
+飾品商人約亞那	Accessory Merchant Joana	악세서리 상인 요아나
 札卡里耶爾的勇猛守護者	Zachariel's Brave Protector	자카리엘의 용맹한 수호자
 札卡里耶爾的忠誠守護者	Zachariel's Faithful Protector	자카리엘의 충직한 수호자
 莉莉亞的回聲	Liliya's Echo	릴리야의 메아리
-那邊的草叢好像埋著什麼？	Is something buried under that grass?	저 풀더미에 뭔가 묻혀 있는 게 아닐까?
-瓦卡麗涅女神像	Statue of Goddess Vakarine	바카리네 여신상
-要選擇什麼情況呢？	Which way do you choose?	어느 경우를 선택하시겠습니까?
+被撕碎的紙條	Torn Letter	바스러져 가는 쪽지
 祝福的聖所	Sanctum of Blessings	축복의 성소
+瓦卡麗涅女神像	Statue of Goddess Vakarine	바카리네 여신상
 要捐獻嗎？	Are you going to make a contribution?	헌금 하시겠습니까?
-真的有藥效嗎？	Does the medicine really work?	약효가 정말 있는 건가?
+被撕破的日記	Ripped Diary	찢어진 일기
+最後的紀錄	Last Record	마지막 기록
+被丟棄的日記本	Abandoned Diary	버려진 일기장
 聲音	Voice	목소리
 多慮的婦人	Worried Wife	걱정 많은 부인
 老人的弟子	Disciple of the Elderly	노인의 제자
 佩迪米安中年婦人	Fedimian Old Lady	페디미안 중년 부인
 探險家巴奇斯的靈魂	Adventurer Varkis' Spirit	탐험가 바키스의 영혼
 崩塌公所	Crumbled Chapel	무너진 공소
+寶物箱子支援商人	Treasure Chest Merchant	보물 상자 지원상인
+髮飾選擇箱	Hair Accessory Selection Box	헤어 악세사리 선택 상자
 奇怪的女神像	Strange Goddess Statue	이상한 여신상
-訓練兵布蘭	Soldier Recruit Bran	훈련병 브란
+訓練兵莫爾特	Training Soldier Malt	훈련병 몰트
 訓練所長亞爾留斯	Training Manager Alius	훈련소장 알류스
-還沒有看到其他啟示者們嗎？{nl}	Have you not met other Revelators yet?	아직 다른 계시자들을 만난 적이 없으신가 보지요?{nl}
-雕刻的文字	Carved Writings	새겨진 글
 在充滿黑暗的地方，能讓你迎向光芒往前的，到底是什麼呢？	What makes you walk towards the light in a place full of darkness?	어둠으로 가득 찬 장소에서 빛을 향해 걸을 수 있게 만드는 것은 무엇인가.
 副官薛黎納	Aide de Camp Selina	부관 셀리나
 觀看者	Beholder	주시자
 警告板	Warning	경고판
+佩迪米安警備兵	Fedimian Guard	페디미안 경비병
 被束縛士兵靈魂	Trapped Soul of Soldier	속박된 병사 영혼
 好痛苦。	It's so painful	고통스럽습니다.
 憤怒的貓頭鷹雕像	Enraged Owl Statue	분노한 부엉이 조각상
 還有許多留戀的商人靈魂	Regretful Merchant's Soul	미련많은 상인 영혼
 沉睡的貓頭鷹雕像	Sleeping Owl Statue	잠든 부엉이 조각상
+已完成的巴奇斯研究資料	Varkis' Complete Research Materials	완성된 바키스의 연구 자료
 爆破兵路易那	Blaster Ruina	폭파병 루이나
-市場管理員	Market Manager	마켓 관리인
 求婚卡	Proposal Card	프로포즈 카드
 仁慈的爺爺	Benevolent Old Man	인자한 할아버지
 營業說明	Business Guide	영업 안내
@@ -133,433 +206,15 @@
 指南針	Compass	나침반
 請選擇情報。	Select Information	정보를 선택하세요.
 出入警告文	Warning	출입 경고문
-難民家族妻子	Wife of a Refugee Family	피난민 가족 아내
-難民家族的老婦	Old Man of a Refugee Family	피난민 가족의 노부
-朝聖者	Pilgrim	순례자
-佩迪米安工人	Fedimian Worker	페디미안 일꾼
-年老的陶瓷工匠	Old Potter	늙은 도공
-推車工人	Wagon Carrier	수레꾼
-佩迪米安警備兵	Fedimian Guard	페디미안 경비병
-王國旗	The Kingdom's Flag	왕국기
-千年祭的故事	Story of the Millenary	천년제 이야기
-祭禮全書	Festival Zensho	제례 전서
-神樹之日的紀錄	Records of Medzio Diena	신수의 날의 기록
-植物圖鑑	Flora	식물지
-柯拉佩達主教令公告文	Declaration of Klaipeda Priest-Bishop	클라페다 주교령 포고문
-英雄戰	Hero Biography	영웅전
-叛亂的歷史	History of the Rebellion	반란의 역사
-我們的朋友	Our Friend	우리의 친구
-柯拉佩達的女神像	Klaipeda Goddess Statue	클라페다의 여신상
-札卡里耶爾王陵的守護者	Guardian of Zachariel's Royal Mausoleum	자카리엘 왕릉의 수호자
-聖者梅伊班的見解	Maven's Opinion	성자 메이번의 견해
-火之女神加比婭	Goddess Gabija of Fire	불의 여신 가비야
-萬物的意志	Will of All Things	만물의 의지
-輕易學會的著火魔法	Elementary Fire Magic	쉽게 배우는 발화 마법
-亞佳伊拉弗羅里的日記	Agailla Flurry's Diary	아가일라 플러리의 일기
-時間魔法論註釋	Chronomancer Ron	시간 마법론 주석
-魔法的體系	The Pedigree of Magic	마법의 계보
-高階結界魔法調查報告書	The Report of the High Barrier Magic	고위 결계 마법 조사 보고서
-魔力的理解	The Understanding of Mana	마나의 이해
-安塔列斯的研究日記1卷	The Diary of Antares' Investigation	안타레스의 연구 일지 1권
-陶瓷工匠的泥板	Potter's Clay Tablet	도공의 점토판
-某個少女的泥板	Girl's Clay Tablet	어느 소녀의 점토판
-指揮官威利斯的泥板	Commander Willis' Clay Tablet	지휘관 윌리스의 점토판
-柯拉佩達農夫的泥板	Klaipeda Farmer's Clay Tablet	클라페다 농부의 점토판
-某個士兵的泥板	Soldier's Clay Tablet	어느 병사의 점토판
-遊俠大師的泥板	Ranger Master's Clay Tablet	레인저 마스터의 점토판
-庫班的泥板	Coben's Clay Tablet	코벤의 점토판
-凱賓的泥板	Kevin's Clay Tablet	케빈의 점토판
-烏斯卡的泥板	Uska's Clay Tablet	우스카의 점토판
-法師大師的泥板	Wizard Master's Clay Tablet	위저드 마스터의 점토판
-寫著心願的泥板	Clay Tablet with a wish in it	소원을 적은 점토판
-堤塔斯的泥板	Titas' Clay Tablet	티타스의 점토판
-聖殿十字軍大師的泥板	Paladin Master's Clay Tablet	팔라딘 마스터의 점토판
-希瑞尼亞歐德的泥板	Cyrenia Odell's Clay Tablet	시레니아 오델의 점토판
-某個朝聖者的泥板	Pilgrim's Clay Tablet	어느 순례자의 점토판
-某個魔法師的泥板	Wizard's Clay Tablet	어느 마법사의 점토판
-札卡里耶爾的碎片	Zachariel's Fragment	자카리엘의 파편
-泰斯拉的第一個碎片	Tesla's First Fragment	테슬라의 첫 번째 파편
-泰斯拉的第二個碎片	Tesla's Second Fragment	테슬라의 두 번째 파편
-泰斯拉的第三個碎片	Tesla's Third Fragment	테슬라의 세 번째 파편
-泰斯拉的第四個碎片	Tesla's Fourth Fragment	테슬라의 네 번째 파편
-梅伊班的碎片	Maven's Fragment	메이번의 파편
-露克立斯的碎片	Ruklys' Fragment	루클리스의 파편
-利迪亞夏班的碎片	Lydia Schaffen's Fragment	리디아 샤펜의 파편
-亞佳伊拉弗羅里的碎片	Agailla Flurry's Fragment	아가일라 플러리의 파편
-普利米歐艾米諾特的碎片	Premier Eminent's Fragment	프리미어 에미넌트의 파편
-國王卡杜梅爾的碎片	King Kadumel's Fragment	국왕 카듀멜의 파편
-琳卡烏達斯的碎片	Rimgaudas' Fragment	림가우다스의 파편
-路西德溫特史普恩的碎片	Lucid Winterspoon's Fragment	루시드 윈터스푼의 파편
-書櫃	Book Shelf	책장
-陶器	Pot	도자기
-休息的重要性	Importance of Rest	휴식의 중요성
-奧斯特雅女神	Goddess Austeja	아우스테야 여신
-膽小的青年	Coward	겁쟁이 청년
-調查員	Investigation Unit	조사단원
-到底為什麼怪物會這樣增加呢?	Why have so many more monsters appeared?	대체 몬스터가 왜 이렇게 늘어난 걸까?
-賣花的大嬸	Flower Shop Lady	꽃 파는 아주머니
-警告文	Warning	경고문
-柯拉佩達中央廣場	Klaipeda Central Plaza	클라페다 중앙광장
-標示牌	Signboard	표지판
-夏奧雷伊東邊森林	East Siauliai Woods	샤울레이 동쪽 숲
-休業公告	Holiday Notice	휴무 공지
-札卡里耶爾王的意志	King Zachariel's Will	자카리엘 왕의 의지
-募兵公告	Soldier Recruitment Notice	병사 모집 알림
-教堂書桌	Chapel Table	성당 책상
-刻在祭壇上的文句	Writings on the Altar	제단에 새겨진 글귀
-梅伊班的裝置	Maven's Device	메이번의 장치
-藍色朋德爾	Blue Pawndel	푸른 폰델
-為什麼會這樣?	What is it?	뭐 때문에 그래?
-黑色朋德爾	Black Pawnd	검은 폰드
-可以相信你說的話嗎?	Can I trust you?	네 말 믿어도 돼?
-那柯堤斯	Naktis	나크티스
-大教堂啟示	Cathedral revelation	대성당 계시
-啟示解說內容。	Interpretation of the revelation	계시 해석 내용.
-拉伊瑪	Laima	라이마
-紅色寶珠	Red Marble	빨간색 구슬
-藍色寶珠	Blue Marble	파란색 구슬
-黃色寶珠	Yellow Marble	노란색 구슬
-綠色寶珠	Green Marble	초록색 구슬
-紫色寶珠	Purple Marble	보라색 구슬
-你找到最後的鑰匙了嗎？	Have you found the last key?	마지막 열쇠를 찾으셨습니까?
-警告	Warning	경고
-腐敗的食物	Spoiled Food	썩은 음식
-醃製食品	Preserved food	보존식
-酒	Liquor	술
-探索	Explore	탐색
-森林深處的驚異	Wonders of the Deep Forests	깊은 숲의 경이
-王國的廢都	Fallen City of the Kingdom	왕국의 폐도
-怪物誌	Monsters	괴물지
-夏奧雷伊產業公司	Siauliai Companies	샤울레이 산업사
-神學大戰	Summa Theologica	신학 대전
-坎寧安的傳說	Legend of Cunningham	커닝햄의 전설
-外科全書	Surgery Book Set	외과 전서
-王國旅行記	Kingdom Travelogue	왕국 여행기
-我的告白	My Confession	나의 고백
-讀書台	Reading Desk	독서대
-沒錯。你想說的話是什麼？	Do you have something to say?	그래. 하고 싶은 말은 뭔가.
-不知名的魔族	Unknown Demon	이름모를 마족
-委託佈告欄	Request Bulletin Board	의뢰 게시판
-職員布萊恩登	Employee Brendon	직원 브렌든
-(臨時)委託經理	(Temporary) Request Manager	(임시)의뢰매니저
-委託開始/結束選擇	Select Request Start/End	의뢰시작/종료 선택
-職員蘭達	Employee Ramda	직원 람다
-對象吉列姆	Great Merchant Gilliam	대상 길리엄
-要進行下個階段嗎？	Are you ready to start the next stage?	다음 단계를 시작 하시겠소?
-行政官	Officer	행정관
-171[農場地帶47]	171 [Farmland47]	171 [농장지대47]
-178[魔族監獄]	178 [Demon Prison]	178 [마족감옥]
-189[農場地帶49]	189 [Farmland49]	189 [농장지대49]
-196[魔族監獄54_1]	196 [Demon Prison54_1]	196 [마족감옥54_1]
-198[夏奧雷伊46]	198 [Siauliai46]	198 [샤울레이46]
-208[荊棘林39]	208 [Thorn Forest39]	208 [가시숲39]
-245[大地要塞]	245 [Fortress of the Land]	245 [대지의 요새]
-魔法師之塔的啟示	Revelation of Mage Tower	마법사의 탑의 계시
-柯拉佩達的賭徒	The Gambler of Klaipeda	클라페다의 내기꾼
-給騎士堤塔斯	Talk to Knight Titas	기사 티타스에게
-給偵查兵	Talk to the Scout	정찰병에게
-前往柯拉佩達的路	Road to Klaipeda	클라페다로 가는 길
-給戰鬥組長	Talk to the Battle Commander	전투 조장에게
-警戒兵的委託	Sentinel's Favor	경계병의 부탁
-無法稱心如意的	Not As Intended	뜻대로 되지 않는
-阿拉斯的委託	Aras' Commission	아라스의 의뢰
-補給兵的委託	Supply Soldier's Favor	보급병의 부탁
-石匠家族的藏寶地圖	Treasure Map of the Stonemason Family	석공가문의 보물지도
-探險家的委託	Adventurer's Favor	탐험가의 부탁
-探險家的日誌碎片	Incinerate the Adventurer's Journal	탐험가의 일지 소각
-追思他們	In Their Honor	그들을 추모하며
-勞心費神的任務[念力法師轉職]	Bothersome Mission [Psychokino Advancement]	신경 쓰이는 임무[사이코키노 전직]
-世上沒有的書[鎖鏈法師轉職]	Non-Existent Book [Linker Advancement]	세상에 없던 책[링커 전직]
-做賊心虛[工兵轉職]	Guilty Conscience [Sapper Advancement]	도둑이 제발[새퍼 전직]
-弓箭夢想的書1[獵人轉職]	Dream Book of the Bow 1 [Hunter Advancement]	활이 꿈꾸는 책1[헌터 전직]
-弓箭夢想的書2[弩箭手轉職]	Dream Book of the Bow 2 [Quarrel Shooter Advancement]	활이 꿈꾸는 책2[쿼렐슈터 전직]
-弓箭夢想的書3[弓箭手轉職]	Dream Book of the Bow 3 [Archer Advancement]	활이 꿈꾸는 책3[아처 전직]
-弓箭夢想的書4[遊俠轉職]	Dream Book of the Bow 4 [Ranger Advancement]	활이 꿈꾸는 책4[레인저 전직]
-花樣盾牌[高地戰士轉職]	Shield Over Flowers [Highlander Advancement]	꽃보다 방패[하이랜더 전직]
-有關誓約的道理[輕裝步兵轉職]	Duty of the Pledge [Peltasta Advancement]	맹약에 대한 도리[펠타스타 전직]
-寒鐵傳說[寒冰法師轉職]	Legend of the Cold Iron [Cryomancer Advancement]	한철의 전설[크리오맨서 전직]
-皇天不負苦心人[法師轉職]	Hard Work Does Not Betray [Wizard Advancement]	노력은 배신하지 않는다[위저드 전직]
-完美的聖水[牧師轉職]	Perfect Holy Water [Cleric Advancement]	완벽한 성수[클레릭 전직]
-造箭者的祕法[弩箭手轉職]	Secret of Fletchers [Quarrel Shooter Advancement]	플레쳐의 비법[쿼렐슈터 전직]
-佩迪米安的補給者[弓箭手轉職]	Completer of Fedimian [Archer Advancement]	페디미안의 보완자[아처 전직]
-佩迪米安的探詢者[遊俠轉職]	Investigator of Fedimian [Ranger Advancement]	페디미안의 탐문자[레인저 전직]
-謹慎行動[工兵轉職]	Careful Move [Sapper Advancement]	조심스런 행보[새퍼 전직]
-尋找模特兒[雕刻師轉職]	Finding the Model [Dievdirbys Advancement]	모델 찾기[딥디르비 전직]
-陽光普照的地方[烈焰法師轉職]	Where the Sun Shines [Pyromancer Advancement]	태양이 비출 자리[파이로맨서 전직]
-佩迪米安的守護者[法師轉職]	Guardian of Fedimian [Wizard Advancement]	페디미안의 수호자[위저드 전직]
-戰利品	War Trophy	전리품
-出現在天空中的恐怖	Fear from the Sky	하늘에서 나타난 공포
-失常的記錄官	Crazy Archivist	실성한 기록관
-札卡里耶爾之眼	Eyes of Zachariel	자카리엘의 눈
-士兵的珍貴物品	Soldier's Precious Belongings 	병사의 소중한 물건
-確保前往大王關口的路	Secure the Road to Gateway of the Great King	대왕의 관문으로 가는 길 확보
-永無止盡的任務	Unfinished Mission	끝나지 않는 임무
-毫無意義的名譽	Trivial Honor	부질없는 명예
-消失的研究員	Missing Researcher	사라진 연구원
-妨礙營業	Business Interference	영업 방해
-令人在意的失蹤	Worrisome Disappearances	신경쓰이는 실종
-新進王陵研究員的委託	New Researcher's Favor	신입 왕릉 연구원의 부탁
-尤那斯的藥	Jonas' Medicine	요나스의 약
-修理中央淨化裝置	Fix the Central Purifier 	중앙 정화장치 수리
-啟動通道淨化裝置	Activate the Passage Purifier	통로 정화장치 가동
-循環淨化裝置的問題	Circulation Purifier Issues	순환 정화장치의 문제
-終止運作的補助淨化裝置	Inoperable Auxiliary Purifier	작동을 멈춘 보조 정화장치
-破壞主淨化裝置的嫌犯	Destroyer of the Main Purifier	주 정화장치의 파괴범
-樹皮的秘密	Secret of the Tree Bark	나무껍질의 비밀
-翅膀碎片	Wing Fragment	날개 조각
-王家的封印	Seal of the Royal Family	왕가의 봉인
-招募傭兵	Recruiting Mercenaries	용병 모집
-永無止盡的委託	Unfinished Commission	끝나지 않은 의뢰
-關於薩厄加斯的情報	Information about Saugas	사우가스에 대한 정보
-探訪礦山村莊	Investigate the Miners' Village	광산마을 탐문
-礦山所長布林肯的獻身	Mine Manager Brinker's Dedication	광산 소장 브링커의 헌신
-治療師小姐的煩惱	Healer Lady's Worry	치유사 아가씨의 고민
-完成靈魂之力	Completing the Strength of Soul	영혼의 힘 완성
-迷戀的靈魂們	Reluctant Souls	미련많은 영혼들
-慰靈祭	Memorial Service	위령제
-危險的王座大蜘蛛	Dangerous Throneweaver	위험한 쓰론위버
-錯誤的救援	Wrong Salvation	잘못된 구원
-最後的任務	Last Mission	마지막 임무
-消失的部隊員	The Missing Troop	사라진 부대원
-補給部隊在何處	Where are the Supply Troops	보급부대는 어디에
-大根平原的災厄	Disaster of Big Horned Bee	큰뿌리 벌의 재앙
-確保補給道路	Secure Supply Route	보급로 확보
-掠奪者的殘黨	Remnants of the Thief	약탈자의 잔재
-安靜的森林	Forest of Silence	고요의 숲
-甕中之魂	Soul in a Jar	독 안에 든 영혼
-滲透森林的魔族	Demon Infected Forest	숲에 스며든 마족
-靈魂獵人	Soul Hunter	영혼 사냥꾼
-開啟關口	Barrier of Heat	관문 열기
-徘徊的靈魂	Wandering Spirit	헤메는 영혼
-雕刻家的試驗	Sculptor's Trial	조각가의 시험
-守護者的罈子	The Guardian's Jar	수호자의 항아리
-點火吧	Light the Fire	불을 밝혀라
-把火點燃吧	Let's Light the Fire	불을 밝히자
-魔力的解放	Liberation of Magic	마력의 해방
-隱藏的地方	Hidden Place	숨겨진 곳
-緊急狀況	Emergency	긴급상황
-被汙染的石燈	Corrupted Stone Lantern	오염된 석등
-古老的故事	Old Story	옛날 이야기
-受傷的採藥者	Suspicious Herbalist	수상한 약초꾼
-為了成為帥氣的士兵	To be a Great Soldier	멋진 병사가 되기 위해
-永遠的朋友	Friends Forever	영원한 친구
-教堂正門	Church Gate	성당 정문
-名留青史的騙術	The Legendary Trick	역사에 남을 속임수
-光的襲擊	Light Attack	빛의 습격
-隱藏的聖所	Hidden Sanctum	숨겨진 성소
-預見的危機	Foreseen Crisis	예견된 위기
-尋找寶物	Treasure Hunting	보물찾기
-消失的研究團	Missing Research Group	사라진 연구단
-史學者雷克西波的研究	Historian Rexipher's Research 	사학자 렉시퍼의 연구
-魔族的奸計	Trick of the Demon	마족의 간계
-掃蕩偽造者	Mop Up the Forger	위조범 소탕
-雷克西波的真面目	Rexipher's True Colors	렉시퍼의 본색
-當地採購	Self Sufficiency	현지 조달
-保護遺跡	Protect the Heritage	유적보호
-永生的豬籠草	The Immortal Nepenthes	영생의 네펜더스
-看守者的潛力	The Watcher's Potential	파수꾼의 저력
-協商	Negotiation	협상
-為了國民和盾牌的劍	Sword for the Shield and People	국민과 방패를 위한 검
-飛禽的妨礙	Disturbance of the Winged Beast	날짐승의 방해
-第一支箭	First Arrow	첫 번째 화살
-星星的痕跡	Astral Tracing	별의 흔적
-最後命令	Final Mission	마지막 명령
-石化霜預報	Petrifying Frost Forecast	석화서리 예보
-善意的謊言	White Lie	선의의 거짓말
-掌心之中	Into the Grip	손아귀 속으로
-清潔工	Cleaner	청소꾼
-大逃亡傳點	Great Escape Portal	대탈출 포탈
-同夥	All the Same	한통속
-差之毫厘	Small Difference	작은 차이
-不堪回首的事故	Irrevocable Accident	돌이킬 수 없는 사고
-咒術的見解	Magical Opinion	주술적 견해
-享受地面上的釣魚	Fishing on Land	땅 위에서 즐기는 낚시
-求知若渴	Ardor for Study	학구열
-都是因為蜂蜜	It's the Honey	꿀 때문이야
-兩位朋友的友情	Friendship of Two Friends	두 친구의 우정
-三溪林怪物們的目標	Objective of the Three Brooks Monster	세개울 몬스터들의 목적
-三溪林的祭壇	Three Brooks Altar	세개울의 제단
-耕地的秘密	Secret of the Farmland	경작지의 비밀
-充滿女神之力的土地	Land Bestowed with the Goddess' Power	여신의 힘이 깃든 땅
-稻草人之手	Scarecrow's Hand	허수아비 손이라도
-崩壞的封印塔	Destroyed Seal Tower	부서진 봉인탑
-青年妖術師奧源	Young Magician Owyn	청년 요술사 오윈
-迷惑的證據	Evidence of Bedazzlement	현혹의 증거
-被封印的靈魂	Sealed Soul	봉인된 영혼
-奇怪的罈子	Suspicious Pot	수상한 항아리
-到底犯了什麼罪	What Kind of Sin	도대체 무슨 죄를 지었기에
-奇怪的箱子	Suspicious Box	수상한 상자
-太多的封印石	Too Many Seals	너무 많은 봉인석
-變異術師波利伍德	Transmuter Furry Odd	변이술사 퍼리 오드
-熱血男兒賽伊蒙修烏	Hot-Blooded Simon Shaw	열혈남아 사이먼 쇼우
-奇怪封印石的真面目	Truth of the Suspicious Seal Stone	수상한 봉인석들의 정체
-看守者的夢想	Fantasy of the Watcher	파수꾼의 몽상
-翻過來的圖騰	Unsettled Totems	속 뒤집어지는 토템
-淨化人偶	Purifying Doll	정화 인형
-治療師之路	Healer's Way	치유사의 길
-永遠的敬拜	Everlasting Worship	영원한 경배
-留下的記憶	Surviving Memory	남겨진 기억
-管理女神像	Goddess Statue Control	여신상 관리
-財物也是恩惠	Kindness on the Offerings	재물에도 은혜를
-解放薩勒女神	Release Goddess Saule	사울레 여신 해방
-魔法師和魔法師之塔	The Wizard and the Mage Tower	마법사와 마법사의 탑
-芝麻開門	Open Sesame	열려라 참깨
-警備兵的委託	Security Guard's Favor	경비병의 부탁
-斷層地的威脅	Threat of Fault Line	단층지의 위협
-無法滿足的飢餓感	Insatiable Hunger	채워지지 않는 허기
-無止盡的貪食	Endless Gluttony	끝없는 식탐
-不可以被搶走	Can't Be Taken Away	빼앗길 수 없어
-大餓鬼路的糧食堆	Food Supplies of Starving Demon's Way	큰아귀 길의 식량무지
-解放憤怒封印的試驗	Raging Soul Releasing Test	분노의 봉인 풀기 시험
-為了祝福的參拜	Worship for the Blessing	축복을 위한 경배
-真正的女神像	Genuine Goddess Statue	참된 여신상
-謊言或真實的聖所	Sanctum of Truth or Lie	거짓 또는 진실의 성소
-因金錢獲得的祝福	Blessing Through Money	금전으로 받는 축복
-脫離魅惑	Avoiding Infatuation	미혹에서 벗어나
-為了空間的移動	To Move Across Space	공간의 이동을 위해
-奇異的雕像	Eccentric Statue	기이한 조각상
-幽靈集合解體	Disband Ghost Assembly	유령 집결 해체
-來歷不明的石板	Mysterious Slate	정체불명의 석판
-夏爾蘭的草球	Bush Ball of Siaulamb	샤울렘의 덤블볼
-雕刻家喜爾達的資料	Sculptor Hilda's Data	조각가 힐다의 자료
-王室的遺產	Legacy of the Royal Family	왕가의 유산
-弗羅里的碑文	Epitaph of Flurry	플러리의 비문
-主教夢到的女神之夢	Bishop's Dream of the Goddess	주교가 꾼 여신의 꿈
-姆杰靈感的真心	Moses' True Feelings	모제 영감의 진심
-以毒攻毒	Fight Poison with Poison	이독제독
-以信仰之名	In the Name of Faith	신앙의 이름으로
-攻佔佛蘭普	Capturing Bramble	브람블 공략
-方尖塔運作	Activate the Obelisk	오벨리스크 작동
-安德伊村莊祭司的委託	Andale Village Priest's Favor	안데일 마을 사제의 부탁
-製作無力草炸彈	Creating the Languid Herb Bomb	나른초 폭탄 제작
-裝著靈魂的碗	A Vessel for a Spirit	영혼을 담는 그릇
-慈悲和救援	Mercy and Salvation	자비와 구원
-祭司的研究	The Priest's Research	사제의 연구
-祭司的努力	The Priest's Hard Work	사제의 노력
-隨機應變	Adapting to Circumstances	임기응변
-主教最後的使命	The Bishop's Last Mission	주교의 마지막 사명
-研究資料	Materials for Research	연구 자료
-藥師的委託	Pharmacist's Favor	약사의 부탁
-某人的日記本	Somebody's Diary	누군가의 일기장
 地下墓穴1層內部傳點	Catacomb 1F Interior Warp	카타콤 1층 내부 워프
 地下墓穴1層模糊的靈體	Blurry Spirit of Catacomb 1F	카타콤 1층 흐릿한 영체
-某人留下的紙條	Letter Someone Left Behind	누군가가 남긴 쪽지
-朝聖者通知	Notice for Pilgrims	순례자 알림
-信心之樹	Tree of Faith	신심의 나무
-兄弟樹木說明	Tree of Brothers Notice	형제의 나무 안내
-男爵阿雷魯諾	Baron Allerno	남작 아렐르노
-你沒聽過「救濟貧窮，國家也無奈」的話嗎？ 你是說他們的貧窮連我們也束手無策？	Haven't you heard the saying that not even the king can save poverty? What do they expect me to do? 	가난 구제는 나랏님도 못한다고 하는 말 못 들었나? 지들이 가난 한 걸 날더러 어쩌라고?
-農民	Farmer	농민
-你有豪拉奇烏斯的親筆信？	Do you have a written letter of Horacius? 	호라치우스의 자필 편지라도 있는 거요?
-欸咦？ 我憑什麼要相信你？	Huh? Why should I trust you? 	에잉? 뭘로 당신을 믿으라는 거요?
-不然你想怎樣？	So what? 	뭐 어쩌라고?
-你到底想怎樣？	What do you want?	어쩌라는 거예요?
-我要如何去相信不相信我的人呢？	How can I trust someone who does not trust me? 	나를 믿어주지 않는 사람을 낸들 어찌 믿겠어요?
-什麼？ 不是騙子嗎？	What is it? Are you a fraud? 	뭐죠? 사기꾼 아닌가요?
-這乞丐到底想要做什麼大事…	What kind of big plan could a bum come up with?	거렁뱅이가 무슨 큰 일을 도모 하겠다고..
-哈勃克的歡迎	Hauberk's Introduction	하우벅의 환영
-魔君主哈勃克	Demon Lord Hauberk	마군주 하우벅
-燭台	Candlestick	촛대
-主教伊蘭	Bishop Ilam	주교 일람
-詛咒的本質	Nature of the Curse	저주의 본질
-我的使命1	My Mission 1	나의 사명 1
-我的使命2	My Mission 2	나의 사명 2
-大教堂完工紀念落款	Sign Commemorating the Completion of the Great Cathedral	대성단 완공 기념 서명
-某人留下的紙條	Memo Someone Left Behind	누군가 남긴 쪽지
-積了灰塵的書	Dusty Book	먼지 쌓인 책
-找到最後的鑰匙了嗎?	Did you find the last key?	마지막 열쇠는 찾으셨습니까?
-耶？	Huh?	엥?
-咦？	Huh?	잉?
-嗯？	Huh?	엉?
-嗯？	Huh? 	응?
-士兵麥克	Soldier Mike	사병 마이크
-地道	Underground Tunnel	땅굴
-柯拉佩達的賭徒{nl}(AWagererofKlaipeda)	The Gambler of Klaipeda	클라페다의 내기꾼{nl}(A Wagerer of Klaipeda)
-探訪礦山村莊	Investigate the Miners' Village	광산 마을 탐문
-史可尼斯原野的災厄	Disaster of Saknis Plains	사크니스 벌판의 재앙
-比爾那森林的祭壇	Altar of Vilna Forest	빌나 숲의 제단
-波塞林奇斯森林的威脅	Threat at Poslinkis Forest	포슬린키스 숲의 위협
-大餓鬼路的糧食堆	Food Pile of Starving Demon's Way	큰아귀 길의 식량더미
-為了朝聖者	For the Pilgrims	순례자를 위해
-詛咒的本質	True Nature of the Curse	저주의 실체
-開墾作業	Landfill Work	매립 작업
-堅韌的性命	Tough Life	질긴 목숨
-需要滋養補品	Needing the Nutritious Tonic	자양강장제가 필요해
-想吃正常的食物	I Want to Eat Normal Food	정상적인 음식을 먹고싶다
-推卸	Passing it Along	떠넘기기
-整理邪惡氣息	Cleaning the Strange Aura	이상한 기운 정리
-補充能量	Energy Replenishment	에너지 보충
-肯定性證據	Positive Evidence	긍정적 증거
-武器供需	Weapon Supply	무기 수급
-儲備糧食	Food Reserve	식량 비축
-破碎法	Disintegration	파쇄법
-喪心病狂的怪物	Monster Gone Wild	미쳐 날뛰는 몬스터
-奇怪的短劍	The Suspicious Dagger	수상한 단검
-覬覦軍糧的怪物們	Monster Preying on Military Supplies	군량미를 노리는 몬스터들
-路易茲的農地	Louise's Farmland	루이즈의 농지
-不理想的收成	Unsatisfactory Crops	신통찮은 작황
-老舊的種子	Old Seeds	오래된 씨앗
-夏頓的固執	Shaton's Stubbornness	샤튼의 고집
 星星的石像	Star Statue	별의 석상
-控制祭壇	Suppressing Altar	제어 제단
+燭台	Candlestick	촛대
 星石	Star Stone	스타스톤
 確認區域目標	Zone Object Check	존오브젝트 체크
 星之燈	Star Lamp	별의 램프
-王陵建立碑	Royal Mausoleum Construction Fee	왕릉 건립비
-[寫著秘密場所的內容]	[Things about the secret place is written]	[비밀장소에 대한 내용들이 적혀있다]
-魔君主那柯堤斯	Demon Lord Naktis	마군주 나크티스
-祝福的重建	Reconstruction of Blessings	축복의 재건
-那麼就沒事了。	Then I have no business with you	그럼 일 없소.
-有什麼事情嗎？	What is it? 	무슨 일이시오?
-我憑什麼相信你呢？	Huh? Why should I trust you? 	그럼 뭘로 당신을 믿으라는 거지?
-豪拉奇烏斯真的沒關係嗎…	Is Horacius really okay?	호라치우스는 정말 괜찮은 건가..
-要是失敗的話怎麼辦呢？	What happens if it fails? 	만약 실패하면 어떻게 되는거지?
-果然不夠嗎？	Is that not enough?	역시 그걸론 부족한가?
-夏頓的項鍊	Necklace of Shaton	샤튼의 목걸이
-紙條	Memo	쪽지
-謎樣的機器裝置	Machine of Riddles	수수께끼의 기계장치
-被遺忘的魔法陣	The Forgotten Magic Circle	잊어버린 마법진
-你對什麼事情好奇呢？	What do you want to know? 	어떤 것이 궁금하신가요?
-傳達員蘭達	Receptionist Ramda	접수원 람다
-要開始委託了嗎？	Star commission? 	의뢰를 시작하시겠습니까?
 勒肯家族的箱子	Box of Legwyn Family	르귄가문의 상자
 泰斯拉呈獻	Tesla's Dedication	테슬라 헌정
-某人的紙條	Someone's Memo	누군가의 쪽지
-沒有可以更有效阻擋怪物的方法嗎…	Isn't there a more effective way to block the monsters?	몬스터를 좀 더 효과적으로 막을 방법은 없는 걸까..
-被治療的佃農	Cured Tenant Farmer	치료된 소작인
-倉庫管理員力塔	Storage Keeper Rita	창고지기 리타
-傳達員布萊恩登	Receptionist Brandon	접수원 브렌든
-被撕碎的紙條	Torn Letter	바스러져 가는 쪽지
-被撕破的日記	Ripped Diary	찢어진 일기
-最後的紀錄	Last Record	마지막 기록
-被丟棄的日記本	Abandoned Diary	버려진 일기장
-難民丈夫	Refugee Husband	피난민 남편
-難民太太	Refugee Wife	피난민 아내
-遺囑	Will	유언장
-被燻黑的線索	Blackened Clue	그을린 실마리
-因憤怒而被亂畫的日誌	Diary written in Anger	분노로 휘갈긴 일지
-皺巴巴紙條	Wrinkled Letter	구겨진 쪽지
-阿魯內的日誌	Arune's Diary	아루네의 일지
-西基塔的日誌	Sigita's Diary	시기타의 일지
-奧施莉奈的命令書	The Command Letter of Ausrine	아우슈리네의 명령서
-不知名冒險家的日誌	Unknown Adventurer's Diary	이름 모를 모험가의 일지
-貝伊奇爾的回覆	Beikeol's Reply	베이키얼의 답장
-訂單明細	Purchase Order	주문 내역서
-看守者的墓碑	Watcher's Epitaph	파수꾼의 묘비
-札卡里耶爾王的草皮	The Grass of King Zachariel	자카리엘 왕의 사초
-禁止無故進入警告標語	Warning Sign for Unauthorized Entrants	무단출입금지 경고문
-撤離命令書	Eviction Order	퇴거 명령서
-男爵士兵查高斯的日誌	Baron Soldier Chagos' Diary	남작 사병 차고스의 일지
-破碎的公文	Crumbling Document	부스러져가는 공문
-魔族懲治命令書	Order to defeat the Demons	마족 처단 명령서
-已完成的巴奇斯研究資料	Varkis' Complete Research Materials	완성된 바키스의 연구 자료
-永遠的探險	The Eternal Adventure	영원한 탐험
-修道士洛希	Monk Lotze	수도사 로체
-修道士金塔斯	Monk Zidas	수도사 지다스
-修道士歐洛泰卡	Monk Ortega	수도사 오르테가
-王國宣戰文	Propaganda of the Kingdom	왕국 선전물
-叛亂軍的紀錄	Records of the Rebel Army	반란군의 기록
-王國軍入伍宣傳	Royal Army Recruit Propaganda	왕국군 입대 선전
 師傅自己的相關紀錄	The Records of the Master Himself	스승 자신에 대한 기록
 有關弟子拉伊爾斯的紀錄	Records about Disciple Laius	제자 라이어스에 대한 기록
 有關弟子宏內斯的紀錄	Records about Disciple Hones	제자 호네스에 대한 기록
@@ -571,88 +226,13 @@
 研究紀錄	Records of Investigation	연구기록
 計劃書	Proposal	계획서
 設計圖	Design Proposal	설계도면
-亞特利尤斯的佈告欄	Adrijus' Notice Board	아드리유스의 알림판
-留著汙點的碑石	Stained Tablet	얼룩이 남은 비석
-德麥特利烏斯的研究紀錄	Research Records of Demetrius	데메트리우스의 연구 기록
-看來似乎沒有收集到和亞比葉黛一樣的東西？	You're not collecting Avietes?	아비에테 같은 건 안 모으시나 봐요?
-預言的手抄本	Copy of Prediction	예언의 사본
-厚安的碑文	Epitaph of Juan	후안의 비문
-柯拉佩達市長	Klaipeda Market	클라페다 시장
-香爐	Incense Burner	향로
-已經替七彩谷居民靈魂們解開冤屈了嗎？	Can you lay the villagers' spirits to rest in peace?	칠채곡 주민 영혼들의 억울함을 풀어주셨습니까?
-點火基礎	The Basics of Ignition	발화 기초
-石化進行中	Petrification in Progress	석화 진행중
-可疑的男子	Mysterious Man	의문의 남자
-有吃過解毒劑了嗎？	Have you tried giving the antidote?	해독제는 먹여 보았소?
-看著同伴的獵人	Concerned Hunter	동료를 살피는 헌터
-柯拉佩達的賭徒{/}{nl}(AWagererofKlaipeda)	The Gambler of Klaipeda	클라페다의 내기꾼{/} {nl}(A Wagerer of Klaipeda)
-雜貨商人	Item Merchant 	잡화 상인
-奇怪的碑石	Suspicious Tombstone	수상한 비석
-奇怪的石柱	Suspicious Stone Pole	수상한 돌기둥
-火的故事	Story of Fire	불의 이야기
-女神像說明	About the Goddess Statue	여신상 안내
-教壇的聖物	Holy Relic of the Order	교단의 성물
-破壞棺木	Coffin destroyed	관 파괴
-咒術人偶	Voodoo Doll	주술인형
 你現在在做什麼?	What are you doing right now?	지금 뭐하시는 거죠?
-獲得樹叢	Obtained the wood	수풀 획득
-廢墟遺跡地	Historic Site Ruins	폐허 유적지
 聖堂地下城	Underground Chapel Dungeon	성당 지하 던전
 衰弱的勒肯家族地下城	Fallen Legwyn Family Dungeon	쇠락한 르권가문의 던전
 大魔法師之塔地下城	Archmage Tower Dungeon	대 마법사의 탑 던전
 地下墓穴地下城	Catacombs Underground Dungeon	카타콤 지하 던전
-倉庫管理員紫檀	Storage Keeper Zadan	창고지기 자단
-那邊好像可以看到女神像的頭。	(Is that the head of a Goddess Statue over there?)	저쪽에서 여신상의 머리 같은 것이 보인다.
-那邊好像有女神像的翅膀。	(Is that the wing of a Goddess Statue over there?)	저쪽에 여신상의 날개 같은 것이 있다.
-哎呀？ 這裡要怎麼上去？	Huh? How did you get up here?	어라? 여긴 어떻게 올라오신거죠?
-傳達員利安	Receptionist Liam	접수원 리암
-在尋找怎樣的委託呢？	What kind of request are you looking for?	어떤 의뢰를 찾으시나요?
-莿棘藤蔓森林	Thorny Vines Forest Dungeon	가시 덩쿨 숲
-離開王國	Leaving the kingdom	왕국을 떠나며
-槌子? 製作聖所時需要的嗎?	Hammer? You need it to make a sanctum?	망치? 성소를 만드는 데 필요하다고?
-卡道拉歐姆商團佈告欄	Kedorlaomer Notice Board	케도라오머 상단 알림판
-是下面嗎？	Is it below?	아래쪽인가?
-露克立斯部隊員靈魂	Ruklys' Squad Member Spirit	루클리스 부대원 영혼
-普利米歐艾米諾特	Premier Eminent	프리미어 에미넌트
-露克立斯部隊靈魂	Ruklys' Army Spirit	루클리스 부대 영혼
-路克索那內戰2章	2nd page of the Roxona Conflict	록소나 내전 2장
-假箱子	Fake Box	가짜 상자
-真理的信物	Truth Token	진리의 증표
-奇怪的籃子	Suspicious Basket	수상한 바구니
-魔君主馬魯若斯	Demon Lord Marnox	마군주 마르녹스
-採集發光的苔癬	Collecting the Shiny Moss	빛나는 이끼 채칩 중
-圖拉斯	Toras	토라스
-精髓變換器	Essence Purifier	정수 변환기
-使用火焰結晶	Use Flame Crystal	화염 결정 사용
-選擇要召喚的我軍	Select Ally to Summon	소환할 아군 선택
-選擇要移動得我軍位置	Select Destination for Ally	이동할 아군 위치 선택
-活動獎勵支援兵	Event Reward Volunteer	이벤트 보상 지원병
-活動小幫手	Event Helper	이벤트 도우미
-馬上前往嗎？	Do you want to go?	바로 가실건가요?
-針刺藤蔓森林	Thorny Vines Forest Dungeon	가시 덩굴 숲
-傾倒的宅邸	Collapsed Residential Quarters	무너진 저택가
-深處的地下監獄	Deep Underground Prison	깊숙한 지하감옥
-心願的碑石路	Demon Prison Guild	염원의 비석로
-要轉職7階級嗎？	Advance to 7th Rank?	7랭크로 전직하시겠습니까?
-巴力斯	Valis	발리스
-普羅亞那	Florianna	플로아나
-拉希亞	Rosia	라시아
-用什麼東西跟你交換呢？	What will you trade these for?	어떤 걸로 교환해드릴까요?
-需要幾個？	How many do you need?	몇 개가 필요하신가요?
-修女雅伊斯特	Sister Aiste	수녀 아이스테
-修女拉薩	Sister Lhasa	수녀 라사
-支援初級防守活動	Starter Defense Event Guide	초급 디펜스 이벤트 지원
-支援中級防守活動	Medium Defense Event Guide	중급 디펜스 이벤트 지원
-鐵匠杰羅斯	Blacksmith Zaras	대장장이 자라스
-裝備商人鄧凱爾	Equipment Merchant Dunkel	장비 상인 던켈
-雜貨商人米利娜	Item Merchant Mirina	잡화 상인 미리나
-飾品商人羅奈沙	Accessory Merchant Ronesa	악세서리 상인 로네사
-鐵匠安那	Blacksmith Anna	대장장이 안나
-飾品商人約亞那	Accessory Merchant Joana	악세서리 상인 요아나
-活動佈告欄	Event Notice Board	이벤트 알림판
-髮飾選擇箱	Hair Accessory Selection Box	헤어 악세사리 선택 상자
-拍賣場管理員羅吉	Market Manager Logi	마켓 관리인 로지
 市場管理員莫倫	Market Manager Molun	마켓 관리인 몰른
+倉庫管理員紫檀	Storage Keeper Zadan	창고지기 자단
 信件	Letter	편지
 念力法師魔法書1卷	Psychokino Tome Volume 1	사이코키노 마법서 1권
 念力法師魔法書2卷	Psychokino Tome Volume 2	사이코키노 마법서 2권
@@ -673,6 +253,7 @@
 寫著符文文字的書	Book written in Runic Characters	룬 문자로 적힌 책
 但是為什麼要找這個呢？	Why are you searching for it though?	그런데 이건 왜 찾으시는 거죠?
 符文石	Rune Stone	룬 스톤
+留著汙點的碑石	Stained Tablet	얼룩이 남은 비석
 符文師大師	Rune Caster Master	룬캐스터 마스터
 秘密裝置	Secret Device	비밀 장치
 接見所碑石	Visiting Room Tombstone	접견소의 비석
@@ -707,11 +288,174 @@
 馬勒托斯貯藏室的箱子	Martuis Storage Room Chest	마르튀스 저장실의 상자
 魔法書	Spell Book	마법서
 神靈	Divine Spirit	신령
+封印的石碑	Seal Tombstone	봉인의 비석
+希凱斯	Cicas	시카스
+支援士兵	Support Soldier	지원 병사
+魔族與女神的誓約	The Demon-Goddess Treaty	마족과 여신의 서약
+預言之書	Prophecy Tome	예언의 서
+難民丈夫	Refugee Husband	피난민 남편
+難民太太	Refugee Wife	피난민 아내
+難民家族的老婦	Old Man of a Refugee Family	피난민 가족의 노부
+遺囑	Will	유언장
+朝聖者通知	Notice for Pilgrims	순례자 알림
+信心之樹	Tree of Faith	신심의 나무
+兄弟樹木說明	Tree of Brothers Notice	형제의 나무 안내
+男爵阿雷魯諾	Baron Allerno	남작 아렐르노
+農民	Farmer	농민
+那麼就沒事了。	Then I have no business with you	그럼 일 없소.
+有什麼事情嗎？	What is it? 	무슨 일이시오?
+我憑什麼相信你呢？	Huh? Why should I trust you? 	그럼 뭘로 당신을 믿으라는 거지?
+豪拉奇烏斯真的沒關係嗎…	Is Horacius really okay?	호라치우스는 정말 괜찮은 건가..
+要是失敗的話怎麼辦呢？	What happens if it fails? 	만약 실패하면 어떻게 되는거지?
+果然不夠嗎？	Is that not enough?	역시 그걸론 부족한가?
+你到底想怎樣？	What do you want?	어쩌라는 거예요?
+這乞丐到底想要做什麼大事…	What kind of big plan could a bum come up with?	거렁뱅이가 무슨 큰 일을 도모 하겠다고..
+被燻黑的線索	Blackened Clue	그을린 실마리
+因憤怒而被亂畫的日誌	Diary written in Anger	분노로 휘갈긴 일지
+皺巴巴紙條	Wrinkled Letter	구겨진 쪽지
+亞特利尤斯的佈告欄	Adrijus' Notice Board	아드리유스의 알림판
+德麥特利烏斯的研究紀錄	Research Records of Demetrius	데메트리우스의 연구 기록
+看來似乎沒有收集到和亞比葉黛一樣的東西？	You're not collecting Avietes?	아비에테 같은 건 안 모으시나 봐요?
+預言的手抄本	Copy of Prediction	예언의 사본
+厚安的碑文	Epitaph of Juan	후안의 비문
+那邊好像可以看到女神像的頭。	(Is that the head of a Goddess Statue over there?)	저쪽에서 여신상의 머리 같은 것이 보인다.
+那邊好像有女神像的翅膀。	(Is that the wing of a Goddess Statue over there?)	저쪽에 여신상의 날개 같은 것이 있다.
 凱都拉商團佈告欄	Kedoran Merchant Alliance Notice Board	케도라 상단 알림판
+是下面嗎？	Is it below?	아래쪽인가?
 歐勒夏佈告欄	Orsha Bulletin Board	오르샤 알림판
 歐勒夏居民	Orsha Resident	오르샤 주민
 移民少女	Girl Settler	이주민 소녀
 移民青年	Young Settler	이주민 청년
+木桶	Barrel	나무통
+這些墳墓的主人都到女神身邊了嗎？	Are the owners of these graves with the goddess now?	이 무덤들의 주인들도 여신의 곁으로 갔을까?
+這地方的靈魂也都安息了嗎？	Are all the spirits here resting in peace?	이 곳의 영혼들도 모두 편안하게 잠들었을까?
+洋芋麵包怎麼樣了？	Did you like the potato bread?	감자빵은 어쩌셨어요?
+喔？變熟了嗎？	Uh? Does it like me?	어? 친해진 건가?
+貓咪怎麼這麼可愛？	Why are cats even cute?	고양이는 왜 귀여운 걸까?
+那麼可以請你拿給在那邊的傑克嗎？	Should I send you to Jack over there instead?	그럼, 저 쪽 잭에게라도 보내드릴까요?
+躲避石化霜而來的商人	Merchant Running from the Petrifying Frost	석화서리를 피해 온 상인
+某人的紙條	Someone's Memo	누군가의 쪽지
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+某人的留言	Someone's Scribbles	누군가의 낙서
+拘留所看守的紙條	Prison Guard Note	유치장 간수의 쪽지
+處刑房看守的紙條	Punishment Room Guard Note	징벌방 간수의 쪽지
+刑房看守的紙條	Torture Chamber Guard Note	고문실 간수의 쪽지
+教化所看守的紙條	Offender Institution Guard Note	교화소 간수의 쪽지
+守墓人的日記	Grave Keeper Journal	묘지기의 일기
+骸骨們	Skulls	해골들
+如今能安眠了嗎？	Is he resting now?	이제 편히 잠들었을까?
+士兵的日記	Soldier's Diary	병사의 일기
+軍人	member of the army	군인
+掉出來的日誌	Abandoned Journal	떨어져 있는 일지
+廢都的女神像	Dead End Goddess Statue	폐도의 여신상
+盜墓團移動方法	Transportation for Grave Robbers	도굴단 이동법
+水果籃	Fruit Basket	과일바구니
+吃一次試試？	Have a bite?	한 번 먹어 볼까?
+吃了會怎麼樣？	What happens if you eat them?	먹으면 어떻게 될까.
+這是哪裡？	Where am I?	여긴 어디?
+木頭踏板	Wooden Panel	나무 발판
+這裡是哪裡？	Where is this place?	여긴 어디지?
+灰塵堆	Pile of Dust	먼지더미
+磨損的紙張	Fraying Paper	너덜거리는 종이
+縱橫交錯的藤蔓	Tangled Vines	얽혀 있는 덩굴
+尤斯達斯	Justas	유스타스
+再拉一次水井的繩索試試？	Should I pull on the rope again?	우물의 밧줄을 다시 당겨 볼까?
+是不知名的水井。	A well?	알 수 없는 우물이다.
+安德伊村莊居民的日記	Andale Village Resident Diary	안데일 마을 주민의 일기
+積滿灰塵的東西	Dusty Objects	먼지쌓인 물건들
+冒出煙霧的地方	Smokey Spot	연기가 나는 곳
+灑下從廢棄的農家帶來的水試試？	Should I throw away the water from before here?	버려진 농가에서 가져온 물을 뿌려 볼까?
+說明的貓頭鷹	Explaining Owl	설명하는 부엉이
+朝聖者	Pilgrim	순례자
 露克立斯部隊士兵的靈魂	Ruklys Army Soldier's Spirit	루클리스 부대 병사의 영혼
 跟蹤	Pursuit	추적
 流動商人羅潔	Traveling Merchant Rose	행상인 로제
@@ -721,11 +465,10 @@
 雜貨商人艾芙	Item Merchant Alf	잡화 상인 알프
 市場管理員提里亞那	Market Manager Tilliana	마켓 관리인 틸리아나
 倉庫管理員艾沙	Storage Keeper Aisa	창고지기 아이사
-雷堤夏	Leticia	레티샤
 聽說發現和魔族的根據地相似的地方了？	Did you say you found a place that looks like a demon base?	마족의 근거지 비슷한 장소를 발견하셨다고요?
 怎麼樣了？ 鐵鍋破壞了嗎？	How did it go? Was the cauldron destroyed?	어떻게 됐어요? 솥은 파괴 됐나요?
 來歷不明的石像	Unidentified Stone	정체불명의 석상
-耍花招	Gimmick	기믹
+小遊戲	Gimmick	기믹
 來歷不明的石柱	Unidentified Pillar	정체불명의 기둥
 來歷不明的石燈	Unidentified Stone Lantern	정체불명의 석등
 村莊祭司亞倫塔斯	Village Priest Arntas	마을 사제 아른타스
@@ -749,6 +492,126 @@
 蒙代羅爾山的女神處所 1卷	The Goddess' Abode of Mount Monderor Volume I	몬데롤 산의 여신의 처소 1권
 空間之書	Book of the Void	공간의 책
 新審判者綱領和報告書	 New Inquisitor's Creed and Decree	새 인퀴지터 강령과 포고문
+亞勒奇達斯	Arghidas	아르기다스
+那事你怎麼會知道？	How do you know that?	그걸 당신이 어떻게 알고 있는거요?
+試一次看看？	Shall we give it a try?	한번 해볼까?
+紙條	Memo	쪽지
+阿曼達的石碑	Amanda's Tombstone	아만다의 비석
+囚犯的紙條	Inmate Note	죄수의 쪽지
+啟示者米歇爾的感想	Revelator Mihail's Review	계시자 미하일의 감상평
+刻在戒指上的字句	Writings Carved on the Ring	반지에 새겨져 있었던 문구
+刻著符文的碑石	Rune Tombstone	룬 문자가 새겨진 비석
+在哪裡被叮成這樣的？不痛嗎？	How did you get stung? Doesn't it hurt?	어디서 그렇게 쏘이셨어요? 안 아프세요?
+你說艾沙奇烏村莊有火冒三丈的神靈？	You say there's an angry spirit in Escanciu Village?	에산치우 마을에 막 화를 내는 신령이 있다고?
+是在下面嗎？	Do I need to go down?	아래쯤인가?
+被撕碎的紙張碎片	Ripped Piece of Paper	찢어진 종이 조각
+被放在棺木附近的東西	Objects on the Ground	관 근처 놓인 물건
+凱碧蕾公主隨從	Pricess Gaivile's Attendant	가이빌레 공주 수행원
+敕命委任狀	Royal Order	칙명 위임장
+柯拉佩達騎士團長烏斯卡	Klaipeda Knight Commander Uska	클라페다 기사단장 우스카
+鑑定師大師	Appraiser Master	감정사 마스터
+蝴蝶很多的蒲公英	Dandelion with Butterflies	나비들이 많이 있는 민들레 꽃
+多疑的哈勃克	Suspicion Hauberk	의심의 하우벅
+修道士艾斯堤司	Monk Aistis	수도사 아이스티스
+野心的哈勃克	Ambition Hauberk	야망의 하우벅
+然後契約信物怎麼樣了？	And what of that Contract Token?	그리고 계약의 증표는 어떻게 됐나?
+欺瞞的哈勃克	Deception Hauberk	기만의 하우벅
+該不會是要背叛我吧？	Is this a plot to betray me?	설마 날 배신하겠다는 건가?
+該不會是找到了契約信物？	Have you found the Contract Token?	설마 계약의 증표를 찾았나?
+已經對契約信物施了魔法嗎？	Is the Contract Token properly cursed?	계약의 증표에는 마법을 잘 걸었나?
+紀錄寶珠生成裝置	Registry Orb Generator	기록의 보주 생성장치
+為了攻擊我，還修復了我辛苦破壞的弗羅里的設施！	Aren't you the one who went and repaired Flurry's equipment so you could attack me?	날 공격하려고 기껏 파괴한 플러리의 시설을 고친 것도 말이야!
+魔君主哈勃克	Demon Lord Hauberk	마군주 하우벅
+亞佳伊拉弗羅里的幻影	Agailla Flurry Apparition	아가일라 플러리의 환영체
+梅德依那女神的祭司茵德蕾雅	Goddess Medeina's Priest Indrea	메데이나 여신의 사제 인드레아
+白色柱子	White Pillar	하얀 색 기둥
+黃色柱子	Green Pillar	노란 색 기둥
+藍色柱子	Blue Pillar	파란 색 기둥
+消滅他，並且將巨錘王的血放入此一裝置當中。	Control Terminal	사원 제어 장치
+看似神祕的祭壇	Mysterious Altar	신비로워 보이는 제단
+鬥牛士佈告欄	Matador Notice Board	마타도르 게시판
+里納斯	Linas	리나스
+利迪斯	Litis	리티스
+鬥牛士大師	Matador Master	마타도르 마스터
+利曼塔斯	Rimantas	리만타스
+利曼塔斯給的筆記	Rimantas' Note	리만타스가 준 메모장
+已經向槍彈者大師聽說了整件事嗎？	Did you talk to the Bullet Marker Master?	불릿 마커 마스터에게서 이야기 들으셨나요?
+槍彈者大師給的筆記	Bullet Marker Master's Memo	불릿 마커 마스터가 준 메모장
+委託進行的如何？	How did it go?	의뢰는 어떻게 됐나요?
+艾萬達斯	Eimantas	에이만타스
+溫暖的光線	Warm Light	따스한 빛
+阿薩娜	Asana	아사나
+亞利烏斯	Arijus	아리유스
+我要去哪裡才以能見到我的母親?	Where do I have to go to see my mother?	저희 어머니는 어디 가야 뵐 수 있나요?
+身份不明的靈魂	Unidentified Spirit	정체불명의 영혼
+泰拳大師	Nak Muay Master	낙무아이 마스터
+要為你說明哪種訓練呢?	What kind of training would you like to try?	어떤 훈련을 설명드릴까요?
+敏捷性訓練管理晶球	Agility Training Management Orb	민첩성 훈련 관리 구슬
+您要進行敏捷性訓練？	Do you wish to proceed with your agility training?	민첩성 훈련을 진행하시겠습니까?
+您要繼續進行敏捷性訓練？	Do you wish to continue your agility training?	민첩성 훈련을 계속 진행하시겠습니까?
+你好像有什麼話要說。	Is there anything I can help you with?	뭔가 하실 말씀이 있으신 거 같으시네요.
+香爐	Incense Burner	향로
+奇怪的碑石	Suspicious Tombstone	수상한 비석
+佩迪米安工人	Fedimian Worker	페디미안 일꾼
+年老的陶瓷工匠	Old Potter	늙은 도공
+推車工人	Wagon Carrier	수레꾼
+不過你怎麼會上到這來？	How exactly did you get up here?	근데 여기는 어떻게 올라오신 겁니까?
+王國旗	The Kingdom's Flag	왕국기
+千年祭的故事	Story of the Millenary	천년제 이야기
+祭禮全書	Festival Zensho	제례 전서
+神樹之日的紀錄	Records of Medzio Diena	신수의 날의 기록
+植物圖鑑	Flora	식물지
+柯拉佩達主教令公告文	Declaration of Klaipeda Priest-Bishop	클라페다 주교령 포고문
+英雄戰	Hero Biography	영웅전
+叛亂的歷史	History of the Rebellion	반란의 역사
+我們的朋友	Our Friend	우리의 친구
+柯拉佩達的女神像	Klaipeda Goddess Statue	클라페다의 여신상
+札卡里耶爾王陵的守護者	Guardian of Zachariel's Royal Mausoleum	자카리엘 왕릉의 수호자
+聖者梅伊班的見解	Maven's Opinion	성자 메이번의 견해
+點火基礎	The Basics of Ignition	발화 기초
+萬物的意志	Will of All Things	만물의 의지
+輕易學會的著火魔法	Elementary Fire Magic	쉽게 배우는 발화 마법
+亞佳伊拉弗羅里的日記	Agailla Flurry's Diary	아가일라 플러리의 일기
+時間魔法論註釋	Chronomancer Ron	시간 마법론 주석
+魔法的體系	The Pedigree of Magic	마법의 계보
+高階結界魔法調查報告書	The Report of the High Barrier Magic	고위 결계 마법 조사 보고서
+魔力的理解	The Understanding of Mana	마나의 이해
+安塔列斯的研究日記1卷	The Diary of Antares' Investigation	안타레스의 연구 일지 1권
+火的故事	Story of Fire	불의 이야기
+陶瓷工匠的泥板	Potter's Clay Tablet	도공의 점토판
+某個少女的泥板	Girl's Clay Tablet	어느 소녀의 점토판
+指揮官威利斯的泥板	Commander Willis' Clay Tablet	지휘관 윌리스의 점토판
+柯拉佩達農夫的泥板	Klaipeda Farmer's Clay Tablet	클라페다 농부의 점토판
+某個士兵的泥板	Soldier's Clay Tablet	어느 병사의 점토판
+遊俠大師的泥板	Ranger Master's Clay Tablet	레인저 마스터의 점토판
+庫班的泥板	Coben's Clay Tablet	코벤의 점토판
+凱賓的泥板	Kevin's Clay Tablet	케빈의 점토판
+烏斯卡的泥板	Uska's Clay Tablet	우스카의 점토판
+法師大師的泥板	Wizard Master's Clay Tablet	위저드 마스터의 점토판
+寫著心願的泥板	Clay Tablet with a wish in it	소원을 적은 점토판
+堤塔斯的泥板	Titas' Clay Tablet	티타스의 점토판
+聖殿十字軍大師的泥板	Paladin Master's Clay Tablet	팔라딘 마스터의 점토판
+希瑞尼亞歐德的泥板	Cyrenia Odell's Clay Tablet	시레니아 오델의 점토판
+某個朝聖者的泥板	Pilgrim's Clay Tablet	어느 순례자의 점토판
+某個魔法師的泥板	Wizard's Clay Tablet	어느 마법사의 점토판
+札卡里耶爾的碎片	Zachariel's Fragment	자카리엘의 파편
+泰斯拉的第一個碎片	Tesla's First Fragment	테슬라의 첫 번째 파편
+泰斯拉的第二個碎片	Tesla's Second Fragment	테슬라의 두 번째 파편
+泰斯拉的第三個碎片	Tesla's Third Fragment	테슬라의 세 번째 파편
+泰斯拉的第四個碎片	Tesla's Fourth Fragment	테슬라의 네 번째 파편
+梅伊班的碎片	Maven's Fragment	메이번의 파편
+露克立斯的碎片	Ruklys' Fragment	루클리스의 파편
+利迪亞夏班的碎片	Lydia Schaffen's Fragment	리디아 샤펜의 파편
+亞佳伊拉弗羅里的碎片	Agailla Flurry's Fragment	아가일라 플러리의 파편
+普利米歐艾米諾特的碎片	Premier Eminent's Fragment	프리미어 에미넌트의 파편
+國王卡杜梅爾的碎片	King Kadumel's Fragment	국왕 카듀멜의 파편
+琳卡烏達斯的碎片	Rimgaudas' Fragment	림가우다스의 파편
+路西德溫特史普恩的碎片	Lucid Winterspoon's Fragment	루시드 윈터스푼의 파편
+書櫃	Book Shelf	책장
+陶器	Pot	도자기
+休息的重要性	Importance of Rest	휴식의 중요성
+石化進行中	Petrification in Progress	석화 진행중
+路克索那內戰2章	2nd page of the Roxona Conflict	록소나 내전 2장
 朝聖者安卡塔的日誌	Pilgrim Agatas' Journal	순례자 아가타스의 일지
 流浪中的吟遊詩人	Wandering Bard	방랑중인 음유시인
 魔神吉特涅	Demon Goddess Giltine	마신 길티네
@@ -760,7 +623,172 @@
 關於第285號實驗體的記錄(2)	Records of Test Subject Number 285(2)	실험체 285번에 대한 기록(2)
 關於第285號實驗體的記錄(3)	Records of Test Subject Number 285(3)	실험체 285번에 대한 기록(3)
 關於第285號實驗體的記錄(4)	Records of Test Subject Number 285(4)	실험체 285번에 대한 기록(4)
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+海斯藍信物	Hethran Badge	헤스란 증표
+遺物收集場	Relic Collector	유물 수집상
+奎波爾路塔	Kupole Lhuta	큐폴 루타
+Portrait用	For Portraits	포트레이트용
+石化抑制裝置	Petrification Restraint Device	석화 억제 장치
+開啟或是關閉石化抑制裝置。	Turn on or off the Petrification Restraint Device	석화 억제 장치를 켜거나 끈다.
+貴金屬收集家	Jewelry Collector	귀금속 수집가
+是在說我？	Me?	나 말인가?
+奈凌卡	Neringa	네링가
+放置的書	Abandoned Book	방치된 책
+奎波爾克利西亞	Kupole Grisia	큐폴 그리시아
+奎波爾茲莎伊亞	Kupole Zsaia	큐폴 즈사이아
+在我進行隱藏奎波爾最後作業的時候，阻止魔族的計謀。{nl}然後幫我救出奎波爾們嗎？	Would you rescue them from the demons while I finish the process to conceal the others?	제가 큐폴을 숨기기 위한 마무리 작업을 하는 동안 마족들의 계략을 저지하고{nl}큐폴들을 구해주실 수 있겠습니까?
+我跟茲莎伊亞聊一聊，你可以等我一下嗎？	Could you wait a moment while I talk to Zsaia?	제가 즈사이아와 이야기할 동안 잠시 기다려 주시겠습니까?
+被拯救的奎波爾	Rescued Kupole	구조된 큐폴
+要再多麼後悔才能拯救姊妹們呢？ 	How much more will I have to regret in order to save my sisters?	얼마나 더 후회해야 자매들을 구할 수 있을까요.
+奎波爾佛拉德	Kupole Velad	큐폴 블라드
+賣花的大嬸	Flower Shop Lady	꽃 파는 아주머니
+柯拉佩達中央廣場	Klaipeda Central Plaza	클라페다 중앙광장
+標示牌	Signboard	표지판
+夏奧雷伊東邊森林	East Siauliai Woods	샤울레이 동쪽 숲
+女神像說明	About the Goddess Statue	여신상 안내
+休業公告	Holiday Notice	휴무 공지
+札卡里耶爾王的意志	King Zachariel's Will	자카리엘 왕의 의지
+募兵公告	Soldier Recruitment Notice	병사 모집 알림
+刻在祭壇上的文句	Writings on the Altar	제단에 새겨진 글귀
+藍色朋德爾	Blue Pawndel	푸른 폰델
+為什麼會這樣?	What is it?	뭐 때문에 그래?
+黑色朋德爾	Black Pawnd	검은 폰드
+可以相信你說的話嗎?	Can I trust you?	네 말 믿어도 돼?
+魔君主那柯堤斯	Demon Lord Naktis	마군주 나크티스
+主教伊蘭	Bishop Ilam	주교 일람
+詛咒的本質	Nature of the Curse	저주의 본질
+我的使命1	My Mission 1	나의 사명 1
+我的使命2	My Mission 2	나의 사명 2
+大教堂完工紀念落款	Sign Commemorating the Completion of the Great Cathedral	대성단 완공 기념 서명
+某人留下的紙條	Memo Someone Left Behind	누군가 남긴 쪽지
+讀書台	Reading Desk	독서대
+積了灰塵的書	Dusty Book	먼지 쌓인 책
 叛亂軍的日記	Insurgent's Journal	반란군의 일지
+紅色寶珠	Red Marble	빨간색 구슬
+藍色寶珠	Blue Marble	파란색 구슬
+黃色寶珠	Yellow Marble	노란색 구슬
+綠色寶珠	Green Marble	초록색 구슬
+紫色寶珠	Purple Marble	보라색 구슬
+找到最後的鑰匙了嗎?	Did you find the last key?	마지막 열쇠는 찾으셨습니까?
+被治療的佃農	Cured Tenant Farmer	치료된 소작인
+阿魯內的日誌	Arune's Diary	아루네의 일지
+西基塔的日誌	Sigita's Diary	시기타의 일지
+奧施莉奈的命令書	The Command Letter of Ausrine	아우슈리네의 명령서
+不知名冒險家的日誌	Unknown Adventurer's Diary	이름 모를 모험가의 일지
+貝伊奇爾的回覆	Beikeol's Reply	베이키얼의 답장
+訂單明細	Purchase Order	주문 내역서
+看守者的墓碑	Watcher's Epitaph	파수꾼의 묘비
+札卡里耶爾王的草皮	The Grass of King Zachariel	자카리엘 왕의 사초
+禁止無故進入警告標語	Warning Sign for Unauthorized Entrants	무단출입금지 경고문
+撤離命令書	Eviction Order	퇴거 명령서
+男爵士兵查高斯的日誌	Baron Soldier Chagos' Diary	남작 사병 차고스의 일지
+破碎的公文	Crumbling Document	부스러져가는 공문
+魔族懲治命令書	Order to defeat the Demons	마족 처단 명령서
+夏頓的項鍊	Necklace of Shaton	샤튼의 목걸이
+地道	Underground Tunnel	땅굴
+警告	Warning	경고
+謎樣的機器裝置	Machine of Riddles	수수께끼의 기계장치
+可疑的男子	Mysterious Man	의문의 남자
+有吃過解毒劑了嗎？	Have you tried giving the antidote?	해독제는 먹여 보았소?
+糟糕，來了一位意外的客人，該怎麼辦呢？	What is this? A surprise visit?	이런, 의외의 손님이 오셨으니 이를 어떻게 한다?
+魔君主蘇科姆	Demon Lord Solcomm	마군주 솔콤
+暗影師大師	Shadowmancer Master	섀도우맨서 마스터
+探險家安娜塔智亞	Adventurer Anastazija	탐험가 아나스타지야
+說明	Information	안내
+選擇的關口	Way to Selection	선택의 관문
+結果的關口	Way to Results	결과의 관문
+開墾民	Settler	개척민
+注意	Attention	주의
+安娜塔智亞所說的地方是這裡嗎？	Could this be the place Anastazija talked about?	아나스타지야가 말한 장소가 여길까?
 啟示者雅奈	Revelator Yane	계시자 야네
 克魯皮納製作裝置的保護膜還照原樣留著嗎？	Isn't the protective shield around the Kruvina device still intact?	크루비나 제조 장치의 보호막은 그대로 남아있지 않습니까?
 戴穆爾魯巴印	Delmore Rephaim	델무어 르바임
@@ -772,7 +800,7 @@
 礦山推車	Mine Wagon	광산 수레
 要移動到對面方向嗎？	Do you want to cross to the other side?	반대편으로 이동하시겠습니까?
 來歷不明的稻草人	Unidentified Scarecrow	정체불명의 허수아비
-耍花招用	For gimmick use	기믹용
+小遊戲用	For gimmick use	기믹용
 神秘的石柱	Mysterious Pillar	신비한 기둥
 神秘的佈告欄	Mysterious Bulletin Board	신비한 알림판
 老舊墳墓	Old Tomb	오래된 무덤
@@ -781,6 +809,7 @@
 謎樣的獵人	Mysterious Hunter	수수께끼의 사냥꾼
 警戒標示	Boundary Notice	경계 표시
 印德拉雅的紙條	Indraja's note	인드라야의 쪽지
+教壇的聖物	Holy Relic of the Order	교단의 성물
 不知名的魔族	Nameless Demon	이름 모를 마족
 魔族課程筆記	Demon Class Notes	마족 수업 필기
 蕨類森林的神秘	The Mystery of Bracken Forest	고사리 숲의 신비
@@ -806,7 +835,6 @@
 煉金術桌子	Alchemy Table	연금술 테이블
 煉金術火爐	Alchemy Brazier	연금술 화로
 多米尼卡斯	Dominikas	도미니카스
-村莊居民鄧肯	Villager Duncan	마을 주민 던컨
 樹藤	Vines	나무 덩굴
 可疑的紙條	Suspicious Note	수상한 쪽지
 被囚禁的修道士	Imprisoned Monk	갇힌 수도사
@@ -815,11 +843,83 @@
 開始修復移動魔法陣囉。	 I'll start repairing the Teleportation Magic Circle	이동 마법진 복구를 시작할게요.
 女神達莉雅	Goddess Dalia	여신 달리아
 雪貂	Ferret	페릿
+法杖碎片	Wand Fragment	지팡이 파편
+可疑的陷阱	Suspicious Trap	수상한 함정
+隱藏的字句	Hidden Writings	숨겨져 있던 글귀
+和傳達員都打過招呼了？	Did you meet all the receptionists?	접수원들과 인사는 모두 나누신건가요?
+可疑的屍體	Suspicious Corpse	수상한 시체
+抗軍副官貝稜	Resistance Adjutant Bern	저항군 부관 베른
+抗軍副司令官克倫	Resistance Deputy Commander Kron	저항군 부사령관 크론
+水盤設施管理文件	Water Facility Management	수반시설 관리문서
+抗軍副官泰勒	Resistance Adjutant Taylor	저항군 부관 테일러
+赫尼卡長老	Elder Henika	헤니카 장로
+老舊的碑石	Old Tombstone	오래된 비석
+抗軍副官勒溫	Resistance Adjutant Lehon	저항군 부관 르온
+女神拉伊瑪的幻影	Goddess Laima Apparition	여신 라이마의 환영
+抗軍總司令官巴伊爾	Resistance Commander Byle	저항군 총사령관 바일
+遊俠莫爾比歐	Ranger Morvio	레인저 모르비오
+魔王卡魯塔斯	Demon King Kartas	마왕 카르타스
+抗軍馬伊特	Resistance Soldier Mait	저항군 마이트
+可以請啟示者在那裡尋找看看是否還有魔法石嗎？	Would you go there and check whether there are any Magic Stones left?	계시자님께서 그곳에 마법석들이 남아있는지 찾아봐 주시겠습니까?
+找到魔法石了嗎？	Did you find any Magic Stones?	마법석들을 찾아보셨습니까?
+魔法石全都放好了嗎？	Did you use all the Magic Stones?	마법석을 모두 올려놓으신 겁니까?
+有什麼話要說嗎？	Do you have something to say?	하실 말씀이 있는 겁니까?
+消滅水螅了嗎？	Did you defeat the Hydra?	히드라를 처치하신 겁니까?
+抗軍莫蘭	Resistance Soldier Molan	저항군 몰란
+抵抗軍雷特	Resistance Soldier Rett	저항군 레트
+抵抗軍拉穆羅斯長老	Elder Ramunas	저항군 라무나스 장로
+啟示者您能幫忙把那些陷阱解除嗎？	Would you help dismantle and remove the traps?	계시자님께서 그 함정들을 대신 해체해 주실 수 있겠습니까?
+已經說服完成了嗎？	Did you finish talking to the members on the other side?	회유는 모두 끝내셨습니까?
+啟示者你能去幫忙確認一下嗎？	Would you check the area for me?	계시자님이 한번 확인해 주시지 않겠습니까?
+拉穆羅斯長老說過那樣的話了嗎?	Elder Ramunas said that?	라무나스 장로님께서 그런 얘기를 하셨단 말입니까?
+還沒有和拉穆羅斯長老對話嗎?	Did you speak with Elder Ramunas?	아직 라무나스 장로님과 대화하지 않으신 건가요?
+還沒有埋藏好嗎?	Are the Orbs planted?	아직 매설은 안 되었나요?
+空地的石頭都確認過了嗎?	Did you look for the stones at the Lot?	공터의 돌들은 확인해 봤나?
+將周圍的魔族都消滅了嗎?	Did you clear some of the demons nearby?	주변 마족들을 모두 처치하셨나요?
+還沒有和巴伊爾對話嗎?	Have you talked to Commander Byle yet?	바일님과 얘기를 아직 안 하셨습니까?
+啟示者您能親自將控制魔法石給破壞掉嗎?	Would you start by doing that?	계시자님께서 직접 제어 마법석을 파괴해 주시겠습니까?
+還沒有去找造箭者大師嗎?	Did you visit the Fletcher Master yet?	아직 플레처 마스터를 찾아가지 않았는가?
+還沒有轉交嗎?	Did you give everything to the Fletcher Master's student yet?	아직 전달하지 않은 거요?
+你說這是大師給我的嗎?	The Master gave these to you?	마스터님께서 전해주셨다고요?
+找來黑曜石了嗎？	Did you bring the Obsidian?	흑요석은 구해 오셨나요?
+獵人奧爾特	Hunter Oort	헌터 오르트
+陷阱全都設置好了啊。	All the traps are in place now?	함정을 모두 설치하셨군요.
+拉穆羅斯長老	Elder Ramunas	라무나스 장로
+抵抗軍士兵	Resistance Soldier	저항군 병사
+圓形魔法陣	Magic Circle	원형 마법진
+紅色水晶球	Red Crystal Orb	붉은 수정구
+老舊的柱子	Old Pillar	오래된 기둥
+毀損的石板	Damaged Stone Plate	훼손된 석판
+毀損的碑石	Damaged Monument	훼손된 비석
+小型火焰石	Small Firestone	작은 화염석
+老舊的石燈	Old Lantern	오래된 석등
+老舊的機械裝置	Old Machine	오래된 기계 장치
+混濁晶球	Hazy Sphere	탁한 구슬
+淨化裝置	Purification Device	정화 장치
+星之塔小遊戲寶箱	Astral Tower Gimmick Treasure Chest	별의 탑 기믹 보물 상자
+星星碎片	Star Fragment	별 조각
+奇妙的甕	Mysterious Pot	묘한 항아리
+星星碎片是不是可以裝入這個甕裡？	Can it hold the star fragments?	항아리에 별 조각을 담을 수 있을까?
+星星碎片	Star Fragment	별조각
+古老的祭壇	Old Altar	오래된 제단
+陰陽師本鄉支援者名單	List of Supporters	음양사 본향 지원자 명단
+啟示者您方便的話，能幫我去尋找布料的材料嗎?	Would you maybe help me collect some materials?	계시자님 혹시 괜찮으시다면 옷감 재료를 구해 주실 수 있으신지요?
+海盜船長羅	Pirate Captain Lowe	해적 선장 로우
+找我有什麼事嗎?	You got something to say to me?	나한테 무슨 볼일이라도 있나?
+急救品的數量，全部都確認好了嗎?	Did you count all the supplies?	의료 구호품들을 모두 확인하셨나요?
+急救箱	Medical Supplies	의료품 적재상자
+請問止痛藥和退燒藥總共有幾罐?	How many doses of fever and pain medication were there in total?	진통제와 해열제는 모두 합쳐서 몇 통이 들어있던가요?
+請問止血劑和消毒劑總共有幾罐?	How many doses of antihemorrhagic drug and antiseptic were there in total?	지혈제와 소독제는 모두 합쳐서 몇 통이 들어있던가요?
+請問OK繃和軟膏總共有幾個?	How many doses of ointment and bandaids were there in total?	반창고와 연고는 모두 합쳐서 몇 개가 들어있던가요?
+請問大繃帶和小繃帶總共有幾個?	How many small and large bandages were there in total?	큰 붕대와 작은 붕대는 모두 합쳐서 몇 개가 들어있던가요?
+有什麼問題嗎?	Is something wrong?	무슨 문제라도 있으십니까?
+陰陽師大師	Onmyoji Master	음양사 마스터
 充滿的邪念石	Full Soul Stone	가득 찬 사념석
+奇怪的籃子	Suspicious Basket	수상한 바구니
 黑暗靈魂	Black Soul	검은 영혼
 鐘擺	Pendulum	펜듈럼
-耍花招用稻草人	Gimmick Scarecrow	기믹용 허수아비
-耍花招用石像	Gimmick Statue	기믹용 석상
+小遊戲用稻草人	Gimmick Scarecrow	기믹용 허수아비
+小遊戲用石像	Gimmick Statue	기믹용 석상
 全部都找到了嗎？	Did you save everyone?	다 구하셨나요?
 集中裝置	Integration Device	집약 장치
 要使用魔法陣嗎？	Activate the magic circle?	마법진을 사용하시겠습니까?
@@ -840,20 +940,651 @@
 命令書上寫著什麼內容呢？	What was on the written orders?	명령서에는 어떤 내용이 있다고 하던가요?
 迪耶那	Diena	디에나
 要使用木筏嗎？	Do you wish to use the raft?	뗏목을 이용하시겠습니까?
-城堡地下城試驗	Castle Dungeon Test	캐슬 던전 테스트
+有什麼事嗎？	To what do I owe this pleasure?	무슨 일이신가요?
+採藥者凱爾希斯？	Herbalist Kalcis?	약초꾼 칼시스요?
+找我有什麼事嗎？	Is it me whom you wanted to see?	저에게 무슨 볼일이 있으신가요?
+魔石強化裝置	Magic Stone Enhancer	마석 강화장치
+狂熱者大師	Zealot Master	질럿 마스터
+你對我們教團的教理有興趣嗎？	Are you perhaps interested in the doctrines of our order?	우리 교단의 교리에 흥미가 있으십니까?
+已經準備好應試了嗎？	Are you ready to prove yourself?	시험에 응하실 준비가 되셨습니까?
+想要了解狂熱者宗團嗎？	You want to know about the Zealots?	질럿 종단에 대해 알고 싶다고?
+狂熱者宗團嗎？	The Zealots?	질럿 종단이요?
+你想要挑戰哪一種測試？	Which trial are you interested in?	당신은 어떤 시험에 도전하길 원하십니까?
+狂熱者教團與女神的神聖力	Zealots and Divine Power	질럿 교단과 여신의 신성력
+為了什麼事來找我？	What can I do for you?	무슨 일로 찾아오셨는가?
+找我有什麼事嗎？	Is there anything you need?	나에게 무슨 용무가 있는가?
+我們教團目前採取的路線是？	What characterizes the stance of our order?	우리 교단이 지금 취하고 있는 노선은 무엇입니까?
+我們狂熱者宗團的力量是借助哪一位女神的神聖力呢？	From which goddess do Zealots borrow their divine power?	우리 질럿 종단의 힘은 어떤 여신의 신성력을 빌려서 행하나요?
+我們身為聖職者，要使用能力的手段是什麼？	Through what means do we use our powers as clerics?	우리가 성직자로서 능력을 사용하는 수단은 무엇인가요?
+成為我們力量根源的神聖力是什麼？	What kind of divine force serves as a source for our power?	우리의 힘의 근원이 되는 신성력은 무엇인가요?
+腐敗的食物	Spoiled Food	썩은 음식
+醃製食品	Preserved food	보존식
+酒	Liquor	술
+探索	Explore	탐색
+森林深處的驚異	Wonders of the Deep Forests	깊은 숲의 경이
+王國的廢都	Fallen City of the Kingdom	왕국의 폐도
+怪物誌	Monsters	괴물지
+神學大戰	Summa Theologica	신학 대전
+坎寧安的傳說	Legend of Cunningham	커닝햄의 전설
+外科全書	Surgery Book Set	외과 전서
+王國旅行記	Kingdom Travelogue	왕국 여행기
+我的告白	My Confession	나의 고백
+沒錯。你想說的話是什麼？	Do you have something to say?	그래. 하고 싶은 말은 뭔가.
+不知名的魔族	Unknown Demon	이름모를 마족
+魔君主馬魯若斯	Demon Lord Marnox	마군주 마르녹스
+(臨時)委託經理	(Temporary) Request Manager	(임시)의뢰매니저
+委託開始/結束選擇	Select Request Start/End	의뢰시작/종료 선택
+對象吉列姆	Great Merchant Gilliam	대상 길리엄
+要進行下個階段嗎？	Are you ready to start the next stage?	다음 단계를 시작 하시겠소?
+柯拉佩達的賭徒	The Gambler of Klaipeda	클라페다의 내기꾼
+柯拉佩達的賭徒{nl}(AWagererofKlaipeda)	The Gambler of Klaipeda	클라페다의 내기꾼{nl}(A Wagerer of Klaipeda)
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
 某個鍊金術師的記錄(上)	A Certain Alchemic Record (I)	어떤 연금술사의 기록(상)
 配置某種	with 0	한종류의
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+幻像圖書館管理方針	Fantasy Library Administration Guidelines	환상도서관 관리지침
+米爾堤斯的故事 	The Story of Mirtis	미르티스 이야기
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+傑斯堤與奧斯拉	Gesti and Ausura	제스티와 아우스라
+內比爾拉斯與卡雷伊瑪斯	Nebulas and Kalejimas	네뷸라스와 칼레이마스
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+라이마의 천년전 3권	클라페다의 내기꾼	
+에미넌트 이야기1	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+미르티스 이야기	클라페다의 내기꾼	
+네뷸라스와 칼레이마스	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
+클라페다의 내기꾼	클라페다의 내기꾼	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+라이마의 천년전 3권	라이마의 천년전 3권	
+에미넌트 이야기1	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+미르티스 이야기	라이마의 천년전 3권	
+네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
+라이마의 천년전 3권	에미넌트 이야기1	
+에미넌트 이야기1	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+미르티스 이야기	에미넌트 이야기1	
+네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+라이마의 천년전 3권	미르티스 이야기	
+에미넌트 이야기1	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+미르티스 이야기	미르티스 이야기	
+네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+라이마의 천년전 3권	네뷸라스와 칼레이마스	
+에미넌트 이야기1	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+미르티스 이야기	네뷸라스와 칼레이마스	
+네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+蘇科姆的故事	The Story of Solcomm	솔콤 이야기
+蘇科姆的星之塔攻略紀錄1	Record of Solcomm's Attacks on the Astral Tower 1	솔콤의 별의 탑 공략기록1
+蘇科姆的星之塔攻略紀錄2	Record of Solcomm's Attacks on the Astral Tower 2	솔콤의 별의 탑 공략기록2
+蘇科姆的星之塔攻略紀錄3	Record of Solcomm's Attacks on the Astral Tower 3	솔콤의 별의 탑 공략기록3
+蘇科姆的星之塔攻略紀錄4	Record of Solcomm's Attacks on the Astral Tower 4	솔콤의 별의 탑 공략기록4
+蘇科姆的星之塔攻略紀錄5	Record of Solcomm's Attacks on the Astral Tower 5	솔콤의 별의 탑 공략기록5
+蘇科姆的星之塔攻略紀錄6	Record of Solcomm's Attacks on the Astral Tower 6	솔콤의 별의 탑 공략기록6
+蘇科姆的星之塔攻略紀錄7	Record of Solcomm's Attacks on the Astral Tower 7	솔콤의 별의 탑 공략기록7
 魔法師之塔公會地下城	Mage Tower Guild Dungeon	마법사의 탑 길드 던전
-公會活動選擇	Select Guild Event	길드 이벤트 선택
-請選擇公會活動	Please select a Guild Event	길드 이벤트를 선택하세요
-活動選擇	Select Event	이벤트 선택
-將使用的活動選擇	Select the event you want to use	사용할 이벤트를 선택
-要進入公會活動地下城嗎？	Do you want to enter this Guild Event dungeon?	길드 이벤트 던전에 입장 하시겠습니까?
-活動放棄	Abandon Event	이벤트 포기
-奎波爾路塔	Kupole Lhuta	큐폴 루타
-遺物收集場	Relic Collector	유물 수집상
-女神 巴伊寶拉	Goddess Vaivora	여신 바이보라
+選擇公會任務	Select Guild Quest	길드 퀘스트 선택
+選擇要使用的任務	Select Quest	사용할 퀘스트를 선택
+要進入地下城公會任務嗎？	Do you want to enter this Guild Quest dungeon?	길드 퀘스트 던전에 입장 하시겠습니까?
 交換員	Operator	교환원
+公會任務	Guild Quest	길드 퀘스트
+要進入公會任務嗎？	Will you enter the Guild Quest?	길드 퀘스트에 입장하시겠습니까?
+單戀少女	Girl in Love	짝사랑 소녀
+收到巧克力的少年	Sweet Boy	초콜릿 받은 소년
+棒棒糖套裝還沒好嗎？	Do you have the Candy Basket?	사탕 세트는 아직인가요?
+和餅乾一塊升級	Level Up Chest Challenge	쿠키와 함께 레벨업
+升級獎勵箱	Level Up Chest	레벨업 보상 상자
+330 Level 獎勵	Level 330 Reward	330 Level 보상
+淘氣少女	Little Trickster	장난꾸러기 소녀
+新手引導員	Leveling Guide	가이드 안내원
+杜奈斯的信物帶來了嗎？	Did you collect a few of Donnes' Badges?	도네스의 증표를 가지고 오셨나요?
+回歸者的禮物箱	Notice	복귀자의 선물 상자
+粽子料理師	Zongzi Chef	쫑쯔 요리사
+商品交換員	Reward Exchange Voucher	상품 교환원
+戀人	Wedding Planner	연인
+你可以將收到的喜帖轉交給位在「夏奧雷伊西邊森林 」的「拉伊摩那斯」嗎？	Would you deliver this invitation to Laimonas in West Siauliai Woods?	"받으신 청첩장은 ""샤울레이 서쪽 숲"" 에 ""라이모나스"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「蓮帕拉沙池塘 」的「移居民布韋恩」嗎？	Would you deliver this invitation to Settler Bowein in Lemprasa Pond?	"받으신 청첩장은 ""렘파사 연못"" 에 ""이주민 보웨인"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「加橋森林 」的「追蹤者凱勒美伊亞」嗎？	Would you deliver this invitation to Chaser Germeja in Woods of the Linked Bridges?	"받으신 청첩장은 ""덧댄다리 숲"" 에 ""추적자 게르메이야"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「帕歐皮斯渡口 」的「情報員諾圖雷斯」嗎？	Would you deliver this invitation to Agent Notres in Paupys Crossing?	"받으신 청첩장은 ""파우피스 나루"" 에 ""정보원 노토레스"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「達旦森林 」的「採藥者塔拉斯」嗎？	Would you deliver this invitation to Herbalist Talas in Dadan Jungle?	"받으신 청첩장은 ""다단 숲"" 에 ""약초꾼 탈라스"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「庫魯森林 」的「流動商人巴拉斯」嗎？	Would you deliver this invitation to Traveling Merchant Varas in Koru Jungle?	"받으신 청첩장은 ""코루 숲"" 에 ""행상인 바라스"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「克尼多斯森林 」的「採藥者塔帕斯」嗎？	Would you deliver this invitation to Herbalist Ash in Knidos Jungle?	"받으신 청첩장은 ""크니도스 숲"" 에 ""약초꾼 탈파스"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「奈普里塔斯懸崖 」的「看守者哈梅史」嗎？	Would you deliver this invitation to Watcher James in Nefritas Cliff?	"받으신 청첩장은 ""네프리타스 벼랑"" 에 ""파수꾼 하메스"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「泰內花園 」的「看守者艾拉」嗎？	Would you deliver this invitation to Watcher Erra in Tenet Garden?	"받으신 청첩장은 ""테넷 화원"" 에 ""파수꾼 에라"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「泰內聖堂地下1層 」的「追隨者堤貝里尤斯」嗎？	Would you deliver this invitation to Follower Tiberius in Tenet Church B1?	"받으신 청첩장은 ""테넷 성당 지하 1층"" 에 ""추종자 티베리유스"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「貝雅山谷 」的「安德伊村莊老人」嗎？	Would you deliver this invitation to the Old Man of Andale Village in Veja Ravine?	"받으신 청첩장은 ""베야 골짜기"" 에 ""안데일 마을 노인"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「比爾塔溪谷 」的「安德伊村莊元老」嗎？	Would you deliver this invitation to the Old Man of Andale Village in Vieta Gorge?	"받으신 청첩장은 ""비에타 계곡"" 에 ""안데일 마을 원로"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「科博爾特森林 」的「安德伊村莊村長」嗎？	Would you deliver this invitation to the Andale Village Headman in Cobalt Forest?	"받으신 청첩장은 ""코발트 숲"" 에 ""안데일 마을 촌장"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「大王關口 」的「史學家凱佩克」嗎？	Would you deliver this invitation to Historian Kepeck in Gateway of the Great King?	"받으신 청첩장은 ""대왕의 관문"" 에 ""사학자 케펙"" 에게 건네주시겠어요?"
+你可以將收到的喜帖轉交給位在「關口路 」的「信徒諾尤司」嗎？	Would you deliver this invitation to Believer Nojus in Gate Route?	"받으신 청첩장은 ""관문로"" 에 ""신도 노유스"" 에게 건네주시겠어요?"
+貓咪活動小幫手	Tuxedo Cat	고양이 이벤트 도우미
+明天再來吧~	See you tomorrow~	내일 또 오세요~
+要增加何種怪物的等級？	Which monster's level would you like to increase? 	어떤 몬스터의 레벨을 증가시키겠습니까?
+營地主人	Campsite Manager	캠프 주인
+做善事的小孩	Good Kid	착한 일 한 어린이
+奎波爾伺服器支援兵	Kupole Server Helper	큐폴 서버 지원병
+如何?要換不?	Whaddaya say? Deal?	어때? 교환할 텐가?
+凱都拉商團員凱拉爾達西亞	Kedoran Alliance Geraldasia	케도라 상단원 게랄다시아
+要交換嗎？	Do you want to exchange?	교환하실래요?
+凱都拉商團員凱拉爾達遜	Kedora Alliance Geraldason	케도라 상단원 게랄다손
+如何？要交換嗎？	What do you say? Deal?	어때? 교환할래?
+請輸入將成為封鎖標準的property名稱	Enter the name of the property to set as standard for block	차단할 기준이 될 프로퍼티의 이름을 입력해 주세요
+請輸入將成為封鎖標準的property值	Enter the value of the property to set as standard for block	차단할 기준이 될 프로퍼티의 값을 입력해 주세요
+裝備補給兵	Equipment Supplier	장비 보급병
+男子用與女子用，你需要哪一個？	Do you need the male or female version of the costume?	남자용, 여자용 어떤 게 필요하신가요?
+喵嗚	Meow	야옹
+拓本第一名的銅像	Etching 1st Place Statue	탁본 1위 동상
+1號避難處	The First Refuge	첫 번째 피난처
 盧吉亞採集草藥中	Collecting Ronjia Grass	론지아 풀 채집 중
 盧吉亞採集了草藥	You've collected Ronjia Grass	론지아 풀을 채집했습니다
 放著毒草的箱子焚燒中	Burning the box filled with Poisonous Herbs	독초가 든 상자 태우는 중
@@ -881,1378 +1612,779 @@
 正在採集愛爾力草	Collecting Aily Grass	아일리 풀입 채집 중
 正在採集米泰力藥草	Collecting Mittelly Herbs	미탤리 약초 채집 중
 已獲得米泰力藥草	You have collected Mittelly Herbs	미탤리 약초를 획득했습니다
-無法作為藥草使用	This cannot be used for medicine	약초로 쓸 수 없는 상태입니다
 正在尋找蠶繭	Looking for cocoons	고치를 찾는 중
 已獲得白木飛蛾的繭	You have obtained the cocoon of a White Tree Forest Moth	흰나무 숲 나방의 고치를 획득했습니다
-沒有白木飛蛾的繭	You don't have any cocoons	흰나무 숲 나방의 고치가 없습니다
 正在尋找可用的木材	Looking for usable wood	쓸만한 목재 찾는 중
 已獲得木材	You have obtained wood	목재를 획득했습니다
-不適合做為木材使用	This doesn't seem to be usable as wood	목재로 쓰기엔 적합하지 않습니다
-某人的留言	Someone's Scribbles	누군가의 낙서
-拘留所看守的紙條	Prison Guard Note	유치장 간수의 쪽지
-處刑房看守的紙條	Punishment Room Guard Note	징벌방 간수의 쪽지
-刑房看守的紙條	Torture Chamber Guard Note	고문실 간수의 쪽지
-教化所看守的紙條	Offender Institution Guard Note	교화소 간수의 쪽지
-守墓人的日記	Grave Keeper Journal	묘지기의 일기
-骸骨們	Skulls	해골들
-如今能安眠了嗎？	Is he resting now?	이제 편히 잠들었을까?
-士兵的日記	Soldier's Diary	병사의 일기
-軍人	member of the army	군인
-掉出來的日誌	Abandoned Journal	떨어져 있는 일지
-廢都的女神像	Dead End Goddess Statue	폐도의 여신상
-盜墓團移動方法	Transportation for Grave Robbers	도굴단 이동법
-水果籃	Fruit Basket	과일바구니
-吃一次試試？	Have a bite?	한 번 먹어 볼까?
-吃了會怎麼樣？	What happens if you eat them?	먹으면 어떻게 될까.
-這是哪裡？	Where am I?	여긴 어디?
-木頭踏板	Wooden Panel	나무 발판
-這裡是哪裡？	Where is this place?	여긴 어디지?
-灰塵堆	Pile of Dust	먼지더미
-磨損的紙張	Fraying Paper	너덜거리는 종이
-縱橫交錯的藤蔓	Tangled Vines	얽혀 있는 덩굴
-亞勒奇達斯	Arghidas	아르기다스
-那事你怎麼會知道？	How do you know that?	그걸 당신이 어떻게 알고 있는거요?
-試一次看看？	Shall we give it a try?	한번 해볼까?
-阿曼達的石碑	Amanda's Tombstone	아만다의 비석
-囚犯的紙條	Inmate Note	죄수의 쪽지
-啟示者米歇爾的感想	Revelator Mihail's Review	계시자 미하일의 감상평
-刻在戒指上的字句	Writings Carved on the Ring	반지에 새겨져 있었던 문구
-不過你怎麼會上到這來？	How exactly did you get up here?	근데 여기는 어떻게 올라오신 겁니까?
-Portrait用	For Portraits	포트레이트용
-石化抑制裝置	Petrification Restraint Device	석화 억제 장치
-開啟或是關閉石化抑制裝置。	Turn on or off the Petrification Restraint Device	석화 억제 장치를 켜거나 끈다.
-有什麼事嗎？	To what do I owe this pleasure?	무슨 일이신가요?
-採藥者凱爾希斯？	Herbalist Kalcis?	약초꾼 칼시스요?
-找我有什麼事嗎？	Is it me whom you wanted to see?	저에게 무슨 볼일이 있으신가요?
-魔族掃蕩募集員	Demon Hunt Recruiter	마족 소탕 모집원
-鑑定師 桑德拉	Identifier Sandra	감정사 산드라
-封印的石碑	Seal Tombstone	봉인의 비석
-希凱斯	Cicas	시카스
-支援士兵	Support Soldier	지원 병사
-魔族與女神的誓約	The Demon-Goddess Treaty	마족과 여신의 서약
-預言之書	Prophecy Tome	예언의 서
-木桶	Barrel	나무통
-這些墳墓的主人都到女神身邊了嗎？	Are the owners of these graves with the goddess now?	이 무덤들의 주인들도 여신의 곁으로 갔을까?
-這地方的靈魂也都安息了嗎？	Are all the spirits here resting in peace?	이 곳의 영혼들도 모두 편안하게 잠들었을까?
-洋芋麵包怎麼樣了？	Did you like the potato bread?	감자빵은 어쩌셨어요?
-喔？變熟了嗎？	Uh? Does it like me?	어? 친해진 건가?
-貓咪怎麼這麼可愛？	Why are cats even cute?	고양이는 왜 귀여운 걸까?
-那麼可以請你拿給在那邊的傑克嗎？	Should I send you to Jack over there instead?	그럼, 저 쪽 잭에게라도 보내드릴까요?
-躲避石化霜而來的商人	Merchant Running from the Petrifying Frost	석화서리를 피해 온 상인
+正在採集思波勒奇莫花	Collecting Sporgimo Flower	스포르기모 꽃 채집 중
+已獲得思波勒奇莫花	Obtained Sporgimo Flower	스포르기모 꽃을 획득했습니다
+正在收集魔力結晶	Collecting Magic Crystal	마력결정 수집 중
+已獲得魔力結晶	Acquired Magic Crystal	마력 결정을 획득했습니다
+正在回收弗羅里的零件	Retrieving Flurry's Device Part	플러리의 부품을 회수 중
+已回收弗羅里的零件	Obtained Flurry's Device Part	플러리의 부품을 획득했습니다
+戊戌年黃金財犬	Golden Dog Coin	무술년 황금개
+大師的考驗活動小幫手	Masters' Trial Event Helper	마스터의 시험 이벤트 도우미
+要將幾個上級考驗卷交換成下一階段的考驗卷呢?	How many vouchers would you like to exchange?	상위 시험권 몇 개를 한 단계 아래 시험권으로 교환해드릴까요?
+要為你說明哪種訓練呢?	What kind of training would you like to hear about?	어떤 훈련에 대해 설명할까요?
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
 라이마의 천년전 3권	클라페다의 내기꾼	
 에미넌트 이야기1	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
 클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
 라이마의 천년전 3권	라이마의 천년전 3권	
 에미넌트 이야기1	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
 라이마의 천년전 3권	에미넌트 이야기1	
 에미넌트 이야기1	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
 클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
 라이마의 천년전 3권	네뷸라스와 칼레이마스	
 에미넌트 이야기1	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-單戀少女	Girl in Love	짝사랑 소녀
-收到巧克力的少年	Sweet Boy	초콜릿 받은 소년
-棒棒糖套裝還沒好嗎？	Do you have the Candy Basket?	사탕 세트는 아직인가요?
-瓦卡麗涅的奎波爾	Vakarine's Kupole	바카리네의 큐폴
-澤米娜的奎波爾	Zemyna's Kupole	제미나의 큐폴
-尤斯達斯	Justas	유스타스
-再拉一次水井的繩索試試？	Should I pull on the rope again?	우물의 밧줄을 다시 당겨 볼까?
-是不知名的水井。	A well?	알 수 없는 우물이다.
-安德伊村莊居民的日記	Andale Village Resident Diary	안데일 마을 주민의 일기
-積滿灰塵的東西	Dusty Objects	먼지쌓인 물건들
-冒出煙霧的地方	Smokey Spot	연기가 나는 곳
-灑下從廢棄的農家帶來的水試試？	Should I throw away the water from before here?	버려진 농가에서 가져온 물을 뿌려 볼까?
-說明的貓頭鷹	Explaining Owl	설명하는 부엉이
-刻著符文的碑石	Rune Tombstone	룬 문자가 새겨진 비석
-在哪裡被叮成這樣的？不痛嗎？	How did you get stung? Doesn't it hurt?	어디서 그렇게 쏘이셨어요? 안 아프세요?
-你說艾沙奇烏村莊有火冒三丈的神靈？	You say there's an angry spirit in Escanciu Village?	에산치우 마을에 막 화를 내는 신령이 있다고?
-是在下面嗎？	Do I need to go down?	아래쯤인가?
-被撕碎的紙張碎片	Ripped Piece of Paper	찢어진 종이 조각
-被放在棺木附近的東西	Objects on the Ground	관 근처 놓인 물건
-凱碧蕾公主隨從	Pricess Gaivile's Attendant	가이빌레 공주 수행원
-敕命委任狀	Royal Order	칙명 위임장
-柯拉佩達騎士團長烏斯卡	Klaipeda Knight Commander Uska	클라페다 기사단장 우스카
-鑑定師大師	Appraiser Master	감정사 마스터
-海斯藍信物	Hethran Badge	헤스란 증표
-貴金屬收集家	Jewelry Collector	귀금속 수집가
-是在說我？	Me?	나 말인가?
-法杖碎片	Wand Fragment	지팡이 파편
-可疑的陷阱	Suspicious Trap	수상한 함정
-隱藏的字句	Hidden Writings	숨겨져 있던 글귀
-和傳達員都打過招呼了？	Did you meet all the receptionists?	접수원들과 인사는 모두 나누신건가요?
-魔石強化裝置	Magic Stone Enhancer	마석 강화장치
-和餅乾一塊升級	Level Up Chest Challenge	쿠키와 함께 레벨업
-升級獎勵箱	Level Up Chest	레벨업 보상 상자
-330 Level 獎勵	Level 330 Reward	330 Level 보상
-淘氣少女	Little Trickster	장난꾸러기 소녀
-地區移動	Move Zone	지역이동
-寶物箱子支援商人	Treasure Chest Merchant	보물 상자 지원상인
-奎波爾伺服器支援兵	Kupole Server Helper	큐폴 서버 지원병
-新手引導員	Leveling Guide	가이드 안내원
-要馬上去找大師 NPC 嗎？	Do you want to move to the Master NPC?	마스터 NPC에게 바로 이동하시겠습니까?
-要前往邪靈祭司大師的家嗎？	Do you want to move to the Bokor Master's Home?	보코르 마스터의 집으로 이동하시겠습니까?
-要前往高地戰士大師的家嗎？	Do you want to move to the Highlander Master's Training Hall?	하이랜더 마스터의 도장으로 이동하시겠습니까?
-要前往烈焰術士大師的家嗎？	Do you want to move to the Pyromancer Master's Lab?	파이로맨서 마스터의 연구실로 이동하시겠습니까?
-重置支援奎波爾	Reset Helper Kupole	초기화 지원 큐폴
-裝備補給兵	Equipment Supplier	장비 보급병
-杜奈斯的信物帶來了嗎？	Did you collect a few of Donnes' Badges?	도네스의 증표를 가지고 오셨나요?
-商品交換員	Reward Exchange Voucher	상품 교환원
-海賊團員	Pirate	해적 단원
-氣球活動小幫手	Popolion Mascot	풍선 이벤트 도우미
-玩具活動小幫手	Tuxedo Cat	장난감 이벤트 도우미
-今天送什麼禮物好呢？	What will it be today?	오늘은 어떤 선물을 드릴까요?
-黃金之歌傭兵團員	Golden Note Mercenary	황금노래 용병단원
-拿到確認書了嗎？	Do you have the certificates?	확인증을 받아오셨나요?
-你是新的祭司嗎？	Are you a new priest?	자네는 새로운 사제인가?
-武僧祭司	Monk	몽크 사제
-職業解除券	Class Unlock Voucher	클래스 해금권
-你說想要加入我們傭兵團？	Are you saying you want to join us?	우리 용병단에 들어 오고 싶다고?
-刀刃誓約傭兵團員	Pledge of the Blade Mercenary	칼날서약 용병단원
-與我們刀刃誓約傭兵團員合作如何？	So you wanna join the Pledge of the Blade?	우리 칼날서약 용병단과 함께하는 건 어때?
-看似神祕的祭壇	Mysterious Altar	신비로워 보이는 제단
-釣魚場管理員 悠夏	Fishing Manager Joha	낚시터 관리인 요하
-男子用與女子用，你需要哪一個？	Do you need the male or female version of the costume?	남자용, 여자용 어떤 게 필요하신가요?
-貓咪活動小幫手	Tuxedo Cat	고양이 이벤트 도우미
-刀刃誓約傭兵團 調查員	Pledge of the Blade Investigator	칼날서약 용병단 조사원
-發送獎勵	Give Reward	보상 지급
-他們說是從東邊森林帶回來的暗號文呢。	Is this the cryptogram your brought from the East Woods?	동쪽 숲에서 가지고 오신 암호문이라고요.
-你說這把弓是在凱利高原發現的？	Are you saying you found this arrowhead in Gele Plateau?	이 화살촉이 겔리 고원에서 발견되었던 것이라고?
-痕跡	Traces	흔적
-尤拉泰的奎波爾	Jurate's Kupole	유라테의 큐폴
-確認獎勵	Check Rewards	보상 확인
-開墾民	Settler	개척민
-注意	Attention	주의
-喵嗚	Meow	야옹
-萬聖節稻草人	Scaredy Scarecrow	할로윈 허수아비
-要增加何種怪物的等級?	Which monster's level would you like to increase? 	어떤 몬스터에 레벨을 증가시키겠습니까?
-這種活動小幫手	Event Helper	이런 이벤트 도우미
-今天得到了 	Today 	오늘은 
-這種活動	this event	이런 이벤트
-目前為了幫助新來的救援者， 	I'm giving new Saviors the  	새로 오신 구원자분들을 성장을 도우려고 
-只有330級以下 	You can only receive the  	330레벨 이하에서만 
-邀請活動小幫手	Invitation Event Helper	초대 이벤트 도우미
-選擇套裝	Select Costume	코스튬 선택
-拉伊瑪的奎波爾	Laima's Kupole	라이마의 큐폴
-蝴蝶很多的蒲公英	Dandelion with Butterflies	나비들이 많이 있는 민들레 꽃
-多疑的哈勃克	Suspicion Hauberk	의심의 하우벅
-修道士艾斯堤司	Monk Aistis	수도사 아이스티스
-野心的哈勃克	Ambition Hauberk	야망의 하우벅
-然後契約信物怎麼樣了？	And what of that Contract Token?	그리고 계약의 증표는 어떻게 됐나?
-欺瞞的哈勃克	Deception Hauberk	기만의 하우벅
-該不會是要背叛我吧？	Is this a plot to betray me?	설마 날 배신하겠다는 건가?
-該不會是找到了契約信物？	Have you found the Contract Token?	설마 계약의 증표를 찾았나?
-已經對契約信物施了魔法嗎？	Is the Contract Token properly cursed?	계약의 증표에는 마법을 잘 걸었나?
-紀錄寶珠生成裝置	Registry Orb Generator	기록의 보주 생성장치
-為了攻擊我，還修復了我辛苦破壞的弗羅里的設施！	Aren't you the one who went and repaired Flurry's equipment so you could attack me?	날 공격하려고 기껏 파괴한 플러리의 시설을 고친 것도 말이야!
-亞佳伊拉弗羅里的幻影	Agailla Flurry Apparition	아가일라 플러리의 환영체
-梅德依那女神的祭司茵德蕾雅	Goddess Medeina's Priest Indrea	메데이나 여신의 사제 인드레아
-白色柱子	White Pillar	하얀 색 기둥
-黃色柱子	Green Pillar	노란 색 기둥
-藍色柱子	Blue Pillar	파란 색 기둥
-消滅他，並且將巨錘王的血放入此一裝置當中。	Control Terminal	사원 제어 장치
-鬥牛士佈告欄	Matador Notice Board	마타도르 게시판
-里納斯	Linas	리나스
-利迪斯	Litis	리티스
-鬥牛士大師	Matador Master	마타도르 마스터
-利曼塔斯	Rimantas	리만타스
-利曼塔斯給的筆記	Rimantas' Note	리만타스가 준 메모장
-已經向槍彈者大師聽說了整件事嗎？	Did you talk to the Bullet Marker Master?	불릿 마커 마스터에게서 이야기 들으셨나요?
-槍彈者大師給的筆記	Bullet Marker Master's Memo	불릿 마커 마스터가 준 메모장
-委託進行的如何？	How did it go?	의뢰는 어떻게 됐나요?
-奈凌卡	Neringa	네링가
-她現在在哪裡？	Where is she now?	그녀는 지금 어디에 있지?
-有必要由我親自對付你嗎？	Should I even bother with you?	널 내가 직접 상대할 필요가 있을까?
-放置的書	Abandoned Book	방치된 책
-糟糕，來了一位意外的客人，該怎麼辦呢？	What is this? A surprise visit?	이런, 의외의 손님이 오셨으니 이를 어떻게 한다?
-魔君主蘇科姆	Demon Lord Solcomm	마군주 솔콤
-暗影師大師	Shadowmancer Master	섀도우맨서 마스터
-老舊的機械裝置	Old Machine	오래된 기계 장치
-混濁晶球	Hazy Sphere	탁한 구슬
-淨化裝置	Purification Device	정화 장치
-星之塔小遊戲寶箱	Astral Tower Gimmick Treasure Chest	별의 탑 기믹 보물 상자
-星星碎片	Star Fragment	별 조각
-奇妙的甕	Mysterious Pot	묘한 항아리
-星星碎片是不是可以裝入這個甕裡？	Can it hold the star fragments?	항아리에 별 조각을 담을 수 있을까?
-星星碎片	Star Fragment	별조각
-古老的祭壇	Old Altar	오래된 제단
-狂熱者大師	Zealot Master	질럿 마스터
-你對我們教團的教理有興趣嗎？	Are you perhaps interested in the doctrines of our order?	우리 교단의 교리에 흥미가 있으십니까?
-已經準備好應試了嗎？	Are you ready to prove yourself?	시험에 응하실 준비가 되셨습니까?
-想要了解狂熱者宗團嗎？	You want to know about the Zealots?	질럿 종단에 대해 알고 싶다고?
-狂熱者宗團嗎？	The Zealots?	질럿 종단이요?
-你想要挑戰哪一種測試？	Which trial are you interested in?	당신은 어떤 시험에 도전하길 원하십니까?
-狂熱者教團與女神的神聖力	Zealots and Divine Power	질럿 교단과 여신의 신성력
-為了什麼事來找我？	What can I do for you?	무슨 일로 찾아오셨는가?
-找我有什麼事嗎？	Is there anything you need?	나에게 무슨 용무가 있는가?
-我們教團目前採取的路線是？	What characterizes the stance of our order?	우리 교단이 지금 취하고 있는 노선은 무엇입니까?
-我們狂熱者宗團的力量是借助哪一位女神的神聖力呢？	From which goddess do Zealots borrow their divine power?	우리 질럿 종단의 힘은 어떤 여신의 신성력을 빌려서 행하나요?
-我們身為聖職者，要使用能力的手段是什麼？	Through what means do we use our powers as clerics?	우리가 성직자로서 능력을 사용하는 수단은 무엇인가요?
-成為我們力量根源的神聖力是什麼？	What kind of divine force serves as a source for our power?	우리의 힘의 근원이 되는 신성력은 무엇인가요?
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
 라이마의 천년전 3권	클라페다의 내기꾼	
 에미넌트 이야기1	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
 클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
 라이마의 천년전 3권	라이마의 천년전 3권	
 에미넌트 이야기1	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
 라이마의 천년전 3권	에미넌트 이야기1	
 에미넌트 이야기1	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
 클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
 라이마의 천년전 3권	네뷸라스와 칼레이마스	
 에미넌트 이야기1	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
 라이마의 천년전 3권	클라페다의 내기꾼	
 에미넌트 이야기1	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
 클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
 라이마의 천년전 3권	라이마의 천년전 3권	
 에미넌트 이야기1	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
 라이마의 천년전 3권	에미넌트 이야기1	
 에미넌트 이야기1	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
 클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
 라이마의 천년전 3권	네뷸라스와 칼레이마스	
 에미넌트 이야기1	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-幻像圖書館管理方針	Fantasy Library Administration Guidelines	환상도서관 관리지침
-米爾堤斯的故事 	The Story of Mirtis	미르티스 이야기
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
 라이마의 천년전 3권	클라페다의 내기꾼	
 에미넌트 이야기1	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
 클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
 라이마의 천년전 3권	라이마의 천년전 3권	
 에미넌트 이야기1	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
 라이마의 천년전 3권	에미넌트 이야기1	
 에미넌트 이야기1	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
 클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
 라이마의 천년전 3권	네뷸라스와 칼레이마스	
 에미넌트 이야기1	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
 라이마의 천년전 3권	클라페다의 내기꾼	
 에미넌트 이야기1	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
 클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
 라이마의 천년전 3권	라이마의 천년전 3권	
 에미넌트 이야기1	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
 라이마의 천년전 3권	에미넌트 이야기1	
 에미넌트 이야기1	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
 클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
 라이마의 천년전 3권	네뷸라스와 칼레이마스	
 에미넌트 이야기1	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-傑斯堤與奧斯拉	Gesti and Ausura	제스티와 아우스라
-內比爾拉斯與卡雷伊瑪斯	Nebulas and Kalejimas	네뷸라스와 칼레이마스
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
+*哈伊雷朋的非正式航海日誌1	* Hayraven's Unofficial Chronicles Part 1	*하이레이번의 비공식 항해일지1
+	What are you looking at	너 이 자식 눈빛이 건방져
+*哈伊雷朋的非正式航海日誌2	Hayraven's Unofficial Chronicles Part 2	*하이레이번의 비공식 항해일지2
+貝爾庫波遠征隊1	Velcoffer Raid Message 1	벨코퍼 레이드 메시지1
+貝爾庫波遠征隊2	Velcoffer Raid Message 2	벨코퍼 레이드 메시지2
+貝爾庫波遠征隊3	Velcoffer Raid Message 3	벨코퍼 레이드 메시지3
+貝爾庫波遠征隊4	Velcoffer Raid Message 4	벨코퍼 레이드 메시지4
+貝爾庫波遠征隊5	Velcoffer Raid Message 5	벨코퍼 레이드 메시지5
+貝爾庫波遠征隊6	Velcoffer Raid Message 6	벨코퍼 레이드 메시지6
+貝爾庫波遠征隊7	Velcoffer Raid Message 7	벨코퍼 레이드 메시지7
+貝爾庫波遠征隊8	Velcoffer Raid Message 8	벨코퍼 레이드 메시지8
+貝爾庫波遠征隊9	Velcoffer Raid Message 9	벨코퍼 레이드 메시지9
+貝爾庫波遠征隊10	Velcoffer Raid Message 10	벨코퍼 레이드 메시지10
+貝爾庫波遠征隊11	Velcoffer Raid Message 11	벨코퍼 레이드 메시지11
+貝爾庫波遠征隊12	Velcoffer Raid Message 12	벨코퍼 레이드 메시지12
+貝爾庫波遠征隊13	Velcoffer Raid Message 13	벨코퍼 레이드 메시지13
+奎波爾西姆那	Kupole Simona	큐폴 시모나
+貝爾庫波遠征隊14	Velcoffer Raid Message 14	벨코퍼 레이드 메시지14
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
 라이마의 천년전 3권	클라페다의 내기꾼	
 에미넌트 이야기1	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
 클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
 라이마의 천년전 3권	라이마의 천년전 3권	
 에미넌트 이야기1	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 네뷸라스와 칼레이마스	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
+클라페다의 내기꾼	라이마의 천년전 3권	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
 라이마의 천년전 3권	에미넌트 이야기1	
 에미넌트 이야기1	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 네뷸라스와 칼레이마스	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
+클라페다의 내기꾼	에미넌트 이야기1	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
 클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
 라이마의 천년전 3권	네뷸라스와 칼레이마스	
 에미넌트 이야기1	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-蘇科姆的故事	The Story of Solcomm	솔콤 이야기
-蘇科姆的星之塔攻略紀錄1	Record of Solcomm's Attacks on the Astral Tower 1	솔콤의 별의 탑 공략기록1
-蘇科姆的星之塔攻略紀錄2	Record of Solcomm's Attacks on the Astral Tower 2	솔콤의 별의 탑 공략기록2
-蘇科姆的星之塔攻略紀錄3	Record of Solcomm's Attacks on the Astral Tower 3	솔콤의 별의 탑 공략기록3
-蘇科姆的星之塔攻略紀錄4	Record of Solcomm's Attacks on the Astral Tower 4	솔콤의 별의 탑 공략기록4
-蘇科姆的星之塔攻略紀錄5	Record of Solcomm's Attacks on the Astral Tower 5	솔콤의 별의 탑 공략기록5
-蘇科姆的星之塔攻略紀錄6	Record of Solcomm's Attacks on the Astral Tower 6	솔콤의 별의 탑 공략기록6
-蘇科姆的星之塔攻略紀錄7	Record of Solcomm's Attacks on the Astral Tower 7	솔콤의 별의 탑 공략기록7
-營地主人	Campsite Manager	캠프 주인
-終於...!!!!{nl}你是誰？是聖誕老公公嗎？{nl}沒騙人吧？哇～真高興！！	Good Kid	착한 일 한 어린이
-第一個避難所	First Refugee	첫 번째 피난처
-思波勒奇莫花採集中	Collecting Sporgimo Flower	스포르기모 꽃 채집 중
-獲得了思波勒奇莫花	Obtained Sporgimo Flower	스포르기모 꽃을 획득했습니다
-魔力結晶收集中	Collecting Magic Crystal	마력결정 수집 중
-獲得了魔力結晶	Acquired Magic Crystal	마력 결정을 획득했습니다
-弗羅里的零件回收中	Retrieving Flurry's Device Part	플러리의 부품을 회수 중
-獲得了弗羅里的零件	Obtained Flurry's Device Part	플러리의 부품을 획득했습니다
-說明	Information	안내
-包裝的巧克力	 Box of Chocolates	포장된 초콜릿
-從少女那裡得到	Make sure to deliver the 	소녀에게 받은 
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
+클라페다의 내기꾼	네뷸라스와 칼레이마스	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
 	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
+	클라페다의 내기꾼	
+	클라페다의 내기꾼	
 라이마의 천년전 3권	클라페다의 내기꾼	
 에미넌트 이야기1	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 미르티스 이야기	클라페다의 내기꾼	
 네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
+대지의 탑 솔미키 구간	클라페다의 내기꾼	
 클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
 	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
+	라이마의 천년전 3권	
+	라이마의 천년전 3권	
 라이마의 천년전 3권	라이마의 천년전 3권	
 에미넌트 이야기1	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 미르티스 이야기	라이마의 천년전 3권	
 네뷸라스와 칼레이마스	라이마의 천년전 3권	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
-라이마의 천년전 3권	에미넌트 이야기1	
-에미넌트 이야기1	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-네뷸라스와 칼레이마스	에미넌트 이야기1	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
-라이마의 천년전 3권	네뷸라스와 칼레이마스	
-에미넌트 이야기1	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
+대지의 탑 솔미키 구간	라이마의 천년전 3권	
 클라페다의 내기꾼	라이마의 천년전 3권	
-라이마의 천년전 3권	라이마의 천년전 3권	
-에미넌트 이야기1	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-네뷸라스와 칼레이마스	라이마의 천년전 3권	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
 	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
+	에미넌트 이야기1	
+	에미넌트 이야기1	
 라이마의 천년전 3권	에미넌트 이야기1	
 에미넌트 이야기1	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 미르티스 이야기	에미넌트 이야기1	
 네뷸라스와 칼레이마스	에미넌트 이야기1	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
-라이마의 천년전 3권	네뷸라스와 칼레이마스	
-에미넌트 이야기1	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
-라이마의 천년전 3권	라이마의 천년전 3권	
-에미넌트 이야기1	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-네뷸라스와 칼레이마스	라이마의 천년전 3권	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
+대지의 탑 솔미키 구간	에미넌트 이야기1	
 클라페다의 내기꾼	에미넌트 이야기1	
-라이마의 천년전 3권	에미넌트 이야기1	
-에미넌트 이야기1	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-네뷸라스와 칼레이마스	에미넌트 이야기1	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
 	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
 클라페다의 내기꾼	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
+	미르티스 이야기	
 라이마의 천년전 3권	미르티스 이야기	
 에미넌트 이야기1	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 미르티스 이야기	미르티스 이야기	
 네뷸라스와 칼레이마스	미르티스 이야기	
+대지의 탑 솔미키 구간	미르티스 이야기	
+클라페다의 내기꾼	미르티스 이야기	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
 	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
+	네뷸라스와 칼레이마스	
 라이마의 천년전 3권	네뷸라스와 칼레이마스	
 에미넌트 이야기1	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 미르티스 이야기	네뷸라스와 칼레이마스	
 네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
-라이마의 천년전 3권	라이마의 천년전 3권	
-에미넌트 이야기1	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-네뷸라스와 칼레이마스	라이마의 천년전 3권	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
-라이마의 천년전 3권	에미넌트 이야기1	
-에미넌트 이야기1	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-네뷸라스와 칼레이마스	에미넌트 이야기1	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
+대지의 탑 솔미키 구간	네뷸라스와 칼레이마스	
 클라페다의 내기꾼	네뷸라스와 칼레이마스	
-라이마의 천년전 3권	네뷸라스와 칼레이마스	
-에미넌트 이야기1	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
-라이마의 천년전 3권	라이마의 천년전 3권	
-에미넌트 이야기1	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-네뷸라스와 칼레이마스	라이마의 천년전 3권	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
-라이마의 천년전 3권	에미넌트 이야기1	
-에미넌트 이야기1	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-네뷸라스와 칼레이마스	에미넌트 이야기1	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
-라이마의 천년전 3권	네뷸라스와 칼레이마스	
-에미넌트 이야기1	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-	QUEST_20180219_007474	
-클라페다의 내기꾼	QUEST_20180219_007474	
-라이마의 천년전 3권	QUEST_20180219_007474	
-에미넌트 이야기1	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-미르티스 이야기	QUEST_20180219_007474	
-네뷸라스와 칼레이마스	QUEST_20180219_007474	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-	클라페다의 내기꾼	
-클라페다의 내기꾼	클라페다의 내기꾼	
-라이마의 천년전 3권	클라페다의 내기꾼	
-에미넌트 이야기1	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-미르티스 이야기	클라페다의 내기꾼	
-네뷸라스와 칼레이마스	클라페다의 내기꾼	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-	라이마의 천년전 3권	
-클라페다의 내기꾼	라이마의 천년전 3권	
-라이마의 천년전 3권	라이마의 천년전 3권	
-에미넌트 이야기1	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-미르티스 이야기	라이마의 천년전 3권	
-네뷸라스와 칼레이마스	라이마의 천년전 3권	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-	에미넌트 이야기1	
-클라페다의 내기꾼	에미넌트 이야기1	
-라이마의 천년전 3권	에미넌트 이야기1	
-에미넌트 이야기1	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-미르티스 이야기	에미넌트 이야기1	
-네뷸라스와 칼레이마스	에미넌트 이야기1	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-	미르티스 이야기	
-클라페다의 내기꾼	미르티스 이야기	
-라이마의 천년전 3권	미르티스 이야기	
-에미넌트 이야기1	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-미르티스 이야기	미르티스 이야기	
-네뷸라스와 칼레이마스	미르티스 이야기	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-	네뷸라스와 칼레이마스	
-클라페다의 내기꾼	네뷸라스와 칼레이마스	
-라이마의 천년전 3권	네뷸라스와 칼레이마스	
-에미넌트 이야기1	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-미르티스 이야기	네뷸라스와 칼레이마스	
-네뷸라스와 칼레이마스	네뷸라스와 칼레이마스	
-警戒的男子	Gatekeeper	경계하는 남자
-我知道…無法全部進去。	Yeah? What makes you think I'm gonna let you in?	알고 있다고.. 모두가 들어갈 수는 없습니다.
-夜市管理員	Security	야시장 관리인
+成長水晶	Growth Crystal	성장의 수정
+栽培樹木活動小幫手	Tree Event Helper	자라나라 나무나무 이벤트 도우미
+請體驗簡單的迷你遊戲，	Play a simple minigame and win a(n)  	간단한 미니게임을 즐기시고 
+祝福石商店活動小幫手	Blessed Gem Shop Helper	축복석 상점 이벤트 도우미
+怪盜特龐活動小幫手	Treasure Chest Event Helper	괴도 트팡 이벤트 도우미
+鐵匠戴利亞貝利斯	Blacksmith Teliavelis	대장장이 테리아베리스
+水晶礦山(PVP)	Crystal Mine (PvP)	수정 광산(PVP)
+天下第一足球大賽小幫手	Royal Soccer Tournament Helper	천하제일 축구대회 도우미
+第10次平衡重置支援小幫手	Balance Update Reset Helper	10차 밸런스 초기화 지원 도우미
+5月的新娘	Disgruntled Bride	5월의 신부
+紀念新職業重置小幫手	New Class Reset Helper	신규 클래스 기념 초기화 도우미
+新/回歸救援者和公會支援小幫手	New/Returning Savior and Guild Helper	신규/복귀 구원자 및 길드 지원 도우미
+新朋友	New Friend 	새로운 친구
+勝利之神結束	The match has ended 	승부의 신 종료
+我可以隨便變更球是否得分。{nl}您要挑戰連續勝利之踢嗎？연속 승부차기에 도전하실 건가요?	Will you take part in the penalty shoot-out challenge? 	제 마음대로 골 득점 성공 여부를 바꿀 수도 있습니다.{nl}연속 승부차기에 도전하실 건가요?
+驅魔師大師	Exorcist Master 	엑소시스트 마스터
+給我們治療藥嗎？	This medicine is for us?	저희에게 치유약을요?
+想成為驅魔師？	So you want to be an Exorcist?	엑소시스트가 되고 싶다?
+驅魔的歷史第1章	The History of Exorcism Volume 1	구마의 역사 1편
+驅魔的歷史	The History of Exorcism	구마의 역사
+驅魔師的起源	Origins of the Exorcist	엑소시스트의 기원
+驅魔的歷史第2章	The History of Exorcism Book 2	구마의 역사 2편
+驅魔的初期過程	The Early History of Exorcism	구마의 초기 과정
+驅魔的歷史第3章	The History of Exorcism Book 3	구마의 역사 3편
+驅魔的歷史第4章	The History of Exorcism Book 4	구마의 역사 4편
+驅魔師專用機密文件	Exorcist Private Documents	엑소시스트 전용 비밀문서
+請問當神靈傷害到人類時，最合適的應對方法是什麼？	What is the proper way to deal with a divine spirit that is causing harm to a human?	신령이 인간에게 해를 끼치는 경우 적절한 대처 방법은 무엇입니까?
+請問什麼是亡靈？	What are evil spirits? 	망령이란 무엇입니까?
+琴塔拉斯	Gintaras	긴타라스
+你認為琴塔拉斯並沒有被附身嗎？	Did you say Gintaras is not a victim of possession?	긴타라스는 빙의자가 아니라고 하셨습니까?
+西基塔斯	Sygitas	시기타스
+麗曼塔	Rimanta	리만타
+難道我們家裡面有惡靈嗎？	Do you think my husband is possessed by an evil spirit?	혹시 사악한 령이 우리 집에 깃들었나요?
+瘟疫醫生大師	Plague Doctor Master	플레이그 닥터  마스터
+這是可以治癒我丈夫的藥劑嗎？	A medicine that will cure my husband?	남편의 병을 치유할 수 있는 약이라고요?
+我擔心繼續這樣子會失去我的丈夫。	What will I ever do if my husband dies?	저러다 남편을 잃을까봐 너무 무서워요.
+碁格馬斯	Zigmas	지그마스
+驅魔師大師的羊皮紙	Exorcist Master's Parchment	엑소시스트 마스터의 양피지
+受祝福的女神像啊，你是要舉行驅魔儀式嗎？	A Blessed Goddess Statue? For an exorcism?	축복받은 여신상이라면 구마 의식을 치루려고 하는 거요?
+不祥晶球	Ominous Orb	불길한 구슬
+阿爾維達斯	Arvydas	알위다스
+不過，我可以問你為什麼想要知道吹笛手大師的行蹤嗎？	Could I ask you why you are looking for the Pied Piper Master?	그런데 그분의 행방을 왜 알고 싶어 하시는지 여쭤봐도 될까요?
+吹笛手大師	Pied Piper Master	파이드 파이퍼 마스터
+那麼我可以問說，你是為了什麼事情來找我的嗎？	Could you tell me what you wanted to see me for?	그럼 무슨 일로 절 이렇게 찾아오신 것인지 여쭤봐도 되겠습니까?
+神諭師大師的紙條	Oracle Master's Note	오라클 마스터의 쪽지
+坐著的士兵	Sitting Soldier	앉아있는 병사
+要取消正在進行中的公會任務嗎？	Do you want to abandon the ongoing Guild Quest?	진행 중인 길드 퀘스트를 취소시키시겠습니까?
+謎樣卷軸	Mystery Scroll	수수께끼 주문서
+礦山無法地帶	Lawless Mine Area	광산 무법지대
+要移動至夏奧雷伊礦山村莊嗎？	Do you want to move to the Miner's Village?	샤울레이 광산 마을로 이동하시겠습니까?
+進入美容院	Enter the Beauty Shop	뷰티샵 입장
+要移動至可以試穿各種髮型與時裝，並可進行購買的美容院嗎？	Do you want to move to the Beauty Shop where you can try out different hairstyles and costumes?	각종 헤어와 코스튬을 입어보고 구매할 수 있는 뷰티샵으로 이동하시겠습니까?
+離開美容院	Leave the Beauty Shop	뷰티샵 나가기
+要從美容院移動至柯拉佩達嗎？	Do you want to move from Klaipeda to the Beauty Shop?	뷰티샵에서 클라페다로 이동하시겠습니까?
+亨利司韵	Henry Swyn	헨리 스윈
+變更男性髮型	Change Male Hairstyle	남자 헤어스타일 변경
+購買男性假髮	Purchase Male Wig	남자 가발 구매
+安娜貝爾司韵	Anabell Swyn	애너벨 스윈
+今天想做哪種髮型呢？	What hairstyle would you like today?	오늘은 어떤 헤어스타일로 하시겠어요?
+變更女性髮型	Change Female Hairstyle	여자 헤어스타일 변경
+購買女性假髮	Purchase Female Wig	여자 가발 구매
+凱斯堤司	Kastytis	카스티스
+妳在找什麼衣服嗎？	What kind of clothes are you looking for?	어떤 옷을 찾으시나요?
+[Summer Festa] 小吃商人	Bartender	[Summer Festa] 먹거리 상인
+將特涼冰塊	Magic Ice	특별한 얼음
+[Summer Festa] 玩具商人	Party Planner	[Summer Festa] 장난감 상인
+夏夜禮物箱	Summer Party Box	여름밤의 선물상자
+職業重置活動小幫手	Rank Reset Event Helper	랭크초기화 이벤트 도우미
+收集星之碎片	Star Fragment	별의 조각
+請問要解除保護膜嗎？	Remove the protective barrier?	보호막을 제거하시겠습니까?
+乞丐	Beggar	거지
+藥師	Chemist	약재사
+被火燻黑的衣服	Burnt Clothes	불에 그을린 옷
+究竟是什麼樣的研究，讓魔族如此的想要？	What could this research possibly be for the demons to want it so much?	도대체 무슨 연구였길래 마족이 그렇게 원했을까요?
+你到底是想要說什麼？	What are you trying to say?	무슨 말을 하고 싶은거야?
+你打算拋棄痛苦的姊妹們，然後自己生活嗎？	So you're willing to abandon your sisters who are suffering to save your own life?	고통스러워 하는 자매들을 버리고 혼자 살겠다는 거야?
+被女神給拋棄的我們，要怎麼去對抗魔族救出姊妹們呢？	Do you think we have any chance of saving them from the demons without our goddesses?	여신에게 버림 받은 우리들이 어떻게 마족을 상대로 자매들을 구할 수 있겠어?
+長老赫尼卡	Elder Henika	장로 헤니카
+是叫我們相信這種可疑的交易嗎？	Are you suggesting we even consider this questionable proposal?	그런 수상쩍은 거래를 우리보고 믿으라고 하는 건가?
+夏班史達團長依克拉斯	Head of the Schaffenstar Ignas	샤펜스타 단장 이그나스
+密碼柱	Encryption Pillar	암호 기둥
+說明書	Guidelines	안내서
+抵抗軍阿爾卡迪尤斯	Resistance Soldier Arcadius	저항군 아르카디유스
+卡魯塔斯	Kartas	카르타스
+星之塔的啟示	Astral Tower Revelation	별의 탑의 계시
+夏班史達的犯罪人引導	On the Treatment of Criminal Individuals by the Schaffenstar	샤펜스타의 범죄인 인도
+夏班史達現任團員的兼職相關規定	On the Occupation of Concurrent Posts by Members of the Schaffenstar	샤펜스타 현직 단원의 겸직에 대한 규정문
+夏班史達團員官職和身份的相關規定	Rules Concerning the Status of Schaffenstar Members	샤펜스타 단원의 관직과 신분에 대한 규정
+夏班史達的部分規範	The Schaffenstar Code of Conduct (Excerpt)	샤펜스타 규범의 일부
+夏班史達秘密文件	Schaffenstar Confidential Documents	샤펜스타 비밀문서
+要移動到下一個區域嗎？	Do you want to move to the next area?	다음 지역으로 이동 하시겠습니까?
+奎波爾達伊娜	Kupole Daina	큐폴 다이나
+10次參與次數獎勵	Total Count x10 Rewards 	10회 참여횟수 보상 
+，您要領取嗎？	 — Would you like to receive the rewards now?	을 받으시겠어요?
+中秋活動小幫手	Attendance Check Helper	한가위출석 이벤트 도우미
+滿月養成大作戰奎波爾	Full Moon Kupole	보름달 키우기 대작전 큐폴
+平衡重置支援小幫手	Balance Update Reset Helper	밸런스 초기화 지원 도우미
+萬聖節活動小幫手	Halloween Event Helper	와글와글 할로윈 이벤트 도우미
+每日獎勵累積次數獎勵	Total Count Reward	일일 보상 누적 횟수 보상
+魔法實驗區域	Magic Research Facility	마법 실험 구역
+藍扣湖水地下城傳點開放	Lanko Lake Dungeon Portal Open	란코 호수 던전 포탈 오픈
+尼柯波爾利斯遠征隊訊息1	Nicopolis Raid Message 1	니코폴리스 레이드 메시지1
+尼柯波爾利斯遠征隊訊息2	Nicopolis Raid Message 2	니코폴리스 레이드 메시지2
+尼柯波爾利斯遠征隊訊息3	Nicopolis Raid Message 3	니코폴리스 레이드 메시지3
+尼柯波爾利斯遠征隊訊息4	Nicopolis Raid Message 4	니코폴리스 레이드 메시지4
+尼柯波爾利斯遠征隊訊息5	Nicopolis Raid Message 5	니코폴리스 레이드 메시지5
+尼柯波爾利斯遠征隊訊息6	Nicopolis Raid Message 6	니코폴리스 레이드 메시지6
+尼柯波爾利斯遠征隊訊息7	Nicopolis Raid Message 7	니코폴리스 레이드 메시지7
+尼柯波爾利斯遠征隊訊息8	Nicopolis Raid Message 8	니코폴리스 레이드 메시지8
+尼柯波爾利斯遠征隊訊息9	Nicopolis Raid Message 9	니코폴리스 레이드 메시지9
+尼柯波爾利斯遠征隊訊息10	Nicopolis Raid Message 10	니코폴리스 레이드 메시지10
+尼柯波爾利斯遠征隊訊息11	Nicopolis Raid Message 11	니코폴리스 레이드 메시지11
+尼柯波爾利斯居民	Nicopolis Resident	니코폴리스 주민
+諾巴哈獨特遠征隊訊息2	Novaha Unique Raid Message 2	노바하 유니크 레이드 메시지2
